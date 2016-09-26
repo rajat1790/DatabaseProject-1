@@ -8,14 +8,19 @@ import java.io.InputStreamReader;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
+import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.sql.Statement;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
 public class DBConnect {
 	static Connection conn = null;
+	static HashMap<String, Integer> actorIdMap = null;
+	static HashMap<String, Integer> genreIdMap = null;
 
 	public static void main(String[] args) {
 
@@ -82,37 +87,69 @@ public class DBConnect {
 		}
 		System.out.println(listActor.size());
 		System.out.println(listGenre.size());
+		actorIdMap = new HashMap<String, Integer>();
+		genreIdMap = new HashMap<String, Integer>();
+
 		for (String a : listActor) {
-			try { // Statement st = conn.createStatement();
+			try {
 				String q = "INSERT INTO actors(name) VALUES (?)";
-				PreparedStatement st = conn.prepareStatement(q);
-				System.out.println("Query : " + q);
+				PreparedStatement st = conn.prepareStatement(q, Statement.RETURN_GENERATED_KEYS);
+				// System.out.println("Query : " + q);
 				st.setString(1, a.trim());
-				st.executeUpdate();
-			} catch (SQLException e) { // TODO Auto-generated catch block
+				int affectedRows = st.executeUpdate();
+				if (affectedRows == 0) {
+					throw new SQLException("No rows affected in Actor.");
+				}
+
+				try (ResultSet generatedKeys = st.getGeneratedKeys()) {
+					if (generatedKeys.next()) {
+						System.out.println(generatedKeys.getInt(1));
+						actorIdMap.put(a.trim(), generatedKeys.getInt(1));
+					} else {
+						throw new SQLException("No ID obtained in Actor.");
+					}
+				}
+			} catch (SQLException e) {
 				System.out.println(e.getMessage());
 				e.printStackTrace();
 			}
 
 		}
 
-		/*
-		 * for (String g : listGenre) { try { // Statement st =
-		 * conn.createStatement(); String q =
-		 * "INSERT INTO genre(name) VALUES (?)"; PreparedStatement st =
-		 * conn.prepareStatement(q); st.setString(1, g.trim());
-		 * st.executeUpdate(); } catch (SQLException e) { // TODO Auto-generated
-		 * catch block e.printStackTrace(); }
-		 * 
-		 * }
-		 */
+		for (String g : listGenre) {
+			try {
+				String q = "INSERT INTO genre(name) VALUES (?)";
+				PreparedStatement st = conn.prepareStatement(q, Statement.RETURN_GENERATED_KEYS);
+				st.setString(1, g.trim());
+				int affectedRows = st.executeUpdate();
+				if (affectedRows == 0) {
+					throw new SQLException("No rows affected in Genre.");
+				}
+
+				try (ResultSet generatedKeys = st.getGeneratedKeys()) {
+					if (generatedKeys.next()) {
+						System.out.println(generatedKeys.getInt(1));
+						genreIdMap.put(g.trim(), generatedKeys.getInt(1));
+					} else {
+						throw new SQLException("No ID obtained in Genre.");
+					}
+				}
+			} catch (SQLException e) {
+				System.out.println(e.getMessage());
+				e.printStackTrace();
+			}
+
+		}
 
 		for (int i = 0; i < movies.size(); i++) {
 
 			String q = "Insert into movies (name, year, duration, certificate, summary, director, imdb_rating, poster) values(?,?,?,?,?,?,?,?)";
+			// String id_q = "SELECT LAST_INSERT_ID()";
 			PreparedStatement st;
+			// PreparedStatement st_id;
 			try {
-				st = conn.prepareStatement(q);
+				// st = conn.prepareStatement(q);
+				st = conn.prepareStatement(q, Statement.RETURN_GENERATED_KEYS);
 
 				File poster = movies.get(i).getPoster();
 				FileInputStream fis = new FileInputStream(poster);
@@ -122,11 +159,24 @@ public class DBConnect {
 				st.setString(4, movies.get(i).getCertificate());
 				st.setString(5, movies.get(i).getDescription());
 				st.setString(6, movies.get(i).getDirectors()[0]);
-				System.out.println("Rating : " + movies.get(i).getRating());
+				// System.out.println("Rating : " + movies.get(i).getRating());
 				st.setDouble(7, movies.get(i).getRating());
 				st.setBinaryStream(8, fis, (int) poster.length());
 
-				st.executeUpdate();
+				int affectedRows = st.executeUpdate();
+				if (affectedRows == 0) {
+					throw new SQLException("No rows affected in Movies.");
+				}
+
+				try (ResultSet generatedKeys = st.getGeneratedKeys()) {
+					if (generatedKeys.next()) {
+						System.out.println(generatedKeys.getInt(1));
+						insertMovieActorTable(generatedKeys.getInt(1), movies.get(i).getActors());
+						insertMovieGenreTable(generatedKeys.getInt(1), movies.get(i).getGenre());
+					} else {
+						throw new SQLException("No ID obtained in Movies.");
+					}
+				}
 
 			} catch (Exception e) {
 				// TODO Auto-generated catch block
@@ -135,6 +185,42 @@ public class DBConnect {
 
 		}
 
+	}
+
+	public static void insertMovieActorTable(int movieId, String[] actors) {
+		for (int i = 0; i < actors.length; i++) {
+
+			try {
+				String q = "INSERT INTO movie_actors VALUES (?,?)";
+				PreparedStatement st = conn.prepareStatement(q);
+				st.setInt(1, movieId);
+				// System.out.println("Map size " + actorIdMap.size());
+				// System.out.println("Actor : " + actors[i].trim());
+				// System.out.println("Id Value : " +
+				// actorIdMap.get(actors[i].trim()));
+				st.setInt(2, actorIdMap.get(actors[i].trim()));
+				st.executeUpdate();
+			} catch (SQLException e) {
+				System.out.println(e.getMessage());
+				e.printStackTrace();
+			}
+		}
+
+	}
+
+	public static void insertMovieGenreTable(int movieId, String[] genre) {
+		for (int i = 0; i < genre.length; i++) {
+			try {
+				String q = "INSERT INTO movie_genres VALUES (?,?)";
+				PreparedStatement st = conn.prepareStatement(q);
+				st.setInt(1, movieId);
+				st.setInt(2, genreIdMap.get(genre[i].trim()));
+				st.executeUpdate();
+			} catch (SQLException e) {
+				System.out.println(e.getMessage());
+				e.printStackTrace();
+			}
+		}
 	}
 
 	public static MovieInfo getMovieInfo(File file) {
