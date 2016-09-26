@@ -3,8 +3,8 @@ package main.java;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
@@ -144,7 +144,7 @@ public class DBConnect {
 		try {
 			BufferedReader br = null;
 			System.out.println("File : " + file.getAbsolutePath());
-			br = new BufferedReader(new FileReader(file));
+			br = new BufferedReader(new InputStreamReader(new FileInputStream(file), "UTF-8"));
 			while ((line = br.readLine()) != null) {
 				line.trim();
 				String[] key_value = line.split(":", 2);
