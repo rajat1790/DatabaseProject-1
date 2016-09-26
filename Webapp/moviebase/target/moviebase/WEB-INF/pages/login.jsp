@@ -21,6 +21,7 @@
 	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
 	integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
 	crossorigin="anonymous"></script>
+	<link href="../../resources/css/mylogin.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 	<div class="container">
@@ -115,11 +116,44 @@
 						</div>
 
 						<div class="form-group">
-							<label for="icode" class="col-md-3 control-label">Invitation
-								Code</label>
+							<label for="date" class="col-md-3 control-label">Date of Birth</label>
 							<div class="col-md-9">
-								<input type="text" class="form-control" name="icode"
-									placeholder="">
+								<input type="date" name="bday" class="form-control">
+							</div>
+						</div>
+						
+						<div class="form-group">
+							<label for="pic" class="col-md-3 control-label">Profile Picture</label>
+							<div class="col-md-9">
+								<input type="file" name="pic" class="form-control">
+							</div>
+						</div>
+						
+						<div class="form-group">
+							<label for="genre" class="col-md-3 control-label">Favorite Genres</label>
+							<div class="col-md-9">
+								<!-- <input type="file" name="pic" class="form-control"> -->
+								<select name="skills" multiple="" class="form-control">
+  <option value="">Skills</option>
+<option value="angular">Angular</option>
+<option value="css">CSS</option>
+<option value="design">Graphic Design</option>
+<option value="ember">Ember</option>
+<option value="html">HTML</option>
+<option value="ia">Information Architecture</option>
+<option value="javascript">Javascript</option>
+<option value="mech">Mechanical Engineering</option>
+<option value="meteor">Meteor</option>
+<option value="node">NodeJS</option>
+<option value="plumbing">Plumbing</option>
+<option value="python">Python</option>
+<option value="rails">Rails</option>
+<option value="react">React</option>
+<option value="repair">Kitchen Repair</option>
+<option value="ruby">Ruby</option>
+<option value="ui">UI Design</option>
+<option value="ux">User Experience</option>
+</select>
 							</div>
 						</div>
 
