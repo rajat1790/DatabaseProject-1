@@ -1,0 +1,11 @@
+Movie Name: My Fair Lady 
+Movie Year: 1964
+Movie Certificate: Approved
+Movie Duration: 170 min
+Movie Genre: 
+Drama, Family, Musical            
+Movie Rating : 7.9
+Directors : George Cukor,
+Actors : Audrey Hepburn,Rex Harrison,Stanley Holloway,Wilfrid Hyde-White,
+Movie Text: 
+A misogynistic and snobbish phonetics professor agrees to a wager that he can take a flower girl and make her presentable in high society.

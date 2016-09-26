@@ -1,0 +1,11 @@
+Movie Name: Peter Pan 
+Movie Year: 1953
+Movie Certificate: Approved
+Movie Duration: 77 min
+Movie Genre: 
+Animation, Adventure, Family            
+Movie Rating : 7.3
+Directors : Clyde Geronimi,Wilfred Jackson,Hamilton Luske,Jack Kinney,
+Actors : Bobby Driscoll,Kathryn Beaumont,Hans Conried,Bill Thompson,
+Movie Text: 
+Wendy and her brothers are whisked away to the magical world of Neverland with the hero of their stories, Peter Pan.

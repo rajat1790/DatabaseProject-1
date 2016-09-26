@@ -1,0 +1,11 @@
+Movie Name: Once 
+Movie Year: 2007
+Movie Certificate: R
+Movie Duration: 85 min
+Movie Genre: 
+Drama, Music, Romance            
+Movie Rating : 7.9
+Directors : John Carney,
+Actors : Glen Hansard,Markéta Irglová,Hugh Walsh,Gerard Hendrick,
+Movie Text: 
+A modern-day musical about a busker and an immigrant and their eventful week in Dublin, as they write, rehearse and record songs that tell their love story.

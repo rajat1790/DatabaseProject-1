@@ -1,0 +1,11 @@
+Movie Name: The Railway Man 
+Movie Year: 2013
+Movie Certificate: R
+Movie Duration: 116 min
+Movie Genre: 
+Biography, Drama, Romance            
+Movie Rating : 7.1
+Directors : Jonathan Teplitzky,
+Actors : Colin Firth,Nicole Kidman,Stellan Skarsgård,Jeremy Irvine,
+Movie Text: 
+A former British Army officer, who was tormented as a prisoner of war at a Japanese labor camp during World War II, discovers that the man responsible for much of his treatment is still alive and sets out to confront him.

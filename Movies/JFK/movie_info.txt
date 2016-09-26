@@ -1,0 +1,11 @@
+Movie Name: JFK 
+Movie Year: 1991
+Movie Certificate: R
+Movie Duration: 189 min
+Movie Genre: 
+Drama, History, Thriller            
+Movie Rating : 8.0
+Directors : Oliver Stone,
+Actors : Kevin Costner,Gary Oldman,Jack Lemmon,Walter Matthau,
+Movie Text: 
+A New Orleans DA discovers there's more to the Kennedy assassination than the official story.

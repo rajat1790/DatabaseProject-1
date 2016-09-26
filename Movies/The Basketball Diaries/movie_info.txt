@@ -1,0 +1,11 @@
+Movie Name: The Basketball Diaries 
+Movie Year: 1995
+Movie Certificate: R
+Movie Duration: 102 min
+Movie Genre: 
+Biography, Crime, Drama            
+Movie Rating : 7.3
+Directors : Scott Kalvert,
+Actors : Leonardo DiCaprio,Lorraine Bracco,Marilyn Sokol,James Madio,
+Movie Text: 
+A teenager finds his dreams of becoming a basketball star threatened after he free falls into the harrowing world of drug addiction.

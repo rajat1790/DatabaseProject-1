@@ -1,0 +1,11 @@
+Movie Name: Harvey 
+Movie Year: 1950
+Movie Certificate: Not Rated
+Movie Duration: 104 min
+Movie Genre: 
+Comedy, Drama, Fantasy            
+Movie Rating : 8.1
+Directors : Henry Koster,
+Actors : James Stewart,Josephine Hull,Peggy Dow,Charles Drake,
+Movie Text: 
+Due to his insistence that he has an invisible six foot-tall rabbit for a best friend, a whimsical middle-aged man is thought by his family to be insane - but he may be wiser than anyone knows.

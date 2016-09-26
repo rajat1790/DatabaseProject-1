@@ -1,0 +1,11 @@
+Movie Name: Doctor Zhivago 
+Movie Year: 1965
+Movie Certificate: PG-13
+Movie Duration: 197 min
+Movie Genre: 
+Drama, Romance, War            
+Movie Rating : 8.0
+Directors : David Lean,
+Actors : Omar Sharif,Julie Christie,Geraldine Chaplin,Rod Steiger,
+Movie Text: 
+The life of a Russian physician and poet who, although married to another, falls in love with a political activist's wife and experiences hardship during the First World War and then the October Revolution.

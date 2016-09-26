@@ -1,0 +1,11 @@
+Movie Name: Roman Holiday 
+Movie Year: 1953
+Movie Certificate: Not Rated
+Movie Duration: 118 min
+Movie Genre: 
+Comedy, Romance            
+Movie Rating : 8.1
+Directors : William Wyler,
+Actors : Gregory Peck,Audrey Hepburn,Eddie Albert,Hartley Power,
+Movie Text: 
+A bored and sheltered princess escapes her guardians and falls in love with an American newsman in Rome.

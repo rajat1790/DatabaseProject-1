@@ -1,0 +1,11 @@
+Movie Name: Kramer vs. Kramer 
+Movie Year: 1979
+Movie Certificate: PG
+Movie Duration: 105 min
+Movie Genre: 
+Drama, Romance            
+Movie Rating : 7.8
+Directors : Robert Benton,
+Actors : Dustin Hoffman,Meryl Streep,Jane Alexander,Justin Henry,
+Movie Text: 
+Ted Kramer's wife leaves her husband, allowing for a lost bond to be rediscovered between Ted and his son, Billy. But a heated custody battle ensues over the divorced couple's son, deepening the wounds left by the separation.

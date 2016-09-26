@@ -1,0 +1,11 @@
+Movie Name: The Peanuts Movie 
+Movie Year: 2015
+Movie Certificate: G
+Movie Duration: 88 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 7.1
+Directors : Steve Martino,
+Actors : Noah Schnapp,Bill Melendez,Hadley Belle Miller,Francesca Capaldi,
+Movie Text: 
+Snoopy embarks upon his greatest mission as he and his team take to the skies to pursue their arch-nemesis, while his best pal Charlie Brown begins his own epic quest back home to win the love of his life.

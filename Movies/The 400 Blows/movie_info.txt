@@ -1,0 +1,11 @@
+Movie Name: The 400 Blows 
+Movie Year: 1959
+Movie Certificate: Not Rated
+Movie Duration: 99 min
+Movie Genre: 
+Crime, Drama            
+Movie Rating : 8.1
+Directors : François Truffaut,
+Actors : Jean-Pierre Léaud,Albert Rémy,Claire Maurier,Guy Decomble,
+Movie Text: 
+Moving story of a young boy who, left without attention, delves into a life of petty crime.

@@ -1,0 +1,11 @@
+Movie Name: A Beautiful Mind 
+Movie Year: 2001
+Movie Certificate: PG-13
+Movie Duration: 135 min
+Movie Genre: 
+Biography, Drama, Romance            
+Movie Rating : 8.2
+Directors : Ron Howard,
+Actors : Russell Crowe,Ed Harris,Jennifer Connelly,Christopher Plummer,
+Movie Text: 
+After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.

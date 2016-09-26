@@ -1,0 +1,11 @@
+Movie Name: Empire of the Sun 
+Movie Year: 1987
+Movie Certificate: PG
+Movie Duration: 153 min
+Movie Genre: 
+Drama, History, War            
+Movie Rating : 7.8
+Directors : Steven Spielberg,
+Actors : Christian Bale,John Malkovich,Miranda Richardson,Nigel Havers,
+Movie Text: 
+A young English boy struggles to survive under Japanese occupation during World War II.

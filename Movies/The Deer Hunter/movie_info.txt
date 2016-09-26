@@ -1,0 +1,11 @@
+Movie Name: The Deer Hunter 
+Movie Year: 1978
+Movie Certificate: R
+Movie Duration: 183 min
+Movie Genre: 
+Drama, War            
+Movie Rating : 8.2
+Directors : Michael Cimino,
+Actors : Robert De Niro,Christopher Walken,John Cazale,John Savage,
+Movie Text: 
+An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania.

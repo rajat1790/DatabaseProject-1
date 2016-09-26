@@ -1,0 +1,11 @@
+Movie Name: Star Wars: Episode IV - A New Hope 
+Movie Year: 1977
+Movie Certificate: PG
+Movie Duration: 121 min
+Movie Genre: 
+Action, Adventure, Fantasy            
+Movie Rating : 8.7
+Directors : George Lucas,
+Actors : Mark Hamill,Harrison Ford,Carrie Fisher,Alec Guinness,
+Movie Text: 
+Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.

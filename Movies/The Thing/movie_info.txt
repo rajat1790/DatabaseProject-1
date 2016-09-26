@@ -1,0 +1,11 @@
+Movie Name: The Thing 
+Movie Year: 1982
+Movie Certificate: R
+Movie Duration: 109 min
+Movie Genre: 
+Horror, Mystery, Sci-Fi            
+Movie Rating : 8.2
+Directors : John Carpenter,
+Actors : Kurt Russell,Wilford Brimley,Keith David,Richard Masur,
+Movie Text: 
+It's the first week of winter in 1982. An American Research Base is greeted by an alien force, that can assimilate anything it touches. It's up to the members to stay alive, and be sure of who is human, and who has become one of the Things.

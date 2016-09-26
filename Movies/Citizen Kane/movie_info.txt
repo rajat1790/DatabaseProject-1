@@ -1,0 +1,11 @@
+Movie Name: Citizen Kane 
+Movie Year: 1941
+Movie Certificate: Approved
+Movie Duration: 119 min
+Movie Genre: 
+Drama, Mystery            
+Movie Rating : 8.4
+Directors : Orson Welles,
+Actors : Orson Welles,Joseph Cotten,Dorothy Comingore,Agnes Moorehead,
+Movie Text: 
+Following the death of a publishing tycoon, news reporters scramble to discover the meaning of his final utterance.

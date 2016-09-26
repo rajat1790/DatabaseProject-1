@@ -1,0 +1,11 @@
+Movie Name: Here Comes the Boom 
+Movie Year: 2012
+Movie Certificate: PG
+Movie Duration: 105 min
+Movie Genre: 
+Action, Comedy, Sport            
+Movie Rating : 6.5
+Directors : Frank Coraci,
+Actors : Kevin James,Salma Hayek,Henry Winkler,Greg Germann,
+Movie Text: 
+A high school biology teacher looks to become a successful mixed-martial arts fighter in an effort to raise money to prevent extra-curricular activities from being axed at his cash-strapped school.

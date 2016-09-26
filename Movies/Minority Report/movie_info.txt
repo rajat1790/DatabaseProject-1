@@ -1,0 +1,11 @@
+Movie Name: Minority Report 
+Movie Year: 2002
+Movie Certificate: PG-13
+Movie Duration: 145 min
+Movie Genre: 
+Action, Mystery, Sci-Fi            
+Movie Rating : 7.7
+Directors : Steven Spielberg,
+Actors : Tom Cruise,Colin Farrell,Samantha Morton,Max von Sydow,
+Movie Text: 
+In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.

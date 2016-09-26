@@ -1,0 +1,11 @@
+Movie Name: The Wizard of Oz 
+Movie Year: 1939
+Movie Certificate: Passed
+Movie Duration: 102 min
+Movie Genre: 
+Adventure, Family, Fantasy            
+Movie Rating : 8.1
+Directors : Victor Fleming,George Cukor,Mervyn LeRoy,Norman Taurog,King Vidor,
+Actors : Judy Garland,Frank Morgan,Ray Bolger,Bert Lahr,
+Movie Text: 
+Dorothy Gale is swept away to a magical land in a tornado and embarks on a quest to see the Wizard who can help her return home.

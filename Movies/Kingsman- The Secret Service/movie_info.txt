@@ -1,0 +1,11 @@
+Movie Name: Kingsman: The Secret Service 
+Movie Year: 2014
+Movie Certificate: R
+Movie Duration: 129 min
+Movie Genre: 
+Action, Adventure, Comedy            
+Movie Rating : 7.8
+Directors : Matthew Vaughn,
+Actors : Colin Firth,Taron Egerton,Samuel L. Jackson,Michael Caine,
+Movie Text: 
+A spy organization recruits an unrefined, but promising street kid into the agency's ultra-competitive training program, just as a global threat emerges from a twisted tech genius.

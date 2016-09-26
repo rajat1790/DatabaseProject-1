@@ -1,0 +1,11 @@
+Movie Name: Avatar 
+Movie Year: 2009
+Movie Certificate: PG-13
+Movie Duration: 162 min
+Movie Genre: 
+Action, Adventure, Fantasy            
+Movie Rating : 7.9
+Directors : James Cameron,
+Actors : Sam Worthington,Zoe Saldana,Sigourney Weaver,Michelle Rodriguez,
+Movie Text: 
+A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.

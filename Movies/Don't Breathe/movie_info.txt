@@ -1,0 +1,11 @@
+Movie Name: Don't Breathe 
+Movie Year: 2016
+Movie Certificate: R
+Movie Duration: 88 min
+Movie Genre: 
+Crime, Horror, Thriller            
+Movie Rating : 7.6
+Directors : Fede Alvarez,
+Actors : Stephen Lang,Jane Levy,Dylan Minnette,Daniel Zovatto,
+Movie Text: 
+Hoping to walk away with a massive fortune, a trio of thieves break into the house of a blind man who isn't as helpless as he seems.

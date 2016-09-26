@@ -1,0 +1,11 @@
+Movie Name: Valkyrie 
+Movie Year: 2008
+Movie Certificate: PG-13
+Movie Duration: 121 min
+Movie Genre: 
+Drama, History, Thriller            
+Movie Rating : 7.1
+Directors : Bryan Singer,
+Actors : Tom Cruise,Bill Nighy,Carice van Houten,Kenneth Branagh,
+Movie Text: 
+A dramatization of the 20 July assassination and political coup plot by desperate renegade German Army officers against Hitler during World War II.

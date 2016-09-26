@@ -1,0 +1,11 @@
+Movie Name: Event Horizon 
+Movie Year: 1997
+Movie Certificate: R
+Movie Duration: 96 min
+Movie Genre: 
+Horror, Sci-Fi, Thriller            
+Movie Rating : 6.7
+Directors : Paul W.S. Anderson,
+Actors : Laurence Fishburne,Sam Neill,Kathleen Quinlan,Joely Richardson,
+Movie Text: 
+A rescue crew investigates a spaceship that disappeared into a black hole and has now returned...with someone or something new on-board.

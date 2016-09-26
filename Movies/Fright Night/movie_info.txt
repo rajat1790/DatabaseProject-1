@@ -1,0 +1,11 @@
+Movie Name: Fright Night 
+Movie Year: 1985
+Movie Certificate: R
+Movie Duration: 106 min
+Movie Genre: 
+Fantasy, Horror, Thriller            
+Movie Rating : 7.1
+Directors : Tom Holland,
+Actors : Chris Sarandon,William Ragsdale,Amanda Bearse,Roddy McDowall,
+Movie Text: 
+When a teenager learns that his next door neighbour is a vampire, no one will believe him.

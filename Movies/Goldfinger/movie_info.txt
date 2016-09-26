@@ -1,0 +1,11 @@
+Movie Name: Goldfinger 
+Movie Year: 1964
+Movie Certificate: Approved
+Movie Duration: 110 min
+Movie Genre: 
+Action, Adventure, Thriller            
+Movie Rating : 7.8
+Directors : Guy Hamilton,
+Actors : Sean Connery,Gert Fröbe,Honor Blackman,Shirley Eaton,
+Movie Text: 
+Investigating a gold magnate's smuggling, James Bond uncovers a plot to contaminate the Fort Knox gold reserve.

@@ -1,0 +1,11 @@
+Movie Name: Maverick 
+Movie Year: 1994
+Movie Certificate: PG
+Movie Duration: 127 min
+Movie Genre: 
+Action, Adventure, Comedy            
+Movie Rating : 7.0
+Directors : Richard Donner,
+Actors : Mel Gibson,Jodie Foster,James Garner,Graham Greene,
+Movie Text: 
+Bret Maverick, needing money for a poker tournament, faces various comic mishaps and challenges, including a charming woman thief.

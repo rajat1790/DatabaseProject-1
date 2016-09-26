@@ -1,0 +1,11 @@
+Movie Name: Touch of Evil 
+Movie Year: 1958
+Movie Certificate: PG-13
+Movie Duration: 95 min
+Movie Genre: 
+Crime, Drama, Film-Noir            
+Movie Rating : 8.1
+Directors : Orson Welles,
+Actors : Charlton Heston,Orson Welles,Janet Leigh,Joseph Calleia,
+Movie Text: 
+A stark, perverse story of murder, kidnapping, and police corruption in a Mexican border town.

@@ -1,0 +1,11 @@
+Movie Name: The Wild Bunch 
+Movie Year: 1969
+Movie Certificate: R
+Movie Duration: 145 min
+Movie Genre: 
+Action, Adventure, Western            
+Movie Rating : 8.0
+Directors : Sam Peckinpah,
+Actors : William Holden,Ernest Borgnine,Robert Ryan,Edmond O'Brien,
+Movie Text: 
+An aging group of outlaws look for one last big score as the "traditional" American West is disappearing around them.

@@ -1,0 +1,11 @@
+Movie Name: Se7en 
+Movie Year: 1995
+Movie Certificate: R
+Movie Duration: 127 min
+Movie Genre: 
+Crime, Drama, Mystery            
+Movie Rating : 8.6
+Directors : David Fincher,
+Actors : Morgan Freeman,Brad Pitt,Kevin Spacey,Andrew Kevin Walker,
+Movie Text: 
+Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his modus operandi.

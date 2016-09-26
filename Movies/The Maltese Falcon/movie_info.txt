@@ -1,0 +1,11 @@
+Movie Name: The Maltese Falcon 
+Movie Year: 1941
+Movie Certificate: Not Rated
+Movie Duration: 100 min
+Movie Genre: 
+Film-Noir, Mystery            
+Movie Rating : 8.1
+Directors : John Huston,
+Actors : Humphrey Bogart,Mary Astor,Gladys George,Peter Lorre,
+Movie Text: 
+A private detective takes on a case that involves him with three eccentric criminals, a gorgeous liar, and their quest for a priceless statuette.

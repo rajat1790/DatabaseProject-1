@@ -1,0 +1,11 @@
+Movie Name: Red Tails 
+Movie Year: 2012
+Movie Certificate: PG-13
+Movie Duration: 125 min
+Movie Genre: 
+Action, Adventure, Drama            
+Movie Rating : 5.9
+Directors : Anthony Hemingway,
+Actors : Cuba Gooding Jr.,Gerald McRaney,David Oyelowo,Andre Royo,
+Movie Text: 
+A crew of African American pilots in the Tuskegee training program, having faced segregation while kept mostly on the ground during World War II, are called into duty under the guidance of Col. A.J. Bullard.

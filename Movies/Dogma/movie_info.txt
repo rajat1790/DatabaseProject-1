@@ -1,0 +1,11 @@
+Movie Name: Dogma 
+Movie Year: 1999
+Movie Certificate: R
+Movie Duration: 130 min
+Movie Genre: 
+Adventure, Comedy, Drama            
+Movie Rating : 7.4
+Directors : Kevin Smith,
+Actors : Ben Affleck,Matt Damon,Linda Fiorentino,Bud Cort,
+Movie Text: 
+An abortion clinic worker with a special heritage is called upon to save the existence of humanity from being negated by two renegade angels trying to exploit a loop-hole and reenter Heaven.

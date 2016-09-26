@@ -1,0 +1,11 @@
+Movie Name: Arthur Christmas 
+Movie Year: 2011
+Movie Certificate: PG
+Movie Duration: 97 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 7.1
+Directors : Sarah Smith,Barry Cook,
+Actors : James McAvoy,Jim Broadbent,Bill Nighy,Hugh Laurie,
+Movie Text: 
+Santa's clumsy son Arthur gets put on a mission with St. Nick's father to give out a present they misplaced to a young girl in less than 2 hours.

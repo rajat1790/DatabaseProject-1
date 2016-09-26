@@ -1,0 +1,11 @@
+Movie Name: Moonrise Kingdom 
+Movie Year: 2012
+Movie Certificate: PG-13
+Movie Duration: 94 min
+Movie Genre: 
+Adventure, Comedy, Drama            
+Movie Rating : 7.8
+Directors : Wes Anderson,
+Actors : Jared Gilman,Kara Hayward,Bruce Willis,Bill Murray,
+Movie Text: 
+A pair of young lovers flee their New England town, which causes a local search party to fan out to find them.

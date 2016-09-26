@@ -1,0 +1,11 @@
+Movie Name: Crazy Heart 
+Movie Year: 2009
+Movie Certificate: R
+Movie Duration: 112 min
+Movie Genre: 
+Drama, Music, Romance            
+Movie Rating : 7.3
+Directors : Scott Cooper,
+Actors : Jeff Bridges,Maggie Gyllenhaal,Colin Farrell,James Keane,
+Movie Text: 
+A faded country music musician is forced to reassess his dysfunctional life during a doomed romance that also inspires him.

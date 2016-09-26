@@ -1,0 +1,11 @@
+Movie Name: Bir Zamanlar Anadolu'da 
+Movie Year: 2011
+Movie Certificate: Not Rated
+Movie Duration: 157 min
+Movie Genre: 
+Crime, Drama            
+Movie Rating : 7.8
+Directors : Nuri Bilge Ceylan,
+Actors : Muhammet Uzuner,Yilmaz Erdogan,Taner Birsel,Ahmet Mümtaz Taylan,
+Movie Text: 
+A group of men set out in search of a dead body in the Anatolian steppes.

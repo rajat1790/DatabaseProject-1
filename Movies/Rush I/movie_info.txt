@@ -1,0 +1,11 @@
+Movie Name: Rush I
+Movie Year: 2013
+Movie Certificate: R
+Movie Duration: 123 min
+Movie Genre: 
+Action, Biography, Drama            
+Movie Rating : 8.1
+Directors : Ron Howard,
+Actors : Daniel Brühl,Chris Hemsworth,Olivia Wilde,Alexandra Maria Lara,
+Movie Text: 
+The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.

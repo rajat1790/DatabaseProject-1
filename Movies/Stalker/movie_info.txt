@@ -1,0 +1,11 @@
+Movie Name: Stalker 
+Movie Year: 1979
+Movie Certificate: Not Rated
+Movie Duration: 163 min
+Movie Genre: 
+Drama, Sci-Fi            
+Movie Rating : 8.1
+Directors : Andrei Tarkovsky,
+Actors : Alisa Freyndlikh,Aleksandr Kaydanovskiy,Anatoliy Solonitsyn,Nikolay Grinko,
+Movie Text: 
+A guide leads two men through an area known as the Zone to find a room that grants wishes.

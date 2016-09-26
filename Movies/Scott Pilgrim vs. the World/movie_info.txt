@@ -1,0 +1,11 @@
+Movie Name: Scott Pilgrim vs. the World 
+Movie Year: 2010
+Movie Certificate: PG-13
+Movie Duration: 112 min
+Movie Genre: 
+Action, Comedy, Fantasy            
+Movie Rating : 7.5
+Directors : Edgar Wright,
+Actors : Michael Cera,Mary Elizabeth Winstead,Kieran Culkin,Alison Pill,
+Movie Text: 
+Scott Pilgrim must defeat his new girlfriend's seven evil exes in order to win her heart.

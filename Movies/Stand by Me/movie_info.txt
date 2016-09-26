@@ -1,0 +1,11 @@
+Movie Name: Stand by Me 
+Movie Year: 1986
+Movie Certificate: R
+Movie Duration: 89 min
+Movie Genre: 
+Adventure, Drama            
+Movie Rating : 8.1
+Directors : Rob Reiner,
+Actors : Wil Wheaton,River Phoenix,Corey Feldman,Jerry O'Connell,
+Movie Text: 
+After the death of a friend, a writer recounts a boyhood journey to find the body of a missing boy.

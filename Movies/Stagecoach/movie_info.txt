@@ -1,0 +1,11 @@
+Movie Name: Stagecoach 
+Movie Year: 1939
+Movie Certificate: Not Rated
+Movie Duration: 96 min
+Movie Genre: 
+Adventure, Romance, Western            
+Movie Rating : 7.9
+Directors : John Ford,
+Actors : John Wayne,Claire Trevor,Andy Devine,John Carradine,
+Movie Text: 
+A group of people traveling on a stagecoach find their journey complicated by the threat of Geronimo and learn something about each other in the process.

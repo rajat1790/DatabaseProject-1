@@ -1,0 +1,11 @@
+Movie Name: The Land Before Time 
+Movie Year: 1988
+Movie Certificate: G
+Movie Duration: 69 min
+Movie Genre: 
+Animation, Adventure, Family            
+Movie Rating : 7.3
+Directors : Don Bluth,
+Actors : Pat Hingle,Gabriel Damon,Judith Barsi,Helen Shaver,
+Movie Text: 
+An orphaned brontosaurus teams up with other young dinosaurs in order to reunite with their families in a valley.

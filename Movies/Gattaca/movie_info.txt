@@ -1,0 +1,11 @@
+Movie Name: Gattaca 
+Movie Year: 1997
+Movie Certificate: PG-13
+Movie Duration: 106 min
+Movie Genre: 
+Drama, Sci-Fi, Thriller            
+Movie Rating : 7.8
+Directors : Andrew Niccol,
+Actors : Ethan Hawke,Uma Thurman,Jude Law,Gore Vidal,
+Movie Text: 
+A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.

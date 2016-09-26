@@ -1,0 +1,11 @@
+Movie Name: Dear John I
+Movie Year: 2010
+Movie Certificate: PG-13
+Movie Duration: 108 min
+Movie Genre: 
+Drama, Romance, War            
+Movie Rating : 6.3
+Directors : Lasse Hallström,
+Actors : Channing Tatum,Amanda Seyfried,Richard Jenkins,Henry Thomas,
+Movie Text: 
+A romantic drama about a soldier who falls for a conservative college student while he's home on leave.

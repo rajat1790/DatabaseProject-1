@@ -1,0 +1,11 @@
+Movie Name: The Host 
+Movie Year: 2006
+Movie Certificate: R
+Movie Duration: 120 min
+Movie Genre: 
+Comedy, Drama, Horror            
+Movie Rating : 7.0
+Directors : Joon-ho Bong,
+Actors : Kang-ho Song,Hie-bong Byeon,Hae-il Park,Doona Bae,
+Movie Text: 
+A monster emerges from Seoul's Han River and focuses its attention on attacking people. One victim's loving family does what it can to rescue her from its clutches.

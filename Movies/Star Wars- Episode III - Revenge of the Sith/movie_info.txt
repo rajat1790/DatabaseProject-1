@@ -1,0 +1,11 @@
+Movie Name: Star Wars: Episode III - Revenge of the Sith 
+Movie Year: 2005
+Movie Certificate: PG-13
+Movie Duration: 140 min
+Movie Genre: 
+Action, Adventure, Fantasy            
+Movie Rating : 7.6
+Directors : George Lucas,
+Actors : Hayden Christensen,Natalie Portman,Ewan McGregor,Samuel L. Jackson,
+Movie Text: 
+During the near end of the clone wars, Darth Sidious has revealed himself and is ready to execute the last part of his plan to rule the Galaxy. Sidious is ready for his new apprentice, Lord Vader, to step into action and kill the remaining Jedi. Vader, however, struggles to choose the dark side and save his wife or remain loyal to the Jedi order.              

@@ -1,0 +1,11 @@
+Movie Name: The Waterboy 
+Movie Year: 1998
+Movie Certificate: PG-13
+Movie Duration: 90 min
+Movie Genre: 
+Comedy, Sport            
+Movie Rating : 6.1
+Directors : Frank Coraci,
+Actors : Adam Sandler,Kathy Bates,Henry Winkler,Fairuza Balk,
+Movie Text: 
+A waterboy for a college football team discovers he has a unique tackling ability and becomes a member of the team.

@@ -1,0 +1,11 @@
+Movie Name: Red Cliff 
+Movie Year: 2008
+Movie Certificate: R
+Movie Duration: 148 min
+Movie Genre: 
+Action, Adventure, Drama            
+Movie Rating : 7.4
+Directors : John Woo,
+Actors : Tony Chiu Wai Leung,Takeshi Kaneshiro,Fengyi Zhang,Chen Chang,
+Movie Text: 
+The first chapter of a two-part story centered on a battle fought in China's Three Kingdoms period (220-280 A.D.).

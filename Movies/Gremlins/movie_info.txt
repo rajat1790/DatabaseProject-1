@@ -1,0 +1,11 @@
+Movie Name: Gremlins 
+Movie Year: 1984
+Movie Certificate: PG
+Movie Duration: 106 min
+Movie Genre: 
+Comedy, Fantasy, Horror            
+Movie Rating : 7.2
+Directors : Joe Dante,
+Actors : Zach Galligan,Phoebe Cates,Hoyt Axton,John Louie,
+Movie Text: 
+A boy inadvertently breaks three important rules concerning his new pet and unleashes a horde of malevolently mischievous monsters on a small town.

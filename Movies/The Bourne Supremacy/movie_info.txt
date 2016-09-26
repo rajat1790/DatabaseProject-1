@@ -1,0 +1,11 @@
+Movie Name: The Bourne Supremacy 
+Movie Year: 2004
+Movie Certificate: PG-13
+Movie Duration: 108 min
+Movie Genre: 
+Action, Mystery, Thriller            
+Movie Rating : 7.8
+Directors : Paul Greengrass,
+Actors : Matt Damon,Franka Potente,Joan Allen,Brian Cox,
+Movie Text: 
+When Jason Bourne is framed for a CIA operation gone awry, he is forced to resume his former life as a trained assassin to survive.

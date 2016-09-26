@@ -1,0 +1,11 @@
+Movie Name: Grease 2 
+Movie Year: 1982
+Movie Certificate: PG
+Movie Duration: 115 min
+Movie Genre: 
+Comedy, Drama, Musical            
+Movie Rating : 4.2
+Directors : Patricia Birch,
+Actors : Michelle Pfeiffer,Maxwell Caulfield,Lorna Luft,Maureen Teefy,
+Movie Text: 
+An English student at a 1960's American high school has to prove himself to the leader of a girls' gang whose members can only date greasers.

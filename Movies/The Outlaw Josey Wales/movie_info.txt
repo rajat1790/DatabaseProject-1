@@ -1,0 +1,11 @@
+Movie Name: The Outlaw Josey Wales 
+Movie Year: 1976
+Movie Certificate: PG
+Movie Duration: 135 min
+Movie Genre: 
+Western            
+Movie Rating : 7.9
+Directors : Clint Eastwood,
+Actors : Clint Eastwood,Sondra Locke,Chief Dan George,Bill McKinney,
+Movie Text: 
+A Missouri farmer joins a Confederate guerrilla unit and winds up on the run from the Union soldiers who murdered his family.

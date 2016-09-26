@@ -1,0 +1,11 @@
+Movie Name: The Big Blue 
+Movie Year: 1988
+Movie Certificate: PG-13
+Movie Duration: 168 min
+Movie Genre: 
+Adventure, Romance, Sport            
+Movie Rating : 7.6
+Directors : Luc Besson,
+Actors : Jean-Marc Barr,Jean Reno,Rosanna Arquette,Paul Shenar,
+Movie Text: 
+The rivalry between Enzo and Jacques, two childhood friends and now world-renowned free divers, becomes a beautiful and perilous journey into oneself and the unknown.

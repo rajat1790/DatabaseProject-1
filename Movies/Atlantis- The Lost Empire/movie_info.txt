@@ -1,0 +1,11 @@
+Movie Name: Atlantis: The Lost Empire 
+Movie Year: 2001
+Movie Certificate: PG
+Movie Duration: 95 min
+Movie Genre: 
+Animation, Action, Adventure            
+Movie Rating : 6.8
+Directors : Gary Trousdale,Kirk Wise,
+Actors : Michael J. Fox,Jim Varney,Corey Burton,James Garner,
+Movie Text: 
+A young adventurer named Milo Thatch joins an intrepid group of explorers to find the mysterious lost continent of Atlantis.

@@ -1,0 +1,11 @@
+Movie Name: Cry-Baby 
+Movie Year: 1990
+Movie Certificate: PG-13
+Movie Duration: 85 min
+Movie Genre: 
+Comedy, Musical, Romance            
+Movie Rating : 6.5
+Directors : John Waters,
+Actors : Johnny Depp,Ricki Lake,Amy Locane,Susan Tyrrell,
+Movie Text: 
+In 1950s Baltimore, a bad-boy with a heart of gold wins the love of a good-girl, whose boyfriend sets out for revenge.

@@ -1,0 +1,11 @@
+Movie Name: The Wind That Shakes the Barley 
+Movie Year: 2006
+Movie Certificate: Not Rated
+Movie Duration: 127 min
+Movie Genre: 
+Drama, War            
+Movie Rating : 7.5
+Directors : Ken Loach,
+Actors : Cillian Murphy,Padraic Delaney,Liam Cunningham,Orla Fitzgerald,
+Movie Text: 
+Against the backdrop of the Irish War of Independence, two brothers fight a guerrilla war against British forces.

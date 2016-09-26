@@ -1,0 +1,11 @@
+Movie Name: Mr. Woodcock 
+Movie Year: 2007
+Movie Certificate: PG-13
+Movie Duration: 87 min
+Movie Genre: 
+Comedy, Romance, Sport            
+Movie Rating : 5.1
+Directors : Craig Gillespie,David Dobkin,
+Actors : Billy Bob Thornton,Seann William Scott,Susan Sarandon,Amy Poehler,
+Movie Text: 
+Taken aback by his mother's wedding announcement, a young man returns home in an effort to stop her from marrying his old high school gym teacher, a man who made high school hell for generations of students.

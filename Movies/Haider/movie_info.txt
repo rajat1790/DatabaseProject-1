@@ -1,0 +1,11 @@
+Movie Name: Haider 
+Movie Year: 2014
+Movie Certificate: 
+Movie Duration: 
+Movie Genre: 
+Action, Crime, Drama            
+Movie Rating : 8.3
+Directors : Vishal Bhardwaj,
+Actors : Shahid Kapoor,Tabu,Shraddha Kapoor,Kay Kay Menon,
+Movie Text: 
+A young man returns to Kashmir after his father's disappearance to confront his uncle - the man he suspects to have a role in his father's fate.

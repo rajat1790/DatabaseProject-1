@@ -1,0 +1,11 @@
+Movie Name: Master and Commander: The Far Side of the World 
+Movie Year: 2003
+Movie Certificate: PG-13
+Movie Duration: 138 min
+Movie Genre: 
+Action, Adventure, Drama            
+Movie Rating : 7.4
+Directors : Peter Weir,
+Actors : Russell Crowe,Paul Bettany,Billy Boyd,James D'Arcy,
+Movie Text: 
+During the Napoleonic Wars, a brash British captain pushes his ship and crew to their limits in pursuit of a formidable French war vessel around South America.

@@ -1,0 +1,11 @@
+Movie Name: The King of Comedy 
+Movie Year: 1982
+Movie Certificate: PG
+Movie Duration: 109 min
+Movie Genre: 
+Comedy, Crime, Drama            
+Movie Rating : 7.8
+Directors : Martin Scorsese,
+Actors : Robert De Niro,Jerry Lewis,Diahnne Abbott,Sandra Bernhard,
+Movie Text: 
+Aspiring comic Rupert Pupkin attempts to achieve success in show business by stalking his idol, a late night talk-show host who craves his own privacy.

@@ -1,0 +1,11 @@
+Movie Name: Any Given Sunday 
+Movie Year: 1999
+Movie Certificate: R
+Movie Duration: 162 min
+Movie Genre: 
+Drama, Sport            
+Movie Rating : 6.8
+Directors : Oliver Stone,
+Actors : Al Pacino,Dennis Quaid,Cameron Diaz,James Woods,
+Movie Text: 
+A behind-the-scenes look at the life-and-death struggles of modern-day gladiators and those who lead them.

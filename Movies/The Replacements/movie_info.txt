@@ -1,0 +1,11 @@
+Movie Name: The Replacements 
+Movie Year: 2000
+Movie Certificate: PG-13
+Movie Duration: 118 min
+Movie Genre: 
+Comedy, Sport            
+Movie Rating : 6.5
+Directors : Howard Deutch,
+Actors : Keanu Reeves,Gene Hackman,Brooke Langton,Orlando Jones,
+Movie Text: 
+During a pro football strike, the owners hire substitute players.

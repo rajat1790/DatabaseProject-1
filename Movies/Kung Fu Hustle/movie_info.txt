@@ -1,0 +1,11 @@
+Movie Name: Kung Fu Hustle 
+Movie Year: 2004
+Movie Certificate: R
+Movie Duration: 99 min
+Movie Genre: 
+Action, Comedy, Crime            
+Movie Rating : 7.8
+Directors : Stephen Chow,
+Actors : Stephen Chow,Wah Yuen,Qiu Yuen,Shengyi Huang,
+Movie Text: 
+In Shanghai, China in the 1940s, a wannabe gangster aspires to join the notorious "Axe Gang" while residents of a housing complex exhibit extraordinary powers in defending their turf.

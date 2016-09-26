@@ -1,0 +1,11 @@
+Movie Name: Toy Story 2 
+Movie Year: 1999
+Movie Certificate: G
+Movie Duration: 92 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 7.9
+Directors : John Lasseter,Ash Brannon,Lee Unkrich,
+Actors : Tom Hanks,Tim Allen,Joan Cusack,Kelsey Grammer,
+Movie Text: 
+When Woody is stolen by a toy collector, Buzz and his friends vow to rescue him, but Woody finds the idea of immortality in a museum tempting.

@@ -1,0 +1,11 @@
+Movie Name: Unforgiven 
+Movie Year: 1992
+Movie Certificate: R
+Movie Duration: 131 min
+Movie Genre: 
+Drama, Western            
+Movie Rating : 8.3
+Directors : Clint Eastwood,
+Actors : Clint Eastwood,Gene Hackman,Morgan Freeman,Richard Harris,
+Movie Text: 
+Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner and a young man.

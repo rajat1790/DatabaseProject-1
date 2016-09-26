@@ -1,0 +1,11 @@
+Movie Name: Frankenweenie 
+Movie Year: 2012
+Movie Certificate: PG
+Movie Duration: 87 min
+Movie Genre: 
+Animation, Comedy, Family            
+Movie Rating : 7.0
+Directors : Tim Burton,
+Actors : Winona Ryder,Catherine O'Hara,Martin Short,Martin Landau,
+Movie Text: 
+Young Victor conducts a science experiment to bring his beloved dog Sparky back to life, only to face unintended, sometimes monstrous, consequences.

@@ -1,0 +1,11 @@
+Movie Name: Chaplin 
+Movie Year: 1992
+Movie Certificate: PG-13
+Movie Duration: 143 min
+Movie Genre: 
+Biography, Comedy, Drama            
+Movie Rating : 7.6
+Directors : Richard Attenborough,
+Actors : Robert Downey Jr.,Geraldine Chaplin,Paul Rhys,John Thaw,
+Movie Text: 
+A film about the troubled and controversial life of the master comedy filmmaker Charles Chaplin.

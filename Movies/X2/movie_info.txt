@@ -1,0 +1,11 @@
+Movie Name: X2 
+Movie Year: 2003
+Movie Certificate: PG-13
+Movie Duration: 134 min
+Movie Genre: 
+Action, Adventure, Fantasy            
+Movie Rating : 7.5
+Directors : Bryan Singer,
+Actors : Patrick Stewart,Hugh Jackman,Halle Berry,Ian McKellen,
+Movie Text: 
+The X-Men band together to find a mutant assassin who has made an attempt on the President's life, while the Mutant Academy is attacked by military forces.

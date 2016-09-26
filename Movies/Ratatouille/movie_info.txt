@@ -1,0 +1,11 @@
+Movie Name: Ratatouille 
+Movie Year: 2007
+Movie Certificate: G
+Movie Duration: 111 min
+Movie Genre: 
+Animation, Comedy, Family            
+Movie Rating : 8.0
+Directors : Brad Bird,Jan Pinkava,
+Actors : Brad Garrett,Lou Romano,Patton Oswalt,Ian Holm,
+Movie Text: 
+A rat who can cook makes an unusual alliance with a young kitchen worker at a famous restaurant.

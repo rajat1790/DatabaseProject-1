@@ -1,0 +1,11 @@
+Movie Name: Scream 
+Movie Year: 1996
+Movie Certificate: R
+Movie Duration: 111 min
+Movie Genre: 
+Horror, Mystery            
+Movie Rating : 7.2
+Directors : Wes Craven,
+Actors : Neve Campbell,Courteney Cox,David Arquette,Skeet Ulrich,
+Movie Text: 
+Sidney, attempting to cope with her mother's mysterious murder, and her horror movie-obsessed friends are stalked by an unknown killer who seems to have a hard time letting the past go.

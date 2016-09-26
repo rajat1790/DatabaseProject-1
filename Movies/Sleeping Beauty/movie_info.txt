@@ -1,0 +1,11 @@
+Movie Name: Sleeping Beauty 
+Movie Year: 1959
+Movie Certificate: Approved
+Movie Duration: 75 min
+Movie Genre: 
+Animation, Family, Fantasy            
+Movie Rating : 7.3
+Directors : Clyde Geronimi,
+Actors : Mary Costa,Bill Shirley,Eleanor Audley,Verna Felton,
+Movie Text: 
+After being snubbed by the royal family, a malevolent fairy places a curse on a princess which only a prince can break, along with the help of three good fairies.

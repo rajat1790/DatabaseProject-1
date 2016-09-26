@@ -1,0 +1,11 @@
+Movie Name: Open Range 
+Movie Year: 2003
+Movie Certificate: R
+Movie Duration: 139 min
+Movie Genre: 
+Drama, Romance, Western            
+Movie Rating : 7.5
+Directors : Kevin Costner,
+Actors : Kevin Costner,Robert Duvall,Diego Luna,Abraham Benrubi,
+Movie Text: 
+A former gunslinger is forced to take up arms again when he and his cattle crew are threatened by a corrupt lawman.

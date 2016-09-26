@@ -1,0 +1,11 @@
+Movie Name: Being There 
+Movie Year: 1979
+Movie Certificate: PG
+Movie Duration: 130 min
+Movie Genre: 
+Comedy, Drama            
+Movie Rating : 8.0
+Directors : Hal Ashby,
+Actors : Peter Sellers,Shirley MacLaine,Melvyn Douglas,Jack Warden,
+Movie Text: 
+A simple, sheltered gardener becomes an unlikely trusted advisor to a powerful businessman and an insider in Washington politics.

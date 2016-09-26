@@ -1,0 +1,11 @@
+Movie Name: High Fidelity 
+Movie Year: 2000
+Movie Certificate: R
+Movie Duration: 113 min
+Movie Genre: 
+Comedy, Drama, Music            
+Movie Rating : 7.5
+Directors : Stephen Frears,
+Actors : John Cusack,Iben Hjejle,Todd Louiso,Jack Black,
+Movie Text: 
+Rob, a record store owner and compulsive list maker, recounts his top five breakups, including the one in progress.

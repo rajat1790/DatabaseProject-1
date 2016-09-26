@@ -1,0 +1,11 @@
+Movie Name: Trumbo 
+Movie Year: 2015
+Movie Certificate: R
+Movie Duration: 124 min
+Movie Genre: 
+Biography, Crime, Drama            
+Movie Rating : 7.5
+Directors : Jay Roach,
+Actors : Bryan Cranston,Diane Lane,Helen Mirren,Louis C.K.,
+Movie Text: 
+In 1947, Dalton Trumbo was Hollywood's top screenwriter, until he and other artists were jailed and blacklisted for their political beliefs.

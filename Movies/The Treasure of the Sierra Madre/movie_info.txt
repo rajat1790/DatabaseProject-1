@@ -1,0 +1,11 @@
+Movie Name: The Treasure of the Sierra Madre 
+Movie Year: 1948
+Movie Certificate: Not Rated
+Movie Duration: 126 min
+Movie Genre: 
+Adventure, Drama, Western            
+Movie Rating : 8.3
+Directors : John Huston,
+Actors : Humphrey Bogart,Walter Huston,Tim Holt,Bruce Bennett,
+Movie Text: 
+Fred Dobbs and Bob Curtin, two Americans searching for work in Mexico, convince an old prospector to help them mine for gold in the Sierra Madre Mountains.

@@ -1,0 +1,11 @@
+Movie Name: The Princess and the Frog 
+Movie Year: 2009
+Movie Certificate: G
+Movie Duration: 97 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 7.1
+Directors : Ron Clements,John Musker,
+Actors : Anika Noni Rose,Keith David,Oprah Winfrey,Bruno Campos,
+Movie Text: 
+A waitress, desperate to fulfill her dreams as a restaurant owner, is set on a journey to turn a frog prince back into a human being, but she has to face the same problem after she kisses him.

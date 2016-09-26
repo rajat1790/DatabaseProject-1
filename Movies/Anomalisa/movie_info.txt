@@ -1,0 +1,11 @@
+Movie Name: Anomalisa 
+Movie Year: 2015
+Movie Certificate: R
+Movie Duration: 90 min
+Movie Genre: 
+Animation, Comedy, Drama            
+Movie Rating : 7.3
+Directors : Duke Johnson,Charlie Kaufman,
+Actors : David Thewlis,Jennifer Jason Leigh,Tom Noonan,
+Movie Text: 
+A man crippled by the mundanity of his life experiences something out of the ordinary.

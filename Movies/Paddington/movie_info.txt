@@ -1,0 +1,11 @@
+Movie Name: Paddington 
+Movie Year: 2014
+Movie Certificate: PG
+Movie Duration: 95 min
+Movie Genre: 
+Comedy, Family, Fantasy            
+Movie Rating : 7.2
+Directors : Paul King,
+Actors : Hugh Bonneville,Sally Hawkins,Julie Walters,Jim Broadbent,
+Movie Text: 
+A young Peruvian bear travels to London in search of a home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family, who offer him a temporary haven.

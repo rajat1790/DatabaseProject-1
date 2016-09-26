@@ -1,0 +1,11 @@
+Movie Name: Lolita 
+Movie Year: 1962
+Movie Certificate: Not Rated
+Movie Duration: 152 min
+Movie Genre: 
+Crime, Drama, Romance            
+Movie Rating : 7.7
+Directors : Stanley Kubrick,
+Actors : James Mason,Shelley Winters,Sue Lyon,Gary Cockrell,
+Movie Text: 
+A middle-aged college professor becomes infatuated with a fourteen-year-old nymphet.

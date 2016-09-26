@@ -1,0 +1,11 @@
+Movie Name: Superman 
+Movie Year: 1978
+Movie Certificate: PG
+Movie Duration: 143 min
+Movie Genre: 
+Action, Adventure, Drama            
+Movie Rating : 7.3
+Directors : Richard Donner,
+Actors : Christopher Reeve,Margot Kidder,Gene Hackman,Marlon Brando,
+Movie Text: 
+An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest superhero.

@@ -1,0 +1,11 @@
+Movie Name: Dirty Dancing 
+Movie Year: 1987
+Movie Certificate: PG-13
+Movie Duration: 100 min
+Movie Genre: 
+Drama, Music, Romance            
+Movie Rating : 6.9
+Directors : Emile Ardolino,
+Actors : Patrick Swayze,Jennifer Grey,Jerry Orbach,Cynthia Rhodes,
+Movie Text: 
+Spending the summer at a Catskills resort with her family, Frances "Baby" Houseman falls in love with the camp's dance instructor, Johnny Castle.

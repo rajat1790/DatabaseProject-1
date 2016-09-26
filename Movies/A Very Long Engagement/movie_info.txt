@@ -1,0 +1,11 @@
+Movie Name: A Very Long Engagement 
+Movie Year: 2004
+Movie Certificate: R
+Movie Duration: 133 min
+Movie Genre: 
+Drama, Mystery, Romance            
+Movie Rating : 7.7
+Directors : Jean-Pierre Jeunet,
+Actors : Audrey Tautou,Gaspard Ulliel,Jodie Foster,Dominique Pinon,
+Movie Text: 
+Tells the story of a young woman's relentless search for her fiancé, who has disappeared from the trenches of the Somme during World War One.

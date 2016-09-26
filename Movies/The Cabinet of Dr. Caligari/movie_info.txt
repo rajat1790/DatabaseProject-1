@@ -1,0 +1,11 @@
+Movie Name: The Cabinet of Dr. Caligari 
+Movie Year: 1920
+Movie Certificate: Unrated
+Movie Duration: 67 min
+Movie Genre: 
+Fantasy, Horror, Mystery            
+Movie Rating : 8.1
+Directors : Robert Wiene,
+Actors : Werner Krauss,Conrad Veidt,Friedrich Feher,Lil Dagover,
+Movie Text: 
+Hypnotist Dr. Caligari uses a somnambulist, Cesare, to commit murders.

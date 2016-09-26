@@ -1,0 +1,11 @@
+Movie Name: Ben-Hur 
+Movie Year: 1959
+Movie Certificate: G
+Movie Duration: 212 min
+Movie Genre: 
+Adventure, Drama, History            
+Movie Rating : 8.1
+Directors : William Wyler,
+Actors : Charlton Heston,Jack Hawkins,Stephen Boyd,Haya Harareet,
+Movie Text: 
+When a Jewish prince is betrayed and sent into slavery by a Roman friend, he regains his freedom and comes back for revenge.

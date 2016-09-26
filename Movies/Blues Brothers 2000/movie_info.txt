@@ -1,0 +1,11 @@
+Movie Name: Blues Brothers 2000 
+Movie Year: 1998
+Movie Certificate: PG-13
+Movie Duration: 123 min
+Movie Genre: 
+Action, Comedy, Crime            
+Movie Rating : 4.8
+Directors : John Landis,
+Actors : Dan Aykroyd,John Goodman,Walter Levine,Tom Davis,
+Movie Text: 
+Elwood must reunite the old band, with a few new members, and go on another "Mission from God."

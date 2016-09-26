@@ -1,0 +1,11 @@
+Movie Name: Chicken Run 
+Movie Year: 2000
+Movie Certificate: G
+Movie Duration: 84 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 7.0
+Directors : Peter Lord,Nick Park,
+Actors : Mel Gibson,Julia Sawalha,Phil Daniels,Lynn Ferguson,
+Movie Text: 
+When a bird "flies" into a chicken farm, the fellow chickens see him as an opportunity to escape their evil owners.

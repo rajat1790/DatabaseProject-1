@@ -1,0 +1,11 @@
+Movie Name: Jules and Jim 
+Movie Year: 1962
+Movie Certificate: Not Rated
+Movie Duration: 105 min
+Movie Genre: 
+Drama, Romance            
+Movie Rating : 7.9
+Directors : François Truffaut,
+Actors : Jeanne Moreau,Oskar Werner,Henri Serre,Vanna Urbino,
+Movie Text: 
+Decades of a love triangle concerning two friends and an impulsive woman.

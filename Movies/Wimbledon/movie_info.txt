@@ -1,0 +1,11 @@
+Movie Name: Wimbledon 
+Movie Year: 2004
+Movie Certificate: PG-13
+Movie Duration: 98 min
+Movie Genre: 
+Comedy, Romance, Sport            
+Movie Rating : 6.3
+Directors : Richard Loncraine,
+Actors : Kirsten Dunst,Paul Bettany,Jon Favreau,Sam Neill,
+Movie Text: 
+A pro tennis player has lost his ambition and has fallen in rank to 119. Fortunately for him, he meets a young player on the women's circuit who helps him recapture his focus for Wimbledon.

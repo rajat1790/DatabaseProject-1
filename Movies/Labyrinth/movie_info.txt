@@ -1,0 +1,11 @@
+Movie Name: Labyrinth 
+Movie Year: 1986
+Movie Certificate: PG
+Movie Duration: 101 min
+Movie Genre: 
+Adventure, Family, Fantasy            
+Movie Rating : 7.4
+Directors : Jim Henson,
+Actors : David Bowie,Jennifer Connelly,Toby Froud,Shelley Thompson,
+Movie Text: 
+A 16-year old girl is given 13 hours to solve a labyrinth and rescue her baby brother when her wish for him to be taken away is granted by the Goblin King.

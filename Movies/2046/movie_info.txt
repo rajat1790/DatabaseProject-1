@@ -1,0 +1,11 @@
+Movie Name: 2046 
+Movie Year: 2004
+Movie Certificate: R
+Movie Duration: 129 min
+Movie Genre: 
+Drama, Romance, Sci-Fi            
+Movie Rating : 7.5
+Directors : Kar-Wai Wong,
+Actors : Tony Chiu Wai Leung,Ziyi Zhang,Faye Wong,Li Gong,
+Movie Text: 
+The women who enter a science fiction author's life, over the course of a few years, after the author loses the woman he considers his one true love.

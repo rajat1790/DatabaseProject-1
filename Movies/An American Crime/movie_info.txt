@@ -1,0 +1,11 @@
+Movie Name: An American Crime 
+Movie Year: 2007
+Movie Certificate: R
+Movie Duration: 98 min
+Movie Genre: 
+Biography, Crime, Drama            
+Movie Rating : 7.4
+Directors : Tommy O'Haver,
+Actors : Ellen Page,Hayley McFarland,Nick Searcy,Romy Rosemont,
+Movie Text: 
+The true story of suburban housewife Gertrude Baniszewski, who kept a teenage girl locked in the basement of her Indiana home during the 1960s.

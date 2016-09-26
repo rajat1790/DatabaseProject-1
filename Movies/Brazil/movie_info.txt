@@ -1,0 +1,11 @@
+Movie Name: Brazil 
+Movie Year: 1985
+Movie Certificate: R
+Movie Duration: 132 min
+Movie Genre: 
+Drama, Sci-Fi            
+Movie Rating : 8.0
+Directors : Terry Gilliam,
+Actors : Jonathan Pryce,Kim Greist,Robert De Niro,Katherine Helmond,
+Movie Text: 
+A bureaucrat in a retro-future world tries to correct an administrative error and himself becomes an enemy of the state.

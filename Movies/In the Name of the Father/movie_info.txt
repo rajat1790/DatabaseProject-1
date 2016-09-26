@@ -1,0 +1,11 @@
+Movie Name: In the Name of the Father 
+Movie Year: 1993
+Movie Certificate: R
+Movie Duration: 133 min
+Movie Genre: 
+Biography, Drama, History            
+Movie Rating : 8.1
+Directors : Jim Sheridan,
+Actors : Daniel Day-Lewis,Pete Postlethwaite,Alison Crosbie,Philip King,
+Movie Text: 
+A man's coerced confession to an IRA bombing he did not commit results in the imprisonment of his father as well. An English lawyer fights to free them.

@@ -1,0 +1,11 @@
+Movie Name: Manhattan 
+Movie Year: 1979
+Movie Certificate: R
+Movie Duration: 96 min
+Movie Genre: 
+Comedy, Drama, Romance            
+Movie Rating : 8.0
+Directors : Woody Allen,
+Actors : Woody Allen,Diane Keaton,Mariel Hemingway,Michael Murphy,
+Movie Text: 
+The life of a divorced television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.

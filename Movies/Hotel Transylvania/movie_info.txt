@@ -1,0 +1,11 @@
+Movie Name: Hotel Transylvania 
+Movie Year: 2012
+Movie Certificate: PG
+Movie Duration: 91 min
+Movie Genre: 
+Animation, Comedy, Family            
+Movie Rating : 7.1
+Directors : Genndy Tartakovsky,
+Actors : Adam Sandler,Kevin James,Andy Samberg,Selena Gomez,
+Movie Text: 
+Dracula, who operates a high-end resort away from the human world, goes into overprotective mode when a boy discovers the resort and falls for the count's teen-aged daughter.

@@ -1,0 +1,11 @@
+Movie Name: The Sandlot 
+Movie Year: 1993
+Movie Certificate: PG
+Movie Duration: 101 min
+Movie Genre: 
+Comedy, Drama, Family            
+Movie Rating : 7.8
+Directors : David M. Evans,
+Actors : Tom Guiry,Mike Vitar,Art LaFleur,Patrick Renna,
+Movie Text: 
+A new kid in town is taken under the wing of a young baseball prodigy and his team in this coming of age movie set in the summer of 1962. Together, they get themselves into many adventures involving rival teams, lifeguards, and a vicious dog.

@@ -1,0 +1,11 @@
+Movie Name: Control 
+Movie Year: 2007
+Movie Certificate: R
+Movie Duration: 122 min
+Movie Genre: 
+Biography, Drama, Music            
+Movie Rating : 7.7
+Directors : Anton Corbijn,
+Actors : Sam Riley,Samantha Morton,Craig Parkinson,Alexandra Maria Lara,
+Movie Text: 
+A profile of Ian Curtis, the enigmatic singer of Joy Division whose personal, professional, and romantic troubles led him to commit suicide at the age of 23.

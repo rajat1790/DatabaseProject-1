@@ -1,0 +1,11 @@
+Movie Name: Thirteen Days 
+Movie Year: 2000
+Movie Certificate: PG-13
+Movie Duration: 145 min
+Movie Genre: 
+Drama, History, Thriller            
+Movie Rating : 7.3
+Directors : Roger Donaldson,
+Actors : Kevin Costner,Bruce Greenwood,Shawn Driscoll,Drake Cook,
+Movie Text: 
+A dramatization of the Kennedy administration's struggle to contain the Cuban Missile Crisis in October 1962.

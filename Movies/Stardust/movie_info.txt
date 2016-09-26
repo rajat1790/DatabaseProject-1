@@ -1,0 +1,11 @@
+Movie Name: Stardust 
+Movie Year: 2007
+Movie Certificate: PG-13
+Movie Duration: 127 min
+Movie Genre: 
+Adventure, Family, Fantasy            
+Movie Rating : 7.7
+Directors : Matthew Vaughn,
+Actors : Charlie Cox,Claire Danes,Sienna Miller,Ian McKellen,
+Movie Text: 
+In a countryside town bordering on a magical land, a young man makes a promise to his beloved that he'll retrieve a fallen star by venturing into the magical realm.

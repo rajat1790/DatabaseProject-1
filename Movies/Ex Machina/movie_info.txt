@@ -1,0 +1,11 @@
+Movie Name: Ex Machina 
+Movie Year: 2015
+Movie Certificate: R
+Movie Duration: 108 min
+Movie Genre: 
+Drama, Mystery, Sci-Fi            
+Movie Rating : 7.7
+Directors : Alex Garland,
+Actors : Alicia Vikander,Domhnall Gleeson,Oscar Isaac,Sonoya Mizuno,
+Movie Text: 
+A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a breath-taking humanoid A.I.

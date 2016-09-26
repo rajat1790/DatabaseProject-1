@@ -1,0 +1,11 @@
+Movie Name: Seabiscuit 
+Movie Year: 2003
+Movie Certificate: PG-13
+Movie Duration: 140 min
+Movie Genre: 
+Drama, History, Sport            
+Movie Rating : 7.3
+Directors : Gary Ross,
+Actors : Tobey Maguire,Jeff Bridges,Elizabeth Banks,Chris Cooper,
+Movie Text: 
+True story of the undersized Depression-era racehorse whose victories lifted not only the spirits of the team behind it but also those of their nation.

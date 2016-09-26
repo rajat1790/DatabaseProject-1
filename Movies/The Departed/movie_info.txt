@@ -1,0 +1,11 @@
+Movie Name: The Departed 
+Movie Year: 2006
+Movie Certificate: R
+Movie Duration: 151 min
+Movie Genre: 
+Crime, Drama, Thriller            
+Movie Rating : 8.5
+Directors : Martin Scorsese,
+Actors : Leonardo DiCaprio,Matt Damon,Jack Nicholson,Mark Wahlberg,
+Movie Text: 
+An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.

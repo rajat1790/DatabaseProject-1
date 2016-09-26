@@ -1,0 +1,11 @@
+Movie Name: Hair 
+Movie Year: 1979
+Movie Certificate: PG
+Movie Duration: 121 min
+Movie Genre: 
+Comedy, Drama, Musical            
+Movie Rating : 7.6
+Directors : Milos Forman,
+Actors : John Savage,Treat Williams,Beverly D'Angelo,Annie Golden,
+Movie Text: 
+Claude leaves the family ranch in Oklahoma for New York where he is rapidly indoctrinated into the youth subculture and subsequently drafted.

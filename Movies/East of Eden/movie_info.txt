@@ -1,0 +1,11 @@
+Movie Name: East of Eden 
+Movie Year: 1955
+Movie Certificate: PG
+Movie Duration: 115 min
+Movie Genre: 
+Drama, Romance            
+Movie Rating : 8.0
+Directors : Elia Kazan,
+Actors : James Dean,Raymond Massey,Julie Harris,Burl Ives,
+Movie Text: 
+A wilful young man contends against his brother for the attention of their religious father while reconnecting with his estranged mother and falling for his brother's girlfriend.

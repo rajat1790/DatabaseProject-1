@@ -1,0 +1,11 @@
+Movie Name: The Shawshank Redemption 
+Movie Year: 1994
+Movie Certificate: R
+Movie Duration: 142 min
+Movie Genre: 
+Crime, Drama            
+Movie Rating : 9.3
+Directors : Frank Darabont,
+Actors : Tim Robbins,Morgan Freeman,Bob Gunton,William Sadler,
+Movie Text: 
+Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.

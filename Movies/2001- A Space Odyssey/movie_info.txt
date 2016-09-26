@@ -1,0 +1,11 @@
+Movie Name: 2001: A Space Odyssey 
+Movie Year: 1968
+Movie Certificate: G
+Movie Duration: 149 min
+Movie Genre: 
+Adventure, Mystery, Sci-Fi            
+Movie Rating : 8.3
+Directors : Stanley Kubrick,
+Actors : Keir Dullea,Gary Lockwood,William Sylvester,Daniel Richter,
+Movie Text: 
+Humanity finds a mysterious, obviously artificial object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.

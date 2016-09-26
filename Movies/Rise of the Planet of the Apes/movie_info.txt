@@ -1,0 +1,11 @@
+Movie Name: Rise of the Planet of the Apes 
+Movie Year: 2011
+Movie Certificate: PG-13
+Movie Duration: 105 min
+Movie Genre: 
+Action, Drama, Sci-Fi            
+Movie Rating : 7.6
+Directors : Rupert Wyatt,
+Actors : James Franco,Andy Serkis,Freida Pinto,Karin Konoval,
+Movie Text: 
+A substance, designed to help the brain repair itself, gives rise to a super-intelligent chimp who leads an ape uprising.

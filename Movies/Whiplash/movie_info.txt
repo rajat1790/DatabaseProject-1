@@ -1,0 +1,11 @@
+Movie Name: Whiplash 
+Movie Year: 2014
+Movie Certificate: R
+Movie Duration: 107 min
+Movie Genre: 
+Drama, Music            
+Movie Rating : 8.5
+Directors : Damien Chazelle,
+Actors : Miles Teller,J.K. Simmons,Melissa Benoist,Paul Reiser,
+Movie Text: 
+A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.

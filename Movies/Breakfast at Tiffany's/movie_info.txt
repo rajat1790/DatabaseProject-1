@@ -1,0 +1,11 @@
+Movie Name: Breakfast at Tiffany's 
+Movie Year: 1961
+Movie Certificate: Not Rated
+Movie Duration: 115 min
+Movie Genre: 
+Comedy, Drama, Romance            
+Movie Rating : 7.8
+Directors : Blake Edwards,
+Actors : Audrey Hepburn,George Peppard,Patricia Neal,Buddy Ebsen,
+Movie Text: 
+A young New York socialite becomes interested in a young man who has moved into her apartment building.

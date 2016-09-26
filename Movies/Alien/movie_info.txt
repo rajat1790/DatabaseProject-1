@@ -1,0 +1,11 @@
+Movie Name: Alien 
+Movie Year: 1979
+Movie Certificate: R
+Movie Duration: 117 min
+Movie Genre: 
+Horror, Sci-Fi            
+Movie Rating : 8.5
+Directors : Ridley Scott,
+Actors : Sigourney Weaver,Tom Skerritt,John Hurt,Veronica Cartwright,
+Movie Text: 
+After a space merchant vessel perceives an unknown transmission as distress call, their landing on the source moon finds one of the crew attacked by a mysterious lifeform. Continuing their journey back to Earth with the attacked crew having recovered and the critter deceased, they soon realize that its life cycle has merely begun.

@@ -1,0 +1,11 @@
+Movie Name: Interstellar 
+Movie Year: 2014
+Movie Certificate: PG-13
+Movie Duration: 169 min
+Movie Genre: 
+Adventure, Drama, Sci-Fi            
+Movie Rating : 8.6
+Directors : Christopher Nolan,
+Actors : Matthew McConaughey,Anne Hathaway,Jessica Chastain,Mackenzie Foy,
+Movie Text: 
+A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.

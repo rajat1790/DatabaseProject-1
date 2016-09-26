@@ -1,0 +1,11 @@
+Movie Name: Sinister I
+Movie Year: 2012
+Movie Certificate: R
+Movie Duration: 110 min
+Movie Genre: 
+Horror, Mystery            
+Movie Rating : 6.8
+Directors : Scott Derrickson,
+Actors : Ethan Hawke,Juliet Rylance,James Ransone,Fred Dalton Thompson,
+Movie Text: 
+Washed-up true-crime writer Ellison Oswalt finds a box of super 8 home movies that suggest the murder he is currently researching is the work of a serial killer whose work dates back to the 1960s.

@@ -1,0 +1,11 @@
+Movie Name: The Lion King 
+Movie Year: 1994
+Movie Certificate: G
+Movie Duration: 89 min
+Movie Genre: 
+Animation, Adventure, Drama            
+Movie Rating : 8.5
+Directors : Roger Allers,Rob Minkoff,
+Actors : Matthew Broderick,Jeremy Irons,James Earl Jones,Whoopi Goldberg,
+Movie Text: 
+Lion cub and future king Simba searches for his identity. His eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble.

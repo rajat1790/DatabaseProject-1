@@ -1,0 +1,11 @@
+Movie Name: 127 Hours 
+Movie Year: 2010
+Movie Certificate: R
+Movie Duration: 94 min
+Movie Genre: 
+Adventure, Biography, Drama            
+Movie Rating : 7.6
+Directors : Danny Boyle,
+Actors : James Franco,Amber Tamblyn,Kate Mara,Sean Bott,
+Movie Text: 
+An adventurous mountain climber becomes trapped under a boulder while canyoneering alone near Moab, Utah and resorts to desperate measures in order to survive.

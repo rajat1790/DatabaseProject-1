@@ -1,0 +1,11 @@
+Movie Name: Alice in Wonderland 
+Movie Year: 1951
+Movie Certificate: G
+Movie Duration: 75 min
+Movie Genre: 
+Animation, Adventure, Family            
+Movie Rating : 7.4
+Directors : Clyde Geronimi,Wilfred Jackson,Hamilton Luske,
+Actors : Kathryn Beaumont,Ed Wynn,Richard Haydn,Sterling Holloway,
+Movie Text: 
+Alice stumbles into the world of Wonderland. Will she get home? Not if the Queen of Hearts has her way.

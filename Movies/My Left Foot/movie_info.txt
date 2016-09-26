@@ -1,0 +1,11 @@
+Movie Name: My Left Foot 
+Movie Year: 1989
+Movie Certificate: R
+Movie Duration: 103 min
+Movie Genre: 
+Biography, Drama            
+Movie Rating : 7.9
+Directors : Jim Sheridan,
+Actors : Daniel Day-Lewis,Brenda Fricker,Alison Whelan,Kirsten Sheridan,
+Movie Text: 
+Christy Brown, born with cerebral palsy, learns to paint and write with his only controllable limb - his left foot.

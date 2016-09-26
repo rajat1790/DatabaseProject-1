@@ -1,0 +1,11 @@
+Movie Name: The Longest Day 
+Movie Year: 1962
+Movie Certificate: G
+Movie Duration: 178 min
+Movie Genre: 
+Action, Drama, History            
+Movie Rating : 7.8
+Directors : Ken Annakin,Andrew Marton,Bernhard Wicki,Gerd Oswald,Darryl F. Zanuck,
+Actors : John Wayne,Robert Ryan,Richard Burton,Henry Fonda,
+Movie Text: 
+The events of D-Day, told on a grand scale from both the Allied and German points of view.

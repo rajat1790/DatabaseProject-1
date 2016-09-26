@@ -1,0 +1,11 @@
+Movie Name: Into the Wild 
+Movie Year: 2007
+Movie Certificate: R
+Movie Duration: 148 min
+Movie Genre: 
+Adventure, Biography, Drama            
+Movie Rating : 8.2
+Directors : Sean Penn,
+Actors : Emile Hirsch,Vince Vaughn,Catherine Keener,Marcia Gay Harden,
+Movie Text: 
+After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters that shape his life.

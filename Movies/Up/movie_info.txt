@@ -1,0 +1,11 @@
+Movie Name: Up 
+Movie Year: 2009
+Movie Certificate: PG
+Movie Duration: 96 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 8.3
+Directors : Pete Docter,Bob Peterson,
+Actors : Edward Asner,Jordan Nagai,John Ratzenberger,Christopher Plummer,
+Movie Text: 
+Seventy-eight year old Carl Fredricksen travels to Paradise Falls in his home equipped with balloons, inadvertently taking a young stowaway.

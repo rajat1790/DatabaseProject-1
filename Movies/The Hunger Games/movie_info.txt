@@ -1,0 +1,11 @@
+Movie Name: The Hunger Games 
+Movie Year: 2012
+Movie Certificate: PG-13
+Movie Duration: 142 min
+Movie Genre: 
+Adventure, Drama, Sci-Fi            
+Movie Rating : 7.3
+Directors : Gary Ross,
+Actors : Jennifer Lawrence,Josh Hutcherson,Liam Hemsworth,Stanley Tucci,
+Movie Text: 
+Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games, a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death.

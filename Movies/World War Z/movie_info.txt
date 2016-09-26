@@ -1,0 +1,11 @@
+Movie Name: World War Z 
+Movie Year: 2013
+Movie Certificate: PG-13
+Movie Duration: 116 min
+Movie Genre: 
+Action, Adventure, Horror            
+Movie Rating : 7.0
+Directors : Marc Forster,
+Actors : Brad Pitt,Mireille Enos,Daniella Kertesz,James Badge Dale,
+Movie Text: 
+Former United Nations employee Gerry Lane traverses the world in a race against time to stop the Zombie pandemic that is toppling armies and governments, and threatening to destroy humanity itself.

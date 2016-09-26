@@ -1,0 +1,11 @@
+Movie Name: ParaNorman 
+Movie Year: 2012
+Movie Certificate: PG
+Movie Duration: 92 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 7.0
+Directors : Chris Butler,Sam Fell,
+Actors : Kodi Smit-McPhee,Anna Kendrick,Christopher Mintz-Plasse,Tucker Albrizzi,
+Movie Text: 
+A misunderstood boy takes on ghosts, zombies and grown-ups to save his town from a centuries-old curse.

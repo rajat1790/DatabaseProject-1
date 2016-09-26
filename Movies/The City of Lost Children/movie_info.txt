@@ -1,0 +1,11 @@
+Movie Name: The City of Lost Children 
+Movie Year: 1995
+Movie Certificate: R
+Movie Duration: 112 min
+Movie Genre: 
+Fantasy, Sci-Fi            
+Movie Rating : 7.7
+Directors : Marc Caro,Jean-Pierre Jeunet,
+Actors : Ron Perlman,Daniel Emilfork,Judith Vittet,Dominique Pinon,
+Movie Text: 
+A scientist in a surrealist society kidnaps children to steal their dreams, hoping that they slow his aging process.

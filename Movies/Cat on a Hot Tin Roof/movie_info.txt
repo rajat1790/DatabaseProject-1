@@ -1,0 +1,11 @@
+Movie Name: Cat on a Hot Tin Roof 
+Movie Year: 1958
+Movie Certificate: Approved
+Movie Duration: 108 min
+Movie Genre: 
+Drama, Romance            
+Movie Rating : 8.1
+Directors : Richard Brooks,
+Actors : Elizabeth Taylor,Paul Newman,Burl Ives,Jack Carson,
+Movie Text: 
+Brick, an alcoholic ex-football player, drinks his days away and resists the affections of his wife, Maggie. His reunion with his father, Big Daddy, who is dying of cancer, jogs a host of memories and revelations for both father and son.

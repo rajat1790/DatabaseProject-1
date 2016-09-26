@@ -1,0 +1,11 @@
+Movie Name: The Transformers: The Movie 
+Movie Year: 1986
+Movie Certificate: PG
+Movie Duration: 84 min
+Movie Genre: 
+Animation, Action, Adventure            
+Movie Rating : 7.3
+Directors : Nelson Shin,
+Actors : Orson Welles,Robert Stack,Leonard Nimoy,Norman Alden,
+Movie Text: 
+The Autobots must stop a colossal planet consuming robot who goes after the Autobot Matrix of Leadership. At the same time, they must defend themselves against an all-out attack from the Decepticons.

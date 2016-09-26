@@ -1,0 +1,11 @@
+Movie Name: In the Heat of the Night 
+Movie Year: 1967
+Movie Certificate: Approved
+Movie Duration: 109 min
+Movie Genre: 
+Crime, Drama, Mystery            
+Movie Rating : 8.0
+Directors : Norman Jewison,
+Actors : Sidney Poitier,Rod Steiger,Warren Oates,Lee Grant,
+Movie Text: 
+An African American police detective is asked to investigate a murder in a racially hostile southern town.

@@ -1,0 +1,11 @@
+Movie Name: Heartbreak Ridge 
+Movie Year: 1986
+Movie Certificate: R
+Movie Duration: 130 min
+Movie Genre: 
+Action, Comedy, Drama            
+Movie Rating : 6.8
+Directors : Clint Eastwood,
+Actors : Clint Eastwood,Marsha Mason,Everett McGill,Moses Gunn,
+Movie Text: 
+A hard-nosed, hard-living Marine gunnery sergeant clashes with his superiors and his ex-wife as he takes command of a spoiled recon platoon with a bad attitude.

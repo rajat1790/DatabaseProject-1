@@ -1,0 +1,11 @@
+Movie Name: All Quiet on the Western Front 
+Movie Year: 1930
+Movie Certificate: Unrated
+Movie Duration: 136 min
+Movie Genre: 
+Drama, War            
+Movie Rating : 8.1
+Directors : Lewis Milestone,
+Actors : Lew Ayres,Louis Wolheim,John Wray,Arnold Lucy,
+Movie Text: 
+A young soldier faces profound disillusionment in the soul-destroying horror of World War I.

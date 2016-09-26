@@ -1,0 +1,11 @@
+Movie Name: Deadpool 
+Movie Year: 2016
+Movie Certificate: R
+Movie Duration: 108 min
+Movie Genre: 
+Action, Adventure, Comedy            
+Movie Rating : 8.1
+Directors : Tim Miller,
+Actors : Ryan Reynolds,Morena Baccarin,T.J. Miller,Ed Skrein,
+Movie Text: 
+A fast-talking mercenary with a morbid sense of humor is subjected to a rogue experiment that leaves him with accelerated healing powers and a quest for revenge.

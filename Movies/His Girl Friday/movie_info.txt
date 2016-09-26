@@ -1,0 +1,11 @@
+Movie Name: His Girl Friday 
+Movie Year: 1940
+Movie Certificate: Approved
+Movie Duration: 92 min
+Movie Genre: 
+Comedy, Drama, Romance            
+Movie Rating : 8.0
+Directors : Howard Hawks,
+Actors : Cary Grant,Rosalind Russell,Ralph Bellamy,Gene Lockhart,
+Movie Text: 
+A newspaper editor uses every trick in the book to keep his ace reporter ex-wife from remarrying.

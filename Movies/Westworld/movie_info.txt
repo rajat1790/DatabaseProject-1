@@ -1,0 +1,11 @@
+Movie Name: Westworld 
+Movie Year: 1973
+Movie Certificate: PG
+Movie Duration: 88 min
+Movie Genre: 
+Action, Sci-Fi, Thriller            
+Movie Rating : 7.1
+Directors : Michael Crichton,
+Actors : Yul Brynner,Richard Benjamin,James Brolin,Norman Bartold,
+Movie Text: 
+A robot malfunction creates havoc and terror for unsuspecting vacationers at a futuristic, adult-themed amusement park.

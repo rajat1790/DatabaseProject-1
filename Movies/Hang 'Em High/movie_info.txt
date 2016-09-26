@@ -1,0 +1,11 @@
+Movie Name: Hang 'Em High 
+Movie Year: 1968
+Movie Certificate: M
+Movie Duration: 114 min
+Movie Genre: 
+Western            
+Movie Rating : 7.0
+Directors : Ted Post,
+Actors : Clint Eastwood,Inger Stevens,Pat Hingle,Ed Begley,
+Movie Text: 
+When an innocent man barely survives a lynching, he returns as a lawman determined to bring the vigilantes to justice.

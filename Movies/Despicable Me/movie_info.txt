@@ -1,0 +1,11 @@
+Movie Name: Despicable Me 
+Movie Year: 2010
+Movie Certificate: PG
+Movie Duration: 95 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 7.7
+Directors : Pierre Coffin,Chris Renaud,
+Actors : Steve Carell,Jason Segel,Russell Brand,Julie Andrews,
+Movie Text: 
+When a criminal mastermind uses a trio of orphan girls as pawns for a grand scheme, he finds their love is profoundly changing him for the better.

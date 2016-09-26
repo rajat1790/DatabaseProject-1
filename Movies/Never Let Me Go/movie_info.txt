@@ -1,0 +1,11 @@
+Movie Name: Never Let Me Go 
+Movie Year: 2010
+Movie Certificate: R
+Movie Duration: 103 min
+Movie Genre: 
+Drama, Romance, Sci-Fi            
+Movie Rating : 7.2
+Directors : Mark Romanek,
+Actors : Keira Knightley,Carey Mulligan,Andrew Garfield,Izzy Meikle-Small,
+Movie Text: 
+The lives of three friends, from their early school days into young adulthood.

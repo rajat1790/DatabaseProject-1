@@ -1,0 +1,11 @@
+Movie Name: Aguirre, the Wrath of God 
+Movie Year: 1972
+Movie Certificate: Not Rated
+Movie Duration: 93 min
+Movie Genre: 
+Adventure, Drama, History            
+Movie Rating : 8.0
+Directors : Werner Herzog,
+Actors : Klaus Kinski,Ruy Guerra,Helena Rojo,Del Negro,
+Movie Text: 
+In the 16th century, the ruthless and insane Don Lope de Aguirre leads a Spanish expedition in search of El Dorado.

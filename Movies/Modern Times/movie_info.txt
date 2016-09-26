@@ -1,0 +1,11 @@
+Movie Name: Modern Times 
+Movie Year: 1936
+Movie Certificate: G
+Movie Duration: 87 min
+Movie Genre: 
+Comedy, Drama, Family            
+Movie Rating : 8.6
+Directors : Charles Chaplin,
+Actors : Charles Chaplin,Paulette Goddard,Henry Bergman,Tiny Sandford,
+Movie Text: 
+The Tramp struggles to live in modern industrial society with the help of a young homeless woman.

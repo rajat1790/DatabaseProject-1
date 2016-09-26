@@ -1,0 +1,11 @@
+Movie Name: Caddyshack 
+Movie Year: 1980
+Movie Certificate: R
+Movie Duration: 98 min
+Movie Genre: 
+Comedy, Romance, Sport            
+Movie Rating : 7.4
+Directors : Harold Ramis,
+Actors : Chevy Chase,Rodney Dangerfield,Bill Murray,Ted Knight,
+Movie Text: 
+An exclusive golf course has to deal with a brash new member and a destructive dancing gopher.

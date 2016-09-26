@@ -1,0 +1,11 @@
+Movie Name: The Player 
+Movie Year: 1992
+Movie Certificate: R
+Movie Duration: 124 min
+Movie Genre: 
+Comedy, Crime, Drama            
+Movie Rating : 7.6
+Directors : Robert Altman,
+Actors : Tim Robbins,Greta Scacchi,Fred Ward,Whoopi Goldberg,
+Movie Text: 
+A Hollywood studio executive is being sent death threats by a writer whose script he rejected - but which one?

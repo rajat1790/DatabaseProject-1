@@ -1,0 +1,11 @@
+Movie Name: King Arthur 
+Movie Year: 2004
+Movie Certificate: R
+Movie Duration: 126 min
+Movie Genre: 
+Action, Adventure, Drama            
+Movie Rating : 6.3
+Directors : Antoine Fuqua,
+Actors : Clive Owen,Stephen Dillane,Keira Knightley,Ioan Gruffudd,
+Movie Text: 
+A demystified take on the tale of King Arthur and the Knights of the Round Table.

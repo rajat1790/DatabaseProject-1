@@ -1,0 +1,11 @@
+Movie Name: Lions for Lambs 
+Movie Year: 2007
+Movie Certificate: R
+Movie Duration: 92 min
+Movie Genre: 
+Drama, Thriller, War            
+Movie Rating : 6.2
+Directors : Robert Redford,
+Actors : Tom Cruise,Meryl Streep,Robert Redford,Michael Peña,
+Movie Text: 
+Injuries sustained by two Army rangers behind enemy lines in Afghanistan set off a sequence of events involving a congressman, a journalist and a professor.

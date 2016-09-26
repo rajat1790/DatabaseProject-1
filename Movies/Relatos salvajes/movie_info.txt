@@ -1,0 +1,11 @@
+Movie Name: Relatos salvajes 
+Movie Year: 2014
+Movie Certificate: R
+Movie Duration: 122 min
+Movie Genre: 
+Comedy, Drama, Thriller            
+Movie Rating : 8.1
+Directors : Damián Szifrón,
+Actors : Darío Grandinetti,María Marull,Mónica Villa,Rita Cortese,
+Movie Text: 
+Six short stories that explore the extremities of human behavior involving people in distress.

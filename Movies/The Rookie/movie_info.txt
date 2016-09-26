@@ -1,0 +1,11 @@
+Movie Name: The Rookie 
+Movie Year: 2002
+Movie Certificate: G
+Movie Duration: 127 min
+Movie Genre: 
+Drama, Family, Sport            
+Movie Rating : 7.0
+Directors : John Lee Hancock,
+Actors : Dennis Quaid,J.D. Evermore,Rachel Griffiths,Jay Hernandez,
+Movie Text: 
+A Texas baseball coach makes the major league after agreeing to try out if his high school team made the playoffs.

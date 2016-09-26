@@ -1,0 +1,11 @@
+Movie Name: Hollywoodland 
+Movie Year: 2006
+Movie Certificate: R
+Movie Duration: 126 min
+Movie Genre: 
+Biography, Crime, Drama            
+Movie Rating : 6.5
+Directors : Allen Coulter,
+Actors : Adrien Brody,Ben Affleck,Diane Lane,Bob Hoskins,
+Movie Text: 
+A detective examines the mysterious death of George Reeves, the star of the television series Adventures of Superman (1952).

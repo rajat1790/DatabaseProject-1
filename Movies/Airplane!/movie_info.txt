@@ -1,0 +1,11 @@
+Movie Name: Airplane! 
+Movie Year: 1980
+Movie Certificate: PG
+Movie Duration: 88 min
+Movie Genre: 
+Comedy            
+Movie Rating : 7.8
+Directors : Jim Abrahams,David Zucker,Jerry Zucker,
+Actors : Robert Hays,Julie Hagerty,Leslie Nielsen,Kareem Abdul-Jabbar,
+Movie Text: 
+A man afraid to fly must ensure that a plane lands safely after the pilots become sick.

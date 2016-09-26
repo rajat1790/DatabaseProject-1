@@ -1,0 +1,11 @@
+Movie Name: Scrooged 
+Movie Year: 1988
+Movie Certificate: PG-13
+Movie Duration: 101 min
+Movie Genre: 
+Comedy, Drama, Fantasy            
+Movie Rating : 7.0
+Directors : Richard Donner,
+Actors : Bill Murray,Karen Allen,John Forsythe,John Glover,
+Movie Text: 
+A selfish, cynical T.V. executive is haunted by three spirits bearing lessons on Christmas Eve.

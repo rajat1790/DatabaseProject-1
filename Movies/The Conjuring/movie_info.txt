@@ -1,0 +1,11 @@
+Movie Name: The Conjuring 
+Movie Year: 2013
+Movie Certificate: R
+Movie Duration: 112 min
+Movie Genre: 
+Horror, Mystery, Thriller            
+Movie Rating : 7.5
+Directors : James Wan,
+Actors : Patrick Wilson,Vera Farmiga,Ron Livingston,Lili Taylor,
+Movie Text: 
+Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.

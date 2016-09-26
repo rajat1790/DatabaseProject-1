@@ -1,0 +1,11 @@
+Movie Name: Legends of the Fall 
+Movie Year: 1994
+Movie Certificate: R
+Movie Duration: 133 min
+Movie Genre: 
+Drama, Romance, War            
+Movie Rating : 7.5
+Directors : Edward Zwick,
+Actors : Brad Pitt,Anthony Hopkins,Aidan Quinn,Julia Ormond,
+Movie Text: 
+Epic tale of three brothers and their father living in the remote wilderness of 1900s USA and how their lives are affected by nature, history, war, love and betrayal.

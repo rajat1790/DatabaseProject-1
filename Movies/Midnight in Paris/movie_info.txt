@@ -1,0 +1,11 @@
+Movie Name: Midnight in Paris 
+Movie Year: 2011
+Movie Certificate: PG-13
+Movie Duration: 94 min
+Movie Genre: 
+Comedy, Fantasy, Romance            
+Movie Rating : 7.7
+Directors : Woody Allen,
+Actors : Owen Wilson,Rachel McAdams,Kathy Bates,Kurt Fuller,
+Movie Text: 
+While on a trip to Paris with his fiancée's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s everyday at midnight.

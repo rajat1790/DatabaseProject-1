@@ -1,0 +1,11 @@
+Movie Name: The Nightmare Before Christmas 
+Movie Year: 1993
+Movie Certificate: PG
+Movie Duration: 76 min
+Movie Genre: 
+Animation, Family, Fantasy            
+Movie Rating : 8.0
+Directors : Henry Selick,
+Actors : Danny Elfman,Chris Sarandon,Catherine O'Hara,William Hickey,
+Movie Text: 
+Jack Skellington, king of Halloween Town, discovers Christmas Town, but doesn't quite understand the concept.

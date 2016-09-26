@@ -1,0 +1,11 @@
+Movie Name: The Devil's Advocate 
+Movie Year: 1997
+Movie Certificate: R
+Movie Duration: 144 min
+Movie Genre: 
+Drama, Mystery, Thriller            
+Movie Rating : 7.5
+Directors : Taylor Hackford,
+Actors : Keanu Reeves,Al Pacino,Charlize Theron,Jeffrey Jones,
+Movie Text: 
+An exceptionally adept Florida lawyer is offered a job to work in New York City for a high-end law firm with a high-end boss - the biggest opportunity of his career to date.

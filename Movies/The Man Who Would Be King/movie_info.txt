@@ -1,0 +1,11 @@
+Movie Name: The Man Who Would Be King 
+Movie Year: 1975
+Movie Certificate: PG
+Movie Duration: 129 min
+Movie Genre: 
+Adventure            
+Movie Rating : 7.9
+Directors : John Huston,
+Actors : Sean Connery,Michael Caine,Christopher Plummer,Saeed Jaffrey,
+Movie Text: 
+Two British soldiers in India decide to resign from the Army and set themselves up as deities in Kafiristan--a land where no white man has set foot since Alexander.

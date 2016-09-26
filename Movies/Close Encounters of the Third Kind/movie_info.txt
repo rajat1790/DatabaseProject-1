@@ -1,0 +1,11 @@
+Movie Name: Close Encounters of the Third Kind 
+Movie Year: 1977
+Movie Certificate: PG
+Movie Duration: 137 min
+Movie Genre: 
+Drama, Sci-Fi            
+Movie Rating : 7.7
+Directors : Steven Spielberg,
+Actors : Richard Dreyfuss,François Truffaut,Teri Garr,Melinda Dillon,
+Movie Text: 
+After an encounter with U.F.O.s, a line worker feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.

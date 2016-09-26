@@ -1,0 +1,11 @@
+Movie Name: Chopper 
+Movie Year: 2000
+Movie Certificate: Unrated
+Movie Duration: 94 min
+Movie Genre: 
+Biography, Comedy, Crime            
+Movie Rating : 7.2
+Directors : Andrew Dominik,
+Actors : Eric Bana,Simon Lyndon,David Field,Dan Wyllie,
+Movie Text: 
+Chopper tells the intense story of Mark "Chopper" Read, a legendary criminal who wrote his autobiography while serving a jail sentence in prison. His book, "From the Inside", upon which the film is based, was a best-seller.

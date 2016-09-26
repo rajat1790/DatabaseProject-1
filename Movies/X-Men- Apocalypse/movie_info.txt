@@ -1,0 +1,11 @@
+Movie Name: X-Men: Apocalypse 
+Movie Year: 2016
+Movie Certificate: PG-13
+Movie Duration: 144 min
+Movie Genre: 
+Action, Adventure, Sci-Fi            
+Movie Rating : 7.2
+Directors : Bryan Singer,
+Actors : James McAvoy,Michael Fassbender,Jennifer Lawrence,Nicholas Hoult,
+Movie Text: 
+After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.

@@ -1,0 +1,11 @@
+Movie Name: Where Eagles Dare 
+Movie Year: 1968
+Movie Certificate: M
+Movie Duration: 158 min
+Movie Genre: 
+Action, Adventure, War            
+Movie Rating : 7.7
+Directors : Brian G. Hutton,
+Actors : Richard Burton,Clint Eastwood,Mary Ure,Patrick Wymark,
+Movie Text: 
+Allied agents stage a daring raid on a castle where the Nazis are holding an American General prisoner... but that's not all that's really going on.

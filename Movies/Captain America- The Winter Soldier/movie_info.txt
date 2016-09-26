@@ -1,0 +1,11 @@
+Movie Name: Captain America: The Winter Soldier 
+Movie Year: 2014
+Movie Certificate: PG-13
+Movie Duration: 136 min
+Movie Genre: 
+Action, Adventure, Sci-Fi            
+Movie Rating : 7.8
+Directors : Anthony Russo,Joe Russo,
+Actors : Chris Evans,Samuel L. Jackson,Scarlett Johansson,Robert Redford,
+Movie Text: 
+As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.

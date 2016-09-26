@@ -1,0 +1,11 @@
+Movie Name: Arsenic and Old Lace 
+Movie Year: 1944
+Movie Certificate: Not Rated
+Movie Duration: 118 min
+Movie Genre: 
+Comedy, Crime, Thriller            
+Movie Rating : 8.1
+Directors : Frank Capra,
+Actors : Cary Grant,Priscilla Lane,Raymond Massey,Jack Carson,
+Movie Text: 
+A drama critic learns on his wedding day that his beloved maiden aunts are homicidal maniacs, and that insanity runs in his family.

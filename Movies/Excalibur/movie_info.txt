@@ -1,0 +1,11 @@
+Movie Name: Excalibur 
+Movie Year: 1981
+Movie Certificate: R
+Movie Duration: 140 min
+Movie Genre: 
+Adventure, Drama, Fantasy            
+Movie Rating : 7.4
+Directors : John Boorman,
+Actors : Nigel Terry,Helen Mirren,Nicholas Clay,Cherie Lunghi,
+Movie Text: 
+Merlin the magician helps Arthur Pendragon unite the Britons around the round table of Camelot even as forces conspire to tear it apart

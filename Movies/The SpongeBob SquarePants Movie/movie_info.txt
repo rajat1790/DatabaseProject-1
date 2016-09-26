@@ -1,0 +1,11 @@
+Movie Name: The SpongeBob SquarePants Movie 
+Movie Year: 2004
+Movie Certificate: PG
+Movie Duration: 87 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 7.0
+Directors : Stephen Hillenburg,Mark Osborne,
+Actors : Jeffrey Tambor,Rodger Bumpass,Carolyn Lawrence,Clancy Brown,
+Movie Text: 
+SpongeBob SquarePants takes leave from the town of Bikini Bottom in order to track down King Neptune's stolen crown.

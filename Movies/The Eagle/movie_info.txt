@@ -1,0 +1,11 @@
+Movie Name: The Eagle 
+Movie Year: 2011
+Movie Certificate: PG-13
+Movie Duration: 114 min
+Movie Genre: 
+Action, Adventure, Drama            
+Movie Rating : 6.2
+Directors : Kevin Macdonald,
+Actors : Channing Tatum,Jamie Bell,Donald Sutherland,István Göz,
+Movie Text: 
+In Roman-ruled Britain, a young Roman soldier endeavors to honor his father's memory by finding his lost legion's golden emblem.

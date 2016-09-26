@@ -1,0 +1,11 @@
+Movie Name: The Avengers 
+Movie Year: 2012
+Movie Certificate: PG-13
+Movie Duration: 143 min
+Movie Genre: 
+Action, Sci-Fi, Thriller            
+Movie Rating : 8.1
+Directors : Joss Whedon,
+Actors : Robert Downey Jr.,Chris Evans,Scarlett Johansson,Jeremy Renner,
+Movie Text: 
+Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.

@@ -1,0 +1,11 @@
+Movie Name: Cold Mountain 
+Movie Year: 2003
+Movie Certificate: R
+Movie Duration: 154 min
+Movie Genre: 
+Adventure, Drama, History            
+Movie Rating : 7.2
+Directors : Anthony Minghella,
+Actors : Jude Law,Nicole Kidman,Renée Zellweger,Eileen Atkins,
+Movie Text: 
+In the waning days of the American Civil War, a wounded soldier embarks on a perilous journey back home to Cold Mountain, North Carolina to reunite with his sweetheart.

@@ -1,0 +1,11 @@
+Movie Name: American History X 
+Movie Year: 1998
+Movie Certificate: R
+Movie Duration: 119 min
+Movie Genre: 
+Crime, Drama            
+Movie Rating : 8.6
+Directors : Tony Kaye,
+Actors : Edward Norton,Edward Furlong,Beverly D'Angelo,Jennifer Lien,
+Movie Text: 
+A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.

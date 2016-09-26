@@ -1,0 +1,11 @@
+Movie Name: Chinatown 
+Movie Year: 1974
+Movie Certificate: R
+Movie Duration: 130 min
+Movie Genre: 
+Drama, Mystery, Thriller            
+Movie Rating : 8.2
+Directors : Roman Polanski,
+Actors : Jack Nicholson,Faye Dunaway,John Huston,Perry Lopez,
+Movie Text: 
+A private detective hired to expose an adulterer finds himself caught up in a web of deceit, corruption and murder.

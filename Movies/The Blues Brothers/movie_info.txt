@@ -1,0 +1,11 @@
+Movie Name: The Blues Brothers 
+Movie Year: 1980
+Movie Certificate: R
+Movie Duration: 133 min
+Movie Genre: 
+Action, Comedy, Crime            
+Movie Rating : 7.9
+Directors : John Landis,
+Actors : John Belushi,Dan Aykroyd,Cab Calloway,John Candy,
+Movie Text: 
+Jake Blues, just out from prison, puts together his old band to save the Catholic home where he and brother Elwood were raised.

@@ -1,0 +1,11 @@
+Movie Name: The Crucible 
+Movie Year: 1996
+Movie Certificate: PG-13
+Movie Duration: 124 min
+Movie Genre: 
+Drama, History, Romance            
+Movie Rating : 6.8
+Directors : Nicholas Hytner,
+Actors : Daniel Day-Lewis,Winona Ryder,Paul Scofield,Joan Allen,
+Movie Text: 
+A Salem resident attempts to frame her ex-lover's wife for being a witch in the middle of the 1692 witchcraft trials.

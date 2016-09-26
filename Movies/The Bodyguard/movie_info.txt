@@ -1,0 +1,11 @@
+Movie Name: The Bodyguard 
+Movie Year: 1992
+Movie Certificate: R
+Movie Duration: 129 min
+Movie Genre: 
+Action, Drama, Music            
+Movie Rating : 6.1
+Directors : Mick Jackson,
+Actors : Kevin Costner,Whitney Houston,Gary Kemp,Bill Cobbs,
+Movie Text: 
+A former Secret Service agent takes on the job of bodyguard to a pop singer, whose lifestyle is most unlike a President's.

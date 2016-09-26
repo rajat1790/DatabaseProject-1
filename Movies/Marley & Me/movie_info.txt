@@ -1,0 +1,11 @@
+Movie Name: Marley & Me 
+Movie Year: 2008
+Movie Certificate: PG
+Movie Duration: 115 min
+Movie Genre: 
+Comedy, Drama, Family            
+Movie Rating : 7.1
+Directors : David Frankel,
+Actors : Owen Wilson,Jennifer Aniston,Eric Dane,Kathleen Turner,
+Movie Text: 
+A family learns important life lessons from their adorable, but naughty and neurotic dog.

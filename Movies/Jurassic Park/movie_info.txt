@@ -1,0 +1,11 @@
+Movie Name: Jurassic Park 
+Movie Year: 1993
+Movie Certificate: PG-13
+Movie Duration: 127 min
+Movie Genre: 
+Adventure, Sci-Fi, Thriller            
+Movie Rating : 8.1
+Directors : Steven Spielberg,
+Actors : Sam Neill,Laura Dern,Jeff Goldblum,Richard Attenborough,
+Movie Text: 
+During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.

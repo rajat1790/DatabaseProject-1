@@ -1,0 +1,11 @@
+Movie Name: Apocalypse Now 
+Movie Year: 1979
+Movie Certificate: R
+Movie Duration: 153 min
+Movie Genre: 
+Drama, War            
+Movie Rating : 8.5
+Directors : Francis Ford Coppola,
+Actors : Martin Sheen,Marlon Brando,Robert Duvall,Frederic Forrest,
+Movie Text: 
+During the Vietnam War, Captain Willard is sent on a dangerous mission into Cambodia to assassinate a renegade colonel who has set himself up as a god among a local tribe.

@@ -1,0 +1,11 @@
+Movie Name: Unbreakable 
+Movie Year: 2000
+Movie Certificate: PG-13
+Movie Duration: 106 min
+Movie Genre: 
+Drama, Mystery, Sci-Fi            
+Movie Rating : 7.2
+Directors : M. Night Shyamalan,
+Actors : Bruce Willis,Samuel L. Jackson,Robin Wright,Spencer Treat Clark,
+Movie Text: 
+A man learns something extraordinary about himself after a devastating accident.

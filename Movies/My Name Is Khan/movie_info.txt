@@ -1,0 +1,11 @@
+Movie Name: My Name Is Khan 
+Movie Year: 2010
+Movie Certificate: PG-13
+Movie Duration: 165 min
+Movie Genre: 
+Adventure, Drama, Thriller            
+Movie Rating : 8.0
+Directors : Karan Johar,
+Actors : Shah Rukh Khan,Kajol,Sheetal Menon,Katie A. Keane,
+Movie Text: 
+An Indian Muslim man with Asperger's syndrome takes a challenge to speak to the President seriously, and embarks on a cross-country journey.

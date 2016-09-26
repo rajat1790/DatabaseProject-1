@@ -1,0 +1,11 @@
+Movie Name: Constantine 
+Movie Year: 2005
+Movie Certificate: R
+Movie Duration: 121 min
+Movie Genre: 
+Drama, Fantasy, Horror            
+Movie Rating : 6.9
+Directors : Francis Lawrence,
+Actors : Keanu Reeves,Rachel Weisz,Djimon Hounsou,Shia LaBeouf,
+Movie Text: 
+Supernatural detective John Constantine helps a detective prove her sisters death was not a suicide, but something more.

@@ -1,0 +1,11 @@
+Movie Name: Dumbo 
+Movie Year: 1941
+Movie Certificate: Approved
+Movie Duration: 64 min
+Movie Genre: 
+Animation, Drama, Family            
+Movie Rating : 7.3
+Directors : Samuel Armstrong,Norman Ferguson,Wilfred Jackson,Jack Kinney,Bill Roberts,Ben Sharpsteen,John Elliotte,
+Actors : Sterling Holloway,Edward Brophy,James Baskett,Herman Bing,
+Movie Text: 
+Ridiculed because of his enormous ears, a young circus elephant is assisted by a mouse to achieve his full potential.

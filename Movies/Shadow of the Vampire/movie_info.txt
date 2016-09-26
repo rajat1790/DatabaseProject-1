@@ -1,0 +1,11 @@
+Movie Name: Shadow of the Vampire 
+Movie Year: 2000
+Movie Certificate: R
+Movie Duration: 92 min
+Movie Genre: 
+Drama, Horror            
+Movie Rating : 6.9
+Directors : E. Elias Merhige,
+Actors : John Malkovich,Willem Dafoe,Udo Kier,Cary Elwes,
+Movie Text: 
+The filming of Nosferatu (1922) is hampered by the fact that its star Max Schreck is taking the role of a vampire far more seriously than seems humanly possible.

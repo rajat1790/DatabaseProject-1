@@ -1,0 +1,11 @@
+Movie Name: Caligula 
+Movie Year: 1979
+Movie Certificate: Unrated
+Movie Duration: 156 min
+Movie Genre: 
+Drama, History            
+Movie Rating : 5.3
+Directors : Tinto Brass,Bob Guccione,Giancarlo Lui,
+Actors : Malcolm McDowell,Peter O'Toole,Helen Mirren,Teresa Ann Savoy,
+Movie Text: 
+Details the graphic and shocking, yet undeniably tragic story of Rome's most infamous Caesar, Gaius Germanicus Caligula.

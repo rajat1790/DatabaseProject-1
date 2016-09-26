@@ -1,0 +1,11 @@
+Movie Name: The Benchwarmers 
+Movie Year: 2006
+Movie Certificate: PG-13
+Movie Duration: 80 min
+Movie Genre: 
+Comedy, Romance, Sport            
+Movie Rating : 5.6
+Directors : Dennis Dugan,
+Actors : David Spade,Jon Heder,Rob Schneider,Jon Lovitz,
+Movie Text: 
+A trio of guys try and make up for missed opportunities in childhood by forming a three-player baseball team to compete against standard children baseball squads.

@@ -1,0 +1,11 @@
+Movie Name: Mystic River 
+Movie Year: 2003
+Movie Certificate: R
+Movie Duration: 138 min
+Movie Genre: 
+Crime, Drama, Mystery            
+Movie Rating : 8.0
+Directors : Clint Eastwood,
+Actors : Sean Penn,Tim Robbins,Kevin Bacon,Emmy Rossum,
+Movie Text: 
+With a childhood tragedy that overshadowed their lives, three men are reunited by circumstance when one has a family tragedy.

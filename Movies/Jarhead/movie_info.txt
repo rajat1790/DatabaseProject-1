@@ -1,0 +1,11 @@
+Movie Name: Jarhead 
+Movie Year: 2005
+Movie Certificate: R
+Movie Duration: 125 min
+Movie Genre: 
+Action, Drama, War            
+Movie Rating : 7.1
+Directors : Sam Mendes,
+Actors : Jake Gyllenhaal,Jamie Foxx,Lucas Black,Scott MacDonald,
+Movie Text: 
+A psychological study of operations desert shield and desert storm during the gulf war; through the eyes of a U.S marine sniper who struggles to cope with the possibility his girlfriend may be cheating on him back home.

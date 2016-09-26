@@ -1,0 +1,11 @@
+Movie Name: Pitch Perfect 2 
+Movie Year: 2015
+Movie Certificate: PG-13
+Movie Duration: 115 min
+Movie Genre: 
+Comedy, Music            
+Movie Rating : 6.5
+Directors : Elizabeth Banks,
+Actors : Anna Kendrick,Rebel Wilson,Hailee Steinfeld,Brittany Snow,
+Movie Text: 
+After a humiliating command performance at The Kennedy Center, the Barden Bellas enter an international competition that no American group has ever won in order to regain their status and right to perform.

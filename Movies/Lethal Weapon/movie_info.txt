@@ -1,0 +1,11 @@
+Movie Name: Lethal Weapon 
+Movie Year: 1987
+Movie Certificate: R
+Movie Duration: 110 min
+Movie Genre: 
+Action, Crime, Thriller            
+Movie Rating : 7.6
+Directors : Richard Donner,
+Actors : Mel Gibson,Danny Glover,Gary Busey,Mitchell Ryan,
+Movie Text: 
+A veteran cop, Murtaugh, is partnered with a young suicidal cop, Riggs. Both having one thing in common; hating working in pairs. Now they must learn to work with one another to stop a gang of drug smugglers.

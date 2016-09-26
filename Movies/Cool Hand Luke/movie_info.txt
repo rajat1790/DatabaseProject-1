@@ -1,0 +1,11 @@
+Movie Name: Cool Hand Luke 
+Movie Year: 1967
+Movie Certificate: PG
+Movie Duration: 126 min
+Movie Genre: 
+Drama            
+Movie Rating : 8.2
+Directors : Stuart Rosenberg,
+Actors : Paul Newman,George Kennedy,Strother Martin,J.D. Cannon,
+Movie Text: 
+A man refuses to conform to life in a rural prison.

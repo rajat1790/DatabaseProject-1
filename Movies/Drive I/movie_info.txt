@@ -1,0 +1,11 @@
+Movie Name: Drive I
+Movie Year: 2011
+Movie Certificate: R
+Movie Duration: 100 min
+Movie Genre: 
+Crime, Drama            
+Movie Rating : 7.8
+Directors : Nicolas Winding Refn,
+Actors : Ryan Gosling,Carey Mulligan,Bryan Cranston,Albert Brooks,
+Movie Text: 
+A mysterious Hollywood stuntman and mechanic moonlights as a getaway driver and finds himself trouble when he helps out his neighbor.

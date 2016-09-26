@@ -1,0 +1,11 @@
+Movie Name: Draft Day I
+Movie Year: 2014
+Movie Certificate: R
+Movie Duration: 110 min
+Movie Genre: 
+Drama, Sport            
+Movie Rating : 6.8
+Directors : Ivan Reitman,
+Actors : Kevin Costner,Chadwick Boseman,Jennifer Garner,Frank Langella,
+Movie Text: 
+At the NFL Draft, general manager Sonny Weaver has the opportunity to rebuild his team when he trades for the number one pick. He must decide what he's willing to sacrifice on a life-changing day for a few hundred young men with NFL dreams.

@@ -1,0 +1,11 @@
+Movie Name: Happy Gilmore 
+Movie Year: 1996
+Movie Certificate: PG-13
+Movie Duration: 92 min
+Movie Genre: 
+Comedy, Sport            
+Movie Rating : 7.0
+Directors : Dennis Dugan,
+Actors : Adam Sandler,Christopher McDonald,Julie Bowen,Frances Bay,
+Movie Text: 
+A rejected hockey player puts his skills to the golf course to save his grandmother's house.

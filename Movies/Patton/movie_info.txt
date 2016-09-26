@@ -1,0 +1,11 @@
+Movie Name: Patton 
+Movie Year: 1970
+Movie Certificate: GP
+Movie Duration: 172 min
+Movie Genre: 
+Biography, Drama, War            
+Movie Rating : 8.0
+Directors : Franklin J. Schaffner,
+Actors : George C. Scott,Karl Malden,Stephen Young,Michael Strong,
+Movie Text: 
+The World War II phase of the career of the controversial American general, George S. Patton.

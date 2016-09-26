@@ -1,0 +1,11 @@
+Movie Name: La Haine 
+Movie Year: 1995
+Movie Certificate: Not Rated
+Movie Duration: 98 min
+Movie Genre: 
+Crime, Drama            
+Movie Rating : 8.1
+Directors : Mathieu Kassovitz,
+Actors : Vincent Cassel,Hubert Koundé,Saïd Taghmaoui,Abdel Ahmed Ghili,
+Movie Text: 
+24 hours in the lives of three young men in the French suburbs the day after a violent riot.

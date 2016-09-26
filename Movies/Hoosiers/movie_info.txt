@@ -1,0 +1,11 @@
+Movie Name: Hoosiers 
+Movie Year: 1986
+Movie Certificate: PG
+Movie Duration: 114 min
+Movie Genre: 
+Drama, Sport            
+Movie Rating : 7.6
+Directors : David Anspaugh,
+Actors : Gene Hackman,Barbara Hershey,Dennis Hopper,Sheb Wooley,
+Movie Text: 
+A coach with a checkered past and a local drunk train a small town high school basketball team to become a top contender for the championship.

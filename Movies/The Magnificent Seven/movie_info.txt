@@ -1,0 +1,11 @@
+Movie Name: The Magnificent Seven 
+Movie Year: 1960
+Movie Certificate: Approved
+Movie Duration: 128 min
+Movie Genre: 
+Action, Adventure, Western            
+Movie Rating : 7.8
+Directors : John Sturges,
+Actors : Yul Brynner,Steve McQueen,Charles Bronson,Eli Wallach,
+Movie Text: 
+An oppressed Mexican peasant village assembles seven gunfighters to help defend their homes.

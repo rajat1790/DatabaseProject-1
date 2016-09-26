@@ -1,0 +1,11 @@
+Movie Name: Chariots of Fire 
+Movie Year: 1981
+Movie Certificate: PG
+Movie Duration: 125 min
+Movie Genre: 
+Biography, Drama, Sport            
+Movie Rating : 7.2
+Directors : Hugh Hudson,
+Actors : Ben Cross,Ian Charleson,Nicholas Farrell,Nigel Havers,
+Movie Text: 
+Two British track athletes, one a determined Jew and the other a devout Christian, compete in the 1924 Olympics.

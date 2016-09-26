@@ -1,0 +1,11 @@
+Movie Name: Finding Nemo 
+Movie Year: 2003
+Movie Certificate: G
+Movie Duration: 100 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 8.2
+Directors : Andrew Stanton,Lee Unkrich,
+Actors : Albert Brooks,Ellen DeGeneres,Alexander Gould,Willem Dafoe,
+Movie Text: 
+After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.

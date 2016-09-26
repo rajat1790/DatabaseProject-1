@@ -1,0 +1,11 @@
+Movie Name: Airheads 
+Movie Year: 1994
+Movie Certificate: PG-13
+Movie Duration: 92 min
+Movie Genre: 
+Comedy, Crime, Music            
+Movie Rating : 6.0
+Directors : Michael Lehmann,
+Actors : Brendan Fraser,Steve Buscemi,Adam Sandler,Chris Farley,
+Movie Text: 
+Three band members hoping for a big break head to a radio station to play their demo tape and wind up holding everyone hostage with plastic guns when the head DJ refuses to play them.

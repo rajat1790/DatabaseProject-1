@@ -1,0 +1,11 @@
+Movie Name: Legend I
+Movie Year: 2015
+Movie Certificate: R
+Movie Duration: 132 min
+Movie Genre: 
+Biography, Crime, Drama            
+Movie Rating : 7.0
+Directors : Brian Helgeland,
+Actors : Tom Hardy,Emily Browning,Taron Egerton,Paul Anderson,
+Movie Text: 
+Identical twin gangsters Ronald and Reginald Kray terrorize London during the 1960s.

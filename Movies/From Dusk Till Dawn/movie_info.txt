@@ -1,0 +1,11 @@
+Movie Name: From Dusk Till Dawn 
+Movie Year: 1996
+Movie Certificate: R
+Movie Duration: 108 min
+Movie Genre: 
+Action, Crime, Fantasy            
+Movie Rating : 7.3
+Directors : Robert Rodriguez,
+Actors : Harvey Keitel,George Clooney,Juliette Lewis,Quentin Tarantino,
+Movie Text: 
+Two criminals and their hostages unknowingly seek temporary refuge in an establishment populated by vampires, with chaotic results.

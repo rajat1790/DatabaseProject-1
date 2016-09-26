@@ -1,0 +1,11 @@
+Movie Name: The English Patient 
+Movie Year: 1996
+Movie Certificate: R
+Movie Duration: 162 min
+Movie Genre: 
+Drama, Romance, War            
+Movie Rating : 7.4
+Directors : Anthony Minghella,
+Actors : Ralph Fiennes,Juliette Binoche,Willem Dafoe,Kristin Scott Thomas,
+Movie Text: 
+At the close of WWII, a young nurse tends to a badly-burned plane crash victim. His past is shown in flashbacks, revealing an involvement in a fateful love affair.

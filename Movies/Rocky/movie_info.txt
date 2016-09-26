@@ -1,0 +1,11 @@
+Movie Name: Rocky 
+Movie Year: 1976
+Movie Certificate: PG
+Movie Duration: 120 min
+Movie Genre: 
+Drama, Sport            
+Movie Rating : 8.1
+Directors : John G. Avildsen,
+Actors : Sylvester Stallone,Talia Shire,Burt Young,Carl Weathers,
+Movie Text: 
+Rocky Balboa, a small-time boxer, gets a supremely rare chance to fight the heavy-weight champion, Apollo Creed, in a bout in which he strives to go the distance for his self-respect.

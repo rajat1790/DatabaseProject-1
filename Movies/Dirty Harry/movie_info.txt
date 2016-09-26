@@ -1,0 +1,11 @@
+Movie Name: Dirty Harry 
+Movie Year: 1971
+Movie Certificate: R
+Movie Duration: 102 min
+Movie Genre: 
+Action, Crime, Drama            
+Movie Rating : 7.8
+Directors : Don Siegel,
+Actors : Clint Eastwood,Andrew Robinson,Harry Guardino,Reni Santoni,
+Movie Text: 
+When a mad man calling himself 'the Scorpio Killer' menaces the city, tough as nails San Francisco Police Inspector Harry Callahan is assigned to track down and ferret out the crazed psychopath.

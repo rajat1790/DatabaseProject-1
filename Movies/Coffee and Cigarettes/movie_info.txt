@@ -1,0 +1,11 @@
+Movie Name: Coffee and Cigarettes 
+Movie Year: 2003
+Movie Certificate: R
+Movie Duration: 95 min
+Movie Genre: 
+Comedy, Drama, Music            
+Movie Rating : 7.1
+Directors : Jim Jarmusch,
+Actors : Bill Murray,Tom Waits,Roberto Benigni,RZA,
+Movie Text: 
+A series of vignettes that all have coffee and cigarettes in common.

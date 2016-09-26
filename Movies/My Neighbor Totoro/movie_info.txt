@@ -1,0 +1,11 @@
+Movie Name: My Neighbor Totoro 
+Movie Year: 1988
+Movie Certificate: G
+Movie Duration: 86 min
+Movie Genre: 
+Animation, Family, Fantasy            
+Movie Rating : 8.2
+Directors : Hayao Miyazaki,
+Actors : Hitoshi Takagi,Noriko Hidaka,Chika Sakamoto,Shigesato Itoi,
+Movie Text: 
+When two girls move to the country to be near their ailing mother, they have adventures with the wonderous forest spirits who live nearby.

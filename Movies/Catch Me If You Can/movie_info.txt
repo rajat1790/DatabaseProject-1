@@ -1,0 +1,11 @@
+Movie Name: Catch Me If You Can 
+Movie Year: 2002
+Movie Certificate: PG-13
+Movie Duration: 141 min
+Movie Genre: 
+Biography, Crime, Drama            
+Movie Rating : 8.0
+Directors : Steven Spielberg,
+Actors : Leonardo DiCaprio,Tom Hanks,Christopher Walken,Martin Sheen,
+Movie Text: 
+The true story of Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars' worth of checks as a Pan Am pilot, doctor, and legal prosecutor.

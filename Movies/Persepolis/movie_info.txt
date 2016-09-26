@@ -1,0 +1,11 @@
+Movie Name: Persepolis 
+Movie Year: 2007
+Movie Certificate: PG-13
+Movie Duration: 96 min
+Movie Genre: 
+Animation, Biography, Drama            
+Movie Rating : 8.0
+Directors : Vincent Paronnaud,Marjane Satrapi,
+Actors : Chiara Mastroianni,Catherine Deneuve,Gena Rowlands,Danielle Darrieux,
+Movie Text: 
+A precocious and outspoken Iranian girl grows up during the Islamic Revolution.

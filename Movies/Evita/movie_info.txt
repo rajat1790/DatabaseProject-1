@@ -1,0 +1,11 @@
+Movie Name: Evita 
+Movie Year: 1996
+Movie Certificate: PG
+Movie Duration: 135 min
+Movie Genre: 
+Biography, Drama, History            
+Movie Rating : 6.3
+Directors : Alan Parker,
+Actors : Madonna,Jonathan Pryce,Antonio Banderas,Jimmy Nail,
+Movie Text: 
+The hit musical based on the life of Evita Duarte, a B-picture Argentinian actress who eventually became the wife of Argentinian president Juan Perón, and the most beloved and hated woman in Argentina.

@@ -1,0 +1,11 @@
+Movie Name: The Evil Dead 
+Movie Year: 1981
+Movie Certificate: NC-17
+Movie Duration: 85 min
+Movie Genre: 
+Fantasy, Horror            
+Movie Rating : 7.6
+Directors : Sam Raimi,
+Actors : Bruce Campbell,Ellen Sandweiss,Richard DeManincor,Betsy Baker,
+Movie Text: 
+Five friends travel to a cabin in the woods, where they unknowingly release flesh-possessing demons.

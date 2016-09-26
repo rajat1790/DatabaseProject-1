@@ -1,0 +1,11 @@
+Movie Name: Hairspray 
+Movie Year: 2007
+Movie Certificate: PG
+Movie Duration: 117 min
+Movie Genre: 
+Comedy, Drama, Family            
+Movie Rating : 6.7
+Directors : Adam Shankman,
+Actors : John Travolta,Queen Latifah,Nikki Blonsky,Michelle Pfeiffer,
+Movie Text: 
+Pleasantly plump teenager Tracy Turnblad teaches 1962 Baltimore a thing or two about integration after landing a spot on a local TV dance show.

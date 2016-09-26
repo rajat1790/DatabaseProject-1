@@ -1,0 +1,11 @@
+Movie Name: Born on the Fourth of July 
+Movie Year: 1989
+Movie Certificate: R
+Movie Duration: 145 min
+Movie Genre: 
+Biography, Drama, War            
+Movie Rating : 7.2
+Directors : Oliver Stone,
+Actors : Tom Cruise,Raymond J. Barry,Caroline Kava,Josh Evans,
+Movie Text: 
+The biography of Ron Kovic. Paralyzed in the Vietnam war, he becomes an anti-war and pro-human rights political activist after feeling betrayed by the country he fought for.

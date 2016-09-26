@@ -1,0 +1,11 @@
+Movie Name: The Physician 
+Movie Year: 2013
+Movie Certificate: R
+Movie Duration: 150 min
+Movie Genre: 
+Adventure, Drama, History            
+Movie Rating : 7.2
+Directors : Philipp Stölzl,
+Actors : Tom Payne,Stellan Skarsgård,Olivier Martinez,Emma Rigby,
+Movie Text: 
+In Persia in the 11th Century, a surgeon's apprentice disguises himself as a Jew to study at a school that does not admit Christians.

@@ -1,0 +1,11 @@
+Movie Name: Mary and Max 
+Movie Year: 2009
+Movie Certificate: Not Rated
+Movie Duration: 92 min
+Movie Genre: 
+Animation, Comedy, Drama            
+Movie Rating : 8.2
+Directors : Adam Elliot,
+Actors : Toni Collette,Philip Seymour Hoffman,Eric Bana,Barry Humphries,
+Movie Text: 
+A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.

@@ -1,0 +1,11 @@
+Movie Name: Ocean's Eleven 
+Movie Year: 2001
+Movie Certificate: PG-13
+Movie Duration: 116 min
+Movie Genre: 
+Crime, Thriller            
+Movie Rating : 7.8
+Directors : Steven Soderbergh,
+Actors : George Clooney,Brad Pitt,Julia Roberts,Matt Damon,
+Movie Text: 
+Danny Ocean and his eleven accomplices plan to rob three Las Vegas casinos simultaneously.

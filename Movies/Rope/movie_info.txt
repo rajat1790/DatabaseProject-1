@@ -1,0 +1,11 @@
+Movie Name: Rope 
+Movie Year: 1948
+Movie Certificate: Approved
+Movie Duration: 80 min
+Movie Genre: 
+Crime, Drama, Film-Noir            
+Movie Rating : 8.0
+Directors : Alfred Hitchcock,
+Actors : James Stewart,John Dall,Farley Granger,Edith Evanson,
+Movie Text: 
+Two young men strangle their "inferior" classmate, hide his body in their apartment, and invite his friends and family to a dinner party as a means to challenge the "perfection" of their crime.

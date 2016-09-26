@@ -1,0 +1,11 @@
+Movie Name: Appaloosa 
+Movie Year: 2008
+Movie Certificate: R
+Movie Duration: 115 min
+Movie Genre: 
+Crime, Drama, Romance            
+Movie Rating : 6.8
+Directors : Ed Harris,
+Actors : Ed Harris,Viggo Mortensen,Renée Zellweger,Jeremy Irons,
+Movie Text: 
+Two friends hired to police a small town that is suffering under the rule of a rancher find their job complicated by the arrival of a young widow.

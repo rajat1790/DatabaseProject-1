@@ -1,0 +1,11 @@
+Movie Name: Remember the Titans 
+Movie Year: 2000
+Movie Certificate: PG
+Movie Duration: 113 min
+Movie Genre: 
+Biography, Drama, Sport            
+Movie Rating : 7.8
+Directors : Boaz Yakin,
+Actors : Denzel Washington,Will Patton,Wood Harris,Ryan Hurst,
+Movie Text: 
+The true story of a newly appointed African-American coach and his high school team on their first season as a racially integrated unit.

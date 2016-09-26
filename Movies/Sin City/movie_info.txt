@@ -1,0 +1,11 @@
+Movie Name: Sin City 
+Movie Year: 2005
+Movie Certificate: R
+Movie Duration: 124 min
+Movie Genre: 
+Crime, Thriller            
+Movie Rating : 8.1
+Directors : Frank Miller,Robert Rodriguez,Quentin Tarantino,
+Actors : Mickey Rourke,Clive Owen,Bruce Willis,Jessica Alba,
+Movie Text: 
+A film that explores the dark and miserable town, Basin City, and tells the story of three different people, all caught up in violent corruption.

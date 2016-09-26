@@ -1,0 +1,11 @@
+Movie Name: A Bridge Too Far 
+Movie Year: 1977
+Movie Certificate: PG
+Movie Duration: 175 min
+Movie Genre: 
+Drama, History, War            
+Movie Rating : 7.4
+Directors : Richard Attenborough,
+Actors : Sean Connery,Ryan O'Neal,Michael Caine,Laurence Olivier,
+Movie Text: 
+Operation Market Garden, September 1944: The Allies attempt to capture several strategically important bridges in the Netherlands in the hope of breaking the German lines. However, mismanagement and poor planning result in its failure.

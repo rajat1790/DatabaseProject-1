@@ -1,0 +1,11 @@
+Movie Name: Being John Malkovich 
+Movie Year: 1999
+Movie Certificate: R
+Movie Duration: 112 min
+Movie Genre: 
+Comedy, Drama, Fantasy            
+Movie Rating : 7.8
+Directors : Spike Jonze,
+Actors : John Cusack,Cameron Diaz,Catherine Keener,John Malkovich,
+Movie Text: 
+A puppeteer discovers a portal that leads literally into the head of movie star John Malkovich.

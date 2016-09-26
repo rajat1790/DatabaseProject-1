@@ -1,0 +1,11 @@
+Movie Name: Life of Brian 
+Movie Year: 1979
+Movie Certificate: R
+Movie Duration: 94 min
+Movie Genre: 
+Comedy            
+Movie Rating : 8.1
+Directors : Terry Jones,
+Actors : Graham Chapman,John Cleese,Michael Palin,Terry Gilliam,
+Movie Text: 
+Brian is born on the original Christmas, in the stable next door. He spends his life being mistaken for a messiah.

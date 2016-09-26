@@ -1,0 +1,11 @@
+Movie Name: Monty Python and the Holy Grail 
+Movie Year: 1975
+Movie Certificate: PG
+Movie Duration: 91 min
+Movie Genre: 
+Adventure, Comedy, Fantasy            
+Movie Rating : 8.3
+Directors : Terry Gilliam,Terry Jones,
+Actors : Graham Chapman,John Cleese,Eric Idle,Terry Gilliam,
+Movie Text: 
+King Arthur and his knights embark on a low-budget search for the Grail, encountering many, very silly obstacles.

@@ -1,0 +1,11 @@
+Movie Name: Monster 
+Movie Year: 2003
+Movie Certificate: R
+Movie Duration: 109 min
+Movie Genre: 
+Biography, Crime, Drama            
+Movie Rating : 7.3
+Directors : Patty Jenkins,
+Actors : Charlize Theron,Christina Ricci,Bruce Dern,Lee Tergesen,
+Movie Text: 
+Based on the life of Aileen Wuornos, a Daytona Beach prostitute who became a serial killer.

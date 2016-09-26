@@ -1,0 +1,11 @@
+Movie Name: Big Hero 6 
+Movie Year: 2014
+Movie Certificate: PG
+Movie Duration: 102 min
+Movie Genre: 
+Animation, Action, Adventure            
+Movie Rating : 7.9
+Directors : Don Hall,Chris Williams,
+Actors : Ryan Potter,Scott Adsit,Jamie Chung,T.J. Miller,
+Movie Text: 
+The special bond that develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.

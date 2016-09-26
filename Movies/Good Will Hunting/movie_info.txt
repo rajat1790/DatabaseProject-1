@@ -1,0 +1,11 @@
+Movie Name: Good Will Hunting 
+Movie Year: 1997
+Movie Certificate: R
+Movie Duration: 126 min
+Movie Genre: 
+Drama            
+Movie Rating : 8.3
+Directors : Gus Van Sant,
+Actors : Robin Williams,Matt Damon,Ben Affleck,Stellan Skarsgård,
+Movie Text: 
+Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.

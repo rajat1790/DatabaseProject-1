@@ -1,0 +1,11 @@
+Movie Name: West Side Story 
+Movie Year: 1961
+Movie Certificate: Unrated
+Movie Duration: 152 min
+Movie Genre: 
+Crime, Drama, Musical            
+Movie Rating : 7.6
+Directors : Jerome Robbins,Robert Wise,
+Actors : Natalie Wood,George Chakiris,Richard Beymer,Russ Tamblyn,
+Movie Text: 
+Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.

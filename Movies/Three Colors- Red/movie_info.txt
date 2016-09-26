@@ -1,0 +1,11 @@
+Movie Name: Three Colors: Red 
+Movie Year: 1994
+Movie Certificate: R
+Movie Duration: 99 min
+Movie Genre: 
+Drama, Mystery, Romance            
+Movie Rating : 8.1
+Directors : Krzysztof Kieslowski,
+Actors : Irène Jacob,Jean-Louis Trintignant,Frédérique Feder,Jean-Pierre Lorit,
+Movie Text: 
+Final entry in a trilogy of films dealing with contemporary French society concerns a model who discovers her neighbour is keen on invading people's privacy.

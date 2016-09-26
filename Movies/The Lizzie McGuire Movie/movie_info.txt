@@ -1,0 +1,11 @@
+Movie Name: The Lizzie McGuire Movie 
+Movie Year: 2003
+Movie Certificate: PG
+Movie Duration: 94 min
+Movie Genre: 
+Adventure, Comedy, Family            
+Movie Rating : 5.4
+Directors : Jim Fall,
+Actors : Hilary Duff,Adam Lamberg,Clayton Snyder,Hallie Todd,
+Movie Text: 
+Lizzie McGuire has graduated from middle school and takes a trip to Rome, Italy with her class. And what was supposed to be only a normal trip, becomes a teenager's dream come true.

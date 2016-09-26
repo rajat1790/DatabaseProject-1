@@ -1,0 +1,11 @@
+Movie Name: Flags of Our Fathers 
+Movie Year: 2006
+Movie Certificate: R
+Movie Duration: 135 min
+Movie Genre: 
+Drama, History, War            
+Movie Rating : 7.1
+Directors : Clint Eastwood,
+Actors : Ryan Phillippe,Barry Pepper,Joseph Cross,Jesse Bradford,
+Movie Text: 
+The life stories of the six men who raised the flag at The Battle of Iwo Jima, a turning point in WWII.

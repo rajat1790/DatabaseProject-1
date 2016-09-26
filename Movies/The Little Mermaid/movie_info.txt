@@ -1,0 +1,11 @@
+Movie Name: The Little Mermaid 
+Movie Year: 1989
+Movie Certificate: G
+Movie Duration: 83 min
+Movie Genre: 
+Animation, Family, Fantasy            
+Movie Rating : 7.6
+Directors : Ron Clements,John Musker,
+Actors : Jodi Benson,Rene Auberjonois,Christopher Daniel Barnes,Pat Carroll,
+Movie Text: 
+A mermaid princess makes a Faustian bargain with an unscrupulous sea-witch in order to meet a human prince on land.

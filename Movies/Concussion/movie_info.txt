@@ -1,0 +1,11 @@
+Movie Name: Concussion 
+Movie Year: 2015
+Movie Certificate: PG-13
+Movie Duration: 123 min
+Movie Genre: 
+Biography, Drama, Sport            
+Movie Rating : 7.1
+Directors : Peter Landesman,
+Actors : Will Smith,Alec Baldwin,Albert Brooks,David Morse,
+Movie Text: 
+In Pittsburgh, accomplished pathologist Dr. Bennet Omalu uncovers the truth about brain damage in football players who suffer repeated concussions in the course of normal play.

@@ -1,0 +1,11 @@
+Movie Name: Little Miss Sunshine 
+Movie Year: 2006
+Movie Certificate: R
+Movie Duration: 101 min
+Movie Genre: 
+Comedy, Drama            
+Movie Rating : 7.9
+Directors : Jonathan Dayton,Valerie Faris,
+Actors : Steve Carell,Toni Collette,Greg Kinnear,Abigail Breslin,
+Movie Text: 
+A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus.

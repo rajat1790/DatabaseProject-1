@@ -1,0 +1,11 @@
+Movie Name: The Graduate 
+Movie Year: 1967
+Movie Certificate: Approved
+Movie Duration: 106 min
+Movie Genre: 
+Comedy, Drama, Romance            
+Movie Rating : 8.0
+Directors : Mike Nichols,
+Actors : Dustin Hoffman,Anne Bancroft,Katharine Ross,William Daniels,
+Movie Text: 
+A disillusioned college graduate finds himself torn between his older lover and her daughter.

@@ -1,0 +1,11 @@
+Movie Name: Charade 
+Movie Year: 1963
+Movie Certificate: Not Rated
+Movie Duration: 113 min
+Movie Genre: 
+Comedy, Mystery, Romance            
+Movie Rating : 8.0
+Directors : Stanley Donen,
+Actors : Cary Grant,Audrey Hepburn,Walter Matthau,James Coburn,
+Movie Text: 
+Romance and suspense ensue in Paris as a woman is pursued by several men who want a fortune her murdered husband had stolen. Who can she trust?

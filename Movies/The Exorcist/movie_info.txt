@@ -1,0 +1,11 @@
+Movie Name: The Exorcist 
+Movie Year: 1973
+Movie Certificate: R
+Movie Duration: 122 min
+Movie Genre: 
+Horror            
+Movie Rating : 8.0
+Directors : William Friedkin,
+Actors : Ellen Burstyn,Max von Sydow,Linda Blair,Lee J. Cobb,
+Movie Text: 
+When a teenage girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.

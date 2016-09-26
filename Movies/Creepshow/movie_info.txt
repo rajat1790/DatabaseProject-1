@@ -1,0 +1,11 @@
+Movie Name: Creepshow 
+Movie Year: 1982
+Movie Certificate: R
+Movie Duration: 120 min
+Movie Genre: 
+Comedy, Fantasy, Horror            
+Movie Rating : 6.9
+Directors : George A. Romero,
+Actors : Hal Holbrook,Leslie Nielsen,Adrienne Barbeau,E.G. Marshall,
+Movie Text: 
+An anthology which tells five terrifying tales based on the E.C. horror comic books of the 1950s.

@@ -1,0 +1,11 @@
+Movie Name: K-19: The Widowmaker 
+Movie Year: 2002
+Movie Certificate: PG-13
+Movie Duration: 138 min
+Movie Genre: 
+Drama, History, Thriller            
+Movie Rating : 6.7
+Directors : Kathryn Bigelow,
+Actors : Harrison Ford,Sam Spruell,Peter Stebbings,Christian Camargo,
+Movie Text: 
+When Russia's first nuclear submarine malfunctions on its maiden voyage, the crew must race to save the ship and prevent a nuclear disaster.

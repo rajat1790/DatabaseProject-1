@@ -1,0 +1,11 @@
+Movie Name: Speed Racer 
+Movie Year: 2008
+Movie Certificate: PG
+Movie Duration: 135 min
+Movie Genre: 
+Action, Family, Sci-Fi            
+Movie Rating : 6.1
+Directors : Lana Wachowski,Lilly Wachowski,
+Actors : Emile Hirsch,Matthew Fox,Christina Ricci,Nicholas Elia,
+Movie Text: 
+A young driver, Speed Racer, aspires to be champion of the racing world with the help of his family and his high-tech Mach 5 automobile.

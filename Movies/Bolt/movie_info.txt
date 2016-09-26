@@ -1,0 +1,11 @@
+Movie Name: Bolt 
+Movie Year: 2008
+Movie Certificate: PG
+Movie Duration: 96 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 6.9
+Directors : Byron Howard,Chris Williams,
+Actors : John Travolta,Miley Cyrus,Susie Essman,Mark Walton,
+Movie Text: 
+The canine star of a fictional sci-fi/action show that believes his powers are real embarks on a cross country trek to save his co-star from a threat he believes is just as real.

@@ -1,0 +1,11 @@
+Movie Name: Blow 
+Movie Year: 2001
+Movie Certificate: R
+Movie Duration: 124 min
+Movie Genre: 
+Biography, Crime, Drama            
+Movie Rating : 7.6
+Directors : Ted Demme,
+Actors : Johnny Depp,Penélope Cruz,Franka Potente,Rachel Griffiths,
+Movie Text: 
+The story of George Jung, the man who established the American cocaine market in the 1970s.

@@ -1,0 +1,11 @@
+Movie Name: Miracle 
+Movie Year: 2004
+Movie Certificate: PG
+Movie Duration: 135 min
+Movie Genre: 
+Biography, Drama, History            
+Movie Rating : 7.5
+Directors : Gavin O'Connor,
+Actors : Kurt Russell,Patricia Clarkson,Nathan West,Noah Emmerich,
+Movie Text: 
+Miracle tells the true story of Herb Brooks (Russell), the player-turned-coach who led the 1980 U.S. Olympic hockey team to victory over the seemingly invincible Russian squad.

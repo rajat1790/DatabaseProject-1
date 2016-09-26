@@ -1,0 +1,11 @@
+Movie Name: Freaks 
+Movie Year: 1932
+Movie Certificate: Unrated
+Movie Duration: 64 min
+Movie Genre: 
+Drama, Horror            
+Movie Rating : 8.0
+Directors : Tod Browning,
+Actors : Wallace Ford,Leila Hyams,Olga Baclanova,Roscoe Ates,
+Movie Text: 
+A circus' beautiful trapeze artist agrees to marry the leader of side-show performers, but his deformed friends discover she is only marrying him for his inheritance.

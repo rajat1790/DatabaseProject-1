@@ -1,0 +1,11 @@
+Movie Name: The Texas Chain Saw Massacre 
+Movie Year: 1974
+Movie Certificate: R
+Movie Duration: 83 min
+Movie Genre: 
+Horror, Thriller            
+Movie Rating : 7.5
+Directors : Tobe Hooper,
+Actors : Marilyn Burns,Edwin Neal,Allen Danziger,Paul A. Partain,
+Movie Text: 
+Two siblings visit their grandfather's grave in Texas along with three of their friends and are attacked by a family of cannibalistic psychopaths.

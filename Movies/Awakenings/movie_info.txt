@@ -1,0 +1,11 @@
+Movie Name: Awakenings 
+Movie Year: 1990
+Movie Certificate: PG-13
+Movie Duration: 121 min
+Movie Genre: 
+Biography, Drama            
+Movie Rating : 7.8
+Directors : Penny Marshall,
+Actors : Robert De Niro,Robin Williams,Julie Kavner,Ruth Nelson,
+Movie Text: 
+The victims of an encephalitis epidemic many years ago have been catatonic ever since, but now a new drug offers the prospect of reviving them.

@@ -1,0 +1,11 @@
+Movie Name: Young Guns 
+Movie Year: 1988
+Movie Certificate: R
+Movie Duration: 107 min
+Movie Genre: 
+Action, Crime, Drama            
+Movie Rating : 6.8
+Directors : Christopher Cain,
+Actors : Emilio Estevez,Kiefer Sutherland,Lou Diamond Phillips,Charlie Sheen,
+Movie Text: 
+A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.

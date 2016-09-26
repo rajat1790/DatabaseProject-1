@@ -1,0 +1,11 @@
+Movie Name: Slap Shot 
+Movie Year: 1977
+Movie Certificate: R
+Movie Duration: 123 min
+Movie Genre: 
+Comedy, Drama, Sport            
+Movie Rating : 7.4
+Directors : George Roy Hill,
+Actors : Paul Newman,Michael Ontkean,Strother Martin,Jennifer Warren,
+Movie Text: 
+A failing ice hockey team finds success using constant fighting and violence during games.

@@ -1,0 +1,11 @@
+Movie Name: Jerry Maguire 
+Movie Year: 1996
+Movie Certificate: R
+Movie Duration: 139 min
+Movie Genre: 
+Comedy, Drama, Romance            
+Movie Rating : 7.3
+Directors : Cameron Crowe,
+Actors : Tom Cruise,Cuba Gooding Jr.,Renée Zellweger,Kelly Preston,
+Movie Text: 
+When a sports agent has a moral epiphany and is fired for expressing it, he decides to put his new philosophy to the test as an independent with the only athlete who stays with him.

@@ -1,0 +1,11 @@
+Movie Name: The Mist 
+Movie Year: 2007
+Movie Certificate: R
+Movie Duration: 126 min
+Movie Genre: 
+Horror            
+Movie Rating : 7.2
+Directors : Frank Darabont,
+Actors : Thomas Jane,Marcia Gay Harden,Laurie Holden,Andre Braugher,
+Movie Text: 
+A freak storm unleashes a species of blood-thirsty creatures on a small town, where a small band of citizens hole up in a supermarket and fight for their lives.

@@ -1,0 +1,11 @@
+Movie Name: Eight Below 
+Movie Year: 2006
+Movie Certificate: PG
+Movie Duration: 120 min
+Movie Genre: 
+Adventure, Drama, Family            
+Movie Rating : 7.3
+Directors : Frank Marshall,
+Actors : Paul Walker,Jason Biggs,Bruce Greenwood,Moon Bloodgood,
+Movie Text: 
+Brutal cold forces two Antarctic explorers to leave their team of sled dogs behind as they fend for their survival.

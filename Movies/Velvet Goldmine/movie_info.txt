@@ -1,0 +1,11 @@
+Movie Name: Velvet Goldmine 
+Movie Year: 1998
+Movie Certificate: R
+Movie Duration: 124 min
+Movie Genre: 
+Drama, Music            
+Movie Rating : 7.0
+Directors : Todd Haynes,
+Actors : Ewan McGregor,Jonathan Rhys Meyers,Christian Bale,Toni Collette,
+Movie Text: 
+In 1984, British journalist Arthur Stuart investigates the career of 1970s glam superstar Brian Slade, who was heavily influenced in his early years by hard-living and rebellious American singer Curt Wild.

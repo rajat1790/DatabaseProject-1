@@ -1,0 +1,11 @@
+Movie Name: Agora 
+Movie Year: 2009
+Movie Certificate: R
+Movie Duration: 127 min
+Movie Genre: 
+Adventure, Drama, History            
+Movie Rating : 7.2
+Directors : Alejandro Amenábar,
+Actors : Rachel Weisz,Max Minghella,Oscar Isaac,Ashraf Barhom,
+Movie Text: 
+A historical drama set in Roman Egypt, concerning a slave who turns to the rising tide of Christianity in the hope of pursuing freedom while falling in love with his mistress, the famous philosophy and mathematics professor Hypatia of Alexandria.

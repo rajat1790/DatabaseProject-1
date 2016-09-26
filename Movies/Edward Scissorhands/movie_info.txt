@@ -1,0 +1,11 @@
+Movie Name: Edward Scissorhands 
+Movie Year: 1990
+Movie Certificate: PG-13
+Movie Duration: 105 min
+Movie Genre: 
+Drama, Fantasy, Romance            
+Movie Rating : 7.9
+Directors : Tim Burton,
+Actors : Johnny Depp,Winona Ryder,Dianne Wiest,Anthony Michael Hall,
+Movie Text: 
+A gentle man, with scissors for hands, is brought into a new community after living in isolation.

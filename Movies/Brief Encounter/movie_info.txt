@@ -1,0 +1,11 @@
+Movie Name: Brief Encounter 
+Movie Year: 1945
+Movie Certificate: Not Rated
+Movie Duration: 86 min
+Movie Genre: 
+Drama, Romance            
+Movie Rating : 8.1
+Directors : David Lean,
+Actors : Celia Johnson,Trevor Howard,Stanley Holloway,Joyce Carey,
+Movie Text: 
+Meeting a stranger in a railway station, a woman is tempted to cheat on her husband.

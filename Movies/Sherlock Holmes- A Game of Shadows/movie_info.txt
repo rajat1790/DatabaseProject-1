@@ -1,0 +1,11 @@
+Movie Name: Sherlock Holmes: A Game of Shadows 
+Movie Year: 2011
+Movie Certificate: PG-13
+Movie Duration: 129 min
+Movie Genre: 
+Action, Adventure, Crime            
+Movie Rating : 7.5
+Directors : Guy Ritchie,
+Actors : Robert Downey Jr.,Jude Law,Jared Harris,Rachel McAdams,
+Movie Text: 
+Sherlock Holmes and his sidekick Dr. Watson join forces to outwit and bring down their fiercest adversary, Professor Moriarty.

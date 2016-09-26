@@ -1,0 +1,11 @@
+Movie Name: Mr. Holland's Opus 
+Movie Year: 1995
+Movie Certificate: PG
+Movie Duration: 143 min
+Movie Genre: 
+Drama, Music            
+Movie Rating : 7.3
+Directors : Stephen Herek,
+Actors : Richard Dreyfuss,Glenne Headly,Jay Thomas,Olympia Dukakis,
+Movie Text: 
+A frustrated composer finds fulfillment as a high school music teacher.

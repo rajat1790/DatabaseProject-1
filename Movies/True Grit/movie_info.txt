@@ -1,0 +1,11 @@
+Movie Name: True Grit 
+Movie Year: 2010
+Movie Certificate: PG-13
+Movie Duration: 110 min
+Movie Genre: 
+Adventure, Drama, Western            
+Movie Rating : 7.7
+Directors : Ethan Coen,Joel Coen,
+Actors : Jeff Bridges,Matt Damon,Hailee Steinfeld,Josh Brolin,
+Movie Text: 
+A tough U.S. Marshal helps a stubborn teenager track down her father's murderer.

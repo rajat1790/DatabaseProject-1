@@ -1,0 +1,11 @@
+Movie Name: The African Queen 
+Movie Year: 1951
+Movie Certificate: PG
+Movie Duration: 105 min
+Movie Genre: 
+Adventure, Drama, Romance            
+Movie Rating : 7.9
+Directors : John Huston,
+Actors : Humphrey Bogart,Katharine Hepburn,Robert Morley,Peter Bull,
+Movie Text: 
+In Africa during WWI, a gin-swilling riverboat captain is persuaded by a strait-laced missionary to use his boat to attack an enemy warship.

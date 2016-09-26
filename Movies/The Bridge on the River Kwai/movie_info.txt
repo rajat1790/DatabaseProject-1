@@ -1,0 +1,11 @@
+Movie Name: The Bridge on the River Kwai 
+Movie Year: 1957
+Movie Certificate: PG
+Movie Duration: 161 min
+Movie Genre: 
+Adventure, Drama, War            
+Movie Rating : 8.2
+Directors : David Lean,
+Actors : William Holden,Alec Guinness,Jack Hawkins,Sessue Hayakawa,
+Movie Text: 
+After settling his differences with a Japanese PoW camp commander, a British colonel co-operates to oversee his men's construction of a railway bridge for their captors - while oblivious to a plan by the Allies to destroy it.

@@ -1,0 +1,11 @@
+Movie Name: Hart's War 
+Movie Year: 2002
+Movie Certificate: R
+Movie Duration: 125 min
+Movie Genre: 
+Drama, War            
+Movie Rating : 6.3
+Directors : Gregory Hoblit,
+Actors : Bruce Willis,Colin Farrell,Terrence Howard,Cole Hauser,
+Movie Text: 
+A law student becomes a lieutenant during World War II, is captured and asked to defend a black prisoner of war falsely accused of murder.

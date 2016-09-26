@@ -1,0 +1,11 @@
+Movie Name: La Vie en Rose 
+Movie Year: 2007
+Movie Certificate: PG-13
+Movie Duration: 140 min
+Movie Genre: 
+Biography, Drama, Music            
+Movie Rating : 7.6
+Directors : Olivier Dahan,
+Actors : Marion Cotillard,Sylvie Testud,Pascal Greggory,Emmanuelle Seigner,
+Movie Text: 
+The life story of singer Édith Piaf.

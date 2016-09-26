@@ -1,0 +1,11 @@
+Movie Name: The Producers 
+Movie Year: 2005
+Movie Certificate: PG-13
+Movie Duration: 134 min
+Movie Genre: 
+Comedy, Musical            
+Movie Rating : 6.4
+Directors : Susan Stroman,
+Actors : Nathan Lane,Matthew Broderick,Uma Thurman,Will Ferrell,
+Movie Text: 
+After putting together another Broadway flop, down-on-his-luck producer Max Bialystock teams up with timid accountant Leo Bloom in a get-rich-quick scheme to put on the world's worst show.

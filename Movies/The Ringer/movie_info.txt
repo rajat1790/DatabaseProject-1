@@ -1,0 +1,11 @@
+Movie Name: The Ringer 
+Movie Year: 2005
+Movie Certificate: PG-13
+Movie Duration: 94 min
+Movie Genre: 
+Comedy, Sport            
+Movie Rating : 5.8
+Directors : Barry W. Blaustein,
+Actors : Johnny Knoxville,Katherine Heigl,Brian Cox,Jed Rees,
+Movie Text: 
+A young guy's only option to erase a really bad debt is to rig the Special Olympics by posing as a contestant.

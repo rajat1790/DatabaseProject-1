@@ -1,0 +1,11 @@
+Movie Name: The Finest Hours 
+Movie Year: 2016
+Movie Certificate: PG-13
+Movie Duration: 117 min
+Movie Genre: 
+Action, Drama, History            
+Movie Rating : 6.8
+Directors : Craig Gillespie,
+Actors : Chris Pine,Casey Affleck,Ben Foster,Eric Bana,
+Movie Text: 
+The Coast Guard makes a daring rescue attempt off the coast of Cape Cod after a pair of oil tankers are destroyed during a blizzard in 1952.

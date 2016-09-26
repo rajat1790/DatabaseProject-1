@@ -1,0 +1,11 @@
+Movie Name: Pinocchio 
+Movie Year: 1940
+Movie Certificate: Approved
+Movie Duration: 88 min
+Movie Genre: 
+Animation, Family, Fantasy            
+Movie Rating : 7.5
+Directors : Norman Ferguson,T. Hee,Wilfred Jackson,Jack Kinney,Hamilton Luske,Bill Roberts,Ben Sharpsteen,
+Actors : Dickie Jones,Christian Rub,Mel Blanc,Don Brodie,
+Movie Text: 
+A living puppet, with the help of a cricket as his conscience, must prove himself worthy to become a real boy.

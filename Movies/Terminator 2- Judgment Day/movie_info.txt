@@ -1,0 +1,11 @@
+Movie Name: Terminator 2: Judgment Day 
+Movie Year: 1991
+Movie Certificate: R
+Movie Duration: 137 min
+Movie Genre: 
+Action, Sci-Fi, Thriller            
+Movie Rating : 8.5
+Directors : James Cameron,
+Actors : Arnold Schwarzenegger,Linda Hamilton,Edward Furlong,Robert Patrick,
+Movie Text: 
+A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her young son, John Connor, from a more advanced cyborg, made out of liquid metal.

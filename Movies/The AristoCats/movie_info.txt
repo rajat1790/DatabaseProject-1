@@ -1,0 +1,11 @@
+Movie Name: The AristoCats 
+Movie Year: 1970
+Movie Certificate: G
+Movie Duration: 78 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 7.1
+Directors : Wolfgang Reitherman,
+Actors : Phil Harris,Eva Gabor,Sterling Holloway,Scatman Crothers,
+Movie Text: 
+With the help of a smooth talking tomcat, a family of Parisian felines set to inherit a fortune from their owner try to make it back home after a jealous butler kidnaps them and leaves them in the country.

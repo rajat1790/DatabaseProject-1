@@ -1,0 +1,11 @@
+Movie Name: 13 Hours 
+Movie Year: 2016
+Movie Certificate: R
+Movie Duration: 144 min
+Movie Genre: 
+Action, Drama, Thriller            
+Movie Rating : 7.3
+Directors : Michael Bay,
+Actors : John Krasinski,Pablo Schreiber,James Badge Dale,David Denman,
+Movie Text: 
+During an attack on a U.S. compound in Libya, a security team struggles to make sense out of the chaos.

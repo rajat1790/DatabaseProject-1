@@ -1,0 +1,11 @@
+Movie Name: Monsters, Inc. 
+Movie Year: 2001
+Movie Certificate: G
+Movie Duration: 92 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 8.1
+Directors : Pete Docter,David Silverman,Lee Unkrich,
+Actors : Billy Crystal,John Goodman,Mary Gibbs,Steve Buscemi,
+Movie Text: 
+In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think.

@@ -1,0 +1,11 @@
+Movie Name: The Motorcycle Diaries 
+Movie Year: 2004
+Movie Certificate: R
+Movie Duration: 126 min
+Movie Genre: 
+Adventure, Biography, Drama            
+Movie Rating : 7.8
+Directors : Walter Salles,
+Actors : Gael García Bernal,Rodrigo De la Serna,Mía Maestro,Mercedes Morán,
+Movie Text: 
+The dramatization of a motorcycle road trip Che Guevara went on in his youth that showed him his life's calling.

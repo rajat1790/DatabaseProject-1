@@ -1,0 +1,11 @@
+Movie Name: Coriolanus 
+Movie Year: 2011
+Movie Certificate: R
+Movie Duration: 123 min
+Movie Genre: 
+Drama, Thriller, War            
+Movie Rating : 6.2
+Directors : Ralph Fiennes,
+Actors : Ralph Fiennes,Gerard Butler,Brian Cox,Lubna Azabal,
+Movie Text: 
+A banished hero of Rome allies with a sworn enemy to take his revenge on the city.

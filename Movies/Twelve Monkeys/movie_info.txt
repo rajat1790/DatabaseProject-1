@@ -1,0 +1,11 @@
+Movie Name: Twelve Monkeys 
+Movie Year: 1995
+Movie Certificate: R
+Movie Duration: 129 min
+Movie Genre: 
+Mystery, Sci-Fi, Thriller            
+Movie Rating : 8.1
+Directors : Terry Gilliam,
+Actors : Bruce Willis,Madeleine Stowe,Brad Pitt,Joseph Melito,
+Movie Text: 
+In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.

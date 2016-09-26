@@ -1,0 +1,11 @@
+Movie Name: Finding Dory 
+Movie Year: 2016
+Movie Certificate: PG
+Movie Duration: 97 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 7.8
+Directors : Andrew Stanton,Angus MacLane,
+Actors : Ellen DeGeneres,Albert Brooks,Ed O'Neill,Kaitlin Olson,
+Movie Text: 
+The friendly but forgetful blue tang fish begins a search for her long-lost parents, and everyone learns a few things about the real meaning of family along the way.

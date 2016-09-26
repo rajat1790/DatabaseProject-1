@@ -1,0 +1,11 @@
+Movie Name: They Live 
+Movie Year: 1988
+Movie Certificate: R
+Movie Duration: 93 min
+Movie Genre: 
+Horror, Sci-Fi, Thriller            
+Movie Rating : 7.3
+Directors : John Carpenter,
+Actors : Roddy Piper,Keith David,Meg Foster,George 'Buck' Flower,
+Movie Text: 
+A drifter discovers a pair of sunglasses that allow him to wake up to the fact that aliens have taken over the Earth.

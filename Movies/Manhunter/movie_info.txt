@@ -1,0 +1,11 @@
+Movie Name: Manhunter 
+Movie Year: 1986
+Movie Certificate: R
+Movie Duration: 119 min
+Movie Genre: 
+Crime, Horror, Mystery            
+Movie Rating : 7.2
+Directors : Michael Mann,
+Actors : William Petersen,Kim Greist,Joan Allen,Brian Cox,
+Movie Text: 
+Former FBI profiler Will Graham returns to service to pursue a deranged serial murderer named "the Tooth Fairy" by the media.

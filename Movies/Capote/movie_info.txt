@@ -1,0 +1,11 @@
+Movie Name: Capote 
+Movie Year: 2005
+Movie Certificate: R
+Movie Duration: 114 min
+Movie Genre: 
+Biography, Crime, Drama            
+Movie Rating : 7.4
+Directors : Bennett Miller,
+Actors : Philip Seymour Hoffman,Clifton Collins Jr.,Catherine Keener,Allie Mickelson,
+Movie Text: 
+In 1959, Truman Capote learns of the murder of a Kansas family and decides to write a book about the case. While researching for his novel In Cold Blood, Capote forms a relationship with one of the killers, Perry Smith, who is on death row.

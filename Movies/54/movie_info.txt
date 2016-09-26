@@ -1,0 +1,11 @@
+Movie Name: 54 
+Movie Year: 1998
+Movie Certificate: R
+Movie Duration: 93 min
+Movie Genre: 
+Drama, Music, Romance            
+Movie Rating : 5.8
+Directors : Mark Christopher,
+Actors : Ryan Phillippe,Salma Hayek,Sela Ward,Breckin Meyer,
+Movie Text: 
+Famous 70s NYC nightclub seen and told through the eyes of a young employee.

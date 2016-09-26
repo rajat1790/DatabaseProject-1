@@ -1,0 +1,11 @@
+Movie Name: Dog Day Afternoon 
+Movie Year: 1975
+Movie Certificate: R
+Movie Duration: 125 min
+Movie Genre: 
+Crime, Drama            
+Movie Rating : 8.0
+Directors : Sidney Lumet,
+Actors : Al Pacino,John Cazale,Penelope Allen,Sully Boyar,
+Movie Text: 
+A man robs a bank to pay for his lover's operation; it turns into a hostage situation and a media circus.

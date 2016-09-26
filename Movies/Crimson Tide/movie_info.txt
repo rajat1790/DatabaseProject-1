@@ -1,0 +1,11 @@
+Movie Name: Crimson Tide 
+Movie Year: 1995
+Movie Certificate: R
+Movie Duration: 116 min
+Movie Genre: 
+Action, Drama, Thriller            
+Movie Rating : 7.3
+Directors : Tony Scott,
+Actors : Gene Hackman,Denzel Washington,Matt Craven,George Dzundza,
+Movie Text: 
+On a US nuclear missile sub, a young first officer stages a mutiny to prevent his trigger happy captain from launching his missiles before confirming his orders to do so.

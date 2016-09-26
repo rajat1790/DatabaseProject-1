@@ -1,0 +1,11 @@
+Movie Name: Hellraiser 
+Movie Year: 1987
+Movie Certificate: R
+Movie Duration: 94 min
+Movie Genre: 
+Fantasy, Horror            
+Movie Rating : 7.0
+Directors : Clive Barker,
+Actors : Andrew Robinson,Clare Higgins,Ashley Laurence,Sean Chapman,
+Movie Text: 
+An unfaithful wife encounters the zombie of her dead lover; demons are pursuing him after he escaped their sadomasochistic underworld.

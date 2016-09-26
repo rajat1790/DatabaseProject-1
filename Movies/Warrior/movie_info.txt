@@ -1,0 +1,11 @@
+Movie Name: Warrior 
+Movie Year: 2011
+Movie Certificate: PG-13
+Movie Duration: 140 min
+Movie Genre: 
+Drama, Sport            
+Movie Rating : 8.2
+Directors : Gavin O'Connor,
+Actors : Tom Hardy,Nick Nolte,Joel Edgerton,Jennifer Morrison,
+Movie Text: 
+The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.

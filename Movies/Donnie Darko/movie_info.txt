@@ -1,0 +1,11 @@
+Movie Name: Donnie Darko 
+Movie Year: 2001
+Movie Certificate: R
+Movie Duration: 113 min
+Movie Genre: 
+Drama, Sci-Fi, Thriller            
+Movie Rating : 8.1
+Directors : Richard Kelly,
+Actors : Jake Gyllenhaal,Jena Malone,Mary McDonnell,Holmes Osborne,
+Movie Text: 
+A troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes, after narrowly escaping a bizarre accident.

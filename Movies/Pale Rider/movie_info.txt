@@ -1,0 +1,11 @@
+Movie Name: Pale Rider 
+Movie Year: 1985
+Movie Certificate: R
+Movie Duration: 115 min
+Movie Genre: 
+Western            
+Movie Rating : 7.3
+Directors : Clint Eastwood,
+Actors : Clint Eastwood,Michael Moriarty,Carrie Snodgress,Sydney Penny,
+Movie Text: 
+A mysterious preacher protects a humble prospector village from a greedy mining company trying to encroach on their land.

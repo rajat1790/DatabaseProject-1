@@ -1,0 +1,11 @@
+Movie Name: Turbo 
+Movie Year: 2013
+Movie Certificate: PG
+Movie Duration: 96 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 6.5
+Directors : David Soren,
+Actors : Ryan Reynolds,Paul Giamatti,Maya Rudolph,Samuel L. Jackson,
+Movie Text: 
+A freak accident might just help an everyday garden snail achieve his biggest dream: winning the Indy 500.

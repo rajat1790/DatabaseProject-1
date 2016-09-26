@@ -1,0 +1,11 @@
+Movie Name: [Rec] 
+Movie Year: 2007
+Movie Certificate: R
+Movie Duration: 78 min
+Movie Genre: 
+Horror            
+Movie Rating : 7.5
+Directors : Jaume Balagueró,Paco Plaza,
+Actors : Manuela Velasco,Ferran Terraza,Jorge-Yamam Serrano,Pablo Rosso,
+Movie Text: 
+A television reporter and cameraman follow emergency workers into a dark apartment building and are quickly locked inside with something terrifying.

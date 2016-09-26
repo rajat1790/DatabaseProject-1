@@ -1,0 +1,11 @@
+Movie Name: The Dark Knight Rises 
+Movie Year: 2012
+Movie Certificate: PG-13
+Movie Duration: 164 min
+Movie Genre: 
+Action, Thriller            
+Movie Rating : 8.5
+Directors : Christopher Nolan,
+Actors : Christian Bale,Tom Hardy,Anne Hathaway,Gary Oldman,
+Movie Text: 
+Eight years after the Joker's reign of anarchy, the Dark Knight, with the help of the enigmatic Catwoman, is forced from his imposed exile to save Gotham City, now on the edge of total annihilation, from the brutal guerrilla terrorist Bane.

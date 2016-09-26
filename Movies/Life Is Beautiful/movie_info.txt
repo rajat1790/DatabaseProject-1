@@ -1,0 +1,11 @@
+Movie Name: Life Is Beautiful 
+Movie Year: 1997
+Movie Certificate: PG-13
+Movie Duration: 116 min
+Movie Genre: 
+Comedy, Drama, War            
+Movie Rating : 8.6
+Directors : Roberto Benigni,
+Actors : Roberto Benigni,Nicoletta Braschi,Giorgio Cantarini,Giustino Durano,
+Movie Text: 
+When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp.

@@ -1,0 +1,11 @@
+Movie Name: Mary Poppins 
+Movie Year: 1964
+Movie Certificate: Approved
+Movie Duration: 139 min
+Movie Genre: 
+Comedy, Family, Fantasy            
+Movie Rating : 7.8
+Directors : Robert Stevenson,
+Actors : Julie Andrews,Dick Van Dyke,David Tomlinson,Glynis Johns,
+Movie Text: 
+A magic nanny comes to work for a cold banker's unhappy family.

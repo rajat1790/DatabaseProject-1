@@ -1,0 +1,11 @@
+Movie Name: In Bruges 
+Movie Year: 2008
+Movie Certificate: R
+Movie Duration: 107 min
+Movie Genre: 
+Comedy, Crime, Drama            
+Movie Rating : 8.0
+Directors : Martin McDonagh,
+Actors : Colin Farrell,Brendan Gleeson,Ciarán Hinds,Elizabeth Berrington,
+Movie Text: 
+Guilt-stricken after a job gone wrong, hitman Ray and his partner await orders from their ruthless boss in Bruges, Belgium, the last place in the world Ray wants to be.

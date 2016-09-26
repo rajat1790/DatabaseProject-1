@@ -1,0 +1,11 @@
+Movie Name: Adam's Apples 
+Movie Year: 2005
+Movie Certificate: R
+Movie Duration: 94 min
+Movie Genre: 
+Comedy, Crime, Drama            
+Movie Rating : 7.8
+Directors : Anders Thomas Jensen,
+Actors : Ulrich Thomsen,Mads Mikkelsen,Nicolas Bro,Paprika Steen,
+Movie Text: 
+A neo-nazi sentenced to community service at a church clashes with the blindly devotional priest.

@@ -1,0 +1,11 @@
+Movie Name: Laura 
+Movie Year: 1944
+Movie Certificate: Approved
+Movie Duration: 88 min
+Movie Genre: 
+Crime, Drama, Film-Noir            
+Movie Rating : 8.1
+Directors : Otto Preminger,
+Actors : Gene Tierney,Dana Andrews,Clifton Webb,Vincent Price,
+Movie Text: 
+A police detective falls in love with the woman whose murder he is investigating.

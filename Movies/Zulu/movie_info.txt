@@ -1,0 +1,11 @@
+Movie Name: Zulu 
+Movie Year: 1964
+Movie Certificate: Unrated
+Movie Duration: 138 min
+Movie Genre: 
+Drama, History, War            
+Movie Rating : 7.8
+Directors : Cy Endfield,
+Actors : Stanley Baker,Jack Hawkins,Ulla Jacobsson,James Booth,
+Movie Text: 
+Outnumbered British soldiers do battle with Zulu warriors at Rorke's Drift.

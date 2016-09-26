@@ -1,0 +1,11 @@
+Movie Name: The Fan 
+Movie Year: 1996
+Movie Certificate: R
+Movie Duration: 116 min
+Movie Genre: 
+Action, Drama, Sport            
+Movie Rating : 5.8
+Directors : Tony Scott,
+Actors : Robert De Niro,Wesley Snipes,Ellen Barkin,John Leguizamo,
+Movie Text: 
+An all star baseball player becomes the unhealthy focus of a down on his luck salesman.

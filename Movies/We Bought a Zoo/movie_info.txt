@@ -1,0 +1,11 @@
+Movie Name: We Bought a Zoo 
+Movie Year: 2011
+Movie Certificate: PG
+Movie Duration: 124 min
+Movie Genre: 
+Comedy, Drama, Family            
+Movie Rating : 7.1
+Directors : Cameron Crowe,
+Actors : Matt Damon,Scarlett Johansson,Thomas Haden Church,Elle Fanning,
+Movie Text: 
+Set in Southern California, a father moves his young family to the countryside to renovate and re-open a struggling zoo.

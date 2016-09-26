@@ -1,0 +1,11 @@
+Movie Name: Dead Poets Society 
+Movie Year: 1989
+Movie Certificate: PG
+Movie Duration: 128 min
+Movie Genre: 
+Comedy, Drama            
+Movie Rating : 8.0
+Directors : Peter Weir,
+Actors : Robin Williams,Robert Sean Leonard,Ethan Hawke,Josh Charles,
+Movie Text: 
+English teacher John Keating inspires his students to look at poetry with a different perspective of authentic knowledge and feelings.

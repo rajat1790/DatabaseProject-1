@@ -1,0 +1,11 @@
+Movie Name: Silver Linings Playbook 
+Movie Year: 2012
+Movie Certificate: R
+Movie Duration: 122 min
+Movie Genre: 
+Comedy, Drama, Romance            
+Movie Rating : 7.8
+Directors : David O. Russell,
+Actors : Bradley Cooper,Jennifer Lawrence,Robert De Niro,Jacki Weaver,
+Movie Text: 
+After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own.

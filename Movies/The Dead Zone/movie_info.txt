@@ -1,0 +1,11 @@
+Movie Name: The Dead Zone 
+Movie Year: 1983
+Movie Certificate: R
+Movie Duration: 103 min
+Movie Genre: 
+Horror, Sci-Fi, Thriller            
+Movie Rating : 7.2
+Directors : David Cronenberg,
+Actors : Christopher Walken,Brooke Adams,Tom Skerritt,Herbert Lom,
+Movie Text: 
+A man awakens from a coma to discover he has a psychic detective ability.

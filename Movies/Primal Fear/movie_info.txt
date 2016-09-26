@@ -1,0 +1,11 @@
+Movie Name: Primal Fear 
+Movie Year: 1996
+Movie Certificate: R
+Movie Duration: 129 min
+Movie Genre: 
+Crime, Drama, Mystery            
+Movie Rating : 7.7
+Directors : Gregory Hoblit,
+Actors : Richard Gere,Laura Linney,Edward Norton,John Mahoney,
+Movie Text: 
+An altar boy is accused of murdering a priest, and the truth is buried several layers deep.

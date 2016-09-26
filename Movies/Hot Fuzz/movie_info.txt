@@ -1,0 +1,11 @@
+Movie Name: Hot Fuzz 
+Movie Year: 2007
+Movie Certificate: R
+Movie Duration: 121 min
+Movie Genre: 
+Action, Comedy, Mystery            
+Movie Rating : 7.9
+Directors : Edgar Wright,
+Actors : Simon Pegg,Nick Frost,Martin Freeman,Bill Nighy,
+Movie Text: 
+Exceptional London cop Nicholas Angel is involuntarily transferred to a quaint English village and paired with a witless new partner. While on the beat, Nicholas suspects a sinister conspiracy is afoot with the residents.

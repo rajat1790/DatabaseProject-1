@@ -1,0 +1,11 @@
+Movie Name: Casino 
+Movie Year: 1995
+Movie Certificate: R
+Movie Duration: 178 min
+Movie Genre: 
+Biography, Crime, Drama            
+Movie Rating : 8.2
+Directors : Martin Scorsese,
+Actors : Robert De Niro,Sharon Stone,Joe Pesci,James Woods,
+Movie Text: 
+Greed, deception, money, power, and murder occur between two best friends, a mafia underboss and a casino owner, for a trophy wife over a gambling empire.

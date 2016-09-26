@@ -1,0 +1,11 @@
+Movie Name: X-Men: Days of Future Past 
+Movie Year: 2014
+Movie Certificate: PG-13
+Movie Duration: 132 min
+Movie Genre: 
+Action, Adventure, Sci-Fi            
+Movie Rating : 8.0
+Directors : Bryan Singer,
+Actors : Patrick Stewart,Ian McKellen,Hugh Jackman,James McAvoy,
+Movie Text: 
+The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants.

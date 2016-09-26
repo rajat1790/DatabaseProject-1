@@ -1,0 +1,11 @@
+Movie Name: Alvin and the Chipmunks 
+Movie Year: 2007
+Movie Certificate: PG
+Movie Duration: 92 min
+Movie Genre: 
+Animation, Comedy, Family            
+Movie Rating : 5.2
+Directors : Tim Hill,
+Actors : Jason Lee,David Cross,Cameron Richardson,Jane Lynch,
+Movie Text: 
+A struggling songwriter named Dave Seville finds success when he comes across a trio of singing chipmunks: mischievous leader Alvin, brainy Simon, and chubby, impressionable Theodore.

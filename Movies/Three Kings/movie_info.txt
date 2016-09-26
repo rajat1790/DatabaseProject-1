@@ -1,0 +1,11 @@
+Movie Name: Three Kings 
+Movie Year: 1999
+Movie Certificate: R
+Movie Duration: 114 min
+Movie Genre: 
+Action, Adventure, Comedy            
+Movie Rating : 7.1
+Directors : David O. Russell,
+Actors : George Clooney,Mark Wahlberg,Ice Cube,Spike Jonze,
+Movie Text: 
+In the aftermath of the Persian Gulf War, 4 soldiers set out to steal gold that was stolen from Kuwait, but they discover people who desperately need their help.

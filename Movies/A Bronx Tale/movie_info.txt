@@ -1,0 +1,11 @@
+Movie Name: A Bronx Tale 
+Movie Year: 1993
+Movie Certificate: R
+Movie Duration: 121 min
+Movie Genre: 
+Crime, Drama            
+Movie Rating : 7.8
+Directors : Robert De Niro,
+Actors : Robert De Niro,Chazz Palminteri,Lillo Brancato,Francis Capra,
+Movie Text: 
+A father becomes worried when a local gangster befriends his son in the Bronx in the 1960s.

@@ -1,0 +1,11 @@
+Movie Name: American Gangster 
+Movie Year: 2007
+Movie Certificate: R
+Movie Duration: 157 min
+Movie Genre: 
+Biography, Crime, Drama            
+Movie Rating : 7.8
+Directors : Ridley Scott,
+Actors : Denzel Washington,Russell Crowe,Chiwetel Ejiofor,Josh Brolin,
+Movie Text: 
+In 1970s America, a detective works to bring down the drug empire of Frank Lucas, a heroin kingpin from Manhattan, who is smuggling the drug into the country from the Far East.

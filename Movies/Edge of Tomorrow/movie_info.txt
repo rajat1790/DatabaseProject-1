@@ -1,0 +1,11 @@
+Movie Name: Edge of Tomorrow 
+Movie Year: 2014
+Movie Certificate: PG-13
+Movie Duration: 113 min
+Movie Genre: 
+Action, Adventure, Sci-Fi            
+Movie Rating : 7.9
+Directors : Doug Liman,
+Actors : Tom Cruise,Emily Blunt,Bill Paxton,Brendan Gleeson,
+Movie Text: 
+A soldier fighting aliens gets to relive the same day over and over again, the day restarting every time he dies.

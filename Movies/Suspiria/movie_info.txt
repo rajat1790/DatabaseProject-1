@@ -1,0 +1,11 @@
+Movie Name: Suspiria 
+Movie Year: 1977
+Movie Certificate: R
+Movie Duration: 92 min
+Movie Genre: 
+Horror, Mystery            
+Movie Rating : 7.5
+Directors : Dario Argento,
+Actors : Jessica Harper,Stefania Casini,Flavio Bucci,Miguel Bosé,
+Movie Text: 
+A newcomer to a fancy ballet academy gradually comes to realize that the school is a front for something far more sinister and supernatural amidst a series of grisly murders.

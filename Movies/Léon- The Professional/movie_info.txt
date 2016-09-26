@@ -1,0 +1,11 @@
+Movie Name: Léon: The Professional 
+Movie Year: 1994
+Movie Certificate: R
+Movie Duration: 110 min
+Movie Genre: 
+Crime, Drama, Thriller            
+Movie Rating : 8.6
+Directors : Luc Besson,
+Actors : Jean Reno,Gary Oldman,Natalie Portman,Danny Aiello,
+Movie Text: 
+Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. Léon and Mathilda form an unusual relationship, as she becomes his protégée and learns the assassin's trade.

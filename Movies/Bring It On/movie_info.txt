@@ -1,0 +1,11 @@
+Movie Name: Bring It On 
+Movie Year: 2000
+Movie Certificate: PG-13
+Movie Duration: 98 min
+Movie Genre: 
+Comedy, Sport            
+Movie Rating : 5.9
+Directors : Peyton Reed,
+Actors : Kirsten Dunst,Eliza Dushku,Jesse Bradford,Gabrielle Union,
+Movie Text: 
+A champion high school cheerleading squad discovers its previous captain stole all their best routines from an inner-city school and must scramble to compete at this year's championships.

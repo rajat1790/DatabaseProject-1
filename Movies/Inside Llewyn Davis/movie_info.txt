@@ -1,0 +1,11 @@
+Movie Name: Inside Llewyn Davis 
+Movie Year: 2013
+Movie Certificate: R
+Movie Duration: 104 min
+Movie Genre: 
+Drama, Music            
+Movie Rating : 7.4
+Directors : Ethan Coen,Joel Coen,
+Actors : Oscar Isaac,Carey Mulligan,John Goodman,Garrett Hedlund,
+Movie Text: 
+A week in the life of a young singer as he navigates the Greenwich Village folk scene of 1961.

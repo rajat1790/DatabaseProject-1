@@ -1,0 +1,11 @@
+Movie Name: Green Zone 
+Movie Year: 2010
+Movie Certificate: R
+Movie Duration: 115 min
+Movie Genre: 
+Action, Drama, Thriller            
+Movie Rating : 6.9
+Directors : Paul Greengrass,
+Actors : Matt Damon,Jason Isaacs,Greg Kinnear,Igal Naor,
+Movie Text: 
+Discovering covert and faulty intelligence causes a U.S. Army officer to go rogue as he hunts for Weapons of Mass Destruction in an unstable region.

@@ -1,0 +1,11 @@
+Movie Name: Galaxy Quest 
+Movie Year: 1999
+Movie Certificate: PG
+Movie Duration: 102 min
+Movie Genre: 
+Action, Adventure, Comedy            
+Movie Rating : 7.3
+Directors : Dean Parisot,
+Actors : Tim Allen,Sigourney Weaver,Alan Rickman,Tony Shalhoub,
+Movie Text: 
+The alumni cast of a space opera television series have to play their roles as the real thing when an alien race needs their help.

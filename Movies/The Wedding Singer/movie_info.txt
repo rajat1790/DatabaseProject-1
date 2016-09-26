@@ -1,0 +1,11 @@
+Movie Name: The Wedding Singer 
+Movie Year: 1998
+Movie Certificate: PG-13
+Movie Duration: 95 min
+Movie Genre: 
+Comedy, Music, Romance            
+Movie Rating : 6.8
+Directors : Frank Coraci,
+Actors : Adam Sandler,Drew Barrymore,Christine Taylor,Allen Covert,
+Movie Text: 
+Robbie, a singer, and Julia, a waitress, are both engaged, but to the wrong people. Fortune intervenes to help them discover each other.

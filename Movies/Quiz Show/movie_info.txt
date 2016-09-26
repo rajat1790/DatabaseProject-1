@@ -1,0 +1,11 @@
+Movie Name: Quiz Show 
+Movie Year: 1994
+Movie Certificate: PG-13
+Movie Duration: 133 min
+Movie Genre: 
+Drama, History            
+Movie Rating : 7.5
+Directors : Robert Redford,
+Actors : Ralph Fiennes,John Turturro,Rob Morrow,Paul Scofield,
+Movie Text: 
+A young lawyer, Richard Goodwin, investigates a potentially fixed game show. Charles Van Doren, a big time show winner, is under Goodwin's investigation.

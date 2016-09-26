@@ -1,0 +1,11 @@
+Movie Name: Nightcrawler 
+Movie Year: 2014
+Movie Certificate: R
+Movie Duration: 117 min
+Movie Genre: 
+Crime, Drama, Thriller            
+Movie Rating : 7.9
+Directors : Dan Gilroy,
+Actors : Jake Gyllenhaal,Rene Russo,Bill Paxton,Riz Ahmed,
+Movie Text: 
+When Louis Bloom, a driven man desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story. Aiding him in his effort is Nina, a TV-news veteran.

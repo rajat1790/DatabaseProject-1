@@ -1,0 +1,11 @@
+Movie Name: A Wednesday 
+Movie Year: 2008
+Movie Certificate: 
+Movie Duration: 
+Movie Genre: 
+Crime, Drama, Mystery            
+Movie Rating : 8.5
+Directors : Neeraj Pandey,
+Actors : Anupam Kher,Naseeruddin Shah,Jimmy Shergill,Deepal Shaw,
+Movie Text: 
+A retiring police officer reminisces about the most astounding day of his career. About a case that was never filed but continues to haunt him in his memories - the case of a man and a Wednesday.

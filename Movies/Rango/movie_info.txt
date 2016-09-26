@@ -1,0 +1,11 @@
+Movie Name: Rango 
+Movie Year: 2011
+Movie Certificate: PG
+Movie Duration: 107 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 7.2
+Directors : Gore Verbinski,
+Actors : Johnny Depp,Isla Fisher,Timothy Olyphant,Abigail Breslin,
+Movie Text: 
+Rango is an ordinary chameleon who accidentally winds up in the town of Dirt, a lawless outpost in the Wild West in desperate need of a new sheriff.

@@ -1,0 +1,11 @@
+Movie Name: The Omen 
+Movie Year: 1976
+Movie Certificate: R
+Movie Duration: 111 min
+Movie Genre: 
+Fantasy, Horror, Mystery            
+Movie Rating : 7.6
+Directors : Richard Donner,
+Actors : Gregory Peck,Lee Remick,Harvey Stephens,David Warner,
+Movie Text: 
+Mysterious deaths surround an American ambassador. Could the child that he is raising actually be the Antichrist? The Devil's own son?

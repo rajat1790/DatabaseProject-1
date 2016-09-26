@@ -1,0 +1,11 @@
+Movie Name: Sleepy Hollow 
+Movie Year: 1999
+Movie Certificate: R
+Movie Duration: 105 min
+Movie Genre: 
+Fantasy, Horror, Mystery            
+Movie Rating : 7.4
+Directors : Tim Burton,
+Actors : Johnny Depp,Christina Ricci,Miranda Richardson,Michael Gambon,
+Movie Text: 
+Ichabod Crane is sent to Sleepy Hollow to investigate the decapitations of 3 people with the culprit being the legendary apparition, the Headless Horseman.

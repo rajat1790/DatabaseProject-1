@@ -1,0 +1,11 @@
+Movie Name: Ginger Snaps 
+Movie Year: 2000
+Movie Certificate: Unrated
+Movie Duration: 108 min
+Movie Genre: 
+Drama, Fantasy, Horror            
+Movie Rating : 6.8
+Directors : John Fawcett,
+Actors : Emily Perkins,Katharine Isabelle,Kris Lemche,Mimi Rogers,
+Movie Text: 
+Two death-obsessed sisters, outcasts in their suburban neighborhood, must deal with the tragic consequences when one of them is bitten by a deadly werewolf.

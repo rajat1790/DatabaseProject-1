@@ -1,0 +1,11 @@
+Movie Name: Flashdance 
+Movie Year: 1983
+Movie Certificate: R
+Movie Duration: 95 min
+Movie Genre: 
+Drama, Music, Romance            
+Movie Rating : 6.1
+Directors : Adrian Lyne,
+Actors : Jennifer Beals,Michael Nouri,Lilia Skala,Sunny Johnson,
+Movie Text: 
+A Pittsburgh woman with two jobs as a welder and an exotic dancer wants to get into ballet school.

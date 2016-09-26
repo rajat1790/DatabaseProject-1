@@ -1,0 +1,11 @@
+Movie Name: Tangled 
+Movie Year: 2010
+Movie Certificate: PG
+Movie Duration: 100 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 7.8
+Directors : Nathan Greno,Byron Howard,
+Actors : Mandy Moore,Zachary Levi,Donna Murphy,Ron Perlman,
+Movie Text: 
+The magically long-haired Rapunzel has spent her entire life in a tower, but now that a runaway thief has stumbled upon her, she is about to discover the world for the first time, and who she really is.

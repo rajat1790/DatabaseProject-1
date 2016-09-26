@@ -1,0 +1,11 @@
+Movie Name: Red Dawn 
+Movie Year: 1984
+Movie Certificate: PG-13
+Movie Duration: 114 min
+Movie Genre: 
+Action, Drama, War            
+Movie Rating : 6.4
+Directors : John Milius,
+Actors : Patrick Swayze,C. Thomas Howell,Lea Thompson,Charlie Sheen,
+Movie Text: 
+It is the dawn of World War III. In mid-western America, a group of teenagers bands together to defend their town, and their country, from invading Soviet forces.

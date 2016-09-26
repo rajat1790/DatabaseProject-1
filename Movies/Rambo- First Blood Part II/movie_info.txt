@@ -1,0 +1,11 @@
+Movie Name: Rambo: First Blood Part II 
+Movie Year: 1985
+Movie Certificate: R
+Movie Duration: 96 min
+Movie Genre: 
+Action, Adventure, Thriller            
+Movie Rating : 6.4
+Directors : George P. Cosmatos,
+Actors : Sylvester Stallone,Richard Crenna,Charles Napier,Steven Berkoff,
+Movie Text: 
+John Rambo is released from prison by the government for a top-secret covert mission to the last place on Earth he'd want to return - the jungles of Vietnam.

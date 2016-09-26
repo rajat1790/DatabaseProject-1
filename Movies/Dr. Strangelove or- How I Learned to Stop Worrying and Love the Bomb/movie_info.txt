@@ -1,0 +1,11 @@
+Movie Name: Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb 
+Movie Year: 1964
+Movie Certificate: PG
+Movie Duration: 95 min
+Movie Genre: 
+Comedy            
+Movie Rating : 8.5
+Directors : Stanley Kubrick,
+Actors : Peter Sellers,George C. Scott,Sterling Hayden,Keenan Wynn,
+Movie Text: 
+An insane general triggers a path to nuclear holocaust that a war room full of politicians and generals frantically try to stop.

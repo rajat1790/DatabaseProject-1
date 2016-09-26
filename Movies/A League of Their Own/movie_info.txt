@@ -1,0 +1,11 @@
+Movie Name: A League of Their Own 
+Movie Year: 1992
+Movie Certificate: PG
+Movie Duration: 128 min
+Movie Genre: 
+Comedy, Drama, Sport            
+Movie Rating : 7.2
+Directors : Penny Marshall,
+Actors : Tom Hanks,Geena Davis,Lori Petty,Madonna,
+Movie Text: 
+Two sisters join the first female professional baseball league and struggle to help it succeed amidst their own growing rivalry.

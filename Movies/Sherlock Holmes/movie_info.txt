@@ -1,0 +1,11 @@
+Movie Name: Sherlock Holmes 
+Movie Year: 2009
+Movie Certificate: PG-13
+Movie Duration: 128 min
+Movie Genre: 
+Action, Adventure, Crime            
+Movie Rating : 7.6
+Directors : Guy Ritchie,
+Actors : Robert Downey Jr.,Jude Law,Rachel McAdams,Mark Strong,
+Movie Text: 
+Detective Sherlock Holmes and his stalwart partner Watson engage in a battle of wits and brawn with a nemesis whose plot is a threat to all of England.

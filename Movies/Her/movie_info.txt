@@ -1,0 +1,11 @@
+Movie Name: Her 
+Movie Year: 2013
+Movie Certificate: R
+Movie Duration: 126 min
+Movie Genre: 
+Drama, Romance, Sci-Fi            
+Movie Rating : 8.0
+Directors : Spike Jonze,
+Actors : Joaquin Phoenix,Amy Adams,Scarlett Johansson,Rooney Mara,
+Movie Text: 
+A lonely writer develops an unlikely relationship with an operating system designed to meet his every need.

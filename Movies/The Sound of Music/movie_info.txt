@@ -1,0 +1,11 @@
+Movie Name: The Sound of Music 
+Movie Year: 1965
+Movie Certificate: G
+Movie Duration: 174 min
+Movie Genre: 
+Biography, Drama, Family            
+Movie Rating : 8.0
+Directors : Robert Wise,
+Actors : Julie Andrews,Christopher Plummer,Eleanor Parker,Richard Haydn,
+Movie Text: 
+A woman leaves an Austrian convent to become a governess to the children of a Naval officer widower.

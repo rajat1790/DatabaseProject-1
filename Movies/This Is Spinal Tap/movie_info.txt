@@ -1,0 +1,11 @@
+Movie Name: This Is Spinal Tap 
+Movie Year: 1984
+Movie Certificate: R
+Movie Duration: 82 min
+Movie Genre: 
+Comedy, Music            
+Movie Rating : 8.0
+Directors : Rob Reiner,
+Actors : Rob Reiner,Michael McKean,Christopher Guest,Kimberly Stringer,
+Movie Text: 
+Spinal Tap, one of England's loudest bands, is chronicled by film director Marty DeBergi on what proves to be a fateful tour.

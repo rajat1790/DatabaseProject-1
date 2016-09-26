@@ -1,0 +1,11 @@
+Movie Name: The Quick and the Dead 
+Movie Year: 1995
+Movie Certificate: R
+Movie Duration: 107 min
+Movie Genre: 
+Action, Romance, Thriller            
+Movie Rating : 6.4
+Directors : Sam Raimi,
+Actors : Sharon Stone,Gene Hackman,Russell Crowe,Leonardo DiCaprio,
+Movie Text: 
+Lady avenger returns to western town owned by a ruthless gunslinger hosting an elimination tournament.

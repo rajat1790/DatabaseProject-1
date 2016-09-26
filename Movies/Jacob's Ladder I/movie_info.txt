@@ -1,0 +1,11 @@
+Movie Name: Jacob's Ladder I
+Movie Year: 1990
+Movie Certificate: R
+Movie Duration: 113 min
+Movie Genre: 
+Drama, Horror, Mystery            
+Movie Rating : 7.5
+Directors : Adrian Lyne,
+Actors : Tim Robbins,Elizabeth Peña,Danny Aiello,Matt Craven,
+Movie Text: 
+Mourning his dead child, a haunted Vietnam War veteran attempts to discover his past while suffering from a severe case of dissociation. To do so, he must decipher reality and life from his own dreams, delusion, and perception of death.

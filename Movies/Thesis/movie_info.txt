@@ -1,0 +1,11 @@
+Movie Name: Thesis 
+Movie Year: 1996
+Movie Certificate: R
+Movie Duration: 125 min
+Movie Genre: 
+Horror, Mystery, Thriller            
+Movie Rating : 7.5
+Directors : Alejandro Amenábar,
+Actors : Ana Torrent,Fele Martínez,Eduardo Noriega,Xabier Elorriaga,
+Movie Text: 
+While doing a thesis about violence, Ángela finds a snuff video where a girl is tortured until death. Soon she discovers that the girl was a former student in her faculty...

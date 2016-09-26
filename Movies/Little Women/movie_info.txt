@@ -1,0 +1,11 @@
+Movie Name: Little Women 
+Movie Year: 1994
+Movie Certificate: PG
+Movie Duration: 115 min
+Movie Genre: 
+Drama, Family, Romance            
+Movie Rating : 7.3
+Directors : Gillian Armstrong,
+Actors : Susan Sarandon,Winona Ryder,Kirsten Dunst,Claire Danes,
+Movie Text: 
+The March sisters live and grow in post-Civil War America.

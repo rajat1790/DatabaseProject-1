@@ -1,0 +1,11 @@
+Movie Name: Gone with the Wind 
+Movie Year: 1939
+Movie Certificate: G
+Movie Duration: 238 min
+Movie Genre: 
+Drama, History, Romance            
+Movie Rating : 8.2
+Directors : Victor Fleming,George Cukor,Sam Wood,
+Actors : Clark Gable,Vivien Leigh,Thomas Mitchell,Barbara O'Neil,
+Movie Text: 
+A manipulative Southern belle carries on a turbulent affair with a blockade runner during the American Civil War.

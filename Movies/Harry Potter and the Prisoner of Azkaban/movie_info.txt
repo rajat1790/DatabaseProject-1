@@ -1,0 +1,11 @@
+Movie Name: Harry Potter and the Prisoner of Azkaban 
+Movie Year: 2004
+Movie Certificate: PG
+Movie Duration: 142 min
+Movie Genre: 
+Adventure, Family, Fantasy            
+Movie Rating : 7.8
+Directors : Alfonso Cuarón,
+Actors : Daniel Radcliffe,Emma Watson,Rupert Grint,Richard Griffiths,
+Movie Text: 
+It's Harry's third year at Hogwarts; not only does he have a new "Defense Against the Dark Arts" teacher, but there is also trouble brewing. Convicted murderer Sirius Black has escaped the Wizards' Prison and is coming after Harry.

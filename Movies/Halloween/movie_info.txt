@@ -1,0 +1,11 @@
+Movie Name: Halloween 
+Movie Year: 1978
+Movie Certificate: R
+Movie Duration: 91 min
+Movie Genre: 
+Horror, Thriller            
+Movie Rating : 7.9
+Directors : John Carpenter,
+Actors : Donald Pleasence,Jamie Lee Curtis,Tony Moran,Nancy Kyes,
+Movie Text: 
+On Halloween night of 1963, six-year-old Michael Myers stabbed his sister to death. After sitting in a mental hospital for 15 years, Myers escapes and returns to Haddonfield to kill.

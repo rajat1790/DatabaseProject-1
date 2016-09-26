@@ -1,0 +1,11 @@
+Movie Name: The Man from Nowhere 
+Movie Year: 2010
+Movie Certificate: R
+Movie Duration: 119 min
+Movie Genre: 
+Action, Crime, Thriller            
+Movie Rating : 7.9
+Directors : Jeong-beom Lee,
+Actors : Bin Won,Sae-ron Kim,Tae-hoon Kim,Hee-won Kim,
+Movie Text: 
+A quiet pawnshop keeper with a violent past takes on a drug-and-organ trafficking ring in hope of saving the child who is his only friend.

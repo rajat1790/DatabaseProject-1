@@ -1,0 +1,11 @@
+Movie Name: Billy Elliot 
+Movie Year: 2000
+Movie Certificate: R
+Movie Duration: 110 min
+Movie Genre: 
+Drama, Music, Romance            
+Movie Rating : 7.7
+Directors : Stephen Daldry,
+Actors : Jamie Bell,Julie Walters,Jean Heywood,Jamie Draven,
+Movie Text: 
+A talented young boy becomes torn between his unexpected love of dance and the disintegration of his family.

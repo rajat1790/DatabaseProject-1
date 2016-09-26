@@ -1,0 +1,11 @@
+Movie Name: Surf's Up 
+Movie Year: 2007
+Movie Certificate: PG
+Movie Duration: 85 min
+Movie Genre: 
+Animation, Comedy, Family            
+Movie Rating : 6.8
+Directors : Ash Brannon,Chris Buck,
+Actors : Shia LaBeouf,Zooey Deschanel,Jon Heder,Jeff Bridges,
+Movie Text: 
+A behind-the-scenes look at the annual Penguin World Surfing Championship, and its newest participant, up-and-comer Cody Maverick.

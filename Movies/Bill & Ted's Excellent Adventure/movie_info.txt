@@ -1,0 +1,11 @@
+Movie Name: Bill & Ted's Excellent Adventure 
+Movie Year: 1989
+Movie Certificate: PG
+Movie Duration: 90 min
+Movie Genre: 
+Adventure, Comedy, Music            
+Movie Rating : 6.9
+Directors : Stephen Herek,
+Actors : Keanu Reeves,Alex Winter,George Carlin,Terry Camilleri,
+Movie Text: 
+Two seemingly dumb teens struggle to prepare a historical presentation with the help of a time machine.

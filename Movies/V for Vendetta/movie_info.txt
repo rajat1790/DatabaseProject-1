@@ -1,0 +1,11 @@
+Movie Name: V for Vendetta 
+Movie Year: 2005
+Movie Certificate: R
+Movie Duration: 132 min
+Movie Genre: 
+Action, Drama, Thriller            
+Movie Rating : 8.2
+Directors : James McTeigue,
+Actors : Hugo Weaving,Natalie Portman,Rupert Graves,Stephen Rea,
+Movie Text: 
+In a future British tyranny, a shadowy freedom fighter, known only by the alias of "V", plots to overthrow it with the help of a young woman.

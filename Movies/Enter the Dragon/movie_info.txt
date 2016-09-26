@@ -1,0 +1,11 @@
+Movie Name: Enter the Dragon 
+Movie Year: 1973
+Movie Certificate: R
+Movie Duration: 102 min
+Movie Genre: 
+Action            
+Movie Rating : 7.7
+Directors : Robert Clouse,
+Actors : Bruce Lee,John Saxon,Jim Kelly,Ahna Capri,
+Movie Text: 
+A martial artist agrees to spy on a reclusive crime lord using his invitation to a tournament there as cover.

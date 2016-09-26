@@ -1,0 +1,11 @@
+Movie Name: Rio Bravo 
+Movie Year: 1959
+Movie Certificate: Not Rated
+Movie Duration: 141 min
+Movie Genre: 
+Action, Drama, Western            
+Movie Rating : 8.0
+Directors : Howard Hawks,
+Actors : John Wayne,Dean Martin,Ricky Nelson,Angie Dickinson,
+Movie Text: 
+A small-town sheriff in the American West enlists the help of a cripple, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.

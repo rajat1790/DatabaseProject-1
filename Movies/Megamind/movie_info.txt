@@ -1,0 +1,11 @@
+Movie Name: Megamind 
+Movie Year: 2010
+Movie Certificate: PG
+Movie Duration: 95 min
+Movie Genre: 
+Animation, Action, Comedy            
+Movie Rating : 7.3
+Directors : Tom McGrath,
+Actors : Will Ferrell,Jonah Hill,Brad Pitt,Tina Fey,
+Movie Text: 
+The supervillain Megamind finally defeats his nemesis, the superhero Metro Man. But without a hero, he loses all purpose and must find new meaning to his life.

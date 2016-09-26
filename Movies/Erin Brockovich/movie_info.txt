@@ -1,0 +1,11 @@
+Movie Name: Erin Brockovich 
+Movie Year: 2000
+Movie Certificate: R
+Movie Duration: 131 min
+Movie Genre: 
+Biography, Drama            
+Movie Rating : 7.3
+Directors : Steven Soderbergh,
+Actors : Julia Roberts,Albert Finney,David Brisbin,Dawn Didawick,
+Movie Text: 
+An unemployed single mother becomes a legal assistant and almost single-handedly brings down a California power company accused of polluting a city's water supply.

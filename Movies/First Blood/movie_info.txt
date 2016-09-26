@@ -1,0 +1,11 @@
+Movie Name: First Blood 
+Movie Year: 1982
+Movie Certificate: R
+Movie Duration: 93 min
+Movie Genre: 
+Action, Adventure, Drama            
+Movie Rating : 7.7
+Directors : Ted Kotcheff,
+Actors : Sylvester Stallone,Brian Dennehy,Richard Crenna,Bill McKinney,
+Movie Text: 
+Former Green Beret John Rambo is pursued into the mountains surrounding a small town by a tyrannical sheriff and his deputies, forcing him to survive using his combat skills.

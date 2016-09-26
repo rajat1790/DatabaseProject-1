@@ -1,0 +1,11 @@
+Movie Name: The Queen 
+Movie Year: 2006
+Movie Certificate: PG-13
+Movie Duration: 103 min
+Movie Genre: 
+Biography, Drama            
+Movie Rating : 7.3
+Directors : Stephen Frears,
+Actors : Helen Mirren,Michael Sheen,James Cromwell,Alex Jennings,
+Movie Text: 
+After the death of Princess Diana, Queen Elizabeth II struggles with her reaction to a sequence of events nobody could have predicted.

@@ -1,0 +1,11 @@
+Movie Name: Sweet and Lowdown 
+Movie Year: 1999
+Movie Certificate: PG-13
+Movie Duration: 95 min
+Movie Genre: 
+Comedy, Drama, Music            
+Movie Rating : 7.3
+Directors : Woody Allen,
+Actors : Sean Penn,Samantha Morton,Ben Duncan,Daniel Okrent,
+Movie Text: 
+In the 1930s, jazz guitarist Emmet Ray idolizes Django Reinhardt, faces gangsters and falls in love with a mute woman.

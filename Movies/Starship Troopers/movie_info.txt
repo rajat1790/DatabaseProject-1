@@ -1,0 +1,11 @@
+Movie Name: Starship Troopers 
+Movie Year: 1997
+Movie Certificate: R
+Movie Duration: 129 min
+Movie Genre: 
+Action, Sci-Fi            
+Movie Rating : 7.2
+Directors : Paul Verhoeven,
+Actors : Casper Van Dien,Denise Richards,Dina Meyer,Jake Busey,
+Movie Text: 
+Humans in a fascistic, militaristic future do battle with giant alien bugs in a fight for survival.

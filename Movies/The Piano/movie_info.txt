@@ -1,0 +1,11 @@
+Movie Name: The Piano 
+Movie Year: 1993
+Movie Certificate: R
+Movie Duration: 121 min
+Movie Genre: 
+Drama, Music, Romance            
+Movie Rating : 7.6
+Directors : Jane Campion,
+Actors : Holly Hunter,Harvey Keitel,Sam Neill,Anna Paquin,
+Movie Text: 
+A mute woman - along with her young daughter and prized piano - is sent to 1850s New Zealand for an arranged marriage to a wealthy landowner, but is soon lusted after by a local worker on the plantation.

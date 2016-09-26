@@ -1,0 +1,11 @@
+Movie Name: The Fugitive 
+Movie Year: 1993
+Movie Certificate: PG-13
+Movie Duration: 130 min
+Movie Genre: 
+Action, Adventure, Crime            
+Movie Rating : 7.8
+Directors : Andrew Davis,
+Actors : Harrison Ford,Tommy Lee Jones,Sela Ward,Julianne Moore,
+Movie Text: 
+Dr. Richard Kimble, unjustly accused of murdering his wife, must find the real killer while being the target of a nationwide manhunt.

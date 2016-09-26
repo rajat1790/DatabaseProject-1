@@ -1,0 +1,11 @@
+Movie Name: Rudy 
+Movie Year: 1993
+Movie Certificate: PG
+Movie Duration: 114 min
+Movie Genre: 
+Biography, Drama, Sport            
+Movie Rating : 7.5
+Directors : David Anspaugh,
+Actors : Sean Astin,Jon Favreau,Ned Beatty,Greta Lind,
+Movie Text: 
+Rudy has always been told that he was too small to play college football. But he is determined to overcome the odds and fulfill his dream of playing for Notre Dame.

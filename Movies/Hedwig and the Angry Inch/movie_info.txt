@@ -1,0 +1,11 @@
+Movie Name: Hedwig and the Angry Inch 
+Movie Year: 2001
+Movie Certificate: R
+Movie Duration: 95 min
+Movie Genre: 
+Comedy, Drama, Music            
+Movie Rating : 7.8
+Directors : John Cameron Mitchell,
+Actors : John Cameron Mitchell,Miriam Shor,Stephen Trask,Theodore Liscinski,
+Movie Text: 
+A transgender punk-rock girl from East Berlin tours the U.S. with her band as she tells her life story and follows the former lover/band-mate who stole her songs.

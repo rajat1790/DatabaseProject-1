@@ -1,0 +1,11 @@
+Movie Name: The Muppet Christmas Carol 
+Movie Year: 1992
+Movie Certificate: G
+Movie Duration: 85 min
+Movie Genre: 
+Comedy, Drama, Family            
+Movie Rating : 7.7
+Directors : Brian Henson,
+Actors : Michael Caine,Dave Goelz,Steve Whitmire,Jerry Nelson,
+Movie Text: 
+The Muppet characters tell their version of the classic tale of an old and bitter miser's redemption on Christmas Eve.

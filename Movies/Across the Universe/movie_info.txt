@@ -1,0 +1,11 @@
+Movie Name: Across the Universe 
+Movie Year: 2007
+Movie Certificate: PG-13
+Movie Duration: 133 min
+Movie Genre: 
+Drama, Fantasy, Musical            
+Movie Rating : 7.4
+Directors : Julie Taymor,
+Actors : Evan Rachel Wood,Jim Sturgess,Joe Anderson,Dana Fuchs,
+Movie Text: 
+The music of the Beatles and the Vietnam War form the backdrop for the romance between an upper-class American girl and a poor Liverpudlian artist.

@@ -1,0 +1,11 @@
+Movie Name: The Third Man 
+Movie Year: 1949
+Movie Certificate: Not Rated
+Movie Duration: 93 min
+Movie Genre: 
+Film-Noir, Mystery, Thriller            
+Movie Rating : 8.3
+Directors : Carol Reed,
+Actors : Orson Welles,Joseph Cotten,Alida Valli,Trevor Howard,
+Movie Text: 
+Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.

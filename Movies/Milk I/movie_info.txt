@@ -1,0 +1,11 @@
+Movie Name: Milk I
+Movie Year: 2008
+Movie Certificate: R
+Movie Duration: 128 min
+Movie Genre: 
+Biography, Drama, History            
+Movie Rating : 7.6
+Directors : Gus Van Sant,
+Actors : Sean Penn,Josh Brolin,Emile Hirsch,Diego Luna,
+Movie Text: 
+The story of Harvey Milk, and his struggles as an American gay activist who fought for gay rights and became California's first openly gay elected official.

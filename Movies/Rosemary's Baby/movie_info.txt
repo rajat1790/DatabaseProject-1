@@ -1,0 +1,11 @@
+Movie Name: Rosemary's Baby 
+Movie Year: 1968
+Movie Certificate: R
+Movie Duration: 136 min
+Movie Genre: 
+Drama, Horror            
+Movie Rating : 8.0
+Directors : Roman Polanski,
+Actors : Mia Farrow,John Cassavetes,Ruth Gordon,Sidney Blackmer,
+Movie Text: 
+A young couple move into an apartment, only to be surrounded by peculiar neighbors and occurrences. When the wife becomes mysteriously pregnant, paranoia over the safety of her unborn child begins to control her life.

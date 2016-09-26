@@ -1,0 +1,11 @@
+Movie Name: Don't Look Now 
+Movie Year: 1973
+Movie Certificate: R
+Movie Duration: 110 min
+Movie Genre: 
+Drama, Horror, Thriller            
+Movie Rating : 7.3
+Directors : Nicolas Roeg,
+Actors : Julie Christie,Donald Sutherland,Hilary Mason,Clelia Matania,
+Movie Text: 
+A married couple grieving the recent death of their young daughter are in Venice when they encounter two elderly sisters, one of whom is psychic and brings a warning from beyond.

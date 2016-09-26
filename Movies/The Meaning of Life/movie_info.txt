@@ -1,0 +1,11 @@
+Movie Name: The Meaning of Life 
+Movie Year: 1983
+Movie Certificate: R
+Movie Duration: 107 min
+Movie Genre: 
+Comedy, Fantasy, Musical            
+Movie Rating : 7.6
+Directors : Terry Jones,Terry Gilliam,
+Actors : John Cleese,Terry Gilliam,Eric Idle,Terry Jones,
+Movie Text: 
+The comedy team takes a look at life in all its stages in their own uniquely silly way.

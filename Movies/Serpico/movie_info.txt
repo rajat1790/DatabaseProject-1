@@ -1,0 +1,11 @@
+Movie Name: Serpico 
+Movie Year: 1973
+Movie Certificate: R
+Movie Duration: 130 min
+Movie Genre: 
+Biography, Crime, Drama            
+Movie Rating : 7.8
+Directors : Sidney Lumet,
+Actors : Al Pacino,John Randolph,Jack Kehoe,Biff McGuire,
+Movie Text: 
+The true story about an honest New York cop who blew the whistle on rampant corruption in the force only to have his comrades turn against him.

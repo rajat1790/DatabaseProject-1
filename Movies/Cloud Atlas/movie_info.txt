@@ -1,0 +1,11 @@
+Movie Name: Cloud Atlas 
+Movie Year: 2012
+Movie Certificate: R
+Movie Duration: 172 min
+Movie Genre: 
+Drama, Sci-Fi            
+Movie Rating : 7.5
+Directors : Tom Tykwer,Lana Wachowski,Lilly Wachowski,
+Actors : Tom Hanks,Halle Berry,Hugh Grant,Hugo Weaving,
+Movie Text: 
+An exploration of how the actions of individual lives impact one another in the past, present and future, as one soul is shaped from a killer into a hero, and an act of kindness ripples across centuries to inspire a revolution.

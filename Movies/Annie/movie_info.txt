@@ -1,0 +1,11 @@
+Movie Name: Annie 
+Movie Year: 1982
+Movie Certificate: PG
+Movie Duration: 127 min
+Movie Genre: 
+Comedy, Drama, Family            
+Movie Rating : 6.5
+Directors : John Huston,
+Actors : Aileen Quinn,Albert Finney,Carol Burnett,Ann Reinking,
+Movie Text: 
+A young orphan girl's adventures in finding a family that will take her.

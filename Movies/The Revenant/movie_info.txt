@@ -1,0 +1,11 @@
+Movie Name: The Revenant 
+Movie Year: 2015
+Movie Certificate: R
+Movie Duration: 156 min
+Movie Genre: 
+Adventure, Drama, Thriller            
+Movie Rating : 8.1
+Directors : Alejandro G. Iñárritu,
+Actors : Leonardo DiCaprio,Tom Hardy,Will Poulter,Domhnall Gleeson,
+Movie Text: 
+A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.

@@ -1,0 +1,11 @@
+Movie Name: Face/Off 
+Movie Year: 1997
+Movie Certificate: R
+Movie Duration: 138 min
+Movie Genre: 
+Action, Crime, Sci-Fi            
+Movie Rating : 7.3
+Directors : John Woo,
+Actors : John Travolta,Nicolas Cage,Joan Allen,Alessandro Nivola,
+Movie Text: 
+In order to foil an extortion plot, an FBI agent undergoes a face-transplant surgery and assumes the identity and physical appearance of a ruthless terrorist, but the plan turns from bad to worse when the same criminal impersonates the cop.

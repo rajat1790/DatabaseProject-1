@@ -1,0 +1,11 @@
+Movie Name: Yip Man 
+Movie Year: 2008
+Movie Certificate: R
+Movie Duration: 106 min
+Movie Genre: 
+Action, Biography, Drama            
+Movie Rating : 8.1
+Directors : Wilson Yip,
+Actors : Donnie Yen,Simon Yam,Siu-Wong Fan,Ka Tung Lam,
+Movie Text: 
+During the Japanese invasion of 1937, when a wealthy martial artist is forced to leave his home and work to support his family, he reluctantly agrees to train others in the art of Wing Chun for self-defense.

@@ -1,0 +1,11 @@
+Movie Name: The Hustler 
+Movie Year: 1961
+Movie Certificate: Unrated
+Movie Duration: 134 min
+Movie Genre: 
+Drama, Sport            
+Movie Rating : 8.0
+Directors : Robert Rossen,
+Actors : Paul Newman,Jackie Gleason,Piper Laurie,George C. Scott,
+Movie Text: 
+An up-and-coming pool player plays a long-time champion in a single high-stakes match.

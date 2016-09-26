@@ -1,0 +1,11 @@
+Movie Name: Top Secret! 
+Movie Year: 1984
+Movie Certificate: PG
+Movie Duration: 90 min
+Movie Genre: 
+Comedy, Music            
+Movie Rating : 7.2
+Directors : Jim Abrahams,David Zucker,Jerry Zucker,
+Actors : Val Kilmer,Lucy Gutteridge,Peter Cushing,Jeremy Kemp,
+Movie Text: 
+Parody of WWII spy movies in which an American rock and roll singer becomes involved in a Resistance plot to rescue a scientist imprisoned in East Germany.

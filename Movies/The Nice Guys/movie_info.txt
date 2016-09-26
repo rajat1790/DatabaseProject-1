@@ -1,0 +1,11 @@
+Movie Name: The Nice Guys 
+Movie Year: 2016
+Movie Certificate: R
+Movie Duration: 116 min
+Movie Genre: 
+Action, Comedy, Crime            
+Movie Rating : 7.5
+Directors : Shane Black,
+Actors : Russell Crowe,Ryan Gosling,Angourie Rice,Matt Bomer,
+Movie Text: 
+A mismatched pair of private eyes investigate the apparent suicide of a porn star in 1970s Los Angeles.

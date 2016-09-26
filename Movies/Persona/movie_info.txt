@@ -1,0 +1,11 @@
+Movie Name: Persona 
+Movie Year: 1966
+Movie Certificate: Not Rated
+Movie Duration: 83 min
+Movie Genre: 
+Drama, Thriller            
+Movie Rating : 8.1
+Directors : Ingmar Bergman,
+Actors : Bibi Andersson,Liv Ullmann,Margaretha Krook,Gunnar Björnstrand,
+Movie Text: 
+A nurse is put in charge of an actress who can't talk and finds that the actress's persona is melding with hers.

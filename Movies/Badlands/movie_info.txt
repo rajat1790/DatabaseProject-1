@@ -1,0 +1,11 @@
+Movie Name: Badlands 
+Movie Year: 1973
+Movie Certificate: PG
+Movie Duration: 94 min
+Movie Genre: 
+Crime, Drama, Romance            
+Movie Rating : 7.9
+Directors : Terrence Malick,
+Actors : Martin Sheen,Sissy Spacek,Warren Oates,Ramon Bieri,
+Movie Text: 
+An impressionable teenage girl from a dead-end town and her older greaser boyfriend embark on a killing spree in the South Dakota badlands.

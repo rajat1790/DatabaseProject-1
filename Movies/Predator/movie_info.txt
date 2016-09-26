@@ -1,0 +1,11 @@
+Movie Name: Predator 
+Movie Year: 1987
+Movie Certificate: R
+Movie Duration: 107 min
+Movie Genre: 
+Action, Horror, Sci-Fi            
+Movie Rating : 7.8
+Directors : John McTiernan,
+Actors : Arnold Schwarzenegger,Carl Weathers,Kevin Peter Hall,Elpidia Carrillo,
+Movie Text: 
+A team of commandos on a mission in a Central American jungle find themselves hunted by an extraterrestrial warrior.

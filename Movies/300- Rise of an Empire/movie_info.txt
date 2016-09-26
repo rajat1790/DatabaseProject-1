@@ -1,0 +1,11 @@
+Movie Name: 300: Rise of an Empire 
+Movie Year: 2014
+Movie Certificate: R
+Movie Duration: 102 min
+Movie Genre: 
+Action, Drama, Fantasy            
+Movie Rating : 6.2
+Directors : Noam Murro,
+Actors : Sullivan Stapleton,Eva Green,Lena Headey,Hans Matheson,
+Movie Text: 
+Greek general Themistokles leads the charge against invading Persian forces led by mortal-turned-god Xerxes and Artemisia, vengeful commander of the Persian navy.

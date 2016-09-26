@@ -1,0 +1,11 @@
+Movie Name: Mississippi Burning 
+Movie Year: 1988
+Movie Certificate: R
+Movie Duration: 128 min
+Movie Genre: 
+Crime, Drama, History            
+Movie Rating : 7.8
+Directors : Alan Parker,
+Actors : Gene Hackman,Willem Dafoe,Frances McDormand,Brad Dourif,
+Movie Text: 
+Two FBI agents with wildly different styles arrive in Mississippi to investigate the disappearance of some civil rights activists.

@@ -1,0 +1,11 @@
+Movie Name: Raging Bull 
+Movie Year: 1980
+Movie Certificate: R
+Movie Duration: 129 min
+Movie Genre: 
+Biography, Drama, Sport            
+Movie Rating : 8.3
+Directors : Martin Scorsese,
+Actors : Robert De Niro,Cathy Moriarty,Joe Pesci,Frank Vincent,
+Movie Text: 
+An emotionally self-destructive boxer's journey through life, as the violence and temper that leads him to the top in the ring destroys his life outside it.

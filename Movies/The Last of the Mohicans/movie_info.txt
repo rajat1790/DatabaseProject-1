@@ -1,0 +1,11 @@
+Movie Name: The Last of the Mohicans 
+Movie Year: 1992
+Movie Certificate: R
+Movie Duration: 112 min
+Movie Genre: 
+Action, Adventure, Drama            
+Movie Rating : 7.8
+Directors : Michael Mann,
+Actors : Daniel Day-Lewis,Madeleine Stowe,Russell Means,Eric Schweig,
+Movie Text: 
+Three trappers protect a British Colonel's daughters in the midst of the French and Indian War.

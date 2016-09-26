@@ -1,0 +1,11 @@
+Movie Name: Hellboy 
+Movie Year: 2004
+Movie Certificate: PG-13
+Movie Duration: 122 min
+Movie Genre: 
+Action, Fantasy, Horror            
+Movie Rating : 6.8
+Directors : Guillermo del Toro,
+Actors : Ron Perlman,Doug Jones,Selma Blair,John Hurt,
+Movie Text: 
+A demon, raised from infancy after being conjured by and rescued from the Nazis, grows up to become a defender against the forces of darkness.

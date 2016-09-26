@@ -1,0 +1,11 @@
+Movie Name: The Lord of the Rings: The Return of the King 
+Movie Year: 2003
+Movie Certificate: PG-13
+Movie Duration: 201 min
+Movie Genre: 
+Action, Adventure, Drama            
+Movie Rating : 8.9
+Directors : Peter Jackson,
+Actors : Elijah Wood,Viggo Mortensen,Ian McKellen,Orlando Bloom,
+Movie Text: 
+Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.

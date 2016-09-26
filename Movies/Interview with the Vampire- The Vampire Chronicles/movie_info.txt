@@ -1,0 +1,11 @@
+Movie Name: Interview with the Vampire: The Vampire Chronicles 
+Movie Year: 1994
+Movie Certificate: R
+Movie Duration: 123 min
+Movie Genre: 
+Drama, Fantasy, Horror            
+Movie Rating : 7.6
+Directors : Neil Jordan,
+Actors : Brad Pitt,Tom Cruise,Antonio Banderas,Kirsten Dunst,
+Movie Text: 
+A vampire tells his epic life story: love, betrayal, loneliness, and hunger.

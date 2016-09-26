@@ -1,0 +1,11 @@
+Movie Name: Queen 
+Movie Year: 2013
+Movie Certificate: 
+Movie Duration: 
+Movie Genre: 
+Adventure, Comedy, Drama            
+Movie Rating : 8.4
+Directors : Vikas Bahl,
+Actors : Kangana Ranaut,Rajkummar Rao,Lisa Haydon,Jeffrey Ho,
+Movie Text: 
+A Delhi girl from a traditional family sets out on a solo honeymoon after her marriage gets cancelled.

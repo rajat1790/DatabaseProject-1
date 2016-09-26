@@ -1,0 +1,11 @@
+Movie Name: Only Lovers Left Alive 
+Movie Year: 2013
+Movie Certificate: R
+Movie Duration: 123 min
+Movie Genre: 
+Comedy, Drama, Horror            
+Movie Rating : 7.3
+Directors : Jim Jarmusch,
+Actors : Tilda Swinton,Tom Hiddleston,Mia Wasikowska,John Hurt,
+Movie Text: 
+A depressed musician reunites with his lover, though their romance - which has already endured several centuries - is disrupted by the arrival of her uncontrollable younger sister.

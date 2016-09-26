@@ -1,0 +1,11 @@
+Movie Name: How to Train Your Dragon 
+Movie Year: 2010
+Movie Certificate: PG
+Movie Duration: 98 min
+Movie Genre: 
+Animation, Action, Adventure            
+Movie Rating : 8.2
+Directors : Dean DeBlois,Chris Sanders,
+Actors : Jay Baruchel,Gerard Butler,Christopher Mintz-Plasse,Craig Ferguson,
+Movie Text: 
+A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.

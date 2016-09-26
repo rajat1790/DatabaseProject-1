@@ -1,0 +1,11 @@
+Movie Name: Some Like It Hot 
+Movie Year: 1959
+Movie Certificate: Not Rated
+Movie Duration: 120 min
+Movie Genre: 
+Comedy, Music, Romance            
+Movie Rating : 8.3
+Directors : Billy Wilder,
+Actors : Marilyn Monroe,Tony Curtis,Jack Lemmon,George Raft,
+Movie Text: 
+When two musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.

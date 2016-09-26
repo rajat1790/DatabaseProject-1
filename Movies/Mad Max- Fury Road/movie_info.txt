@@ -1,0 +1,11 @@
+Movie Name: Mad Max: Fury Road 
+Movie Year: 2015
+Movie Certificate: R
+Movie Duration: 120 min
+Movie Genre: 
+Action, Adventure, Sci-Fi            
+Movie Rating : 8.1
+Directors : George Miller,
+Actors : Tom Hardy,Charlize Theron,Nicholas Hoult,Zoë Kravitz,
+Movie Text: 
+A woman rebels against a tyrannical ruler in postapocalyptic Australia in search for her home-land with the help of a group of female prisoners, a psychotic worshipper, and a drifter named Max.

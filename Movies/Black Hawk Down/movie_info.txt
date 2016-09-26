@@ -1,0 +1,11 @@
+Movie Name: Black Hawk Down 
+Movie Year: 2001
+Movie Certificate: R
+Movie Duration: 144 min
+Movie Genre: 
+Drama, History, War            
+Movie Rating : 7.7
+Directors : Ridley Scott,
+Actors : Josh Hartnett,Ewan McGregor,Tom Sizemore,Eric Bana,
+Movie Text: 
+123 elite U.S. soldiers drop into Somalia to capture two top lieutenants of a renegade warlord and find themselves in a desperate battle with a large force of heavily-armed Somalis.

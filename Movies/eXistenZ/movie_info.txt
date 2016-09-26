@@ -1,0 +1,11 @@
+Movie Name: eXistenZ 
+Movie Year: 1999
+Movie Certificate: R
+Movie Duration: 97 min
+Movie Genre: 
+Horror, Sci-Fi, Thriller            
+Movie Rating : 6.8
+Directors : David Cronenberg,
+Actors : Jude Law,Jennifer Jason Leigh,Ian Holm,Willem Dafoe,
+Movie Text: 
+A game designer on the run from assassins must play her latest virtual reality creation with a marketing trainee to determine if the game has been damaged.

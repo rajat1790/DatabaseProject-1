@@ -1,0 +1,11 @@
+Movie Name: Requiem for a Dream 
+Movie Year: 2000
+Movie Certificate: R
+Movie Duration: 102 min
+Movie Genre: 
+Drama            
+Movie Rating : 8.4
+Directors : Darren Aronofsky,
+Actors : Ellen Burstyn,Jared Leto,Jennifer Connelly,Marlon Wayans,
+Movie Text: 
+The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.

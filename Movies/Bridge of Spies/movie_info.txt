@@ -1,0 +1,11 @@
+Movie Name: Bridge of Spies 
+Movie Year: 2015
+Movie Certificate: PG-13
+Movie Duration: 142 min
+Movie Genre: 
+Drama, History, Thriller            
+Movie Rating : 7.6
+Directors : Steven Spielberg,
+Actors : Tom Hanks,Mark Rylance,Alan Alda,Amy Ryan,
+Movie Text: 
+During the Cold War, an American lawyer is recruited to defend an arrested Soviet spy in court, and then help the CIA facilitate an exchange of the spy for the Soviet captured American U2 spy plane pilot, Francis Gary Powers.

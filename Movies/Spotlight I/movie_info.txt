@@ -1,0 +1,11 @@
+Movie Name: Spotlight I
+Movie Year: 2015
+Movie Certificate: R
+Movie Duration: 128 min
+Movie Genre: 
+Biography, Crime, Drama            
+Movie Rating : 8.1
+Directors : Tom McCarthy,
+Actors : Mark Ruffalo,Michael Keaton,Rachel McAdams,Liev Schreiber,
+Movie Text: 
+The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.

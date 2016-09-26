@@ -1,0 +1,11 @@
+Movie Name: The Doors 
+Movie Year: 1991
+Movie Certificate: R
+Movie Duration: 140 min
+Movie Genre: 
+Biography, Drama, Music            
+Movie Rating : 7.2
+Directors : Oliver Stone,
+Actors : Val Kilmer,Meg Ryan,Kyle MacLachlan,Frank Whaley,
+Movie Text: 
+The story of the famous and influential 1960s rock band and its lead singer and composer, Jim Morrison, from his days as a UCLA film student in Los Angeles, to his untimely death in Paris, France at age 27 in 1971.

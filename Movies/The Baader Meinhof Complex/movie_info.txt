@@ -1,0 +1,11 @@
+Movie Name: The Baader Meinhof Complex 
+Movie Year: 2008
+Movie Certificate: R
+Movie Duration: 150 min
+Movie Genre: 
+Action, Biography, Crime            
+Movie Rating : 7.4
+Directors : Uli Edel,
+Actors : Martina Gedeck,Moritz Bleibtreu,Johanna Wokalek,Bruno Ganz,
+Movie Text: 
+A look at Germany's terrorist group, The Red Army Faction (RAF), which organized bombings, robberies, kidnappings and assassinations in the late 1960s and '70s.

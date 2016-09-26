@@ -1,0 +1,11 @@
+Movie Name: The Secret of NIMH 
+Movie Year: 1982
+Movie Certificate: G
+Movie Duration: 82 min
+Movie Genre: 
+Animation, Adventure, Drama            
+Movie Rating : 7.6
+Directors : Don Bluth,
+Actors : Elizabeth Hartman,Derek Jacobi,Dom DeLuise,Arthur Malet,
+Movie Text: 
+To save her ill son, a field mouse must seek the aid of a colony of rats, with whom she has a deeper link than she ever suspected.

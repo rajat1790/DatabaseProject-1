@@ -1,0 +1,11 @@
+Movie Name: Big Fish 
+Movie Year: 2003
+Movie Certificate: PG-13
+Movie Duration: 125 min
+Movie Genre: 
+Adventure, Drama, Fantasy            
+Movie Rating : 8.0
+Directors : Tim Burton,
+Actors : Ewan McGregor,Albert Finney,Billy Crudup,Jessica Lange,
+Movie Text: 
+A frustrated son tries to determine the fact from fiction in his dying father's life.

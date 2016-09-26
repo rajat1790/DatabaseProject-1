@@ -1,0 +1,11 @@
+Movie Name: Beauty and the Beast 
+Movie Year: 1991
+Movie Certificate: G
+Movie Duration: 84 min
+Movie Genre: 
+Animation, Family, Fantasy            
+Movie Rating : 8.0
+Directors : Gary Trousdale,Kirk Wise,
+Actors : Paige O'Hara,Robby Benson,Jesse Corti,Rex Everhart,
+Movie Text: 
+Belle, whose father is imprisoned by the Beast, offers herself instead, unaware her captor to be an enchanted prince.

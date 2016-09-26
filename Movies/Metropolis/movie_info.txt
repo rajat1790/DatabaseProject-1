@@ -1,0 +1,11 @@
+Movie Name: Metropolis 
+Movie Year: 1927
+Movie Certificate: Not Rated
+Movie Duration: 153 min
+Movie Genre: 
+Drama, Sci-Fi            
+Movie Rating : 8.3
+Directors : Fritz Lang,
+Actors : Brigitte Helm,Alfred Abel,Gustav Fröhlich,Rudolf Klein-Rogge,
+Movie Text: 
+In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.

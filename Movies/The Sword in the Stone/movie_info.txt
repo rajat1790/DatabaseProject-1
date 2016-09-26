@@ -1,0 +1,11 @@
+Movie Name: The Sword in the Stone 
+Movie Year: 1963
+Movie Certificate: G
+Movie Duration: 79 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 7.2
+Directors : Wolfgang Reitherman,
+Actors : Rickie Sorensen,Sebastian Cabot,Karl Swenson,Junius Matthews,
+Movie Text: 
+A poor boy named Arthur learns the power of love, kindness, knowledge and bravery with the help of a wizard called Merlin in the path to become one of the most beloved kings in England history.

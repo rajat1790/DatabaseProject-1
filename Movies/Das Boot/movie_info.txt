@@ -1,0 +1,11 @@
+Movie Name: Das Boot 
+Movie Year: 1981
+Movie Certificate: R
+Movie Duration: 149 min
+Movie Genre: 
+Adventure, Drama, Thriller            
+Movie Rating : 8.4
+Directors : Wolfgang Petersen,
+Actors : Jürgen Prochnow,Herbert Grönemeyer,Klaus Wennemann,Hubertus Bengsch,
+Movie Text: 
+The claustrophobic world of a WWII German U-boat; boredom, filth, and sheer terror.

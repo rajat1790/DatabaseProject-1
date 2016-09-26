@@ -1,0 +1,11 @@
+Movie Name: Aladdin 
+Movie Year: 1992
+Movie Certificate: G
+Movie Duration: 90 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 8.0
+Directors : Ron Clements,John Musker,
+Actors : Scott Weinger,Robin Williams,Linda Larkin,Jonathan Freeman,
+Movie Text: 
+When a street urchin vies for the love of a beautiful princess, he uses a genie's magic power to make himself off as a prince in order to marry her.

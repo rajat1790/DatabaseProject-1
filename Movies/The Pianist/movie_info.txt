@@ -1,0 +1,11 @@
+Movie Name: The Pianist 
+Movie Year: 2002
+Movie Certificate: R
+Movie Duration: 150 min
+Movie Genre: 
+Biography, Drama, War            
+Movie Rating : 8.5
+Directors : Roman Polanski,
+Actors : Adrien Brody,Thomas Kretschmann,Frank Finlay,Emilia Fox,
+Movie Text: 
+A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.

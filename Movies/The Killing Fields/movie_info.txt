@@ -1,0 +1,11 @@
+Movie Name: The Killing Fields 
+Movie Year: 1984
+Movie Certificate: R
+Movie Duration: 141 min
+Movie Genre: 
+Drama, History, War            
+Movie Rating : 7.9
+Directors : Roland Joffé,
+Actors : Sam Waterston,Haing S. Ngor,John Malkovich,Julian Sands,
+Movie Text: 
+A journalist is trapped in Cambodia during tyrant Pol Pot's bloody "Year Zero" cleansing campaign, which claimed the lives of two million "undesirable" civilians.

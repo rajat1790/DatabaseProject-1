@@ -1,0 +1,11 @@
+Movie Name: The Man Who Shot Liberty Valance 
+Movie Year: 1962
+Movie Certificate: Approved
+Movie Duration: 123 min
+Movie Genre: 
+Drama, Romance, Western            
+Movie Rating : 8.1
+Directors : John Ford,
+Actors : James Stewart,John Wayne,Vera Miles,Lee Marvin,
+Movie Text: 
+A senator, who became famous for killing a notorious outlaw, returns for the funeral of an old friend and tells the truth about his deed.

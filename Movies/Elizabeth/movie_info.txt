@@ -1,0 +1,11 @@
+Movie Name: Elizabeth 
+Movie Year: 1998
+Movie Certificate: R
+Movie Duration: 124 min
+Movie Genre: 
+Biography, Drama, History            
+Movie Rating : 7.5
+Directors : Shekhar Kapur,
+Actors : Cate Blanchett,Geoffrey Rush,Christopher Eccleston,Joseph Fiennes,
+Movie Text: 
+A film of the early years of the reign of Elizabeth I of England and her difficult task of learning what is necessary to be a monarch.

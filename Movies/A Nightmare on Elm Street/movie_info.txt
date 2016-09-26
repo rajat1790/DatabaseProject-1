@@ -1,0 +1,11 @@
+Movie Name: A Nightmare on Elm Street 
+Movie Year: 1984
+Movie Certificate: R
+Movie Duration: 91 min
+Movie Genre: 
+Horror            
+Movie Rating : 7.5
+Directors : Wes Craven,
+Actors : Heather Langenkamp,Johnny Depp,Robert Englund,John Saxon,
+Movie Text: 
+Several people are hunted by a cruel serial killer who kills his victims in their dreams. While the survivors are trying to find the reason for being chosen, the murderer won't lose any chance to kill them as soon as they fall asleep.

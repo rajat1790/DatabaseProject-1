@@ -1,0 +1,11 @@
+Movie Name: Harry Potter and the Sorcerer's Stone 
+Movie Year: 2001
+Movie Certificate: PG
+Movie Duration: 152 min
+Movie Genre: 
+Adventure, Family, Fantasy            
+Movie Rating : 7.5
+Directors : Chris Columbus,
+Actors : Daniel Radcliffe,Rupert Grint,Richard Harris,Maggie Smith,
+Movie Text: 
+Rescued from the outrageous neglect of his aunt and uncle, a young boy with a great destiny proves his worth while attending Hogwarts School of Witchcraft and Wizardry.

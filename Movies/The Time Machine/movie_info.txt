@@ -1,0 +1,11 @@
+Movie Name: The Time Machine 
+Movie Year: 1960
+Movie Certificate: Approved
+Movie Duration: 103 min
+Movie Genre: 
+Adventure, Romance, Sci-Fi            
+Movie Rating : 7.6
+Directors : George Pal,
+Actors : Rod Taylor,Alan Young,Yvette Mimieux,Sebastian Cabot,
+Movie Text: 
+A man's vision for a utopian society is disillusioned when travelling forward into time reveals a dark and dangerous society.

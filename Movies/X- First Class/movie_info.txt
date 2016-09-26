@@ -1,0 +1,11 @@
+Movie Name: X: First Class 
+Movie Year: 2011
+Movie Certificate: PG-13
+Movie Duration: 132 min
+Movie Genre: 
+Action, Adventure, Sci-Fi            
+Movie Rating : 7.8
+Directors : Matthew Vaughn,
+Actors : James McAvoy,Michael Fassbender,Jennifer Lawrence,Kevin Bacon,
+Movie Text: 
+In 1962, the United States government enlists the help of Mutants with superhuman abilities to stop a malicious dictator who is determined to start World War III.

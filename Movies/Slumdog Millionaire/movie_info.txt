@@ -1,0 +1,11 @@
+Movie Name: Slumdog Millionaire 
+Movie Year: 2008
+Movie Certificate: R
+Movie Duration: 120 min
+Movie Genre: 
+Drama, Romance            
+Movie Rating : 8.0
+Directors : Danny Boyle,Loveleen Tandan,
+Actors : Dev Patel,Freida Pinto,Saurabh Shukla,Anil Kapoor,
+Movie Text: 
+A Mumbai teen reflects on his upbringing in the slums when he is accused of cheating on the Indian Version of "Who Wants to be a Millionaire?"

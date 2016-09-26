@@ -1,0 +1,11 @@
+Movie Name: The Night of the Hunter 
+Movie Year: 1955
+Movie Certificate: Approved
+Movie Duration: 92 min
+Movie Genre: 
+Crime, Drama, Film-Noir            
+Movie Rating : 8.1
+Directors : Charles Laughton,Robert Mitchum,Terry Sanders,
+Actors : Robert Mitchum,Shelley Winters,Lillian Gish,James Gleason,
+Movie Text: 
+A religious fanatic marries a gullible widow whose young children are reluctant to tell him where their real daddy hid $10,000 he'd stolen in a robbery.

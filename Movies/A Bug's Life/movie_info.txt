@@ -1,0 +1,11 @@
+Movie Name: A Bug's Life 
+Movie Year: 1998
+Movie Certificate: G
+Movie Duration: 95 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 7.2
+Directors : John Lasseter,Andrew Stanton,
+Actors : Kevin Spacey,Dave Foley,Julia Louis-Dreyfus,Hayden Panettiere,
+Movie Text: 
+A misfit ant, looking for "warriors" to save his colony from greedy grasshoppers, recruits a group of bugs that turn out to be an inept circus troupe.

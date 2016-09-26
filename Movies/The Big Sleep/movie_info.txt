@@ -1,0 +1,11 @@
+Movie Name: The Big Sleep 
+Movie Year: 1946
+Movie Certificate: Approved
+Movie Duration: 114 min
+Movie Genre: 
+Crime, Film-Noir, Mystery            
+Movie Rating : 8.0
+Directors : Howard Hawks,
+Actors : Humphrey Bogart,Lauren Bacall,John Ridgely,Martha Vickers,
+Movie Text: 
+Private detective Philip Marlowe is hired by a rich family. Before the complex case is over, he's seen murder, blackmail, and what might be love.

@@ -1,0 +1,11 @@
+Movie Name: The Return 
+Movie Year: 2003
+Movie Certificate: Unrated
+Movie Duration: 105 min
+Movie Genre: 
+Drama, Mystery, Thriller            
+Movie Rating : 8.0
+Directors : Andrey Zvyagintsev,
+Actors : Vladimir Garin,Ivan Dobronravov,Konstantin Lavronenko,Nataliya Vdovina,
+Movie Text: 
+In the Russian wilderness, two brothers face a range of new, conflicting emotions when their father - a man they know only through a single photograph - resurfaces.

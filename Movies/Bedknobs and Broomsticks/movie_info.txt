@@ -1,0 +1,11 @@
+Movie Name: Bedknobs and Broomsticks 
+Movie Year: 1971
+Movie Certificate: G
+Movie Duration: 117 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 7.0
+Directors : Robert Stevenson,
+Actors : Angela Lansbury,David Tomlinson,Roddy McDowall,Sam Jaffe,
+Movie Text: 
+An apprentice witch, three kids and a cynical conman search for the missing component to a magic spell useful to the defense of Britain.

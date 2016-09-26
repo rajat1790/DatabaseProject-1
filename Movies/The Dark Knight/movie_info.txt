@@ -1,0 +1,11 @@
+Movie Name: The Dark Knight 
+Movie Year: 2008
+Movie Certificate: PG-13
+Movie Duration: 152 min
+Movie Genre: 
+Action, Crime, Drama            
+Movie Rating : 9.0
+Directors : Christopher Nolan,
+Actors : Christian Bale,Heath Ledger,Aaron Eckhart,Michael Caine,
+Movie Text: 
+When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.

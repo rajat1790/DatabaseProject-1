@@ -1,0 +1,11 @@
+Movie Name: Girl, Interrupted 
+Movie Year: 1999
+Movie Certificate: R
+Movie Duration: 127 min
+Movie Genre: 
+Biography, Drama            
+Movie Rating : 7.3
+Directors : James Mangold,
+Actors : Winona Ryder,Angelina Jolie,Clea DuVall,Brittany Murphy,
+Movie Text: 
+Based on writer Susanna Kaysen's account of her 18-month stay at a mental hospital in the 1960s.

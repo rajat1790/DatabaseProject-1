@@ -1,0 +1,11 @@
+Movie Name: Misery 
+Movie Year: 1990
+Movie Certificate: R
+Movie Duration: 107 min
+Movie Genre: 
+Crime, Drama, Thriller            
+Movie Rating : 7.8
+Directors : Rob Reiner,
+Actors : James Caan,Kathy Bates,Richard Farnsworth,Frances Sternhagen,
+Movie Text: 
+After a famous author is rescued from a car crash by a fan of his novels, he comes to realize that the care he is receiving is only the beginning of a nightmare of captivity and abuse.

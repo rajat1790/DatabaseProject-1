@@ -1,0 +1,11 @@
+Movie Name: Sleeper 
+Movie Year: 1973
+Movie Certificate: PG
+Movie Duration: 89 min
+Movie Genre: 
+Comedy, Sci-Fi            
+Movie Rating : 7.3
+Directors : Woody Allen,
+Actors : Woody Allen,Diane Keaton,John Beck,Mary Gregory,
+Movie Text: 
+A nerdish store owner is revived out of cryostasis into a future world to fight an oppressive government.

@@ -1,0 +1,11 @@
+Movie Name: Tora! Tora! Tora! 
+Movie Year: 1970
+Movie Certificate: G
+Movie Duration: 144 min
+Movie Genre: 
+Action, Drama, History            
+Movie Rating : 7.5
+Directors : Richard Fleischer,Kinji Fukasaku,Toshio Masuda,
+Actors : Martin Balsam,Sô Yamamura,Jason Robards,Joseph Cotten,
+Movie Text: 
+A dramatization of the Japanese attack on the U.S. naval base at Pearl Harbor and the series of American blunders that allowed it to happen.

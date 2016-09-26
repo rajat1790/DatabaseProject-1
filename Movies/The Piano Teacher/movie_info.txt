@@ -1,0 +1,11 @@
+Movie Name: The Piano Teacher 
+Movie Year: 2001
+Movie Certificate: R
+Movie Duration: 131 min
+Movie Genre: 
+Drama, Music, Romance            
+Movie Rating : 7.4
+Directors : Michael Haneke,
+Actors : Isabelle Huppert,Annie Girardot,Benoît Magimel,Susanne Lothar,
+Movie Text: 
+A young man romantically pursues his masochistic piano teacher.

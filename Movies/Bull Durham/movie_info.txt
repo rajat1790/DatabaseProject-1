@@ -1,0 +1,11 @@
+Movie Name: Bull Durham 
+Movie Year: 1988
+Movie Certificate: R
+Movie Duration: 108 min
+Movie Genre: 
+Comedy, Romance, Sport            
+Movie Rating : 7.1
+Directors : Ron Shelton,
+Actors : Kevin Costner,Susan Sarandon,Tim Robbins,Trey Wilson,
+Movie Text: 
+A fan who has an affair with one minor-league baseball player each season meets an up-and-coming pitcher and the experienced catcher assigned to him.

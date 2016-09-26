@@ -1,0 +1,11 @@
+Movie Name: Les Misérables 
+Movie Year: 2012
+Movie Certificate: PG-13
+Movie Duration: 158 min
+Movie Genre: 
+Drama, Musical, Romance            
+Movie Rating : 7.6
+Directors : Tom Hooper,
+Actors : Hugh Jackman,Russell Crowe,Anne Hathaway,Amanda Seyfried,
+Movie Text: 
+In 19th-century France, Jean Valjean, who for decades has been hunted by the ruthless policeman Javert after breaking parole, agrees to care for a factory worker's daughter. The decision changes their lives forever.

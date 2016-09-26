@@ -1,0 +1,11 @@
+Movie Name: The Boondock Saints 
+Movie Year: 1999
+Movie Certificate: R
+Movie Duration: 108 min
+Movie Genre: 
+Action, Crime, Thriller            
+Movie Rating : 7.9
+Directors : Troy Duffy,
+Actors : Willem Dafoe,Sean Patrick Flanery,Norman Reedus,David Della Rocco,
+Movie Text: 
+Fraternal twins set out to rid Boston of the evil men operating there while being tracked down by an FBI agent.

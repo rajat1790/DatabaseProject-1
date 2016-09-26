@@ -1,0 +1,11 @@
+Movie Name: Fantasia 2000 
+Movie Year: 1999
+Movie Certificate: G
+Movie Duration: 74 min
+Movie Genre: 
+Animation, Family, Fantasy            
+Movie Rating : 7.2
+Directors : James Algar,Gaëtan Brizzi,Paul Brizzi,Hendel Butoy,Francis Glebas,Eric Goldberg,Don Hahn,Pixote Hunt,
+Actors : James Levine,Steve Martin,Itzhak Perlman,Quincy Jones,
+Movie Text: 
+An update of the original film with new interpretations of great works of classical music.

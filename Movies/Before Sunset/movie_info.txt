@@ -1,0 +1,11 @@
+Movie Name: Before Sunset 
+Movie Year: 2004
+Movie Certificate: R
+Movie Duration: 80 min
+Movie Genre: 
+Drama, Romance            
+Movie Rating : 8.0
+Directors : Richard Linklater,
+Actors : Ethan Hawke,Julie Delpy,Vernon Dobtcheff,Louise Lemoine Torrès,
+Movie Text: 
+Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour.

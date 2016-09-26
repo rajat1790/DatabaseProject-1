@@ -1,0 +1,11 @@
+Movie Name: Dawn of the Dead 
+Movie Year: 1978
+Movie Certificate: Unrated
+Movie Duration: 127 min
+Movie Genre: 
+Action, Horror, Thriller            
+Movie Rating : 8.0
+Directors : George A. Romero,
+Actors : David Emge,Ken Foree,Scott H. Reiniger,Gaylen Ross,
+Movie Text: 
+Following an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia S.W.A.T. team members, a traffic reporter, and his television executive girlfriend seek refuge in a secluded shopping mall.

@@ -1,0 +1,11 @@
+Movie Name: The Killer 
+Movie Year: 1989
+Movie Certificate: R
+Movie Duration: 111 min
+Movie Genre: 
+Action, Crime, Drama            
+Movie Rating : 7.9
+Directors : John Woo,
+Actors : Yun-Fat Chow,Danny Lee,Sally Yeh,Kong Chu,
+Movie Text: 
+A disillusioned assassin accepts one last hit in hopes of using his earnings to restore vision to a singer he accidentally blinded, only to be double-crossed by his boss.

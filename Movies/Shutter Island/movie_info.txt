@@ -1,0 +1,11 @@
+Movie Name: Shutter Island 
+Movie Year: 2010
+Movie Certificate: R
+Movie Duration: 138 min
+Movie Genre: 
+Mystery, Thriller            
+Movie Rating : 8.1
+Directors : Martin Scorsese,
+Actors : Leonardo DiCaprio,Emily Mortimer,Mark Ruffalo,Ben Kingsley,
+Movie Text: 
+In 1954, a U.S. marshal investigates the disappearance of a murderess who escaped from a hospital for the criminally insane.

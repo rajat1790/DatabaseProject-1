@@ -1,0 +1,11 @@
+Movie Name: Videodrome 
+Movie Year: 1983
+Movie Certificate: R
+Movie Duration: 87 min
+Movie Genre: 
+Horror, Mystery, Sci-Fi            
+Movie Rating : 7.3
+Directors : David Cronenberg,
+Actors : James Woods,Debbie Harry,Sonja Smits,Peter Dvorsky,
+Movie Text: 
+A sleazy cable-TV programmer begins to see his life and the future of media spin out of control in a very unusual fashion when he acquires a new kind of programming for his station.

@@ -1,0 +1,11 @@
+Movie Name: American Splendor 
+Movie Year: 2003
+Movie Certificate: R
+Movie Duration: 101 min
+Movie Genre: 
+Biography, Comedy, Drama            
+Movie Rating : 7.5
+Directors : Shari Springer Berman,Robert Pulcini,
+Actors : Paul Giamatti,Shari Springer Berman,Harvey Pekar,Chris Ambrose,
+Movie Text: 
+An original mix of fiction and reality illuminates the life of comic book hero everyman Harvey Pekar.

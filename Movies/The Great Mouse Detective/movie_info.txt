@@ -1,0 +1,11 @@
+Movie Name: The Great Mouse Detective 
+Movie Year: 1986
+Movie Certificate: G
+Movie Duration: 74 min
+Movie Genre: 
+Animation, Adventure, Family            
+Movie Rating : 7.2
+Directors : Ron Clements,Burny Mattinson,David Michener,John Musker,
+Actors : Vincent Price,Barrie Ingham,Val Bettin,Susanne Pollatschek,
+Movie Text: 
+Basil, the rodent Sherlock Holmes, investigates the kidnapping of a toy-maker and uncovers its link to his arch-enemy, Professor Ratigan.

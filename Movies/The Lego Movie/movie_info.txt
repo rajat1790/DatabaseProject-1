@@ -1,0 +1,11 @@
+Movie Name: The Lego Movie 
+Movie Year: 2014
+Movie Certificate: PG
+Movie Duration: 100 min
+Movie Genre: 
+Animation, Action, Adventure            
+Movie Rating : 7.8
+Directors : Phil Lord,Christopher Miller,
+Actors : Chris Pratt,Will Ferrell,Elizabeth Banks,Will Arnett,
+Movie Text: 
+An ordinary Lego construction worker, thought to be the prophesied 'Special', is recruited to join a quest to stop an evil tyrant from gluing the Lego universe into eternal stasis.

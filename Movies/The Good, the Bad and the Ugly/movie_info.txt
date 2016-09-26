@@ -1,0 +1,11 @@
+Movie Name: The Good, the Bad and the Ugly 
+Movie Year: 1966
+Movie Certificate: Approved
+Movie Duration: 161 min
+Movie Genre: 
+Western            
+Movie Rating : 8.9
+Directors : Sergio Leone,
+Actors : Clint Eastwood,Eli Wallach,Lee Van Cleef,Aldo Giuffrè,
+Movie Text: 
+A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.

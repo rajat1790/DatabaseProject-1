@@ -1,0 +1,11 @@
+Movie Name: Pleasantville 
+Movie Year: 1998
+Movie Certificate: PG-13
+Movie Duration: 124 min
+Movie Genre: 
+Comedy, Drama, Fantasy            
+Movie Rating : 7.5
+Directors : Gary Ross,
+Actors : Tobey Maguire,Jeff Daniels,Joan Allen,Reese Witherspoon,
+Movie Text: 
+Two 1990s teenage siblings find themselves in a 1950s sitcom where their influence begins to profoundly change that complacent world.

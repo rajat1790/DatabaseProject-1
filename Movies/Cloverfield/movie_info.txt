@@ -1,0 +1,11 @@
+Movie Name: Cloverfield 
+Movie Year: 2008
+Movie Certificate: PG-13
+Movie Duration: 85 min
+Movie Genre: 
+Action, Horror, Sci-Fi            
+Movie Rating : 7.0
+Directors : Matt Reeves,
+Actors : Mike Vogel,Jessica Lucas,Lizzy Caplan,T.J. Miller,
+Movie Text: 
+A group of friends venture deep into the streets of New York on a rescue mission during a rampaging monster attack.

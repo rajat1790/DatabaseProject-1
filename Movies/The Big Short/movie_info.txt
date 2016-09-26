@@ -1,0 +1,11 @@
+Movie Name: The Big Short 
+Movie Year: 2015
+Movie Certificate: R
+Movie Duration: 130 min
+Movie Genre: 
+Biography, Comedy, Drama            
+Movie Rating : 7.8
+Directors : Adam McKay,
+Actors : Christian Bale,Steve Carell,Ryan Gosling,Brad Pitt,
+Movie Text: 
+Four denizens in the world of high-finance predict the credit and housing bubble collapse of the mid-2000s, and decide to take on the big banks for their greed and lack of foresight.

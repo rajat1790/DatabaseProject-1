@@ -1,0 +1,11 @@
+Movie Name: The Sixth Sense 
+Movie Year: 1999
+Movie Certificate: PG-13
+Movie Duration: 107 min
+Movie Genre: 
+Drama, Mystery, Thriller            
+Movie Rating : 8.1
+Directors : M. Night Shyamalan,
+Actors : Bruce Willis,Haley Joel Osment,Toni Collette,Olivia Williams,
+Movie Text: 
+A boy who communicates with spirits that don't know they're dead seeks the help of a disheartened child psychologist.

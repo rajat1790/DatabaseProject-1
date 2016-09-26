@@ -1,0 +1,11 @@
+Movie Name: For a Few Dollars More 
+Movie Year: 1965
+Movie Certificate: Approved
+Movie Duration: 132 min
+Movie Genre: 
+Western            
+Movie Rating : 8.3
+Directors : Sergio Leone,
+Actors : Clint Eastwood,Lee Van Cleef,Gian Maria Volontè,Mario Brega,
+Movie Text: 
+Two bounty hunters with the same intentions team up to track down a Western outlaw.

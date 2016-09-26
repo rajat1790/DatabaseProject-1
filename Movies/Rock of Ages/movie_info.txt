@@ -1,0 +1,11 @@
+Movie Name: Rock of Ages 
+Movie Year: 2012
+Movie Certificate: PG-13
+Movie Duration: 123 min
+Movie Genre: 
+Comedy, Drama, Musical            
+Movie Rating : 5.9
+Directors : Adam Shankman,
+Actors : Julianne Hough,Diego Boneta,Tom Cruise,Alec Baldwin,
+Movie Text: 
+A small town girl and a city boy meet on the Sunset Strip, while pursuing their Hollywood dreams.

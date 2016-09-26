@@ -1,0 +1,11 @@
+Movie Name: Cars 
+Movie Year: 2006
+Movie Certificate: G
+Movie Duration: 117 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 7.2
+Directors : John Lasseter,Joe Ranft,
+Actors : Owen Wilson,Bonnie Hunt,Paul Newman,Larry the Cable Guy,
+Movie Text: 
+A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.

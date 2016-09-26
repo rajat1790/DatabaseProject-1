@@ -1,0 +1,11 @@
+Movie Name: Defiance I
+Movie Year: 2008
+Movie Certificate: R
+Movie Duration: 137 min
+Movie Genre: 
+Action, Drama, History            
+Movie Rating : 7.2
+Directors : Edward Zwick,
+Actors : Daniel Craig,Liev Schreiber,Jamie Bell,Alexa Davalos,
+Movie Text: 
+Jewish brothers in Nazi-occupied Eastern Europe escape into the Belarussian forests, where they join Russian resistance fighters and endeavor to build a village in order to protect themselves and about 1,000 Jewish non-combatants.

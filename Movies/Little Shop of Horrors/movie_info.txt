@@ -1,0 +1,11 @@
+Movie Name: Little Shop of Horrors 
+Movie Year: 1986
+Movie Certificate: PG-13
+Movie Duration: 94 min
+Movie Genre: 
+Comedy, Horror, Musical            
+Movie Rating : 6.9
+Directors : Frank Oz,
+Actors : Rick Moranis,Ellen Greene,Vincent Gardenia,Levi Stubbs,
+Movie Text: 
+A nerdy florist finds his chance for success and romance with the help of a giant man-eating plant who demands to be fed.

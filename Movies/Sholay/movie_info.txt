@@ -1,0 +1,11 @@
+Movie Name: Sholay 
+Movie Year: 1975
+Movie Certificate: 
+Movie Duration: 
+Movie Genre: 
+Action, Adventure, Comedy            
+Movie Rating : 8.5
+Directors : Ramesh Sippy,
+Actors : Dharmendra,Sanjeev Kumar,Hema Malini,Amitabh Bachchan,
+Movie Text: 
+After his family is murdered by a notorious and ruthless bandit, a former police officer enlists the services of two outlaws to capture him.

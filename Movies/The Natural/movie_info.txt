@@ -1,0 +1,11 @@
+Movie Name: The Natural 
+Movie Year: 1984
+Movie Certificate: PG
+Movie Duration: 138 min
+Movie Genre: 
+Drama, Sport            
+Movie Rating : 7.5
+Directors : Barry Levinson,
+Actors : Robert Redford,Robert Duvall,Glenn Close,Kim Basinger,
+Movie Text: 
+An unknown comes out of seemingly nowhere to become a legendary player with almost divine talent.

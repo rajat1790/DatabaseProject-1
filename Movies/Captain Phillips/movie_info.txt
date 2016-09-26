@@ -1,0 +1,11 @@
+Movie Name: Captain Phillips 
+Movie Year: 2013
+Movie Certificate: PG-13
+Movie Duration: 134 min
+Movie Genre: 
+Biography, Drama, Thriller            
+Movie Rating : 7.9
+Directors : Paul Greengrass,
+Actors : Tom Hanks,Barkhad Abdi,Barkhad Abdirahman,Catherine Keener,
+Movie Text: 
+The true story of Captain Richard Phillips and the 2009 hijacking by Somali pirates of the US-flagged MV Maersk Alabama, the first American cargo ship to be hijacked in two hundred years.

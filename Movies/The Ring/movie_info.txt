@@ -1,0 +1,11 @@
+Movie Name: The Ring 
+Movie Year: 2002
+Movie Certificate: PG-13
+Movie Duration: 115 min
+Movie Genre: 
+Horror, Mystery            
+Movie Rating : 7.1
+Directors : Gore Verbinski,
+Actors : Naomi Watts,Martin Henderson,Brian Cox,David Dorfman,
+Movie Text: 
+A journalist must investigate a mysterious videotape which seems to cause the death of anyone in a week of viewing it.

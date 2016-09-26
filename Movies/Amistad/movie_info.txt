@@ -1,0 +1,11 @@
+Movie Name: Amistad 
+Movie Year: 1997
+Movie Certificate: R
+Movie Duration: 155 min
+Movie Genre: 
+Drama, History            
+Movie Rating : 7.2
+Directors : Steven Spielberg,
+Actors : Djimon Hounsou,Matthew McConaughey,Anthony Hopkins,Morgan Freeman,
+Movie Text: 
+About a 1839 mutiny aboard a slave ship that is traveling towards the northeastern coast of America. Much of the story involves a court-room drama about the free man who led the revolt.

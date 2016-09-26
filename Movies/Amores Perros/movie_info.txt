@@ -1,0 +1,11 @@
+Movie Name: Amores Perros 
+Movie Year: 2000
+Movie Certificate: R
+Movie Duration: 154 min
+Movie Genre: 
+Drama, Thriller            
+Movie Rating : 8.1
+Directors : Alejandro G. Iñárritu,
+Actors : Emilio Echevarría,Gael García Bernal,Goya Toledo,Álvaro Guerrero,
+Movie Text: 
+A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life's harsh realities, all in the name of love.

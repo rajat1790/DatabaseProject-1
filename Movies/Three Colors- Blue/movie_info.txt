@@ -1,0 +1,11 @@
+Movie Name: Three Colors: Blue 
+Movie Year: 1993
+Movie Certificate: R
+Movie Duration: 98 min
+Movie Genre: 
+Drama, Music, Mystery            
+Movie Rating : 8.0
+Directors : Krzysztof Kieslowski,
+Actors : Juliette Binoche,Zbigniew Zamachowski,Julie Delpy,Benoît Régent,
+Movie Text: 
+A woman struggles to find a way to live her life after the death of her husband and child.

@@ -1,0 +1,11 @@
+Movie Name: Equilibrium 
+Movie Year: 2002
+Movie Certificate: R
+Movie Duration: 107 min
+Movie Genre: 
+Action, Drama, Sci-Fi            
+Movie Rating : 7.5
+Directors : Kurt Wimmer,
+Actors : Christian Bale,Sean Bean,Emily Watson,Taye Diggs,
+Movie Text: 
+In a Fascist future where all forms of feeling are illegal, a man in charge of enforcing the law rises to overthrow the system.

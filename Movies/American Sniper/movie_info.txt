@@ -1,0 +1,11 @@
+Movie Name: American Sniper 
+Movie Year: 2014
+Movie Certificate: R
+Movie Duration: 133 min
+Movie Genre: 
+Action, Biography, Drama            
+Movie Rating : 7.3
+Directors : Clint Eastwood,
+Actors : Bradley Cooper,Sienna Miller,Kyle Gallner,Cole Konis,
+Movie Text: 
+Navy S.E.A.L. sniper Chris Kyle's pinpoint accuracy saves countless lives on the battlefield and turns him into a legend. Back home to his wife and kids after four tours of duty, however, Chris finds that it is the war he can't leave behind.

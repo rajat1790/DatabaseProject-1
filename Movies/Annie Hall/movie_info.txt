@@ -1,0 +1,11 @@
+Movie Name: Annie Hall 
+Movie Year: 1977
+Movie Certificate: PG
+Movie Duration: 93 min
+Movie Genre: 
+Comedy, Romance            
+Movie Rating : 8.1
+Directors : Woody Allen,
+Actors : Woody Allen,Diane Keaton,Tony Roberts,Carol Kane,
+Movie Text: 
+Neurotic New York comedian Alvy Singer falls in love with the ditzy Annie Hall.

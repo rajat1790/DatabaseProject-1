@@ -1,0 +1,11 @@
+Movie Name: The Wrestler 
+Movie Year: 2008
+Movie Certificate: R
+Movie Duration: 109 min
+Movie Genre: 
+Drama, Sport            
+Movie Rating : 7.9
+Directors : Darren Aronofsky,
+Actors : Mickey Rourke,Marisa Tomei,Evan Rachel Wood,Mark Margolis,
+Movie Text: 
+A faded professional wrestler must retire, but finds his quest for a new life outside the ring a dispiriting struggle.

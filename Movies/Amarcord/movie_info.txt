@@ -1,0 +1,11 @@
+Movie Name: Amarcord 
+Movie Year: 1973
+Movie Certificate: R
+Movie Duration: 123 min
+Movie Genre: 
+Comedy, Drama            
+Movie Rating : 8.0
+Directors : Federico Fellini,
+Actors : Magali Noël,Bruno Zanin,Pupella Maggio,Armando Brancia,
+Movie Text: 
+A series of comedic and nostalgic vignettes set in a 1930s Italian coastal town.

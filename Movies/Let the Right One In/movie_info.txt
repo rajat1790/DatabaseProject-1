@@ -1,0 +1,11 @@
+Movie Name: Let the Right One In 
+Movie Year: 2008
+Movie Certificate: R
+Movie Duration: 115 min
+Movie Genre: 
+Drama, Horror, Romance            
+Movie Rating : 8.0
+Directors : Tomas Alfredson,
+Actors : Kåre Hedebrant,Lina Leandersson,Per Ragnar,Henrik Dahl,
+Movie Text: 
+Oskar, an overlooked and bullied boy, finds love and revenge through Eli, a beautiful but peculiar girl.

@@ -1,0 +1,11 @@
+Movie Name: He Got Game 
+Movie Year: 1998
+Movie Certificate: R
+Movie Duration: 136 min
+Movie Genre: 
+Drama, Sport            
+Movie Rating : 6.9
+Directors : Spike Lee,
+Actors : Denzel Washington,Milla Jovovich,Ray Allen,Rosario Dawson,
+Movie Text: 
+A basketball player's father must try to convince him to go to a college so he can get a shorter sentence.

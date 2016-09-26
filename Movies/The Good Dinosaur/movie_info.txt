@@ -1,0 +1,11 @@
+Movie Name: The Good Dinosaur 
+Movie Year: 2015
+Movie Certificate: PG
+Movie Duration: 93 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 6.8
+Directors : Peter Sohn,
+Actors : Jeffrey Wright,Frances McDormand,Maleah Nipay-Padilla,Ryan Teeple,
+Movie Text: 
+In a world where dinosaurs and humans live side-by-side, an Apatosaurus named Arlo makes an unlikely human friend.

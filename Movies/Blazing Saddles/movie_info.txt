@@ -1,0 +1,11 @@
+Movie Name: Blazing Saddles 
+Movie Year: 1974
+Movie Certificate: R
+Movie Duration: 93 min
+Movie Genre: 
+Comedy, Western            
+Movie Rating : 7.8
+Directors : Mel Brooks,
+Actors : Cleavon Little,Gene Wilder,Slim Pickens,Harvey Korman,
+Movie Text: 
+To ruin a western town, a corrupt political boss appoints a black sheriff, who promptly becomes his most formidable adversary.

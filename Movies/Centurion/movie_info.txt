@@ -1,0 +1,11 @@
+Movie Name: Centurion 
+Movie Year: 2010
+Movie Certificate: R
+Movie Duration: 97 min
+Movie Genre: 
+Action, Adventure, Drama            
+Movie Rating : 6.4
+Directors : Neil Marshall,
+Actors : Michael Fassbender,Dominic West,Olga Kurylenko,Andreas Wisniewski,
+Movie Text: 
+A splinter group of Roman soldiers fight for their lives behind enemy lines after their legion is decimated in a devastating guerrilla attack.

@@ -1,0 +1,11 @@
+Movie Name: Star Wars: The Force Awakens 
+Movie Year: 2015
+Movie Certificate: PG-13
+Movie Duration: 138 min
+Movie Genre: 
+Action, Adventure, Fantasy            
+Movie Rating : 8.2
+Directors : J.J. Abrams,
+Actors : Daisy Ridley,John Boyega,Oscar Isaac,Domhnall Gleeson,
+Movie Text: 
+Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance.

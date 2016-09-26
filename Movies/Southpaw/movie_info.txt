@@ -1,0 +1,11 @@
+Movie Name: Southpaw 
+Movie Year: 2015
+Movie Certificate: R
+Movie Duration: 124 min
+Movie Genre: 
+Drama, Sport            
+Movie Rating : 7.4
+Directors : Antoine Fuqua,
+Actors : Jake Gyllenhaal,Rachel McAdams,Oona Laurence,Forest Whitaker,
+Movie Text: 
+Boxer Billy Hope turns to trainer Tick Wills to help him get his life back on track after losing his wife in a tragic accident and his daughter to child protection services.

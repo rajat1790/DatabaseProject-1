@@ -1,0 +1,11 @@
+Movie Name: Robin Hood: Men in Tights 
+Movie Year: 1993
+Movie Certificate: PG-13
+Movie Duration: 104 min
+Movie Genre: 
+Adventure, Comedy, Musical            
+Movie Rating : 6.7
+Directors : Mel Brooks,
+Actors : Cary Elwes,Richard Lewis,Roger Rees,Amy Yasbeck,
+Movie Text: 
+A spoof of Robin Hood in general and Robin Hood: Prince of Thieves (1991) in particular.

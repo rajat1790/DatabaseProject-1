@@ -1,0 +1,11 @@
+Movie Name: Man on the Moon 
+Movie Year: 1999
+Movie Certificate: R
+Movie Duration: 118 min
+Movie Genre: 
+Biography, Comedy, Drama            
+Movie Rating : 7.4
+Directors : Milos Forman,
+Actors : Jim Carrey,Danny DeVito,Gerry Becker,Greyson Erik Pendry,
+Movie Text: 
+The life and career of a legendary comedian, Andy Kaufman.

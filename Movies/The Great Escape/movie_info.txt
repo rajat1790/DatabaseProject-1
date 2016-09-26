@@ -1,0 +1,11 @@
+Movie Name: The Great Escape 
+Movie Year: 1963
+Movie Certificate: Approved
+Movie Duration: 172 min
+Movie Genre: 
+Adventure, Drama, History            
+Movie Rating : 8.3
+Directors : John Sturges,
+Actors : Steve McQueen,James Garner,Richard Attenborough,Charles Bronson,
+Movie Text: 
+Allied P.O.W.s plan for several hundred of their number to escape from a German camp during World War II.

@@ -1,0 +1,11 @@
+Movie Name: A Scanner Darkly 
+Movie Year: 2006
+Movie Certificate: R
+Movie Duration: 100 min
+Movie Genre: 
+Animation, Drama, Mystery            
+Movie Rating : 7.1
+Directors : Richard Linklater,
+Actors : Keanu Reeves,Winona Ryder,Robert Downey Jr.,Rory Cochrane,
+Movie Text: 
+An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.

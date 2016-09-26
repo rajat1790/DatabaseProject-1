@@ -1,0 +1,11 @@
+Movie Name: The Battle of Algiers 
+Movie Year: 1966
+Movie Certificate: Not Rated
+Movie Duration: 121 min
+Movie Genre: 
+Drama, War            
+Movie Rating : 8.1
+Directors : Gillo Pontecorvo,
+Actors : Brahim Hadjadj,Jean Martin,Yacef Saadi,Samia Kerbash,
+Movie Text: 
+In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government.

@@ -1,0 +1,11 @@
+Movie Name: We Were Soldiers 
+Movie Year: 2002
+Movie Certificate: R
+Movie Duration: 138 min
+Movie Genre: 
+Action, Drama, History            
+Movie Rating : 7.1
+Directors : Randall Wallace,
+Actors : Mel Gibson,Madeleine Stowe,Greg Kinnear,Sam Elliott,
+Movie Text: 
+The story of the first major battle of the American phase of the Vietnam War and the soldiers on both sides that fought it.

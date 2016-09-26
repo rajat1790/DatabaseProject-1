@@ -1,0 +1,11 @@
+Movie Name: Varsity Blues 
+Movie Year: 1999
+Movie Certificate: R
+Movie Duration: 106 min
+Movie Genre: 
+Comedy, Drama, Romance            
+Movie Rating : 6.4
+Directors : Brian Robbins,
+Actors : James Van Der Beek,Jon Voight,Paul Walker,Ron Lester,
+Movie Text: 
+A back-up quarterback is chosen to lead a Texas football team to victory after the star quarterback is injured.

@@ -1,0 +1,11 @@
+Movie Name: Goodfellas 
+Movie Year: 1990
+Movie Certificate: R
+Movie Duration: 146 min
+Movie Genre: 
+Biography, Crime, Drama            
+Movie Rating : 8.7
+Directors : Martin Scorsese,
+Actors : Robert De Niro,Ray Liotta,Joe Pesci,Lorraine Bracco,
+Movie Text: 
+Henry Hill and his friends work their way up through the mob hierarchy.

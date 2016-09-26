@@ -1,0 +1,11 @@
+Movie Name: The Karate Kid 
+Movie Year: 1984
+Movie Certificate: PG
+Movie Duration: 126 min
+Movie Genre: 
+Action, Drama, Family            
+Movie Rating : 7.2
+Directors : John G. Avildsen,
+Actors : Ralph Macchio,Pat Morita,Elisabeth Shue,Martin Kove,
+Movie Text: 
+A martial arts master agrees to teach karate to a bullied teenager.

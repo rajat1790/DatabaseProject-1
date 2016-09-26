@@ -1,0 +1,11 @@
+Movie Name: Tokyo Story 
+Movie Year: 1953
+Movie Certificate: Not Rated
+Movie Duration: 136 min
+Movie Genre: 
+Drama            
+Movie Rating : 8.3
+Directors : Yasujirô Ozu,
+Actors : Chishû Ryû,Chieko Higashiyama,Sô Yamamura,Setsuko Hara,
+Movie Text: 
+An old couple visit their children and grandchildren in the city; but the children have little time for them.

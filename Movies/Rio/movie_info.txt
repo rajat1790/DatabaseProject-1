@@ -1,0 +1,11 @@
+Movie Name: Rio 
+Movie Year: 2011
+Movie Certificate: G
+Movie Duration: 96 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 7.0
+Directors : Carlos Saldanha,
+Actors : Jesse Eisenberg,Anne Hathaway,George Lopez,Karen Disher,
+Movie Text: 
+When Blu, a domesticated macaw from small-town Minnesota, meets the fiercely independent Jewel, he takes off on an adventure to Rio de Janeiro with the bird of his dreams.

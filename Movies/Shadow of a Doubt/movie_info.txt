@@ -1,0 +1,11 @@
+Movie Name: Shadow of a Doubt 
+Movie Year: 1943
+Movie Certificate: Approved
+Movie Duration: 108 min
+Movie Genre: 
+Thriller            
+Movie Rating : 8.0
+Directors : Alfred Hitchcock,
+Actors : Teresa Wright,Joseph Cotten,Macdonald Carey,Henry Travers,
+Movie Text: 
+A young woman discovers her visiting "Uncle Charlie" may not be the man he seems to be.

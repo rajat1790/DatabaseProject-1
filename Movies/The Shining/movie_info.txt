@@ -1,0 +1,11 @@
+Movie Name: The Shining 
+Movie Year: 1980
+Movie Certificate: R
+Movie Duration: 146 min
+Movie Genre: 
+Drama, Horror            
+Movie Rating : 8.4
+Directors : Stanley Kubrick,
+Actors : Jack Nicholson,Shelley Duvall,Danny Lloyd,Scatman Crothers,
+Movie Text: 
+A family heads to an isolated hotel for the winter where an evil and spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.

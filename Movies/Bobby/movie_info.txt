@@ -1,0 +1,11 @@
+Movie Name: Bobby 
+Movie Year: 2006
+Movie Certificate: R
+Movie Duration: 117 min
+Movie Genre: 
+Drama, History            
+Movie Rating : 7.0
+Directors : Emilio Estevez,
+Actors : Anthony Hopkins,Demi Moore,Sharon Stone,Harry Belafonte,
+Movie Text: 
+The story of the assassination of U.S. Senator Robert F. Kennedy who was shot in the early morning hours of June 5, 1968 in the Ambassador Hotel in Los Angeles, and 22 people in the hotel whose lives were never the same.

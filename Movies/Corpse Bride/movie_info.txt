@@ -1,0 +1,11 @@
+Movie Name: Corpse Bride 
+Movie Year: 2005
+Movie Certificate: PG
+Movie Duration: 77 min
+Movie Genre: 
+Animation, Drama, Family            
+Movie Rating : 7.4
+Directors : Tim Burton,Mike Johnson,
+Actors : Johnny Depp,Helena Bonham Carter,Emily Watson,Tracey Ullman,
+Movie Text: 
+When a shy groom practices his wedding vows in the inadvertent presence of a deceased young woman, she rises from the grave assuming he has married her.

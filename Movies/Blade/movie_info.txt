@@ -1,0 +1,11 @@
+Movie Name: Blade 
+Movie Year: 1998
+Movie Certificate: R
+Movie Duration: 120 min
+Movie Genre: 
+Action, Horror            
+Movie Rating : 7.1
+Directors : Stephen Norrington,
+Actors : Wesley Snipes,Stephen Dorff,Kris Kristofferson,N'Bushe Wright,
+Movie Text: 
+A half-vampire, half-mortal man becomes a protector of the mortal race, while slaying evil vampires.

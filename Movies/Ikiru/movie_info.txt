@@ -1,0 +1,11 @@
+Movie Name: Ikiru 
+Movie Year: 1952
+Movie Certificate: Not Rated
+Movie Duration: 143 min
+Movie Genre: 
+Drama            
+Movie Rating : 8.3
+Directors : Akira Kurosawa,
+Actors : Takashi Shimura,Nobuo Kaneko,Shin'ichi Himori,Haruo Tanaka,
+Movie Text: 
+A bureaucrat tries to find a meaning in his life after he discovers he has terminal cancer.

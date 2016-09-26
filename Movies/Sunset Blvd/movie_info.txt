@@ -1,0 +1,11 @@
+Movie Name: Sunset Blvd. 
+Movie Year: 1950
+Movie Certificate: Not Rated
+Movie Duration: 110 min
+Movie Genre: 
+Drama, Film-Noir, Romance            
+Movie Rating : 8.5
+Directors : Billy Wilder,
+Actors : William Holden,Gloria Swanson,Erich von Stroheim,Nancy Olson,
+Movie Text: 
+A hack screenwriter writes a screenplay for a former silent-film star who has faded into Hollywood obscurity.

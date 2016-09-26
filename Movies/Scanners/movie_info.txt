@@ -1,0 +1,11 @@
+Movie Name: Scanners 
+Movie Year: 1981
+Movie Certificate: R
+Movie Duration: 103 min
+Movie Genre: 
+Action, Horror, Sci-Fi            
+Movie Rating : 6.8
+Directors : David Cronenberg,
+Actors : Jennifer O'Neill,Stephen Lack,Patrick McGoohan,Lawrence Dane,
+Movie Text: 
+A scientist sends a man with extraordinary psychic powers to hunt others like him.

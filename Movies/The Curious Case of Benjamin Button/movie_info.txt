@@ -1,0 +1,11 @@
+Movie Name: The Curious Case of Benjamin Button 
+Movie Year: 2008
+Movie Certificate: PG-13
+Movie Duration: 166 min
+Movie Genre: 
+Drama, Fantasy, Romance            
+Movie Rating : 7.8
+Directors : David Fincher,
+Actors : Brad Pitt,Cate Blanchett,Tilda Swinton,Julia Ormond,
+Movie Text: 
+Tells the story of Benjamin Button, a man who starts aging backwards with bizarre consequences.

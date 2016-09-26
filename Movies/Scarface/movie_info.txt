@@ -1,0 +1,11 @@
+Movie Name: Scarface 
+Movie Year: 1983
+Movie Certificate: R
+Movie Duration: 170 min
+Movie Genre: 
+Crime, Drama            
+Movie Rating : 8.3
+Directors : Brian De Palma,
+Actors : Al Pacino,Michelle Pfeiffer,Steven Bauer,Mary Elizabeth Mastrantonio,
+Movie Text: 
+In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.

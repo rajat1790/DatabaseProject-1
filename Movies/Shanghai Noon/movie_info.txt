@@ -1,0 +1,11 @@
+Movie Name: Shanghai Noon 
+Movie Year: 2000
+Movie Certificate: PG-13
+Movie Duration: 110 min
+Movie Genre: 
+Action, Adventure, Comedy            
+Movie Rating : 6.6
+Directors : Tom Dey,
+Actors : Jackie Chan,Owen Wilson,Lucy Liu,Brandon Merrill,
+Movie Text: 
+A Chinese man who travels to the Wild West to rescue a kidnapped princess. After teaming up with a train robber, the unlikely duo takes on a Chinese traitor and his corrupt boss.

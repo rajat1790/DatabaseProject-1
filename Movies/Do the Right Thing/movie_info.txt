@@ -1,0 +1,11 @@
+Movie Name: Do the Right Thing 
+Movie Year: 1989
+Movie Certificate: R
+Movie Duration: 120 min
+Movie Genre: 
+Comedy, Drama            
+Movie Rating : 7.9
+Directors : Spike Lee,
+Actors : Danny Aiello,Ossie Davis,Ruby Dee,Richard Edson,
+Movie Text: 
+On the hottest day of the year on a street in the Bedford-Stuyvesant section of Brooklyn, everyone's hate and bigotry smolders and builds until it explodes into violence.

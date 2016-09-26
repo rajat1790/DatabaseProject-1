@@ -1,0 +1,11 @@
+Movie Name: Miller's Crossing 
+Movie Year: 1990
+Movie Certificate: R
+Movie Duration: 115 min
+Movie Genre: 
+Crime, Drama, Thriller            
+Movie Rating : 7.9
+Directors : Joel Coen,Ethan Coen,
+Actors : Gabriel Byrne,Albert Finney,John Turturro,Marcia Gay Harden,
+Movie Text: 
+Tom Regan, an advisor to a Prohibition-era crime boss, tries to keep the peace between warring mobs but gets caught in divided loyalties.

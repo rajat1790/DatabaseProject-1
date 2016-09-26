@@ -1,0 +1,11 @@
+Movie Name: Atonement 
+Movie Year: 2007
+Movie Certificate: R
+Movie Duration: 123 min
+Movie Genre: 
+Drama, Mystery, Romance            
+Movie Rating : 7.8
+Directors : Joe Wright,
+Actors : Keira Knightley,James McAvoy,Brenda Blethyn,Saoirse Ronan,
+Movie Text: 
+Fledgling writer Briony Tallis, as a thirteen-year-old, irrevocably changes the course of several lives when she accuses her older sister's lover of a crime he did not commit.

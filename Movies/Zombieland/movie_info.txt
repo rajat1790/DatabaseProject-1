@@ -1,0 +1,11 @@
+Movie Name: Zombieland 
+Movie Year: 2009
+Movie Certificate: R
+Movie Duration: 88 min
+Movie Genre: 
+Adventure, Comedy, Horror            
+Movie Rating : 7.7
+Directors : Ruben Fleischer,
+Actors : Jesse Eisenberg,Emma Stone,Woody Harrelson,Abigail Breslin,
+Movie Text: 
+A shy student trying to reach his family in Ohio, a gun-toting tough guy trying to find the last Twinkie, and a pair of sisters trying to get to an amusement park join forces to travel across a zombie-filled America.

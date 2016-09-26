@@ -1,0 +1,11 @@
+Movie Name: The Artist I
+Movie Year: 2011
+Movie Certificate: PG-13
+Movie Duration: 100 min
+Movie Genre: 
+Comedy, Drama, Romance            
+Movie Rating : 8.0
+Directors : Michel Hazanavicius,
+Actors : Jean Dujardin,Bérénice Bejo,John Goodman,James Cromwell,
+Movie Text: 
+A silent movie star meets a young dancer, but the arrival of talking pictures sends their careers in opposite directions.

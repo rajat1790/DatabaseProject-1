@@ -1,0 +1,11 @@
+Movie Name: Pocahontas 
+Movie Year: 1995
+Movie Certificate: G
+Movie Duration: 81 min
+Movie Genre: 
+Animation, Adventure, Drama            
+Movie Rating : 6.7
+Directors : Mike Gabriel,Eric Goldberg,
+Actors : Mel Gibson,Linda Hunt,Christian Bale,Irene Bedard,
+Movie Text: 
+An English soldier and the daughter of an Algonquin chief share a romance when English colonists invade seventeenth-century Virginia.

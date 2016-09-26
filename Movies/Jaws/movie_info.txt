@@ -1,0 +1,11 @@
+Movie Name: Jaws 
+Movie Year: 1975
+Movie Certificate: PG
+Movie Duration: 124 min
+Movie Genre: 
+Adventure, Drama, Thriller            
+Movie Rating : 8.0
+Directors : Steven Spielberg,
+Actors : Roy Scheider,Robert Shaw,Richard Dreyfuss,Lorraine Gary,
+Movie Text: 
+When a gigantic great white shark begins to menace the small island community of Amity, a police chief, a marine scientist and a grizzled fisherman set out to stop it.

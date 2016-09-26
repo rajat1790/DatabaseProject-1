@@ -1,0 +1,11 @@
+Movie Name: Harry Potter and the Goblet of Fire 
+Movie Year: 2005
+Movie Certificate: PG-13
+Movie Duration: 157 min
+Movie Genre: 
+Adventure, Family, Fantasy            
+Movie Rating : 7.7
+Directors : Mike Newell,
+Actors : Daniel Radcliffe,Emma Watson,Rupert Grint,Eric Sykes,
+Movie Text: 
+Harry finds himself mysteriously selected as an under-aged competitor in a dangerous tournament between three schools of magic.

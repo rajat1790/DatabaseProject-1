@@ -1,0 +1,11 @@
+Movie Name: The Warriors 
+Movie Year: 1979
+Movie Certificate: R
+Movie Duration: 92 min
+Movie Genre: 
+Action, Thriller            
+Movie Rating : 7.7
+Directors : Walter Hill,
+Actors : Michael Beck,James Remar,Dorsey Wright,Brian Tyler,
+Movie Text: 
+In 1979, a charismatic leader summons the street gangs of New York City in a bid to take it over. When he is killed, The Warriors are falsely blamed and now must fight their way home while every other gang is hunting them down to kill them.

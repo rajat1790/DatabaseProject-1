@@ -1,0 +1,11 @@
+Movie Name: The Ten Commandments 
+Movie Year: 1956
+Movie Certificate: Approved
+Movie Duration: 220 min
+Movie Genre: 
+Adventure, Biography, Drama            
+Movie Rating : 7.9
+Directors : Cecil B. DeMille,
+Actors : Charlton Heston,Yul Brynner,Anne Baxter,Edward G. Robinson,
+Movie Text: 
+The Egyptian Prince, Moses, learns of his true heritage as a Hebrew and his divine mission as the deliverer of his people.

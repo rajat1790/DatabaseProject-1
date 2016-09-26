@@ -1,0 +1,11 @@
+Movie Name: The Green Mile 
+Movie Year: 1999
+Movie Certificate: R
+Movie Duration: 189 min
+Movie Genre: 
+Crime, Drama, Fantasy            
+Movie Rating : 8.5
+Directors : Frank Darabont,
+Actors : Tom Hanks,Michael Clarke Duncan,David Morse,Bonnie Hunt,
+Movie Text: 
+The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.

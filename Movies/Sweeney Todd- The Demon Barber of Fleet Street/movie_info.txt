@@ -1,0 +1,11 @@
+Movie Name: Sweeney Todd: The Demon Barber of Fleet Street 
+Movie Year: 2007
+Movie Certificate: R
+Movie Duration: 116 min
+Movie Genre: 
+Drama, Horror, Musical            
+Movie Rating : 7.4
+Directors : Tim Burton,
+Actors : Johnny Depp,Helena Bonham Carter,Alan Rickman,Timothy Spall,
+Movie Text: 
+The infamous story of Benjamin Barker, AKA Sweeney Todd, who sets up a barber shop down in London which is the basis for a sinister partnership with his fellow tenant, Mrs. Lovett. Based on the hit Broadway musical.

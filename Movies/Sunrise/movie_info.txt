@@ -1,0 +1,11 @@
+Movie Name: Sunrise 
+Movie Year: 1927
+Movie Certificate: Not Rated
+Movie Duration: 94 min
+Movie Genre: 
+Drama, Romance            
+Movie Rating : 8.3
+Directors : F.W. Murnau,
+Actors : George O'Brien,Janet Gaynor,Margaret Livingston,Bodil Rosing,
+Movie Text: 
+A married farmer falls under the spell of a slatternly woman from the city, who tries to convince him to drown his wife.

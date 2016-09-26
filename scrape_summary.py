@@ -8,7 +8,7 @@ import sys
 import io
 from bs4 import BeautifulSoup
 
-def scrape_summary_links(base_url):
+def scrape_summary_links(base_url,file):
     try:
         dir_made = False
         page = requests.get(base_url)
@@ -17,6 +17,7 @@ def scrape_summary_links(base_url):
         movie_summary = html.find("p", {"class": "plotSummary"})
         #print("Movie Text: " + str(movie_summary))
         print("Movie Text: " + movie_summary.text)
+        file.write("Movie Text: " + movie_summary.text+"\n")
         
     except Exception as e:
         print(e)

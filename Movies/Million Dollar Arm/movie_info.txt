@@ -1,0 +1,11 @@
+Movie Name: Million Dollar Arm 
+Movie Year: 2014
+Movie Certificate: PG
+Movie Duration: 124 min
+Movie Genre: 
+Biography, Drama, Sport            
+Movie Rating : 7.0
+Directors : Craig Gillespie,
+Actors : Jon Hamm,Aasif Mandvi,Alan Arkin,Suraj Sharma,
+Movie Text: 
+A sports agent stages an unconventional recruitment strategy to get talented Indian cricket players to play Major League Baseball.

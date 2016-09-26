@@ -1,0 +1,11 @@
+Movie Name: Rules of Engagement 
+Movie Year: 2000
+Movie Certificate: R
+Movie Duration: 128 min
+Movie Genre: 
+Drama, Thriller, War            
+Movie Rating : 6.4
+Directors : William Friedkin,
+Actors : Tommy Lee Jones,Samuel L. Jackson,Guy Pearce,Ben Kingsley,
+Movie Text: 
+An attorney defends an officer on trial for ordering his troops to fire on civilians after they stormed a U.S. embassy in a third world country.

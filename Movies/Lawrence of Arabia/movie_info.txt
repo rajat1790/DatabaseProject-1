@@ -1,0 +1,11 @@
+Movie Name: Lawrence of Arabia 
+Movie Year: 1962
+Movie Certificate: PG
+Movie Duration: 216 min
+Movie Genre: 
+Adventure, Biography, Drama            
+Movie Rating : 8.4
+Directors : David Lean,
+Actors : Peter O'Toole,Alec Guinness,Anthony Quinn,Jack Hawkins,
+Movie Text: 
+The story of T.E. Lawrence, the English officer who successfully united and lead the diverse, often warring, Arab tribes during World War I in order to fight the Turks.

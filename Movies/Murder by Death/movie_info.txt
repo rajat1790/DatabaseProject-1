@@ -1,0 +1,11 @@
+Movie Name: Murder by Death 
+Movie Year: 1976
+Movie Certificate: PG
+Movie Duration: 94 min
+Movie Genre: 
+Comedy, Mystery, Thriller            
+Movie Rating : 7.5
+Directors : Robert Moore,
+Actors : Peter Falk,Alec Guinness,Peter Sellers,Eileen Brennan,
+Movie Text: 
+Five famous literary detective characters and their sidekicks are invited to a bizarre mansion to solve an even stranger mystery.

@@ -1,0 +1,11 @@
+Movie Name: Gone Girl 
+Movie Year: 2014
+Movie Certificate: R
+Movie Duration: 149 min
+Movie Genre: 
+Crime, Drama, Mystery            
+Movie Rating : 8.1
+Directors : David Fincher,
+Actors : Ben Affleck,Rosamund Pike,Neil Patrick Harris,Tyler Perry,
+Movie Text: 
+With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.

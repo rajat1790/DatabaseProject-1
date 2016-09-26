@@ -1,0 +1,11 @@
+Movie Name: One Flew Over the Cuckoo's Nest 
+Movie Year: 1975
+Movie Certificate: R
+Movie Duration: 133 min
+Movie Genre: 
+Drama            
+Movie Rating : 8.7
+Directors : Milos Forman,
+Actors : Jack Nicholson,Louise Fletcher,Michael Berryman,Peter Brocco,
+Movie Text: 
+A criminal pleads insanity after getting into trouble again and once in the mental institution rebels against the oppressive nurse and rallies up the scared patients.

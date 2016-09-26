@@ -1,0 +1,11 @@
+Movie Name: Invasion of the Body Snatchers 
+Movie Year: 1956
+Movie Certificate: Approved
+Movie Duration: 80 min
+Movie Genre: 
+Horror, Sci-Fi            
+Movie Rating : 7.8
+Directors : Don Siegel,
+Actors : Kevin McCarthy,Dana Wynter,Larry Gates,King Donovan,
+Movie Text: 
+A small-town doctor learns that the population of his community is being replaced by emotionless alien duplicates.

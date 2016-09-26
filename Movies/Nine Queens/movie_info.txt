@@ -1,0 +1,11 @@
+Movie Name: Nine Queens 
+Movie Year: 2000
+Movie Certificate: R
+Movie Duration: 114 min
+Movie Genre: 
+Crime, Drama, Thriller            
+Movie Rating : 7.9
+Directors : Fabián Bielinsky,
+Actors : Ricardo Darín,Gastón Pauls,Leticia Brédice,María Mercedes Villagra,
+Movie Text: 
+Two con artists try to swindle a stamp collector by selling him a sheet of counterfeit rare stamps (the "nine queens").

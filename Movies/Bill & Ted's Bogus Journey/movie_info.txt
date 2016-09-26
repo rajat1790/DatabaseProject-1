@@ -1,0 +1,11 @@
+Movie Name: Bill & Ted's Bogus Journey 
+Movie Year: 1991
+Movie Certificate: PG
+Movie Duration: 93 min
+Movie Genre: 
+Adventure, Comedy, Fantasy            
+Movie Rating : 6.2
+Directors : Peter Hewitt,
+Actors : Keanu Reeves,Alex Winter,William Sadler,Joss Ackland,
+Movie Text: 
+A tyrant from the future creates evil android doubles of Bill and Ted and sends them back to eliminate the originals.

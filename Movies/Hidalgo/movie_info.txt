@@ -1,0 +1,11 @@
+Movie Name: Hidalgo 
+Movie Year: 2004
+Movie Certificate: PG-13
+Movie Duration: 136 min
+Movie Genre: 
+Action, Adventure, Western            
+Movie Rating : 6.7
+Directors : Joe Johnston,
+Actors : Viggo Mortensen,Omar Sharif,Zuleikha Robinson,Louise Lombard,
+Movie Text: 
+In 1890, a down-and-out cowboy and his horse travel to Arabia to compete in a deadly cross desert horse race.

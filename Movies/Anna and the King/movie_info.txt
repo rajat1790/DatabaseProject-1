@@ -1,0 +1,11 @@
+Movie Name: Anna and the King 
+Movie Year: 1999
+Movie Certificate: PG-13
+Movie Duration: 148 min
+Movie Genre: 
+Drama, History, Romance            
+Movie Rating : 6.7
+Directors : Andy Tennant,
+Actors : Jodie Foster,Yun-Fat Chow,Bai Ling,Tom Felton,
+Movie Text: 
+The story of the romance between the King of Siam and widowed British schoolteacher, Anna Leonowens, during the 1860s.

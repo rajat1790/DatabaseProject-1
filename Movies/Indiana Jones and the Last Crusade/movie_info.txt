@@ -1,0 +1,11 @@
+Movie Name: Indiana Jones and the Last Crusade 
+Movie Year: 1989
+Movie Certificate: PG-13
+Movie Duration: 127 min
+Movie Genre: 
+Action, Adventure, Fantasy            
+Movie Rating : 8.3
+Directors : Steven Spielberg,
+Actors : Harrison Ford,Sean Connery,Alison Doody,Denholm Elliott,
+Movie Text: 
+When Dr. Henry Jones Sr. suddenly goes missing while pursuing the Holy Grail, eminent archaeologist Indiana Jones must follow in his father's footsteps and stop the Nazis.

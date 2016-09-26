@@ -1,0 +1,11 @@
+Movie Name: 12 Years a Slave 
+Movie Year: 2013
+Movie Certificate: R
+Movie Duration: 134 min
+Movie Genre: 
+Biography, Drama, History            
+Movie Rating : 8.1
+Directors : Steve McQueen,
+Actors : Chiwetel Ejiofor,Michael Kenneth Williams,Michael Fassbender,Brad Pitt,
+Movie Text: 
+In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.

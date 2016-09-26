@@ -1,0 +1,11 @@
+Movie Name: 8 Mile 
+Movie Year: 2002
+Movie Certificate: R
+Movie Duration: 110 min
+Movie Genre: 
+Drama, Music            
+Movie Rating : 7.0
+Directors : Curtis Hanson,
+Actors : Eminem,Brittany Murphy,Kim Basinger,Mekhi Phifer,
+Movie Text: 
+A young rapper, struggling with every aspect of his life, wants to make it big but his friends and foes make this odyssey of rap harder than it may seem.

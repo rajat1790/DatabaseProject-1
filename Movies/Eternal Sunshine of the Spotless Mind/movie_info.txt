@@ -1,0 +1,11 @@
+Movie Name: Eternal Sunshine of the Spotless Mind 
+Movie Year: 2004
+Movie Certificate: R
+Movie Duration: 108 min
+Movie Genre: 
+Drama, Fantasy, Romance            
+Movie Rating : 8.3
+Directors : Michel Gondry,
+Actors : Jim Carrey,Kate Winslet,Tom Wilkinson,Gerry Robert Byrne,
+Movie Text: 
+When their relationship turns sour, a couple undergoes a procedure to have each other erased from their memories. But it is only through the process of loss that they discover what they had to begin with.

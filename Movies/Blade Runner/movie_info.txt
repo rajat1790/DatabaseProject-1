@@ -1,0 +1,11 @@
+Movie Name: Blade Runner 
+Movie Year: 1982
+Movie Certificate: R
+Movie Duration: 117 min
+Movie Genre: 
+Sci-Fi, Thriller            
+Movie Rating : 8.2
+Directors : Ridley Scott,
+Actors : Harrison Ford,Rutger Hauer,Sean Young,Edward James Olmos,
+Movie Text: 
+A blade runner must pursue and try to terminate four replicants who stole a ship in space and have returned to Earth to find their creator.

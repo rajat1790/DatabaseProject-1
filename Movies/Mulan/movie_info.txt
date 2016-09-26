@@ -1,0 +1,11 @@
+Movie Name: Mulan 
+Movie Year: 1998
+Movie Certificate: G
+Movie Duration: 88 min
+Movie Genre: 
+Animation, Adventure, Family            
+Movie Rating : 7.5
+Directors : Tony Bancroft,Barry Cook,
+Actors : Ming-Na Wen,Eddie Murphy,BD Wong,Lea Salonga,
+Movie Text: 
+To save her father from death in the army, a young maiden secretly goes in his place and becomes one of China's greatest heroines in the process.

@@ -1,0 +1,11 @@
+Movie Name: Back to the Future Part III 
+Movie Year: 1990
+Movie Certificate: PG
+Movie Duration: 118 min
+Movie Genre: 
+Action, Adventure, Comedy            
+Movie Rating : 7.4
+Directors : Robert Zemeckis,
+Actors : Michael J. Fox,Christopher Lloyd,Mary Steenburgen,Thomas F. Wilson,
+Movie Text: 
+Enjoying a peaceable existence in 1885, Doctor Emmet Brown is about to be killed by Buford "Mad Dog" Tannen. Marty McFly travels back in time to save his friend.

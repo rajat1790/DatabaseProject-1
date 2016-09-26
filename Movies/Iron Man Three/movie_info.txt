@@ -1,0 +1,11 @@
+Movie Name: Iron Man Three 
+Movie Year: 2013
+Movie Certificate: PG-13
+Movie Duration: 130 min
+Movie Genre: 
+Action, Adventure, Sci-Fi            
+Movie Rating : 7.2
+Directors : Shane Black,
+Actors : Robert Downey Jr.,Guy Pearce,Gwyneth Paltrow,Don Cheadle,
+Movie Text: 
+When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.

@@ -1,0 +1,11 @@
+Movie Name: The Longest Yard 
+Movie Year: 2005
+Movie Certificate: PG-13
+Movie Duration: 113 min
+Movie Genre: 
+Comedy, Crime, Sport            
+Movie Rating : 6.4
+Directors : Peter Segal,
+Actors : Adam Sandler,Burt Reynolds,Chris Rock,Nelly,
+Movie Text: 
+Prison inmates form a football team to challenge the prison guards.

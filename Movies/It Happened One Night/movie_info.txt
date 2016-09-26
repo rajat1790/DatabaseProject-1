@@ -1,0 +1,11 @@
+Movie Name: It Happened One Night 
+Movie Year: 1934
+Movie Certificate: Unrated
+Movie Duration: 105 min
+Movie Genre: 
+Comedy, Romance            
+Movie Rating : 8.2
+Directors : Frank Capra,
+Actors : Clark Gable,Claudette Colbert,Walter Connolly,Roscoe Karns,
+Movie Text: 
+A spoiled heiress, running away from her family, is helped by a man who is actually a reporter in need of a story.

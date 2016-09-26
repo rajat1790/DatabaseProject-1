@@ -1,0 +1,11 @@
+Movie Name: Life of Pi 
+Movie Year: 2012
+Movie Certificate: PG
+Movie Duration: 127 min
+Movie Genre: 
+Adventure, Drama, Fantasy            
+Movie Rating : 8.0
+Directors : Ang Lee,
+Actors : Suraj Sharma,Irrfan Khan,Adil Hussain,Tabu,
+Movie Text: 
+A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger.

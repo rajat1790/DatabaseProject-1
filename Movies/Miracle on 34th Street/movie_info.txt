@@ -1,0 +1,11 @@
+Movie Name: Miracle on 34th Street 
+Movie Year: 1947
+Movie Certificate: Approved
+Movie Duration: 96 min
+Movie Genre: 
+Comedy, Crime, Drama            
+Movie Rating : 7.9
+Directors : George Seaton,
+Actors : Edmund Gwenn,Maureen O'Hara,John Payne,Gene Lockhart,
+Movie Text: 
+When a nice old man who claims to be Santa Claus is institutionalized as insane, a young lawyer decides to defend him by arguing in court that he is the real thing.

@@ -1,0 +1,11 @@
+Movie Name: To Catch a Thief 
+Movie Year: 1955
+Movie Certificate: PG
+Movie Duration: 106 min
+Movie Genre: 
+Crime, Mystery, Romance            
+Movie Rating : 7.5
+Directors : Alfred Hitchcock,
+Actors : Cary Grant,Grace Kelly,Jessie Royce Landis,John Williams,
+Movie Text: 
+When a reformed jewel thief is suspected of returning to his former occupation, he must ferret out the real thief in order to prove his innocence.

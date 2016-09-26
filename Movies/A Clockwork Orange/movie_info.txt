@@ -1,0 +1,11 @@
+Movie Name: A Clockwork Orange 
+Movie Year: 1971
+Movie Certificate: R
+Movie Duration: 136 min
+Movie Genre: 
+Crime, Drama, Sci-Fi            
+Movie Rating : 8.3
+Directors : Stanley Kubrick,
+Actors : Malcolm McDowell,Patrick Magee,Michael Bates,Warren Clarke,
+Movie Text: 
+In future Britain, charismatic delinquent Alex DeLarge is jailed and volunteers for an experimental aversion therapy developed by the government in an effort to solve society's crime problem - but not all goes according to plan.

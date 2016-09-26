@@ -1,0 +1,11 @@
+Movie Name: Finding Neverland 
+Movie Year: 2004
+Movie Certificate: PG
+Movie Duration: 106 min
+Movie Genre: 
+Biography, Drama, Family            
+Movie Rating : 7.8
+Directors : Marc Forster,
+Actors : Johnny Depp,Kate Winslet,Julie Christie,Radha Mitchell,
+Movie Text: 
+The story of J.M. Barrie's friendship with a family who inspired him to create Peter Pan.

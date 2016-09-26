@@ -1,0 +1,11 @@
+Movie Name: Ray I
+Movie Year: 2004
+Movie Certificate: PG-13
+Movie Duration: 152 min
+Movie Genre: 
+Biography, Drama, Music            
+Movie Rating : 7.7
+Directors : Taylor Hackford,
+Actors : Jamie Foxx,Regina King,Kerry Washington,Clifton Powell,
+Movie Text: 
+The story of the life and career of the legendary rhythm and blues musician Ray Charles, from his humble beginnings in the South, where he went blind at age seven, to his meteoric rise to stardom during the 1950s and 1960s.

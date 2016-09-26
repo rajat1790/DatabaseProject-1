@@ -1,0 +1,11 @@
+Movie Name: Tarzan 
+Movie Year: 1999
+Movie Certificate: G
+Movie Duration: 88 min
+Movie Genre: 
+Animation, Adventure, Family            
+Movie Rating : 7.2
+Directors : Chris Buck,Kevin Lima,
+Actors : Tony Goldwyn,Minnie Driver,Brian Blessed,Glenn Close,
+Movie Text: 
+A man raised by gorillas must decide where he really belongs when he discovers he is a human.

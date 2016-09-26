@@ -1,0 +1,11 @@
+Movie Name: Mulholland Dr. 
+Movie Year: 2001
+Movie Certificate: R
+Movie Duration: 147 min
+Movie Genre: 
+Drama, Mystery, Thriller            
+Movie Rating : 8.0
+Directors : David Lynch,
+Actors : Naomi Watts,Laura Harring,Justin Theroux,Jeanne Bates,
+Movie Text: 
+After a car wreck on the winding Mulholland Drive renders a woman amnesiac, she and a perky Hollywood-hopeful search for clues and answers across Los Angeles in a twisting venture beyond dreams and reality.

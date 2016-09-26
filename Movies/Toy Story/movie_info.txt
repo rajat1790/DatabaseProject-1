@@ -1,0 +1,11 @@
+Movie Name: Toy Story 
+Movie Year: 1995
+Movie Certificate: G
+Movie Duration: 81 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 8.3
+Directors : John Lasseter,
+Actors : Tom Hanks,Tim Allen,Don Rickles,Jim Varney,
+Movie Text: 
+A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.

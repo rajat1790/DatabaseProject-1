@@ -1,0 +1,11 @@
+Movie Name: Empire Records 
+Movie Year: 1995
+Movie Certificate: PG-13
+Movie Duration: 90 min
+Movie Genre: 
+Comedy, Drama, Music            
+Movie Rating : 6.7
+Directors : Allan Moyle,
+Actors : Anthony LaPaglia,Debi Mazar,Maxwell Caulfield,Rory Cochrane,
+Movie Text: 
+The employees of an independent music store learn about each other as they try anything to stop the store being absorbed by a large chain.

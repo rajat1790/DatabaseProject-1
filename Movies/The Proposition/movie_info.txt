@@ -1,0 +1,11 @@
+Movie Name: The Proposition 
+Movie Year: 2005
+Movie Certificate: R
+Movie Duration: 104 min
+Movie Genre: 
+Crime, Drama, Western            
+Movie Rating : 7.4
+Directors : John Hillcoat,
+Actors : Ray Winstone,Guy Pearce,Emily Watson,Richard Wilson,
+Movie Text: 
+A lawman apprehends a notorious outlaw and gives him nine days to kill his older brother, or else they'll execute his younger brother.

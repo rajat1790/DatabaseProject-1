@@ -1,0 +1,11 @@
+Movie Name: Platoon 
+Movie Year: 1986
+Movie Certificate: R
+Movie Duration: 120 min
+Movie Genre: 
+Drama, War            
+Movie Rating : 8.1
+Directors : Oliver Stone,
+Actors : Charlie Sheen,Tom Berenger,Willem Dafoe,Keith David,
+Movie Text: 
+A young recruit in Vietnam faces a moral crisis when confronted with the horrors of war and the duality of man.

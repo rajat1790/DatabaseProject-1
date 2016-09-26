@@ -1,0 +1,11 @@
+Movie Name: Lagaan: Once Upon a Time in India 
+Movie Year: 2001
+Movie Certificate: PG
+Movie Duration: 224 min
+Movie Genre: 
+Adventure, Drama, Musical            
+Movie Rating : 8.2
+Directors : Ashutosh Gowariker,
+Actors : Aamir Khan,Gracy Singh,Rachel Shelley,Paul Blackthorne,
+Movie Text: 
+The people of a small village in Victorian India stake their future on a game of cricket against their ruthless British rulers.

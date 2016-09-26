@@ -1,0 +1,11 @@
+Movie Name: Enchanted 
+Movie Year: 2007
+Movie Certificate: PG
+Movie Duration: 107 min
+Movie Genre: 
+Animation, Comedy, Family            
+Movie Rating : 7.1
+Directors : Kevin Lima,
+Actors : Amy Adams,Susan Sarandon,James Marsden,Patrick Dempsey,
+Movie Text: 
+A princess, who is prepared to be wed, is sent away to New York by an evil queen, where she falls in love with a lawyer.

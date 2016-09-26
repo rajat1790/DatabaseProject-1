@@ -1,0 +1,11 @@
+Movie Name: Ravenous 
+Movie Year: 1999
+Movie Certificate: R
+Movie Duration: 101 min
+Movie Genre: 
+Fantasy, Horror, Thriller            
+Movie Rating : 7.1
+Directors : Antonia Bird,
+Actors : Guy Pearce,Robert Carlyle,David Arquette,Jeremy Davies,
+Movie Text: 
+In a remote military outpost in the 19th Century, Captain John Boyd and his regiment embark on a rescue mission which takes a dark turn when they are ambushed by a sadistic cannibal.

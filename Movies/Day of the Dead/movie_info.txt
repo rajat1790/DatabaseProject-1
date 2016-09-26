@@ -1,0 +1,11 @@
+Movie Name: Day of the Dead 
+Movie Year: 1985
+Movie Certificate: Unrated
+Movie Duration: 96 min
+Movie Genre: 
+Horror            
+Movie Rating : 7.2
+Directors : George A. Romero,
+Actors : Lori Cardille,Terry Alexander,Joseph Pilato,Jarlath Conroy,
+Movie Text: 
+A small group of military officers and scientists dwell in an underground bunker as the world above is overrun by zombies.

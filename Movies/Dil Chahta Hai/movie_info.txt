@@ -1,0 +1,11 @@
+Movie Name: Dil Chahta Hai 
+Movie Year: 2001
+Movie Certificate: Not Rated
+Movie Duration: 183 min
+Movie Genre: 
+Comedy, Drama, Romance            
+Movie Rating : 8.2
+Directors : Farhan Akhtar,
+Actors : Aamir Khan,Saif Ali Khan,Akshaye Khanna,Preity Zinta,
+Movie Text: 
+Three inseparable childhood friends are just out of college. Nothing comes between them - until they each fall in love, and their wildly different approaches to relationships creates tension.

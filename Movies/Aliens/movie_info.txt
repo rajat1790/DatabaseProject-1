@@ -1,0 +1,11 @@
+Movie Name: Aliens 
+Movie Year: 1986
+Movie Certificate: R
+Movie Duration: 137 min
+Movie Genre: 
+Action, Adventure, Sci-Fi            
+Movie Rating : 8.4
+Directors : James Cameron,
+Actors : Sigourney Weaver,Michael Biehn,Carrie Henn,Paul Reiser,
+Movie Text: 
+The moon from Alien (1979) has been colonized, but contact is lost. This time, the rescue team has impressive firepower, but will it be enough?

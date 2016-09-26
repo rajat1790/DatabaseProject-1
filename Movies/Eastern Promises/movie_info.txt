@@ -1,0 +1,11 @@
+Movie Name: Eastern Promises 
+Movie Year: 2007
+Movie Certificate: R
+Movie Duration: 100 min
+Movie Genre: 
+Crime, Mystery, Thriller            
+Movie Rating : 7.7
+Directors : David Cronenberg,
+Actors : Naomi Watts,Viggo Mortensen,Armin Mueller-Stahl,Josef Altin,
+Movie Text: 
+A Russian teenager living in London who dies during childbirth leaves clues to a midwife in her journal that could tie her child to a rape involving a violent Russian mob family.

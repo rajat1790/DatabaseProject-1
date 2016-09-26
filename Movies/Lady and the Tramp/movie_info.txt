@@ -1,0 +1,11 @@
+Movie Name: Lady and the Tramp 
+Movie Year: 1955
+Movie Certificate: Approved
+Movie Duration: 76 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 7.3
+Directors : Clyde Geronimi,Wilfred Jackson,Hamilton Luske,
+Actors : Barbara Luddy,Larry Roberts,Peggy Lee,Bill Thompson,
+Movie Text: 
+The romantic tale of a sheltered uptown Cocker Spaniel dog and a streetwise downtown Mutt.

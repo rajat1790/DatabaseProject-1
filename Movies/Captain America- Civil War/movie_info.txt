@@ -1,0 +1,11 @@
+Movie Name: Captain America: Civil War 
+Movie Year: 2016
+Movie Certificate: PG-13
+Movie Duration: 147 min
+Movie Genre: 
+Action, Adventure, Sci-Fi            
+Movie Rating : 8.1
+Directors : Anthony Russo,Joe Russo,
+Actors : Chris Evans,Robert Downey Jr.,Scarlett Johansson,Sebastian Stan,
+Movie Text: 
+Political interference in the Avengers' activities causes a rift between former allies Captain America and Iron Man.

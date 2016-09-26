@@ -1,0 +1,11 @@
+Movie Name: Reservoir Dogs 
+Movie Year: 1992
+Movie Certificate: R
+Movie Duration: 99 min
+Movie Genre: 
+Crime, Drama, Thriller            
+Movie Rating : 8.4
+Directors : Quentin Tarantino,
+Actors : Harvey Keitel,Tim Roth,Michael Madsen,Chris Penn,
+Movie Text: 
+After a simple jewelry heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant.

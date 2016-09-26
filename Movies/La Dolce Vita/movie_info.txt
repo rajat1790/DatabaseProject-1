@@ -1,0 +1,11 @@
+Movie Name: La Dolce Vita 
+Movie Year: 1960
+Movie Certificate: Not Rated
+Movie Duration: 174 min
+Movie Genre: 
+Comedy, Drama            
+Movie Rating : 8.1
+Directors : Federico Fellini,
+Actors : Marcello Mastroianni,Anita Ekberg,Anouk Aimée,Yvonne Furneaux,
+Movie Text: 
+A series of stories following a week in the life of a philandering paparazzo journalist living in Rome.

@@ -1,0 +1,11 @@
+Movie Name: Zootopia 
+Movie Year: 2016
+Movie Certificate: PG
+Movie Duration: 108 min
+Movie Genre: 
+Animation, Action, Adventure            
+Movie Rating : 8.1
+Directors : Byron Howard,Rich Moore,Jared Bush,
+Actors : Ginnifer Goodwin,Jason Bateman,Idris Elba,Jenny Slate,
+Movie Text: 
+In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.

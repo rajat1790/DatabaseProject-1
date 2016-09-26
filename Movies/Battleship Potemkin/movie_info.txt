@@ -1,0 +1,11 @@
+Movie Name: Battleship Potemkin 
+Movie Year: 1925
+Movie Certificate: Unrated
+Movie Duration: 66 min
+Movie Genre: 
+Drama, History            
+Movie Rating : 8.0
+Directors : Sergei M. Eisenstein,
+Actors : Aleksandr Antonov,Vladimir Barsky,Grigori Aleksandrov,Ivan Bobrov,
+Movie Text: 
+A dramatized account of a great Russian naval mutiny and a resulting street demonstration which brought on a police massacre.

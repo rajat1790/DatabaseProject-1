@@ -1,0 +1,11 @@
+Movie Name: The Killing 
+Movie Year: 1956
+Movie Certificate: Approved
+Movie Duration: 85 min
+Movie Genre: 
+Crime, Drama, Film-Noir            
+Movie Rating : 8.0
+Directors : Stanley Kubrick,
+Actors : Sterling Hayden,Coleen Gray,Vince Edwards,Jay C. Flippen,
+Movie Text: 
+Crooks plan and execute a daring race-track robbery.

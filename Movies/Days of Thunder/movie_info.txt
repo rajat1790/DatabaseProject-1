@@ -1,0 +1,11 @@
+Movie Name: Days of Thunder 
+Movie Year: 1990
+Movie Certificate: PG-13
+Movie Duration: 107 min
+Movie Genre: 
+Action, Drama, Sport            
+Movie Rating : 5.9
+Directors : Tony Scott,
+Actors : Tom Cruise,Nicole Kidman,Robert Duvall,Randy Quaid,
+Movie Text: 
+A young hot-shot stock car driver gets his chance to compete at the top level.

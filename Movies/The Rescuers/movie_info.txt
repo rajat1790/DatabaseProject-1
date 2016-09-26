@@ -1,0 +1,11 @@
+Movie Name: The Rescuers 
+Movie Year: 1977
+Movie Certificate: G
+Movie Duration: 78 min
+Movie Genre: 
+Animation, Adventure, Family            
+Movie Rating : 6.9
+Directors : John Lounsbery,Wolfgang Reitherman,Art Stevens,
+Actors : Bob Newhart,Eva Gabor,Geraldine Page,Joe Flynn,
+Movie Text: 
+Two mice of the Rescue Aid Society search for a little girl kidnapped by unscrupulous treasure hunters.

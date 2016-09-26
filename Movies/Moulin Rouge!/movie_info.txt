@@ -1,0 +1,11 @@
+Movie Name: Moulin Rouge! 
+Movie Year: 2001
+Movie Certificate: PG-13
+Movie Duration: 127 min
+Movie Genre: 
+Drama, Musical, Romance            
+Movie Rating : 7.6
+Directors : Baz Luhrmann,
+Actors : Nicole Kidman,Ewan McGregor,John Leguizamo,Jim Broadbent,
+Movie Text: 
+A poet falls for a beautiful courtesan whom a jealous duke covets in this stylish musical, with music drawn from familiar 20th century sources.

@@ -1,0 +1,11 @@
+Movie Name: The Grand Budapest Hotel 
+Movie Year: 2014
+Movie Certificate: R
+Movie Duration: 99 min
+Movie Genre: 
+Adventure, Comedy, Crime            
+Movie Rating : 8.1
+Directors : Wes Anderson,
+Actors : Ralph Fiennes,F. Murray Abraham,Mathieu Amalric,Adrien Brody,
+Movie Text: 
+The adventures of Gustave H, a legendary concierge at a famous hotel from the fictional Republic of Zubrowka between the first and second World Wars, and Zero Moustafa, the lobby boy who becomes his most trusted friend.

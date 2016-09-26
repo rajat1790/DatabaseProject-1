@@ -1,0 +1,11 @@
+Movie Name: Hard Boiled 
+Movie Year: 1992
+Movie Certificate: R
+Movie Duration: 128 min
+Movie Genre: 
+Action, Crime, Drama            
+Movie Rating : 7.9
+Directors : John Woo,
+Actors : Yun-Fat Chow,Tony Chiu Wai Leung,Teresa Mo,Philip Chan,
+Movie Text: 
+A tough-as-nails cop teams up with an undercover agent to shut down a sinister mobster and his crew.

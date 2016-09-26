@@ -1,0 +1,11 @@
+Movie Name: Cloudy with a Chance of Meatballs 
+Movie Year: 2009
+Movie Certificate: PG
+Movie Duration: 90 min
+Movie Genre: 
+Animation, Comedy, Family            
+Movie Rating : 7.0
+Directors : Phil Lord,Christopher Miller,
+Actors : Anna Faris,Bill Hader,Bruce Campbell,James Caan,
+Movie Text: 
+A local scientist is often regarded as a failure until he invents a machine that can make food fall from the sky. But little does he know, that things are about to take a turn for the worst.

@@ -1,0 +1,11 @@
+Movie Name: Following 
+Movie Year: 1998
+Movie Certificate: R
+Movie Duration: 69 min
+Movie Genre: 
+Crime, Mystery, Thriller            
+Movie Rating : 7.6
+Directors : Christopher Nolan,
+Actors : Jeremy Theobald,Alex Haw,Lucy Russell,John Nolan,
+Movie Text: 
+A young writer who follows strangers for material meets a thief who takes him under his wing.

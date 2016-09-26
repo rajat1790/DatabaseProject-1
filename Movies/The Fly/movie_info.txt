@@ -1,0 +1,11 @@
+Movie Name: The Fly 
+Movie Year: 1986
+Movie Certificate: R
+Movie Duration: 96 min
+Movie Genre: 
+Drama, Horror, Sci-Fi            
+Movie Rating : 7.5
+Directors : David Cronenberg,
+Actors : Jeff Goldblum,Geena Davis,John Getz,Joy Boushel,
+Movie Text: 
+A brilliant but eccentric scientist begins to transform into a giant man/fly hybrid after one of his experiments goes horribly wrong.

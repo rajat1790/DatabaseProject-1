@@ -1,0 +1,11 @@
+Movie Name: The Return of the Living Dead 
+Movie Year: 1985
+Movie Certificate: R
+Movie Duration: 91 min
+Movie Genre: 
+Comedy, Horror, Sci-Fi            
+Movie Rating : 7.3
+Directors : Dan O'Bannon,
+Actors : Clu Gulager,James Karen,Don Calfa,Thom Mathews,
+Movie Text: 
+When two bumbling employees at a medical supply warehouse accidentally release a deadly gas into the air, the vapors cause the dead to rise again as zombies.

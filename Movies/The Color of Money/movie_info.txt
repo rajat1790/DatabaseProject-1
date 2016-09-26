@@ -1,0 +1,11 @@
+Movie Name: The Color of Money 
+Movie Year: 1986
+Movie Certificate: R
+Movie Duration: 119 min
+Movie Genre: 
+Drama, Sport            
+Movie Rating : 7.0
+Directors : Martin Scorsese,
+Actors : Paul Newman,Tom Cruise,Mary Elizabeth Mastrantonio,Helen Shaver,
+Movie Text: 
+Fast Eddie Felson teaches a cocky but immensely talented protégé the ropes of pool hustling, which in turn inspires him to make an unlikely comeback.

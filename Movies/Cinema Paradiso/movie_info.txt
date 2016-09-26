@@ -1,0 +1,11 @@
+Movie Name: Cinema Paradiso 
+Movie Year: 1988
+Movie Certificate: R
+Movie Duration: 155 min
+Movie Genre: 
+Drama, Romance            
+Movie Rating : 8.5
+Directors : Giuseppe Tornatore,
+Actors : Philippe Noiret,Enzo Cannavale,Antonella Attili,Isa Danieli,
+Movie Text: 
+A filmmaker recalls his childhood, when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist.

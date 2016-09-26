@@ -1,0 +1,11 @@
+Movie Name: Papillon 
+Movie Year: 1973
+Movie Certificate: R
+Movie Duration: 151 min
+Movie Genre: 
+Biography, Crime, Drama            
+Movie Rating : 8.0
+Directors : Franklin J. Schaffner,
+Actors : Steve McQueen,Dustin Hoffman,Victor Jory,Don Gordon,
+Movie Text: 
+A man befriends a fellow criminal as the two of them begin serving their sentence on a dreadful prison island, which inspires the man to plot his escape.

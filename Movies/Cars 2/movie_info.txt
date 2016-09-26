@@ -1,0 +1,11 @@
+Movie Name: Cars 2 
+Movie Year: 2011
+Movie Certificate: G
+Movie Duration: 106 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 6.3
+Directors : John Lasseter,Brad Lewis,
+Actors : Owen Wilson,Larry the Cable Guy,Michael Caine,Emily Mortimer,
+Movie Text: 
+Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international espionage.

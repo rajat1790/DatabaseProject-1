@@ -1,0 +1,11 @@
+Movie Name: Guardians of the Galaxy 
+Movie Year: 2014
+Movie Certificate: PG-13
+Movie Duration: 121 min
+Movie Genre: 
+Action, Adventure, Sci-Fi            
+Movie Rating : 8.1
+Directors : James Gunn,
+Actors : Chris Pratt,Vin Diesel,Bradley Cooper,Zoe Saldana,
+Movie Text: 
+A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.

@@ -1,0 +1,11 @@
+Movie Name: Field of Dreams 
+Movie Year: 1989
+Movie Certificate: PG
+Movie Duration: 107 min
+Movie Genre: 
+Drama, Family, Fantasy            
+Movie Rating : 7.5
+Directors : Phil Alden Robinson,
+Actors : Kevin Costner,James Earl Jones,Ray Liotta,Amy Madigan,
+Movie Text: 
+An Iowa corn farmer, hearing voices, interprets them as a command to build a baseball diamond in his fields; he does, and the Chicago White Sox come.

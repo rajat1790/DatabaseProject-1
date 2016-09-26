@@ -1,0 +1,11 @@
+Movie Name: Fantasia 
+Movie Year: 1940
+Movie Certificate: G
+Movie Duration: 125 min
+Movie Genre: 
+Animation, Family, Fantasy            
+Movie Rating : 7.8
+Directors : James Algar,Samuel Armstrong,Ford Beebe Jr.,Norman Ferguson,Jim Handley,T. Hee,Wilfred Jackson,Hamilton Luske,Bill Roberts,Paul Satterfield,Ben Sharpsteen,
+Actors : Leopold Stokowski,Deems Taylor,Corey Burton,Walt Disney,
+Movie Text: 
+A collection of animated interpretations of great works of Western classical music.

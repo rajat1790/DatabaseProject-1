@@ -1,0 +1,11 @@
+Movie Name: Spice World 
+Movie Year: 1997
+Movie Certificate: PG
+Movie Duration: 93 min
+Movie Genre: 
+Comedy, Family, Music            
+Movie Rating : 3.3
+Directors : Bob Spiers,
+Actors : Melanie Brown,Emma Bunton,Melanie C,Geri Halliwell,
+Movie Text: 
+World famous pop group The Spice Girls zip around London in their luxurious double decker tour bus having various adventures and performing for their fans.

@@ -1,0 +1,11 @@
+Movie Name: All About Eve 
+Movie Year: 1950
+Movie Certificate: Approved
+Movie Duration: 138 min
+Movie Genre: 
+Drama            
+Movie Rating : 8.3
+Directors : Joseph L. Mankiewicz,
+Actors : Bette Davis,Anne Baxter,George Sanders,Celeste Holm,
+Movie Text: 
+An ingenue insinuates herself into the company of an established but aging stage actress and her circle of theater friends.

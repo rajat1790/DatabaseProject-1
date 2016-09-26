@@ -1,0 +1,11 @@
+Movie Name: The Man from Earth 
+Movie Year: 2007
+Movie Certificate: Not Rated
+Movie Duration: 87 min
+Movie Genre: 
+Drama, Romance, Sci-Fi            
+Movie Rating : 8.0
+Directors : Richard Schenkman,
+Actors : David Lee Smith,Tony Todd,John Billingsley,Ellen Crawford,
+Movie Text: 
+An impromptu goodbye party for Professor John Oldman becomes a mysterious interrogation after the retiring scholar reveals to his colleagues he has a longer and stranger past than they can imagine.

@@ -1,0 +1,11 @@
+Movie Name: Final Destination 
+Movie Year: 2000
+Movie Certificate: R
+Movie Duration: 98 min
+Movie Genre: 
+Horror, Thriller            
+Movie Rating : 6.7
+Directors : James Wong,
+Actors : Devon Sawa,Ali Larter,Kerr Smith,Kristen Cloke,
+Movie Text: 
+After a teenager has a terrifying vision of him and his friends dying in a plane crash, he prevents the accident only to have Death hunt them down, one by one.

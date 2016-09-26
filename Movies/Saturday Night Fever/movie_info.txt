@@ -1,0 +1,11 @@
+Movie Name: Saturday Night Fever 
+Movie Year: 1977
+Movie Certificate: R
+Movie Duration: 118 min
+Movie Genre: 
+Drama, Music            
+Movie Rating : 6.8
+Directors : John Badham,
+Actors : John Travolta,Karen Lynn Gorney,Barry Miller,Joseph Cali,
+Movie Text: 
+A Brooklyn teenager feels his only chance to succeed is as the king of the disco floor. His carefree youth and weekend dancing help him to forget the reality of his bleak life.

@@ -1,0 +1,11 @@
+Movie Name: Dead Man 
+Movie Year: 1995
+Movie Certificate: R
+Movie Duration: 121 min
+Movie Genre: 
+Drama, Fantasy, Western            
+Movie Rating : 7.7
+Directors : Jim Jarmusch,
+Actors : Johnny Depp,Gary Farmer,Crispin Glover,Lance Henriksen,
+Movie Text: 
+On the run after murdering a man, accountant William Blake encounters a strange North American man named Nobody who prepares him for his journey into the spiritual world.

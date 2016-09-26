@@ -1,0 +1,11 @@
+Movie Name: Monsters University 
+Movie Year: 2013
+Movie Certificate: G
+Movie Duration: 104 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 7.3
+Directors : Dan Scanlon,
+Actors : Billy Crystal,John Goodman,Steve Buscemi,Helen Mirren,
+Movie Text: 
+A look at the relationship between Mike and Sulley during their days at Monsters University -- when they weren't necessarily the best of friends.

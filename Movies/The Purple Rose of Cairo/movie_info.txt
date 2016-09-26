@@ -1,0 +1,11 @@
+Movie Name: The Purple Rose of Cairo 
+Movie Year: 1985
+Movie Certificate: PG
+Movie Duration: 82 min
+Movie Genre: 
+Comedy, Fantasy, Romance            
+Movie Rating : 7.8
+Directors : Woody Allen,
+Actors : Mia Farrow,Jeff Daniels,Danny Aiello,Irving Metzman,
+Movie Text: 
+In New Jersey in 1935, a movie character walks off the screen and into the real world.

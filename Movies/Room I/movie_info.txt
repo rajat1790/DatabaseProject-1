@@ -1,0 +1,11 @@
+Movie Name: Room I
+Movie Year: 2015
+Movie Certificate: R
+Movie Duration: 118 min
+Movie Genre: 
+Drama            
+Movie Rating : 8.2
+Directors : Lenny Abrahamson,
+Actors : Brie Larson,Jacob Tremblay,Sean Bridgers,Wendy Crewson,
+Movie Text: 
+A young boy is raised within the confines of a small shed.

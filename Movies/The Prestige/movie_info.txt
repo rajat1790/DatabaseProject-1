@@ -1,0 +1,11 @@
+Movie Name: The Prestige 
+Movie Year: 2006
+Movie Certificate: PG-13
+Movie Duration: 130 min
+Movie Genre: 
+Drama, Mystery, Sci-Fi            
+Movie Rating : 8.5
+Directors : Christopher Nolan,
+Actors : Christian Bale,Hugh Jackman,Scarlett Johansson,Michael Caine,
+Movie Text: 
+Two stage magicians engage in competitive one-upmanship in an attempt to create the ultimate stage illusion.

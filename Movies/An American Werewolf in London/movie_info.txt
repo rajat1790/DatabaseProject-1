@@ -1,0 +1,11 @@
+Movie Name: An American Werewolf in London 
+Movie Year: 1981
+Movie Certificate: R
+Movie Duration: 97 min
+Movie Genre: 
+Comedy, Fantasy, Horror            
+Movie Rating : 7.6
+Directors : John Landis,
+Actors : David Naughton,Jenny Agutter,Joe Belcher,Griffin Dunne,
+Movie Text: 
+Two American college students on a walking tour of Britain are attacked by a werewolf that none of the locals will admit exists.

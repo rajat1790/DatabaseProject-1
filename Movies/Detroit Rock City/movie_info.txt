@@ -1,0 +1,11 @@
+Movie Name: Detroit Rock City 
+Movie Year: 1999
+Movie Certificate: R
+Movie Duration: 95 min
+Movie Genre: 
+Comedy, Music            
+Movie Rating : 6.8
+Directors : Adam Rifkin,
+Actors : Edward Furlong,Giuseppe Andrews,James DeBello,Sam Huntington,
+Movie Text: 
+A comedy about four teenagers in 1978 who try to scam their way into a KISS concert.

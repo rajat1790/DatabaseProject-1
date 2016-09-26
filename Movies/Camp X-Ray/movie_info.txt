@@ -1,0 +1,11 @@
+Movie Name: Camp X-Ray 
+Movie Year: 2014
+Movie Certificate: R
+Movie Duration: 117 min
+Movie Genre: 
+Drama, War            
+Movie Rating : 7.0
+Directors : Peter Sattler,
+Actors : Kristen Stewart,Peyman Moaadi,Lane Garrison,Tara Holt,
+Movie Text: 
+A soldier assigned to Guantanamo Bay befriends a man who has been imprisoned there.

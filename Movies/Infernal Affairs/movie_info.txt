@@ -1,0 +1,11 @@
+Movie Name: Infernal Affairs 
+Movie Year: 2002
+Movie Certificate: R
+Movie Duration: 101 min
+Movie Genre: 
+Crime, Drama, Mystery            
+Movie Rating : 8.1
+Directors : Wai-Keung Lau,Alan Mak,
+Actors : Andy Lau,Tony Chiu Wai Leung,Anthony Chau-Sang Wong,Eric Tsang,
+Movie Text: 
+A story between a mole in the police department and an undercover cop. Their objectives are the same: to find out who is the mole, and who is the cop.

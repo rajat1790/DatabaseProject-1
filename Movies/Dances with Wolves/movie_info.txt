@@ -1,0 +1,11 @@
+Movie Name: Dances with Wolves 
+Movie Year: 1990
+Movie Certificate: PG-13
+Movie Duration: 181 min
+Movie Genre: 
+Adventure, Drama, Western            
+Movie Rating : 8.0
+Directors : Kevin Costner,
+Actors : Kevin Costner,Mary McDonnell,Graham Greene,Rodney A. Grant,
+Movie Text: 
+Lt. John Dunbar, exiled to a remote western Civil War outpost, befriends wolves and Indians, making him an intolerable aberration in the military.

@@ -1,0 +1,11 @@
+Movie Name: Resident Evil 
+Movie Year: 2002
+Movie Certificate: R
+Movie Duration: 100 min
+Movie Genre: 
+Action, Horror, Sci-Fi            
+Movie Rating : 6.7
+Directors : Paul W.S. Anderson,
+Actors : Milla Jovovich,Michelle Rodriguez,Ryan McCluskey,Oscar Pearce,
+Movie Text: 
+A special military unit fights a powerful, out-of-control supercomputer and hundreds of scientists who have mutated into flesh-eating creatures after a laboratory accident.

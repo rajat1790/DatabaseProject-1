@@ -1,0 +1,11 @@
+Movie Name: Shrek 
+Movie Year: 2001
+Movie Certificate: PG
+Movie Duration: 90 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 7.9
+Directors : Andrew Adamson,Vicky Jenson,
+Actors : Mike Myers,Eddie Murphy,Cameron Diaz,John Lithgow,
+Movie Text: 
+After his swamp is filled with magical creatures, an ogre agrees to rescue a princess for a villainous lord in order to get his land back.

@@ -1,0 +1,11 @@
+Movie Name: Oliver & Company 
+Movie Year: 1988
+Movie Certificate: G
+Movie Duration: 74 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 6.7
+Directors : George Scribner,
+Actors : Joey Lawrence,Billy Joel,Cheech Marin,Richard Mulligan,
+Movie Text: 
+A lost and alone kitten joins a gang of dogs engaged in petty larceny in New York.

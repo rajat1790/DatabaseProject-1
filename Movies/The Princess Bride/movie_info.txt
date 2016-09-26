@@ -1,0 +1,11 @@
+Movie Name: The Princess Bride 
+Movie Year: 1987
+Movie Certificate: PG
+Movie Duration: 98 min
+Movie Genre: 
+Adventure, Family, Fantasy            
+Movie Rating : 8.1
+Directors : Rob Reiner,
+Actors : Cary Elwes,Mandy Patinkin,Robin Wright,Chris Sarandon,
+Movie Text: 
+While home sick in bed, a young boy's grandfather reads him a story called The Princess Bride.

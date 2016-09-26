@@ -1,0 +1,11 @@
+Movie Name: Robin Hood 
+Movie Year: 1973
+Movie Certificate: G
+Movie Duration: 83 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 7.6
+Directors : Wolfgang Reitherman,
+Actors : Brian Bedford,Phil Harris,Roger Miller,Peter Ustinov,
+Movie Text: 
+The story of the legendary outlaw is portrayed with the characters as humanoid animals.

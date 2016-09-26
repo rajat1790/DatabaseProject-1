@@ -1,0 +1,11 @@
+Movie Name: It's a Wonderful Life 
+Movie Year: 1946
+Movie Certificate: PG
+Movie Duration: 130 min
+Movie Genre: 
+Drama, Family, Fantasy            
+Movie Rating : 8.6
+Directors : Frank Capra,
+Actors : James Stewart,Donna Reed,Lionel Barrymore,Thomas Mitchell,
+Movie Text: 
+An angel helps a compassionate but despairingly frustrated businessman by showing what life would have been like if he never existed.

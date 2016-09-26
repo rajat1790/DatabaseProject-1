@@ -1,0 +1,11 @@
+Movie Name: The Walk II
+Movie Year: 2015
+Movie Certificate: PG
+Movie Duration: 123 min
+Movie Genre: 
+Adventure, Biography, Drama            
+Movie Rating : 7.4
+Directors : Robert Zemeckis,
+Actors : Joseph Gordon-Levitt,Charlotte Le Bon,Guillaume Baillargeon,Émilie Leclerc,
+Movie Text: 
+In 1974, high-wire artist Philippe Petit recruits a team of people to help him realize his dream: to walk the immense void between the World Trade Center towers.

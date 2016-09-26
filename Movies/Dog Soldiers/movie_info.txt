@@ -1,0 +1,11 @@
+Movie Name: Dog Soldiers 
+Movie Year: 2002
+Movie Certificate: R
+Movie Duration: 105 min
+Movie Genre: 
+Action, Fantasy, Horror            
+Movie Rating : 6.9
+Directors : Neil Marshall,
+Actors : Sean Pertwee,Kevin McKidd,Emma Cleasby,Liam Cunningham,
+Movie Text: 
+A routine military exercise turns into a nightmare in the Scotland wilderness.

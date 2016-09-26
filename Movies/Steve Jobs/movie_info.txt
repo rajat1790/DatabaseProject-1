@@ -1,0 +1,11 @@
+Movie Name: Steve Jobs 
+Movie Year: 2015
+Movie Certificate: R
+Movie Duration: 122 min
+Movie Genre: 
+Biography, Drama            
+Movie Rating : 7.2
+Directors : Danny Boyle,
+Actors : Michael Fassbender,Kate Winslet,Seth Rogen,Jeff Daniels,
+Movie Text: 
+Steve Jobs takes us behind the scenes of the digital revolution, to paint a portrait of the man at its epicenter. The story unfolds backstage at three iconic product launches, ending in 1998 with the unveiling of the iMac.

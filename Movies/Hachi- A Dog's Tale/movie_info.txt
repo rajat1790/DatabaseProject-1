@@ -1,0 +1,11 @@
+Movie Name: Hachi: A Dog's Tale 
+Movie Year: 2009
+Movie Certificate: G
+Movie Duration: 93 min
+Movie Genre: 
+Drama, Family            
+Movie Rating : 8.1
+Directors : Lasse Hallström,
+Actors : Richard Gere,Joan Allen,Cary-Hiroyuki Tagawa,Sarah Roemer,
+Movie Text: 
+A college professor's bond with the abandoned dog he takes into his home.

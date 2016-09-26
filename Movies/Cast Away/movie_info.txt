@@ -1,0 +1,11 @@
+Movie Name: Cast Away 
+Movie Year: 2000
+Movie Certificate: PG-13
+Movie Duration: 143 min
+Movie Genre: 
+Adventure, Drama, Romance            
+Movie Rating : 7.7
+Directors : Robert Zemeckis,
+Actors : Tom Hanks,Helen Hunt,Paul Sanchez,Lari White,
+Movie Text: 
+A FedEx executive must transform himself physically and emotionally to survive a crash landing on a deserted island.

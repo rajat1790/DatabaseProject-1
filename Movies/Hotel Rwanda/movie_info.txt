@@ -1,0 +1,11 @@
+Movie Name: Hotel Rwanda 
+Movie Year: 2004
+Movie Certificate: PG-13
+Movie Duration: 121 min
+Movie Genre: 
+Drama, History, War            
+Movie Rating : 8.1
+Directors : Terry George,
+Actors : Don Cheadle,Sophie Okonedo,Joaquin Phoenix,Xolani Mali,
+Movie Text: 
+Paul Rusesabagina was a hotel manager who housed over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda.

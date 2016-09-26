@@ -1,0 +1,11 @@
+Movie Name: Nacho Libre 
+Movie Year: 2006
+Movie Certificate: PG
+Movie Duration: 92 min
+Movie Genre: 
+Comedy, Family, Sport            
+Movie Rating : 5.7
+Directors : Jared Hess,
+Actors : Jack Black,Ana de la Reguera,Héctor Jiménez,Darius Rose,
+Movie Text: 
+Berated all his life by those around him, a monk follows his dream and dons a mask to moonlight as a Luchador (Mexican wrestler).

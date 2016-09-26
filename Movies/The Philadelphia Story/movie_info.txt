@@ -1,0 +1,11 @@
+Movie Name: The Philadelphia Story 
+Movie Year: 1940
+Movie Certificate: Not Rated
+Movie Duration: 112 min
+Movie Genre: 
+Comedy, Romance            
+Movie Rating : 8.1
+Directors : George Cukor,
+Actors : Cary Grant,Katharine Hepburn,James Stewart,Ruth Hussey,
+Movie Text: 
+When a rich woman's ex-husband and a tabloid-type reporter turn up just before her planned remarriage, she begins to learn the truth about herself.

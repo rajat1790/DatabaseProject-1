@@ -1,0 +1,11 @@
+Movie Name: Jersey Boys 
+Movie Year: 2014
+Movie Certificate: R
+Movie Duration: 134 min
+Movie Genre: 
+Biography, Drama, Music            
+Movie Rating : 6.9
+Directors : Clint Eastwood,
+Actors : John Lloyd Young,Erich Bergen,Michael Lomenda,Vincent Piazza,
+Movie Text: 
+The story of four young men from the wrong side of the tracks in New Jersey who came together to form the iconic 1960s rock group The Four Seasons.

@@ -1,0 +1,11 @@
+Movie Name: The Muppets 
+Movie Year: 2011
+Movie Certificate: PG
+Movie Duration: 103 min
+Movie Genre: 
+Adventure, Comedy, Family            
+Movie Rating : 7.1
+Directors : James Bobin,
+Actors : Amy Adams,Jason Segel,Chris Cooper,Rashida Jones,
+Movie Text: 
+A Muppet fanatic with some help from his two human compatriots must regroup the Muppet gang to stop an avaricious oil mogul from taking down one of their precious life-longing treasures.

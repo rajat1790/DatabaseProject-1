@@ -1,0 +1,11 @@
+Movie Name: Forrest Gump 
+Movie Year: 1994
+Movie Certificate: PG-13
+Movie Duration: 142 min
+Movie Genre: 
+Comedy, Drama            
+Movie Rating : 8.8
+Directors : Robert Zemeckis,
+Actors : Tom Hanks,Robin Wright,Gary Sinise,Sally Field,
+Movie Text: 
+Forrest Gump, while not intelligent, has accidentally been present at many historic moments, but his true love, Jenny Curran, eludes him.

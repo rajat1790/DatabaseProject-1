@@ -1,0 +1,11 @@
+Movie Name: The Remains of the Day 
+Movie Year: 1993
+Movie Certificate: PG
+Movie Duration: 134 min
+Movie Genre: 
+Drama, Romance            
+Movie Rating : 7.9
+Directors : James Ivory,
+Actors : Anthony Hopkins,Emma Thompson,John Haycraft,Christopher Reeve,
+Movie Text: 
+A butler who sacrificed body and soul to service in the years leading up to World War II realizes too late how misguided his loyalty was to his lordly employer.

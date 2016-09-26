@@ -1,0 +1,11 @@
+Movie Name: The Last Emperor 
+Movie Year: 1987
+Movie Certificate: PG-13
+Movie Duration: 163 min
+Movie Genre: 
+Biography, Drama, History            
+Movie Rating : 7.8
+Directors : Bernardo Bertolucci,
+Actors : John Lone,Joan Chen,Peter O'Toole,Ruocheng Ying,
+Movie Text: 
+The story of the final Emperor of China.

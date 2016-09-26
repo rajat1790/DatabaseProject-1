@@ -1,0 +1,11 @@
+Movie Name: City of God 
+Movie Year: 2002
+Movie Certificate: R
+Movie Duration: 130 min
+Movie Genre: 
+Crime, Drama            
+Movie Rating : 8.7
+Directors : Fernando Meirelles,Kátia Lund,
+Actors : Alexandre Rodrigues,Matheus Nachtergaele,Leandro Firmino,Phellipe Haagensen,
+Movie Text: 
+Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer.

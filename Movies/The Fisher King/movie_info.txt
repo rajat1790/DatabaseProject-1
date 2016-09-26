@@ -1,0 +1,11 @@
+Movie Name: The Fisher King 
+Movie Year: 1991
+Movie Certificate: R
+Movie Duration: 137 min
+Movie Genre: 
+Comedy, Drama, Fantasy            
+Movie Rating : 7.6
+Directors : Terry Gilliam,
+Actors : Jeff Bridges,Robin Williams,Adam Bryant,Paul Lombardi,
+Movie Text: 
+A former radio DJ, suicidally despondent because of a terrible mistake he made, finds redemption in helping a deranged homeless man who was an unwitting victim of that mistake.

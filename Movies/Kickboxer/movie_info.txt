@@ -1,0 +1,11 @@
+Movie Name: Kickboxer 
+Movie Year: 1989
+Movie Certificate: R
+Movie Duration: 97 min
+Movie Genre: 
+Action, Sport            
+Movie Rating : 6.4
+Directors : Mark DiSalle,David Worth,
+Actors : Jean-Claude Van Damme,Dennis Alexio,Dennis Chan,Michel Qissi,
+Movie Text: 
+Kurt Sloane must learn the ancient kick boxing art of Muay Thai in order to avenge his brother.

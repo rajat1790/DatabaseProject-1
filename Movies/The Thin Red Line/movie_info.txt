@@ -1,0 +1,11 @@
+Movie Name: The Thin Red Line 
+Movie Year: 1998
+Movie Certificate: R
+Movie Duration: 170 min
+Movie Genre: 
+Drama, War            
+Movie Rating : 7.6
+Directors : Terrence Malick,
+Actors : Jim Caviezel,Sean Penn,Nick Nolte,Elias Koteas,
+Movie Text: 
+Terrence Malick's adaptation of James Jones' autobiographical 1962 novel, focusing on the conflict at Guadalcanal during the second World War.

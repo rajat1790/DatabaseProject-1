@@ -1,0 +1,11 @@
+Movie Name: Avengers: Age of Ultron 
+Movie Year: 2015
+Movie Certificate: PG-13
+Movie Duration: 141 min
+Movie Genre: 
+Action, Adventure, Sci-Fi            
+Movie Rating : 7.5
+Directors : Joss Whedon,
+Actors : Robert Downey Jr.,Chris Evans,Mark Ruffalo,Chris Hemsworth,
+Movie Text: 
+When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's Mightiest Heroes to stop the villainous Ultron from enacting his terrible plans.

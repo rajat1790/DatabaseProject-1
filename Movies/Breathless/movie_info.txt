@@ -1,0 +1,11 @@
+Movie Name: Breathless 
+Movie Year: 1960
+Movie Certificate: Unrated
+Movie Duration: 90 min
+Movie Genre: 
+Crime, Drama            
+Movie Rating : 8.0
+Directors : Jean-Luc Godard,
+Actors : Jean-Paul Belmondo,Jean Seberg,Daniel Boulanger,Henri-Jacques Huet,
+Movie Text: 
+A small-time thief steals a car and impulsively murders a motorcycle policeman. Wanted by the authorities, he reunites with a hip American journalism student and attempts to persuade her to run away with him to Italy.

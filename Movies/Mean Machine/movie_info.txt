@@ -1,0 +1,11 @@
+Movie Name: Mean Machine 
+Movie Year: 2001
+Movie Certificate: R
+Movie Duration: 99 min
+Movie Genre: 
+Comedy, Crime, Drama            
+Movie Rating : 6.5
+Directors : Barry Skolnick,
+Actors : Vinnie Jones,David Kelly,David Hemmings,Ralph Brown,
+Movie Text: 
+A soccer star jailed for assault leads a group of inmates in a match against prison guards.

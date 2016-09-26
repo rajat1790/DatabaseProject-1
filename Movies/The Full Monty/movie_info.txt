@@ -1,0 +1,11 @@
+Movie Name: The Full Monty 
+Movie Year: 1997
+Movie Certificate: R
+Movie Duration: 91 min
+Movie Genre: 
+Comedy, Drama, Music            
+Movie Rating : 7.2
+Directors : Peter Cattaneo,
+Actors : Robert Carlyle,Tom Wilkinson,Mark Addy,William Snape,
+Movie Text: 
+Six unemployed steel workers form a male striptease act. The women cheer them on to go for "the full monty" - total nudity.

@@ -1,0 +1,11 @@
+Movie Name: Dawn of the Planet of the Apes 
+Movie Year: 2014
+Movie Certificate: PG-13
+Movie Duration: 130 min
+Movie Genre: 
+Action, Adventure, Drama            
+Movie Rating : 7.6
+Directors : Matt Reeves,
+Actors : Gary Oldman,Keri Russell,Andy Serkis,Kodi Smit-McPhee,
+Movie Text: 
+A growing nation of genetically evolved apes led by Caesar is threatened by a band of human survivors of the devastating virus unleashed a decade earlier.

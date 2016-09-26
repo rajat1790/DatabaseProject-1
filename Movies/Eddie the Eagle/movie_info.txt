@@ -1,0 +1,11 @@
+Movie Name: Eddie the Eagle 
+Movie Year: 2016
+Movie Certificate: PG-13
+Movie Duration: 106 min
+Movie Genre: 
+Biography, Comedy, Drama            
+Movie Rating : 7.4
+Directors : Dexter Fletcher,
+Actors : Taron Egerton,Hugh Jackman,Tom Costello,Jo Hartley,
+Movie Text: 
+The story of Eddie Edwards, the notoriously tenacious British underdog ski jumper who charmed the world at the 1988 Winter Olympics.

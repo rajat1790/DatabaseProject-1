@@ -1,0 +1,11 @@
+Movie Name: Oliver! 
+Movie Year: 1968
+Movie Certificate: G
+Movie Duration: 153 min
+Movie Genre: 
+Drama, Family, Musical            
+Movie Rating : 7.5
+Directors : Carol Reed,
+Actors : Mark Lester,Ron Moody,Shani Wallis,Oliver Reed,
+Movie Text: 
+A young boy runs away from an orphanage and meets a group of boys trained to be pickpockets by an elderly mentor.

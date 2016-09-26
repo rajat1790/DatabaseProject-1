@@ -1,0 +1,11 @@
+Movie Name: The Mighty Ducks 
+Movie Year: 1992
+Movie Certificate: PG
+Movie Duration: 100 min
+Movie Genre: 
+Comedy, Drama, Family            
+Movie Rating : 6.4
+Directors : Stephen Herek,
+Actors : Emilio Estevez,Joss Ackland,Lane Smith,Heidi Kling,
+Movie Text: 
+A self-centered lawyer is sentenced to community service coaching a rag tag youth hockey team.

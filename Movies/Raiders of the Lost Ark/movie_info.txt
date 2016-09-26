@@ -1,0 +1,11 @@
+Movie Name: Raiders of the Lost Ark 
+Movie Year: 1981
+Movie Certificate: PG
+Movie Duration: 115 min
+Movie Genre: 
+Action, Adventure            
+Movie Rating : 8.5
+Directors : Steven Spielberg,
+Actors : Harrison Ford,Karen Allen,Paul Freeman,John Rhys-Davies,
+Movie Text: 
+Archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis.

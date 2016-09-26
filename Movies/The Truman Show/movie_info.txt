@@ -1,0 +1,11 @@
+Movie Name: The Truman Show 
+Movie Year: 1998
+Movie Certificate: PG
+Movie Duration: 103 min
+Movie Genre: 
+Comedy, Drama, Sci-Fi            
+Movie Rating : 8.1
+Directors : Peter Weir,
+Actors : Jim Carrey,Ed Harris,Laura Linney,Noah Emmerich,
+Movie Text: 
+An insurance salesman/adjuster discovers his entire life is actually a television show.

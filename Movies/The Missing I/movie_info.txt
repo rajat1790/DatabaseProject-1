@@ -1,0 +1,11 @@
+Movie Name: The Missing I
+Movie Year: 2003
+Movie Certificate: R
+Movie Duration: 137 min
+Movie Genre: 
+Adventure, Thriller, Western            
+Movie Rating : 6.5
+Directors : Ron Howard,
+Actors : Tommy Lee Jones,Cate Blanchett,Evan Rachel Wood,Jenna Boyd,
+Movie Text: 
+In 1885 New Mexico, a frontier medicine woman forms an uneasy alliance with her estranged father when her daughter is kidnapped by an Apache brujo.

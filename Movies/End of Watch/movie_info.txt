@@ -1,0 +1,11 @@
+Movie Name: End of Watch 
+Movie Year: 2012
+Movie Certificate: R
+Movie Duration: 109 min
+Movie Genre: 
+Crime, Drama, Thriller            
+Movie Rating : 7.7
+Directors : David Ayer,
+Actors : Jake Gyllenhaal,Michael Peña,Anna Kendrick,America Ferrera,
+Movie Text: 
+Shot documentary-style, this film follows the daily grind of two young police officers in LA who are partners and friends, and what happens when they meet criminal forces greater than themselves.

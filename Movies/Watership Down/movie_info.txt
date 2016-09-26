@@ -1,0 +1,11 @@
+Movie Name: Watership Down 
+Movie Year: 1978
+Movie Certificate: PG
+Movie Duration: 91 min
+Movie Genre: 
+Animation, Adventure, Drama            
+Movie Rating : 7.7
+Directors : Martin Rosen,
+Actors : John Hurt,Richard Briers,Ralph Richardson,Michael Graham Cox,
+Movie Text: 
+A group of rabbits flee their doomed warren and face many dangers to find and protect their new home.

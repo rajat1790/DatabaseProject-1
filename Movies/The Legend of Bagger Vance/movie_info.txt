@@ -1,0 +1,11 @@
+Movie Name: The Legend of Bagger Vance 
+Movie Year: 2000
+Movie Certificate: PG-13
+Movie Duration: 126 min
+Movie Genre: 
+Drama, Fantasy, Sport            
+Movie Rating : 6.7
+Directors : Robert Redford,
+Actors : Will Smith,Matt Damon,Charlize Theron,Bruce McGill,
+Movie Text: 
+A down-and-out golfer attempts to recover his game and his life with help from a mystical caddy.

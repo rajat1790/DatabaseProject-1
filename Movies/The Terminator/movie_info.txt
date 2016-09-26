@@ -1,0 +1,11 @@
+Movie Name: The Terminator 
+Movie Year: 1984
+Movie Certificate: R
+Movie Duration: 107 min
+Movie Genre: 
+Action, Sci-Fi            
+Movie Rating : 8.1
+Directors : James Cameron,
+Actors : Arnold Schwarzenegger,Linda Hamilton,Michael Biehn,Paul Winfield,
+Movie Text: 
+A human-looking indestructible cyborg is sent from 2029 to 1984 to assassinate a waitress, whose unborn son will lead humanity in a war against the machines, while a soldier from that war is sent to protect her at all costs.

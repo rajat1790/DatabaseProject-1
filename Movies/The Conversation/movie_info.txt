@@ -1,0 +1,11 @@
+Movie Name: The Conversation 
+Movie Year: 1974
+Movie Certificate: PG
+Movie Duration: 113 min
+Movie Genre: 
+Drama, Mystery, Thriller            
+Movie Rating : 7.9
+Directors : Francis Ford Coppola,
+Actors : Gene Hackman,John Cazale,Allen Garfield,Frederic Forrest,
+Movie Text: 
+A paranoid, secretive surveillance expert has a crisis of conscience when he suspects that a couple he is spying on will be murdered.

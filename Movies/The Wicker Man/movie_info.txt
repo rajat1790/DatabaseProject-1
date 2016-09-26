@@ -1,0 +1,11 @@
+Movie Name: The Wicker Man 
+Movie Year: 1973
+Movie Certificate: R
+Movie Duration: 88 min
+Movie Genre: 
+Horror, Mystery            
+Movie Rating : 7.6
+Directors : Robin Hardy,
+Actors : Edward Woodward,Christopher Lee,Diane Cilento,Britt Ekland,
+Movie Text: 
+A police sergeant is sent to a Scottish island village in search of a missing girl whom the townsfolk claim never existed. Stranger still are the rites that take place there.

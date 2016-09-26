@@ -1,0 +1,11 @@
+Movie Name: The 13th Warrior 
+Movie Year: 1999
+Movie Certificate: R
+Movie Duration: 102 min
+Movie Genre: 
+Action, Adventure, History            
+Movie Rating : 6.6
+Directors : John McTiernan,Michael Crichton,
+Actors : Antonio Banderas,Diane Venora,Dennis Storhøi,Vladimir Kulich,
+Movie Text: 
+A man, having fallen in love with the wrong woman, is sent by the sultan himself on a diplomatic mission to a distant land as an ambassador. Stopping at a Viking village port to restock on supplies, he finds himself unwittingly embroiled on a quest to banish a mysterious threat in a distant Viking land.

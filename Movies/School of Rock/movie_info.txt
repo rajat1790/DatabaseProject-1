@@ -1,0 +1,11 @@
+Movie Name: School of Rock 
+Movie Year: 2003
+Movie Certificate: PG-13
+Movie Duration: 108 min
+Movie Genre: 
+Comedy, Music            
+Movie Rating : 7.1
+Directors : Richard Linklater,
+Actors : Jack Black,Mike White,Joan Cusack,Adam Pascal,
+Movie Text: 
+After being kicked out of a rock band, Dewey Finn becomes a substitute teacher of a strict elementary private school, only to try and turn it into a rock band.

@@ -1,0 +1,11 @@
+Movie Name: The Message 
+Movie Year: 1976
+Movie Certificate: PG
+Movie Duration: 177 min
+Movie Genre: 
+Adventure, Biography, Drama            
+Movie Rating : 8.5
+Directors : Moustapha Akkad,
+Actors : Anthony Quinn,Irene Papas,Michael Ansara,Johnny Sekka,
+Movie Text: 
+In the 7th century, Mohammed is visited by Angel Gabriel who urges him to lead the people of Mecca and worship God. But they're exiled in Medina before returning to Mecca to take up arms against their oppressors and liberate their city in the name of God.              

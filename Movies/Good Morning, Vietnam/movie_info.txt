@@ -1,0 +1,11 @@
+Movie Name: Good Morning, Vietnam 
+Movie Year: 1987
+Movie Certificate: R
+Movie Duration: 121 min
+Movie Genre: 
+Biography, Comedy, Drama            
+Movie Rating : 7.3
+Directors : Barry Levinson,
+Actors : Robin Williams,Forest Whitaker,Tung Thanh Tran,Chintara Sukapatana,
+Movie Text: 
+An unorthodox and irreverent DJ begins to shake up things when he is assigned to the U.S. Armed Services Radio station in Vietnam.

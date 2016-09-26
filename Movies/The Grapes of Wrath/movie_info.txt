@@ -1,0 +1,11 @@
+Movie Name: The Grapes of Wrath 
+Movie Year: 1940
+Movie Certificate: Not Rated
+Movie Duration: 129 min
+Movie Genre: 
+Drama, History            
+Movie Rating : 8.1
+Directors : John Ford,
+Actors : Henry Fonda,Jane Darwell,John Carradine,Charley Grapewin,
+Movie Text: 
+A poor Midwest family is forced off of their land. They travel to California, suffering the misfortunes of the homeless in the Great Depression.

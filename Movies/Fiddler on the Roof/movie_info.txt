@@ -1,0 +1,11 @@
+Movie Name: Fiddler on the Roof 
+Movie Year: 1971
+Movie Certificate: G
+Movie Duration: 181 min
+Movie Genre: 
+Drama, Family, Musical            
+Movie Rating : 8.0
+Directors : Norman Jewison,
+Actors : Haim Topol,Norma Crane,Leonard Frey,Molly Picon,
+Movie Text: 
+In prerevolutionary Russia, a Jewish peasant contends with marrying off three of his daughters while growing anti-Semitic sentiment threatens his village.

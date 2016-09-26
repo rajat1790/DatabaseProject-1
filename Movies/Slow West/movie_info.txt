@@ -1,0 +1,11 @@
+Movie Name: Slow West 
+Movie Year: 2015
+Movie Certificate: R
+Movie Duration: 84 min
+Movie Genre: 
+Western            
+Movie Rating : 6.9
+Directors : John Maclean,
+Actors : Kodi Smit-McPhee,Michael Fassbender,Ben Mendelsohn,Aorere Paki,
+Movie Text: 
+A young Scottish man travels across America in pursuit of the woman he loves, attracting the attention of an outlaw who is willing to serve as a guide.

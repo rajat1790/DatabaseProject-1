@@ -1,0 +1,11 @@
+Movie Name: Frida 
+Movie Year: 2002
+Movie Certificate: R
+Movie Duration: 123 min
+Movie Genre: 
+Biography, Drama, Romance            
+Movie Rating : 7.4
+Directors : Julie Taymor,
+Actors : Salma Hayek,Alfred Molina,Geoffrey Rush,Mía Maestro,
+Movie Text: 
+A biography of artist Frida Kahlo, who channeled the pain of a crippling injury and her tempestuous marriage into her work.

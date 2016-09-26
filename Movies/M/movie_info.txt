@@ -1,0 +1,11 @@
+Movie Name: M 
+Movie Year: 1931
+Movie Certificate: Not Rated
+Movie Duration: 99 min
+Movie Genre: 
+Crime, Drama, Mystery            
+Movie Rating : 8.4
+Directors : Fritz Lang,
+Actors : Peter Lorre,Ellen Widmann,Inge Landgut,Otto Wernicke,
+Movie Text: 
+When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.

@@ -1,0 +1,11 @@
+Movie Name: Tremors 
+Movie Year: 1990
+Movie Certificate: PG-13
+Movie Duration: 96 min
+Movie Genre: 
+Comedy, Horror, Sci-Fi            
+Movie Rating : 7.1
+Directors : Ron Underwood,
+Actors : Kevin Bacon,Fred Ward,Finn Carter,Michael Gross,
+Movie Text: 
+Natives of a small isolated town defend themselves against strange underground creatures which are killing them one by one.

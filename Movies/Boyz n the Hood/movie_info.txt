@@ -1,0 +1,11 @@
+Movie Name: Boyz n the Hood 
+Movie Year: 1991
+Movie Certificate: R
+Movie Duration: 112 min
+Movie Genre: 
+Crime, Drama            
+Movie Rating : 7.8
+Directors : John Singleton,
+Actors : Cuba Gooding Jr.,Laurence Fishburne,Hudhail Al-Amir,Lloyd Avery II,
+Movie Text: 
+Follows the lives of three young males living in the Crenshaw ghetto of Los Angeles, dissecting questions of race, relationships, violence and future prospects.

@@ -1,0 +1,11 @@
+Movie Name: Crash I
+Movie Year: 2004
+Movie Certificate: R
+Movie Duration: 112 min
+Movie Genre: 
+Crime, Drama, Thriller            
+Movie Rating : 7.9
+Directors : Paul Haggis,
+Actors : Don Cheadle,Sandra Bullock,Thandie Newton,Karina Arroyave,
+Movie Text: 
+Los Angeles citizens with vastly separate lives collide in interweaving stories of race, loss and redemption.

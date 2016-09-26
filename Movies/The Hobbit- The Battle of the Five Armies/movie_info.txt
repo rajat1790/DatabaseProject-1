@@ -1,0 +1,11 @@
+Movie Name: The Hobbit: The Battle of the Five Armies 
+Movie Year: 2014
+Movie Certificate: PG-13
+Movie Duration: 144 min
+Movie Genre: 
+Adventure, Fantasy            
+Movie Rating : 7.5
+Directors : Peter Jackson,
+Actors : Ian McKellen,Martin Freeman,Richard Armitage,Cate Blanchett,
+Movie Text: 
+Bilbo and Company are forced to engage in a war against an array of combatants and keep the Lonely Mountain from falling into the hands of a rising darkness.

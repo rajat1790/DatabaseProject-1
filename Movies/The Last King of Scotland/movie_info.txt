@@ -1,0 +1,11 @@
+Movie Name: The Last King of Scotland 
+Movie Year: 2006
+Movie Certificate: R
+Movie Duration: 123 min
+Movie Genre: 
+Biography, Drama, History            
+Movie Rating : 7.7
+Directors : Kevin Macdonald,
+Actors : James McAvoy,Forest Whitaker,Gillian Anderson,Kerry Washington,
+Movie Text: 
+Based on the events of the brutal Ugandan dictator Idi Amin's regime as seen by his personal physician during the 1970's.

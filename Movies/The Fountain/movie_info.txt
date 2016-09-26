@@ -1,0 +1,11 @@
+Movie Name: The Fountain 
+Movie Year: 2006
+Movie Certificate: PG-13
+Movie Duration: 96 min
+Movie Genre: 
+Drama, Sci-Fi            
+Movie Rating : 7.3
+Directors : Darren Aronofsky,
+Actors : Hugh Jackman,Rachel Weisz,Sean Patrick Thomas,Ellen Burstyn,
+Movie Text: 
+As a modern-day scientist, Tommy is struggling with mortality, desperately searching for the medical breakthrough that will save the life of his cancer-stricken wife, Izzi.

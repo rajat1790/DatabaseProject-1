@@ -1,0 +1,11 @@
+Movie Name: The Conjuring 2 
+Movie Year: 2016
+Movie Certificate: R
+Movie Duration: 134 min
+Movie Genre: 
+Horror, Mystery, Thriller            
+Movie Rating : 7.6
+Directors : James Wan,
+Actors : Vera Farmiga,Patrick Wilson,Madison Wolfe,Frances O'Connor,
+Movie Text: 
+Lorraine and Ed Warren travel to north London to help a single mother raising four children alone in a house plagued by a malicious spirit.

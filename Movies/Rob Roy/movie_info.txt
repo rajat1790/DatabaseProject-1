@@ -1,0 +1,11 @@
+Movie Name: Rob Roy 
+Movie Year: 1995
+Movie Certificate: R
+Movie Duration: 139 min
+Movie Genre: 
+Adventure, Biography, History            
+Movie Rating : 6.9
+Directors : Michael Caton-Jones,
+Actors : Liam Neeson,Jessica Lange,John Hurt,Tim Roth,
+Movie Text: 
+In 1713 Scotland, Rob Roy MacGregor is wronged by a nobleman and his nephew, becomes an outlaw in search of revenge while fleeing the Redcoats, and faces charges of being a Jacobite.

@@ -1,0 +1,11 @@
+Movie Name: Shrek 2 
+Movie Year: 2004
+Movie Certificate: PG
+Movie Duration: 93 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 7.2
+Directors : Andrew Adamson,Kelly Asbury,Conrad Vernon,
+Actors : Mike Myers,Eddie Murphy,Cameron Diaz,Julie Andrews,
+Movie Text: 
+Princess Fiona's parents invite her and Shrek to dinner to celebrate her marriage. If only they knew the newlyweds were both ogres.

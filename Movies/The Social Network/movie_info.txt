@@ -1,0 +1,11 @@
+Movie Name: The Social Network 
+Movie Year: 2010
+Movie Certificate: PG-13
+Movie Duration: 120 min
+Movie Genre: 
+Biography, Drama            
+Movie Rating : 7.7
+Directors : David Fincher,
+Actors : Jesse Eisenberg,Andrew Garfield,Justin Timberlake,Rooney Mara,
+Movie Text: 
+Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the co-founder who was later squeezed out of the business.

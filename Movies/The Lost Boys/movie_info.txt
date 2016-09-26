@@ -1,0 +1,11 @@
+Movie Name: The Lost Boys 
+Movie Year: 1987
+Movie Certificate: R
+Movie Duration: 97 min
+Movie Genre: 
+Comedy, Fantasy, Horror            
+Movie Rating : 7.2
+Directors : Joel Schumacher,
+Actors : Jason Patric,Corey Haim,Dianne Wiest,Barnard Hughes,
+Movie Text: 
+After moving to a new town, two brothers discover that the area is a haven for vampires.

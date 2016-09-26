@@ -1,0 +1,11 @@
+Movie Name: The Fox and the Hound 
+Movie Year: 1981
+Movie Certificate: G
+Movie Duration: 83 min
+Movie Genre: 
+Animation, Adventure, Drama            
+Movie Rating : 7.3
+Directors : Ted Berman,Richard Rich,Art Stevens,
+Actors : Mickey Rooney,Kurt Russell,Pearl Bailey,Jack Albertson,
+Movie Text: 
+Two childhood friends find themselves forced to become enemies.

@@ -1,0 +1,11 @@
+Movie Name: Dracula 
+Movie Year: 1931
+Movie Certificate: Approved
+Movie Duration: 85 min
+Movie Genre: 
+Fantasy, Horror            
+Movie Rating : 7.6
+Directors : Tod Browning,
+Actors : Bela Lugosi,Helen Chandler,David Manners,Dwight Frye,
+Movie Text: 
+The ancient vampire Count Dracula arrives in England and begins to prey upon the virtuous young Mina.

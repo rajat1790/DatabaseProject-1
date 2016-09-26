@@ -1,0 +1,11 @@
+Movie Name: Braveheart 
+Movie Year: 1995
+Movie Certificate: R
+Movie Duration: 178 min
+Movie Genre: 
+Biography, Drama, History            
+Movie Rating : 8.4
+Directors : Mel Gibson,
+Actors : Mel Gibson,Sophie Marceau,Patrick McGoohan,Angus Macfadyen,
+Movie Text: 
+When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt against King Edward I of England.

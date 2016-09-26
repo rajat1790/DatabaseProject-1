@@ -1,0 +1,11 @@
+Movie Name: RoboCop 
+Movie Year: 1987
+Movie Certificate: R
+Movie Duration: 102 min
+Movie Genre: 
+Action, Crime, Sci-Fi            
+Movie Rating : 7.5
+Directors : Paul Verhoeven,
+Actors : Peter Weller,Nancy Allen,Dan O'Herlihy,Ronny Cox,
+Movie Text: 
+In a dystopic and crime-ridden Detroit, a terminally wounded cop returns to the force as a powerful cyborg haunted by submerged memories.

@@ -1,0 +1,11 @@
+Movie Name: Balto 
+Movie Year: 1995
+Movie Certificate: G
+Movie Duration: 78 min
+Movie Genre: 
+Animation, Adventure, Drama            
+Movie Rating : 7.1
+Directors : Simon Wells,
+Actors : Kevin Bacon,Bob Hoskins,Bridget Fonda,Jim Cummings,
+Movie Text: 
+An outcast half-wolf risks his life to prevent a deadly epidemic from ravaging Nome, Alaska.

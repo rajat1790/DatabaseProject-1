@@ -1,0 +1,11 @@
+Movie Name: Frequency 
+Movie Year: 2000
+Movie Certificate: PG-13
+Movie Duration: 118 min
+Movie Genre: 
+Crime, Drama, Mystery            
+Movie Rating : 7.3
+Directors : Gregory Hoblit,
+Actors : Dennis Quaid,Jim Caviezel,Shawn Doyle,Elizabeth Mitchell,
+Movie Text: 
+An accidental cross-time radio link connects father and son across 30 years. The son tries to save his father's life, but then must fix the consequences.

@@ -1,0 +1,11 @@
+Movie Name: Thirst 
+Movie Year: 2009
+Movie Certificate: R
+Movie Duration: 133 min
+Movie Genre: 
+Fantasy, Horror, Romance            
+Movie Rating : 7.1
+Directors : Chan-wook Park,
+Actors : Kang-ho Song,Ok-bin Kim,Hae-suk Kim,Ha-kyun Shin,
+Movie Text: 
+Through a failed medical experiment, a priest is stricken with vampirism and is forced to abandon his ascetic ways.

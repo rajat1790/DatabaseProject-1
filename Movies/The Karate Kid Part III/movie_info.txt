@@ -1,0 +1,11 @@
+Movie Name: The Karate Kid Part III 
+Movie Year: 1989
+Movie Certificate: PG
+Movie Duration: 112 min
+Movie Genre: 
+Action, Drama, Family            
+Movie Rating : 5.0
+Directors : John G. Avildsen,
+Actors : Ralph Macchio,Pat Morita,Robyn Lively,Thomas Ian Griffith,
+Movie Text: 
+Ostracised villain John Kreese attempts to gain revenge on Daniel and Miyagi, with the help of a Vietnam War comrade, the wealthy owner of a toxic waste disposal business.

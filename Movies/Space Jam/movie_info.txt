@@ -1,0 +1,11 @@
+Movie Name: Space Jam 
+Movie Year: 1996
+Movie Certificate: PG
+Movie Duration: 88 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 6.3
+Directors : Joe Pytka,
+Actors : Michael Jordan,Wayne Knight,Theresa Randle,Manner Washington,
+Movie Text: 
+Michael Jordan agrees to help the Looney Tunes play a basketball game vs. alien slavers to determine their freedom.

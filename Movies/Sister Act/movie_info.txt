@@ -1,0 +1,11 @@
+Movie Name: Sister Act 
+Movie Year: 1992
+Movie Certificate: PG
+Movie Duration: 100 min
+Movie Genre: 
+Comedy, Crime, Music            
+Movie Rating : 6.3
+Directors : Emile Ardolino,
+Actors : Whoopi Goldberg,Maggie Smith,Kathy Najimy,Wendy Makkena,
+Movie Text: 
+When a worldly singer witnesses a mob crime, the police hide her as a nun in a traditional convent where she has trouble fitting in.

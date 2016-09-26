@@ -1,0 +1,11 @@
+Movie Name: Eye in the Sky 
+Movie Year: 2015
+Movie Certificate: R
+Movie Duration: 102 min
+Movie Genre: 
+Drama, Thriller, War            
+Movie Rating : 7.3
+Directors : Gavin Hood,
+Actors : Helen Mirren,Aaron Paul,Alan Rickman,Barkhad Abdi,
+Movie Text: 
+Col. Katherine Powell, a military officer in command of an operation to capture terrorists in Kenya, sees her mission escalate when a girl enters the kill zone triggering an international dispute over the implications of modern warfare.

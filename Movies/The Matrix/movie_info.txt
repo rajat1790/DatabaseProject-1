@@ -1,0 +1,11 @@
+Movie Name: The Matrix 
+Movie Year: 1999
+Movie Certificate: R
+Movie Duration: 136 min
+Movie Genre: 
+Action, Sci-Fi            
+Movie Rating : 8.7
+Directors : Lana Wachowski,Lilly Wachowski,
+Actors : Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss,Hugo Weaving,
+Movie Text: 
+A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.

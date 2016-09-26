@@ -1,0 +1,11 @@
+Movie Name: The Fog 
+Movie Year: 1980
+Movie Certificate: R
+Movie Duration: 89 min
+Movie Genre: 
+Fantasy, Horror            
+Movie Rating : 6.8
+Directors : John Carpenter,
+Actors : Adrienne Barbeau,Jamie Lee Curtis,Janet Leigh,John Houseman,
+Movie Text: 
+Legend says that Antonio Bay was built in 1880 with blood money obtained from shipwrecked lepers which no one believes. On the eve of the town's centennial, many plan to attend the celebrations, including the murdered lepers.

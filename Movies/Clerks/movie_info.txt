@@ -1,0 +1,11 @@
+Movie Name: Clerks 
+Movie Year: 1994
+Movie Certificate: R
+Movie Duration: 92 min
+Movie Genre: 
+Comedy            
+Movie Rating : 7.8
+Directors : Kevin Smith,
+Actors : Brian O'Halloran,Jeff Anderson,Marilyn Ghigliotti,Lisa Spoonauer,
+Movie Text: 
+A day in the lives of two convenience clerks named Dante and Randal as they annoy customers, discuss movies, and play hockey on the store roof.

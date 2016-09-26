@@ -1,0 +1,11 @@
+Movie Name: Ponyo 
+Movie Year: 2008
+Movie Certificate: G
+Movie Duration: 101 min
+Movie Genre: 
+Animation, Adventure, Family            
+Movie Rating : 7.7
+Directors : Hayao Miyazaki,
+Actors : Cate Blanchett,Matt Damon,Liam Neeson,Tomoko Yamaguchi,
+Movie Text: 
+A five year-old boy develops a relationship with Ponyo, a goldfish princess who longs to become a human after falling in love with him.

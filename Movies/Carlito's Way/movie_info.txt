@@ -1,0 +1,11 @@
+Movie Name: Carlito's Way 
+Movie Year: 1993
+Movie Certificate: R
+Movie Duration: 144 min
+Movie Genre: 
+Crime, Drama            
+Movie Rating : 7.9
+Directors : Brian De Palma,
+Actors : Al Pacino,Sean Penn,Penelope Ann Miller,John Leguizamo,
+Movie Text: 
+A Puerto Rican former convict, just released from prison, pledges to stay away from drugs and violence despite the pressure around him and lead on to a better life outside of N.Y.C.

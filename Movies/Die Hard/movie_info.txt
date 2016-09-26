@@ -1,0 +1,11 @@
+Movie Name: Die Hard 
+Movie Year: 1988
+Movie Certificate: R
+Movie Duration: 131 min
+Movie Genre: 
+Action, Thriller            
+Movie Rating : 8.2
+Directors : John McTiernan,
+Actors : Bruce Willis,Alan Rickman,Bonnie Bedelia,Reginald VelJohnson,
+Movie Text: 
+John McClane, officer of the NYPD, tries to save his wife Holly Gennaro and several others that were taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.

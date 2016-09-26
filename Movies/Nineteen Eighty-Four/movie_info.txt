@@ -1,0 +1,11 @@
+Movie Name: Nineteen Eighty-Four 
+Movie Year: 1984
+Movie Certificate: R
+Movie Duration: 113 min
+Movie Genre: 
+Drama, Sci-Fi            
+Movie Rating : 7.2
+Directors : Michael Radford,
+Actors : John Hurt,Richard Burton,Suzanna Hamilton,Cyril Cusack,
+Movie Text: 
+In a totalitarian future society, a man whose daily work is rewriting history tries to rebel by falling in love.

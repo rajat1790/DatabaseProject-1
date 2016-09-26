@@ -1,0 +1,11 @@
+Movie Name: Gravity 
+Movie Year: 2013
+Movie Certificate: PG-13
+Movie Duration: 91 min
+Movie Genre: 
+Adventure, Drama, Sci-Fi            
+Movie Rating : 7.8
+Directors : Alfonso Cuarón,
+Actors : Sandra Bullock,George Clooney,Ed Harris,Orto Ignatiussen,
+Movie Text: 
+A medical engineer and an astronaut work together to survive after an accident leaves them adrift in space.

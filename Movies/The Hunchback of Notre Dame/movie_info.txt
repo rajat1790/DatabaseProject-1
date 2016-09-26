@@ -1,0 +1,11 @@
+Movie Name: The Hunchback of Notre Dame 
+Movie Year: 1996
+Movie Certificate: G
+Movie Duration: 91 min
+Movie Genre: 
+Animation, Drama, Family            
+Movie Rating : 6.9
+Directors : Gary Trousdale,Kirk Wise,
+Actors : Demi Moore,Jason Alexander,Tom Hulce,Mary Kay Bergman,
+Movie Text: 
+A deformed bell-ringer must assert his independence from a vicious government minister in order to help his friend, a gypsy dancer.

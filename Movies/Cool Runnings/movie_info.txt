@@ -1,0 +1,11 @@
+Movie Name: Cool Runnings 
+Movie Year: 1993
+Movie Certificate: PG
+Movie Duration: 98 min
+Movie Genre: 
+Adventure, Comedy, Family            
+Movie Rating : 6.9
+Directors : Jon Turteltaub,
+Actors : John Candy,Leon,Doug E. Doug,Rawle D. Lewis,
+Movie Text: 
+When a Jamaican sprinter is disqualified to the Olympic Games, he enlists the help of a dishonored coach to start the first Jamaican Bobsled Team.

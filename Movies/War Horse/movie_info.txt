@@ -1,0 +1,11 @@
+Movie Name: War Horse 
+Movie Year: 2011
+Movie Certificate: PG-13
+Movie Duration: 146 min
+Movie Genre: 
+Drama, War            
+Movie Rating : 7.2
+Directors : Steven Spielberg,
+Actors : Jeremy Irvine,Emily Watson,David Thewlis,Benedict Cumberbatch,
+Movie Text: 
+Young Albert enlists to serve in World War I after his beloved horse is sold to the cavalry. Albert's hopeful journey takes him out of England and to the front lines as the war rages on.

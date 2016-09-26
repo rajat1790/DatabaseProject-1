@@ -1,0 +1,11 @@
+Movie Name: Total Recall 
+Movie Year: 1990
+Movie Certificate: R
+Movie Duration: 113 min
+Movie Genre: 
+Action, Sci-Fi            
+Movie Rating : 7.5
+Directors : Paul Verhoeven,
+Actors : Arnold Schwarzenegger,Sharon Stone,Michael Ironside,Rachel Ticotin,
+Movie Text: 
+When a man goes for virtual vacation memories of the planet Mars, an unexpected and harrowing series of events forces him to go to the planet for real - or does he?

@@ -1,0 +1,11 @@
+Movie Name: Dark City 
+Movie Year: 1998
+Movie Certificate: R
+Movie Duration: 100 min
+Movie Genre: 
+Action, Drama, Fantasy            
+Movie Rating : 7.7
+Directors : Alex Proyas,
+Actors : Rufus Sewell,Kiefer Sutherland,Jennifer Connelly,William Hurt,
+Movie Text: 
+A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun.

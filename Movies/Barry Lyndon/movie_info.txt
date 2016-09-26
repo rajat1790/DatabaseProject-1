@@ -1,0 +1,11 @@
+Movie Name: Barry Lyndon 
+Movie Year: 1975
+Movie Certificate: PG
+Movie Duration: 184 min
+Movie Genre: 
+Adventure, Drama, History            
+Movie Rating : 8.1
+Directors : Stanley Kubrick,
+Actors : Ryan O'Neal,Marisa Berenson,Patrick Magee,Hardy Krüger,
+Movie Text: 
+An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.

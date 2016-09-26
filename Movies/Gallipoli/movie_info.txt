@@ -1,0 +1,11 @@
+Movie Name: Gallipoli 
+Movie Year: 1981
+Movie Certificate: PG
+Movie Duration: 110 min
+Movie Genre: 
+Adventure, Drama, History            
+Movie Rating : 7.5
+Directors : Peter Weir,
+Actors : Mel Gibson,Mark Lee,Bill Kerr,Harold Hopkins,
+Movie Text: 
+Two Australian sprinters face the brutal realities of war when they are sent to fight in the Gallipoli campaign in Turkey during World War I.

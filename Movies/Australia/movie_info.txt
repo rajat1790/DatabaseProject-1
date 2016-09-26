@@ -1,0 +1,11 @@
+Movie Name: Australia 
+Movie Year: 2008
+Movie Certificate: PG-13
+Movie Duration: 165 min
+Movie Genre: 
+Adventure, Drama, Romance            
+Movie Rating : 6.6
+Directors : Baz Luhrmann,
+Actors : Nicole Kidman,Hugh Jackman,Shea Adams,Eddie Baroo,
+Movie Text: 
+Set in northern Australia before World War II, an English aristocrat who inherits a sprawling ranch reluctantly pacts with a stock-man in order to protect her new property from a takeover plot. As the pair drive 2,000 head of cattle over unforgiving landscape, they experience the bombing of Darwin, Australia, by Japanese forces firsthand.

@@ -1,0 +1,11 @@
+Movie Name: Inside 
+Movie Year: 2007
+Movie Certificate: R
+Movie Duration: 82 min
+Movie Genre: 
+Horror            
+Movie Rating : 6.9
+Directors : Alexandre Bustillo,Julien Maury,
+Actors : Alysson Paradis,Jean-Baptiste Tabourin,Claude Lulé,Dominique Frot,
+Movie Text: 
+Four months after the death of her husband, a woman on the brink of motherhood is tormented in her home by a strange woman who wants her unborn baby.

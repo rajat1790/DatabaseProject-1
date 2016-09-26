@@ -1,0 +1,11 @@
+Movie Name: Selma 
+Movie Year: 2014
+Movie Certificate: PG-13
+Movie Duration: 128 min
+Movie Genre: 
+Biography, Drama, History            
+Movie Rating : 7.5
+Directors : Ava DuVernay,
+Actors : David Oyelowo,Carmen Ejogo,Tim Roth,Lorraine Toussaint,
+Movie Text: 
+A chronicle of Martin Luther King's campaign to secure equal voting rights via an epic march from Selma to Montgomery, Alabama in 1965.

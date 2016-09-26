@@ -1,0 +1,11 @@
+Movie Name: Brave 
+Movie Year: 2012
+Movie Certificate: PG
+Movie Duration: 93 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 7.2
+Directors : Mark Andrews,Brenda Chapman,Steve Purcell,
+Actors : Kelly Macdonald,Billy Connolly,Emma Thompson,Julie Walters,
+Movie Text: 
+Determined to make her own path in life, Princess Merida defies a custom that brings chaos to her kingdom. Granted one wish, Merida must rely on her bravery and her archery skills to undo a beastly curse.

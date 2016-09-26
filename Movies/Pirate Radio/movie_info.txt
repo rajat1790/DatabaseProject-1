@@ -1,0 +1,11 @@
+Movie Name: Pirate Radio 
+Movie Year: 2009
+Movie Certificate: R
+Movie Duration: 117 min
+Movie Genre: 
+Comedy, Drama, Music            
+Movie Rating : 7.4
+Directors : Richard Curtis,
+Actors : Philip Seymour Hoffman,Bill Nighy,Nick Frost,Michael Hadley,
+Movie Text: 
+A band of rogue DJs that captivated Britain, playing the music that defined a generation and standing up to a government that wanted classical music, and nothing else, on the airwaves.

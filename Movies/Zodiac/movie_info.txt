@@ -1,0 +1,11 @@
+Movie Name: Zodiac 
+Movie Year: 2007
+Movie Certificate: R
+Movie Duration: 157 min
+Movie Genre: 
+Crime, Drama, History            
+Movie Rating : 7.7
+Directors : David Fincher,
+Actors : Jake Gyllenhaal,Robert Downey Jr.,Mark Ruffalo,Anthony Edwards,
+Movie Text: 
+A San Francisco cartoonist becomes an amateur detective obsessed with tracking down the Zodiac killer.

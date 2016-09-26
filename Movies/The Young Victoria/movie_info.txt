@@ -1,0 +1,11 @@
+Movie Name: The Young Victoria 
+Movie Year: 2009
+Movie Certificate: PG
+Movie Duration: 105 min
+Movie Genre: 
+Biography, Drama, History            
+Movie Rating : 7.3
+Directors : Jean-Marc Vallée,
+Actors : Emily Blunt,Rupert Friend,Paul Bettany,Miranda Richardson,
+Movie Text: 
+A dramatization of the turbulent first years of Queen Victoria's rule, and her enduring romance with Prince Albert.

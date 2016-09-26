@@ -1,0 +1,11 @@
+Movie Name: The Name of the Rose 
+Movie Year: 1986
+Movie Certificate: R
+Movie Duration: 130 min
+Movie Genre: 
+Crime, Mystery, Thriller            
+Movie Rating : 7.8
+Directors : Jean-Jacques Annaud,
+Actors : Sean Connery,Christian Slater,Helmut Qualtinger,Elya Baskin,
+Movie Text: 
+An intellectually nonconformist friar investigates a series of mysterious deaths in an isolated abbey.

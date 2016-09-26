@@ -1,0 +1,11 @@
+Movie Name: The Kid 
+Movie Year: 1921
+Movie Certificate: Not Rated
+Movie Duration: 68 min
+Movie Genre: 
+Comedy, Drama, Family            
+Movie Rating : 8.3
+Directors : Charles Chaplin,
+Actors : Charles Chaplin,Edna Purviance,Jackie Coogan,Carl Miller,
+Movie Text: 
+The Tramp cares for an abandoned child, but events put that relationship in jeopardy.

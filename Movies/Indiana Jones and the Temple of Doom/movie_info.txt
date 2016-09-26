@@ -1,0 +1,11 @@
+Movie Name: Indiana Jones and the Temple of Doom 
+Movie Year: 1984
+Movie Certificate: PG
+Movie Duration: 118 min
+Movie Genre: 
+Action, Adventure            
+Movie Rating : 7.6
+Directors : Steven Spielberg,
+Actors : Harrison Ford,Kate Capshaw,Jonathan Ke Quan,Amrish Puri,
+Movie Text: 
+A skirmish in Shanghai puts archaeologist Indiana Jones, his partner Short Round and singer Willie Scott crossing paths with an Indian village desperate to reclaim a rock stolen by a secret cult beneath the catacombs of an ancient palace.

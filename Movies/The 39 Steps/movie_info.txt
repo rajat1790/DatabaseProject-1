@@ -1,0 +1,11 @@
+Movie Name: The 39 Steps 
+Movie Year: 1935
+Movie Certificate: Unrated
+Movie Duration: 86 min
+Movie Genre: 
+Mystery, Thriller            
+Movie Rating : 7.8
+Directors : Alfred Hitchcock,
+Actors : Robert Donat,Madeleine Carroll,Lucie Mannheim,Godfrey Tearle,
+Movie Text: 
+A man in London tries to help a counterespionage agent. But when the agent is killed and the man stands accused, he must go on the run to both save himself and also stop a spy ring which is trying to steal top secret information.

@@ -1,0 +1,11 @@
+Movie Name: The Prince of Egypt 
+Movie Year: 1998
+Movie Certificate: PG
+Movie Duration: 99 min
+Movie Genre: 
+Animation, Adventure, Biography            
+Movie Rating : 7.0
+Directors : Brenda Chapman,Steve Hickner,Simon Wells,
+Actors : Val Kilmer,Ralph Fiennes,Michelle Pfeiffer,Sandra Bullock,
+Movie Text: 
+An Egyptian prince learns of his identity as a Hebrew, and later, his destiny to become the chosen deliverer of his people.

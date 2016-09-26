@@ -1,0 +1,11 @@
+Movie Name: Nosferatu 
+Movie Year: 1922
+Movie Certificate: Unrated
+Movie Duration: 81 min
+Movie Genre: 
+Fantasy, Horror            
+Movie Rating : 8.0
+Directors : F.W. Murnau,
+Actors : Max Schreck,Greta Schröder,Ruth Landshoff,Gustav von Wangenheim,
+Movie Text: 
+Vampire Count Orlok expresses interest in a new residence and real estate agent Hutter's wife.

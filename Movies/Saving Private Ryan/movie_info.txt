@@ -1,0 +1,11 @@
+Movie Name: Saving Private Ryan 
+Movie Year: 1998
+Movie Certificate: R
+Movie Duration: 169 min
+Movie Genre: 
+Action, Drama, War            
+Movie Rating : 8.6
+Directors : Steven Spielberg,
+Actors : Tom Hanks,Matt Damon,Tom Sizemore,Edward Burns,
+Movie Text: 
+Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.

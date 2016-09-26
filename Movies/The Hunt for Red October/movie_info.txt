@@ -1,0 +1,11 @@
+Movie Name: The Hunt for Red October 
+Movie Year: 1990
+Movie Certificate: PG
+Movie Duration: 135 min
+Movie Genre: 
+Action, Adventure, Thriller            
+Movie Rating : 7.6
+Directors : John McTiernan,
+Actors : Sean Connery,Alec Baldwin,Scott Glenn,Sam Neill,
+Movie Text: 
+In November 1984, the Soviet Union's best submarine captain in their newest sub violates orders and heads for the USA. Is he trying to defect or to start a war?

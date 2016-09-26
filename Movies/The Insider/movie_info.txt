@@ -1,0 +1,11 @@
+Movie Name: The Insider 
+Movie Year: 1999
+Movie Certificate: R
+Movie Duration: 157 min
+Movie Genre: 
+Biography, Drama, Thriller            
+Movie Rating : 7.9
+Directors : Michael Mann,
+Actors : Russell Crowe,Al Pacino,Christopher Plummer,Diane Venora,
+Movie Text: 
+A research chemist comes under personal and professional attack when he decides to appear in a "60 Minutes" expose on Big Tobacco.

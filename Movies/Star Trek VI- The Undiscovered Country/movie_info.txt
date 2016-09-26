@@ -1,0 +1,11 @@
+Movie Name: Star Trek VI: The Undiscovered Country 
+Movie Year: 1991
+Movie Certificate: PG
+Movie Duration: 113 min
+Movie Genre: 
+Action, Adventure, Sci-Fi            
+Movie Rating : 7.2
+Directors : Nicholas Meyer,
+Actors : William Shatner,Leonard Nimoy,DeForest Kelley,James Doohan,
+Movie Text: 
+On the eve of retirement, Kirk and McCoy are charged with assassinating the Klingon High Chancellor and imprisoned. The Enterprise crew must help them escape to thwart a conspiracy aimed at sabotaging the last best hope for peace.

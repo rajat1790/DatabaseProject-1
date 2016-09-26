@@ -1,0 +1,11 @@
+Movie Name: Star Wars: Episode V - The Empire Strikes Back 
+Movie Year: 1980
+Movie Certificate: PG
+Movie Duration: 124 min
+Movie Genre: 
+Action, Adventure, Fantasy            
+Movie Rating : 8.8
+Directors : Irvin Kershner,
+Actors : Mark Hamill,Harrison Ford,Carrie Fisher,Billy Dee Williams,
+Movie Text: 
+After the rebels have been brutally overpowered by the Empire on their newly established base, Luke Skywalker takes advanced Jedi training with Master Yoda, while his friends are pursued by Darth Vader as part of his plan to capture Luke.

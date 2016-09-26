@@ -1,0 +1,11 @@
+Movie Name: The Imitation Game 
+Movie Year: 2014
+Movie Certificate: PG-13
+Movie Duration: 114 min
+Movie Genre: 
+Biography, Drama, Thriller            
+Movie Rating : 8.1
+Directors : Morten Tyldum,
+Actors : Benedict Cumberbatch,Keira Knightley,Matthew Goode,Allen Leech,
+Movie Text: 
+During World War II, mathematician Alan Turing tries to crack the enigma code with help from fellow mathematicians.

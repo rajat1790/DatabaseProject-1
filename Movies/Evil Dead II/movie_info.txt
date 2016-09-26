@@ -1,0 +1,11 @@
+Movie Name: Evil Dead II 
+Movie Year: 1987
+Movie Certificate: X
+Movie Duration: 84 min
+Movie Genre: 
+Comedy, Fantasy, Horror            
+Movie Rating : 7.8
+Directors : Sam Raimi,
+Actors : Bruce Campbell,Sarah Berry,Dan Hicks,Kassie Wesley DePaiva,
+Movie Text: 
+The lone survivor of an onslaught of flesh-possessing spirits holds up in a cabin with a group of strangers while the demons continue their attack.

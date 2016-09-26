@@ -1,0 +1,11 @@
+Movie Name: Rebecca 
+Movie Year: 1940
+Movie Certificate: Not Rated
+Movie Duration: 130 min
+Movie Genre: 
+Drama, Film-Noir, Mystery            
+Movie Rating : 8.2
+Directors : Alfred Hitchcock,
+Actors : Laurence Olivier,Joan Fontaine,George Sanders,Judith Anderson,
+Movie Text: 
+A self-conscious bride is tormented by the memory of her husband's dead first wife.

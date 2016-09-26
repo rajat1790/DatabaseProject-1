@@ -1,0 +1,11 @@
+Movie Name: Fahrenheit 451 
+Movie Year: 1966
+Movie Certificate: Unrated
+Movie Duration: 112 min
+Movie Genre: 
+Drama, Sci-Fi            
+Movie Rating : 7.3
+Directors : François Truffaut,
+Actors : Oskar Werner,Julie Christie,Cyril Cusack,Anton Diffring,
+Movie Text: 
+In an oppressive future, a fireman whose duty is to destroy all books begins to question his task.

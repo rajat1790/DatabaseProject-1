@@ -1,0 +1,11 @@
+Movie Name: Kick-Ass 
+Movie Year: 2010
+Movie Certificate: R
+Movie Duration: 117 min
+Movie Genre: 
+Action, Comedy            
+Movie Rating : 7.7
+Directors : Matthew Vaughn,
+Actors : Aaron Taylor-Johnson,Nicolas Cage,Chloë Grace Moretz,Garrett M. Brown,
+Movie Text: 
+Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a superhero, even though he has no powers, training or meaningful reason to do so.

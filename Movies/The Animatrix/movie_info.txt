@@ -1,0 +1,11 @@
+Movie Name: The Animatrix 
+Movie Year: 2003
+Movie Certificate: PG-13
+Movie Duration: 100 min
+Movie Genre: 
+Animation, Action, Adventure            
+Movie Rating : 7.4
+Directors : Peter Chung,Andrew R. Jones,Yoshiaki Kawajiri,Takeshi Koike,Mahiro Maeda,Kôji Morimoto,Shinichirô Watanabe,
+Actors : Clayton Watson,Akio Ôtsuka,Pamela Adlon,Hedy Burress,
+Movie Text: 
+The Animatrix is a collection of several animated short films, detailing the backstory of the "Matrix" universe, and the original war between man and machines which led to the creation of the Matrix.

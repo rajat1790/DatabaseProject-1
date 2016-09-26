@@ -1,0 +1,11 @@
+Movie Name: To Kill a Mockingbird 
+Movie Year: 1962
+Movie Certificate: Not Rated
+Movie Duration: 129 min
+Movie Genre: 
+Crime, Drama            
+Movie Rating : 8.3
+Directors : Robert Mulligan,
+Actors : Gregory Peck,John Megna,Frank Overton,Rosemary Murphy,
+Movie Text: 
+Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his children against prejudice.

@@ -1,0 +1,11 @@
+Movie Name: Dick Tracy 
+Movie Year: 1990
+Movie Certificate: PG
+Movie Duration: 105 min
+Movie Genre: 
+Action, Comedy, Crime            
+Movie Rating : 6.1
+Directors : Warren Beatty,
+Actors : Warren Beatty,Madonna,Al Pacino,Charlie Korsmo,
+Movie Text: 
+The comic strip detective finds his life vastly complicated when Breathless Mahoney makes advances towards him while he is trying to battle Big Boy Caprice's united mob.

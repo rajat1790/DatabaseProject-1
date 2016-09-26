@@ -1,0 +1,11 @@
+Movie Name: Carrie 
+Movie Year: 1976
+Movie Certificate: R
+Movie Duration: 98 min
+Movie Genre: 
+Horror, Romance            
+Movie Rating : 7.4
+Directors : Brian De Palma,
+Actors : Sissy Spacek,Piper Laurie,Amy Irving,John Travolta,
+Movie Text: 
+Carrie White, a shy, friendless 17 year-old girl who is sheltered by her domineering, religious mother, unleashes her telekinetic powers after being humiliated by her classmates at her senior prom.

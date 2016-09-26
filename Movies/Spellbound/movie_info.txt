@@ -1,0 +1,11 @@
+Movie Name: Spellbound 
+Movie Year: 1945
+Movie Certificate: Unrated
+Movie Duration: 111 min
+Movie Genre: 
+Film-Noir, Mystery, Romance            
+Movie Rating : 7.6
+Directors : Alfred Hitchcock,
+Actors : Ingrid Bergman,Gregory Peck,Michael Chekhov,Leo G. Carroll,
+Movie Text: 
+A psychiatrist protects the identity of an amnesia patient accused of murder while attempting to recover his memory.

@@ -1,0 +1,11 @@
+Movie Name: Chungking Express 
+Movie Year: 1994
+Movie Certificate: PG-13
+Movie Duration: 102 min
+Movie Genre: 
+Comedy, Drama, Romance            
+Movie Rating : 8.1
+Directors : Kar-Wai Wong,
+Actors : Brigitte Lin,Takeshi Kaneshiro,Tony Chiu Wai Leung,Faye Wong,
+Movie Text: 
+Two melancholy Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal server at a late-night restaurant he frequents.

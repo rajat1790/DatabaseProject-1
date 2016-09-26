@@ -1,0 +1,11 @@
+Movie Name: Fury 
+Movie Year: 2014
+Movie Certificate: R
+Movie Duration: 134 min
+Movie Genre: 
+Action, Drama, War            
+Movie Rating : 7.6
+Directors : David Ayer,
+Actors : Brad Pitt,Shia LaBeouf,Logan Lerman,Michael Peña,
+Movie Text: 
+A grizzled tank commander makes tough decisions as he and his crew fight their way across Germany in April, 1945.

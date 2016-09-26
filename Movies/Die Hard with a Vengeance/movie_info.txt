@@ -1,0 +1,11 @@
+Movie Name: Die Hard with a Vengeance 
+Movie Year: 1995
+Movie Certificate: R
+Movie Duration: 128 min
+Movie Genre: 
+Action, Adventure, Thriller            
+Movie Rating : 7.6
+Directors : John McTiernan,
+Actors : Bruce Willis,Jeremy Irons,Samuel L. Jackson,Graham Greene,
+Movie Text: 
+John McClane and a Harlem store owner are targeted by German terrorist Simon Gruber in New York City, where he plans to rob the Federal Reserve Building.

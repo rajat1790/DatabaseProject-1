@@ -1,0 +1,11 @@
+Movie Name: Into the Woods 
+Movie Year: 2014
+Movie Certificate: PG
+Movie Duration: 125 min
+Movie Genre: 
+Adventure, Comedy, Drama            
+Movie Rating : 6.0
+Directors : Rob Marshall,
+Actors : Anna Kendrick,Meryl Streep,Chris Pine,Emily Blunt,
+Movie Text: 
+A witch tasks a childless baker and his wife with procuring magical items from classic fairy tales to reverse the curse put on their family tree.

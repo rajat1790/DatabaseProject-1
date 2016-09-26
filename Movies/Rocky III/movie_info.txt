@@ -1,0 +1,11 @@
+Movie Name: Rocky III 
+Movie Year: 1982
+Movie Certificate: PG
+Movie Duration: 99 min
+Movie Genre: 
+Drama, Sport            
+Movie Rating : 6.7
+Directors : Sylvester Stallone,
+Actors : Sylvester Stallone,Talia Shire,Burt Young,Carl Weathers,
+Movie Text: 
+After winning the ultimate title and being the world champion, Rocky falls into a hole and finds himself picked up by a former enemy.

@@ -1,0 +1,11 @@
+Movie Name: Argo 
+Movie Year: 2012
+Movie Certificate: R
+Movie Duration: 120 min
+Movie Genre: 
+Biography, Drama, History            
+Movie Rating : 7.7
+Directors : Ben Affleck,
+Actors : Ben Affleck,Bryan Cranston,John Goodman,Alan Arkin,
+Movie Text: 
+Acting under the cover of a Hollywood producer scouting a location for a science fiction film, a CIA agent launches a dangerous operation to rescue six Americans in Tehran during the U.S. hostage crisis in Iran in 1980.

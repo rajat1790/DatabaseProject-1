@@ -1,0 +1,11 @@
+Movie Name: Near Dark 
+Movie Year: 1987
+Movie Certificate: R
+Movie Duration: 94 min
+Movie Genre: 
+Action, Crime, Drama            
+Movie Rating : 7.0
+Directors : Kathryn Bigelow,
+Actors : Adrian Pasdar,Jenny Wright,Lance Henriksen,Bill Paxton,
+Movie Text: 
+A small-town farmer's son reluctantly joins a traveling group of vampires after he is turned by a beautiful drifter.

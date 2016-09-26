@@ -1,0 +1,11 @@
+Movie Name: Enemy at the Gates 
+Movie Year: 2001
+Movie Certificate: R
+Movie Duration: 131 min
+Movie Genre: 
+Drama, History, War            
+Movie Rating : 7.6
+Directors : Jean-Jacques Annaud,
+Actors : Jude Law,Ed Harris,Joseph Fiennes,Rachel Weisz,
+Movie Text: 
+A Russian and a German sniper play a game of cat-and-mouse during the Battle of Stalingrad.

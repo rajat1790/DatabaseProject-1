@@ -1,0 +1,11 @@
+Movie Name: Brotherhood of the Wolf 
+Movie Year: 2001
+Movie Certificate: R
+Movie Duration: 142 min
+Movie Genre: 
+Action, Adventure, Drama            
+Movie Rating : 7.1
+Directors : Christophe Gans,
+Actors : Samuel Le Bihan,Mark Dacascos,Jérémie Renier,Vincent Cassel,
+Movie Text: 
+In 18th century France, the Chevalier de Fronsac and his native American friend Mani are sent by the King to the Gevaudan province to investigate the killings of hundreds by a mysterious beast.

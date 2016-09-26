@@ -1,0 +1,11 @@
+Movie Name: Beetlejuice 
+Movie Year: 1988
+Movie Certificate: PG
+Movie Duration: 92 min
+Movie Genre: 
+Comedy, Fantasy            
+Movie Rating : 7.5
+Directors : Tim Burton,
+Actors : Alec Baldwin,Geena Davis,Michael Keaton,Annie McEnroe,
+Movie Text: 
+A couple of recently deceased ghosts contract the services of a "bio-exorcist" in order to remove the obnoxious new owners of their house.

@@ -1,0 +1,11 @@
+Movie Name: Ferris Bueller's Day Off 
+Movie Year: 1986
+Movie Certificate: PG-13
+Movie Duration: 103 min
+Movie Genre: 
+Comedy, Romance            
+Movie Rating : 7.9
+Directors : John Hughes,
+Actors : Matthew Broderick,Alan Ruck,Mia Sara,Jeffrey Jones,
+Movie Text: 
+A high school wise guy is determined to have a day off from school, despite what the principal thinks of that.

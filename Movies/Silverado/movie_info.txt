@@ -1,0 +1,11 @@
+Movie Name: Silverado 
+Movie Year: 1985
+Movie Certificate: PG-13
+Movie Duration: 133 min
+Movie Genre: 
+Action, Crime, Drama            
+Movie Rating : 7.2
+Directors : Lawrence Kasdan,
+Actors : Kevin Kline,Scott Glenn,Kevin Costner,Danny Glover,
+Movie Text: 
+A misfit bunch of friends come together to right the injustices which exist in a small town.

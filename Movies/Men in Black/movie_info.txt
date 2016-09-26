@@ -1,0 +1,11 @@
+Movie Name: Men in Black 
+Movie Year: 1997
+Movie Certificate: PG-13
+Movie Duration: 98 min
+Movie Genre: 
+Adventure, Comedy, Family            
+Movie Rating : 7.3
+Directors : Barry Sonnenfeld,
+Actors : Tommy Lee Jones,Will Smith,Linda Fiorentino,Vincent D'Onofrio,
+Movie Text: 
+A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.

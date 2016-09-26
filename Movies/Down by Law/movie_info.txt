@@ -1,0 +1,11 @@
+Movie Name: Down by Law 
+Movie Year: 1986
+Movie Certificate: R
+Movie Duration: 107 min
+Movie Genre: 
+Comedy, Crime, Drama            
+Movie Rating : 7.8
+Directors : Jim Jarmusch,
+Actors : Tom Waits,John Lurie,Roberto Benigni,Nicoletta Braschi,
+Movie Text: 
+The story of three different men in a Louisiana prison and their eventual journey.

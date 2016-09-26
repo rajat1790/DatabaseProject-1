@@ -1,0 +1,11 @@
+Movie Name: Planet of the Apes 
+Movie Year: 1968
+Movie Certificate: G
+Movie Duration: 112 min
+Movie Genre: 
+Adventure, Romance, Sci-Fi            
+Movie Rating : 8.0
+Directors : Franklin J. Schaffner,
+Actors : Charlton Heston,Roddy McDowall,Kim Hunter,Maurice Evans,
+Movie Text: 
+An astronaut crew crash-lands on a planet in the distant future where intelligent talking apes are the dominant species, and humans are the oppressed and enslaved.

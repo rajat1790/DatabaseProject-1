@@ -1,0 +1,11 @@
+Movie Name: The French Connection 
+Movie Year: 1971
+Movie Certificate: R
+Movie Duration: 104 min
+Movie Genre: 
+Action, Crime, Drama            
+Movie Rating : 7.8
+Directors : William Friedkin,
+Actors : Gene Hackman,Roy Scheider,Fernando Rey,Tony Lo Bianco,
+Movie Text: 
+A pair of NYC cops in the Narcotics Bureau stumble onto a drug smuggling job with a French connection.

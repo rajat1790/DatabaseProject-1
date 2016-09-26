@@ -1,0 +1,11 @@
+Movie Name: The Gift 
+Movie Year: 2000
+Movie Certificate: R
+Movie Duration: 111 min
+Movie Genre: 
+Drama, Fantasy, Horror            
+Movie Rating : 6.7
+Directors : Sam Raimi,
+Actors : Cate Blanchett,Katie Holmes,Keanu Reeves,Giovanni Ribisi,
+Movie Text: 
+A woman with extrasensory perception is asked to help find a young woman who has disappeared.

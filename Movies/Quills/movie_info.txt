@@ -1,0 +1,11 @@
+Movie Name: Quills 
+Movie Year: 2000
+Movie Certificate: R
+Movie Duration: 124 min
+Movie Genre: 
+Biography, Drama            
+Movie Rating : 7.4
+Directors : Philip Kaufman,
+Actors : Geoffrey Rush,Kate Winslet,Joaquin Phoenix,Michael Caine,
+Movie Text: 
+In a Napoleonic era insane asylum, an inmate, the irrepressible Marquis De Sade, fights a battle of wills against a tyrannically prudish doctor.

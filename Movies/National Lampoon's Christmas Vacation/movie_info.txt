@@ -1,0 +1,11 @@
+Movie Name: National Lampoon's Christmas Vacation 
+Movie Year: 1989
+Movie Certificate: PG-13
+Movie Duration: 97 min
+Movie Genre: 
+Comedy, Family            
+Movie Rating : 7.6
+Directors : Jeremiah S. Chechik,
+Actors : Chevy Chase,Beverly D'Angelo,Juliette Lewis,Johnny Galecki,
+Movie Text: 
+The Griswold family's plans for a big family Christmas predictably turn into a big disaster.

@@ -1,0 +1,11 @@
+Movie Name: Giant 
+Movie Year: 1956
+Movie Certificate: Approved
+Movie Duration: 201 min
+Movie Genre: 
+Drama, Western            
+Movie Rating : 7.7
+Directors : George Stevens,
+Actors : Elizabeth Taylor,Rock Hudson,James Dean,Carroll Baker,
+Movie Text: 
+Sprawling epic covering the life of a Texas cattle rancher and his family and associates.

@@ -1,0 +1,11 @@
+Movie Name: The Aviator 
+Movie Year: 2004
+Movie Certificate: PG-13
+Movie Duration: 170 min
+Movie Genre: 
+Biography, Drama            
+Movie Rating : 7.5
+Directors : Martin Scorsese,
+Actors : Leonardo DiCaprio,Cate Blanchett,Kate Beckinsale,John C. Reilly,
+Movie Text: 
+A biopic depicting the early years of legendary director and aviator Howard Hughes' career from the late 1920s to the mid-1940s.

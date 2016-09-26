@@ -1,0 +1,11 @@
+Movie Name: Wayne's World 2 
+Movie Year: 1993
+Movie Certificate: PG-13
+Movie Duration: 95 min
+Movie Genre: 
+Comedy, Music            
+Movie Rating : 6.1
+Directors : Stephen Surjik,
+Actors : Mike Myers,Dana Carvey,Christopher Walken,Tia Carrere,
+Movie Text: 
+The inseparable duo try to organize a rock concert while Wayne must fend off a record producer who has an eye for his girlfriend.

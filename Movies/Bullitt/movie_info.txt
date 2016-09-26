@@ -1,0 +1,11 @@
+Movie Name: Bullitt 
+Movie Year: 1968
+Movie Certificate: PG
+Movie Duration: 114 min
+Movie Genre: 
+Action, Crime, Mystery            
+Movie Rating : 7.5
+Directors : Peter Yates,
+Actors : Steve McQueen,Jacqueline Bisset,Robert Vaughn,Don Gordon,
+Movie Text: 
+An all guts, no glory San Francisco cop becomes determined to find the underworld kingpin that killed the witness in his protection.

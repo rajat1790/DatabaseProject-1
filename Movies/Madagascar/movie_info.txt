@@ -1,0 +1,11 @@
+Movie Name: Madagascar 
+Movie Year: 2005
+Movie Certificate: PG
+Movie Duration: 86 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 6.9
+Directors : Eric Darnell,Tom McGrath,
+Actors : Chris Rock,Ben Stiller,David Schwimmer,Jada Pinkett Smith,
+Movie Text: 
+Spoiled by their upbringing with no idea what wild life is really like, four animals from New York Central Zoo escape, unwittingly assisted by four absconding penguins, and find themselves in Madagascar, among a bunch of merry lemurs

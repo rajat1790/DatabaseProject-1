@@ -1,0 +1,11 @@
+Movie Name: BASEketball 
+Movie Year: 1998
+Movie Certificate: R
+Movie Duration: 103 min
+Movie Genre: 
+Comedy, Sport            
+Movie Rating : 6.6
+Directors : David Zucker,
+Actors : Trey Parker,Matt Stone,Dian Bachar,Yasmine Bleeth,
+Movie Text: 
+Two childhood friends are pro athletes of a national sport called BASEketball, a hybrid of baseball and basketball, and must deal with a greedy businessman scheming against their team.

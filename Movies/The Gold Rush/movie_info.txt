@@ -1,0 +1,11 @@
+Movie Name: The Gold Rush 
+Movie Year: 1925
+Movie Certificate: Not Rated
+Movie Duration: 95 min
+Movie Genre: 
+Adventure, Comedy, Drama            
+Movie Rating : 8.2
+Directors : Charles Chaplin,
+Actors : Charles Chaplin,Mack Swain,Tom Murray,Henry Bergman,
+Movie Text: 
+A prospector goes to the Klondike in search of gold and finds it and more.

@@ -1,0 +1,11 @@
+Movie Name: The Passion of Joan of Arc 
+Movie Year: 1928
+Movie Certificate: Not Rated
+Movie Duration: 114 min
+Movie Genre: 
+Biography, Drama, History            
+Movie Rating : 8.3
+Directors : Carl Theodor Dreyer,
+Actors : Maria Falconetti,Eugene Silvain,André Berley,Maurice Schutz,
+Movie Text: 
+A chronicle of the trial of Jeanne d'Arc on charges of heresy, and the efforts of her ecclesiastical jurists to force Jeanne to recant her claims of holy visions.

@@ -1,0 +1,11 @@
+Movie Name: ¡Three Amigos! 
+Movie Year: 1986
+Movie Certificate: PG
+Movie Duration: 104 min
+Movie Genre: 
+Comedy, Western            
+Movie Rating : 6.4
+Directors : John Landis,
+Actors : Steve Martin,Chevy Chase,Martin Short,Alfonso Arau,
+Movie Text: 
+Three actors accept an invitation to a Mexican village to perform their onscreen bandit fighter roles, unaware that it is the real thing.

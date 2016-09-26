@@ -1,0 +1,11 @@
+Movie Name: A Hard Day's Night 
+Movie Year: 1964
+Movie Certificate: Approved
+Movie Duration: 87 min
+Movie Genre: 
+Comedy, Musical            
+Movie Rating : 7.7
+Directors : Richard Lester,
+Actors : John Lennon,Paul McCartney,George Harrison,Ringo Starr,
+Movie Text: 
+A 'typical' day in the life of the Beatles, including many of their famous songs.

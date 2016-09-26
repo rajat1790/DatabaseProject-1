@@ -1,0 +1,11 @@
+Movie Name: Back to the Future 
+Movie Year: 1985
+Movie Certificate: PG
+Movie Duration: 116 min
+Movie Genre: 
+Adventure, Comedy, Sci-Fi            
+Movie Rating : 8.5
+Directors : Robert Zemeckis,
+Actors : Michael J. Fox,Christopher Lloyd,Lea Thompson,Crispin Glover,
+Movie Text: 
+Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.

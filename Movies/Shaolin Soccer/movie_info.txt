@@ -1,0 +1,11 @@
+Movie Name: Shaolin Soccer 
+Movie Year: 2001
+Movie Certificate: PG
+Movie Duration: 87 min
+Movie Genre: 
+Action, Comedy, Sport            
+Movie Rating : 7.3
+Directors : Stephen Chow,
+Actors : Stephen Chow,Wei Zhao,Yat-Fei Wong,Man-Tat Ng,
+Movie Text: 
+A young Shaolin follower reunites with his discouraged brothers to form a soccer team using their martial art skills to their advantage.

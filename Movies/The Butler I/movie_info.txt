@@ -1,0 +1,11 @@
+Movie Name: The Butler I
+Movie Year: 2013
+Movie Certificate: PG-13
+Movie Duration: 132 min
+Movie Genre: 
+Biography, Drama            
+Movie Rating : 7.2
+Directors : Lee Daniels,
+Actors : Forest Whitaker,Oprah Winfrey,John Cusack,Jane Fonda,
+Movie Text: 
+As Cecil Gaines serves eight presidents during his tenure as a butler at the White House, the civil rights movement, Vietnam, and other major events affect this man's life, family, and American society.

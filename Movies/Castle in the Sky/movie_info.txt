@@ -1,0 +1,11 @@
+Movie Name: Castle in the Sky 
+Movie Year: 1986
+Movie Certificate: PG
+Movie Duration: 125 min
+Movie Genre: 
+Animation, Adventure, Family            
+Movie Rating : 8.1
+Directors : Hayao Miyazaki,
+Actors : Anna Paquin,James Van Der Beek,Cloris Leachman,Mark Hamill,
+Movie Text: 
+A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle.

@@ -1,0 +1,11 @@
+Movie Name: The Red Violin 
+Movie Year: 1998
+Movie Certificate: R
+Movie Duration: 130 min
+Movie Genre: 
+Drama, Romance, Mystery            
+Movie Rating : 7.7
+Directors : François Girard,
+Actors : Carlo Cecchi,Jean-Luc Bideau,Christoph Koncz,Jason Flemyng,
+Movie Text: 
+A perfect red-colored violin inspires passion, making its way through three centuries over several owners and countries, eventually ending up at an auction where it may find a new owner.

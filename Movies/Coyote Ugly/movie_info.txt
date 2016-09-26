@@ -1,0 +1,11 @@
+Movie Name: Coyote Ugly 
+Movie Year: 2000
+Movie Certificate: PG-13
+Movie Duration: 100 min
+Movie Genre: 
+Comedy, Drama, Music            
+Movie Rating : 5.6
+Directors : David McNally,
+Actors : Piper Perabo,Adam Garcia,John Goodman,Maria Bello,
+Movie Text: 
+Aspiring songwriter Violet Sanford, after getting a job at a women-run NYC bar that teases its male patrons, comes out of her shell.

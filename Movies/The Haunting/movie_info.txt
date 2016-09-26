@@ -1,0 +1,11 @@
+Movie Name: The Haunting 
+Movie Year: 1963
+Movie Certificate: Approved
+Movie Duration: 112 min
+Movie Genre: 
+Fantasy, Horror            
+Movie Rating : 7.6
+Directors : Robert Wise,
+Actors : Julie Harris,Claire Bloom,Richard Johnson,Russ Tamblyn,
+Movie Text: 
+A scientist doing research on the paranormal invites two women to a haunted mansion. One of the participants soon starts losing her mind.

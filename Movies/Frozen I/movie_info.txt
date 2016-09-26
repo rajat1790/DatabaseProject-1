@@ -1,0 +1,11 @@
+Movie Name: Frozen I
+Movie Year: 2013
+Movie Certificate: PG
+Movie Duration: 102 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 7.6
+Directors : Chris Buck,Jennifer Lee,
+Actors : Kristen Bell,Idina Menzel,Jonathan Groff,Josh Gad,
+Movie Text: 
+When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister, Anna, teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.

@@ -1,0 +1,11 @@
+Movie Name: Butch Cassidy and the Sundance Kid 
+Movie Year: 1969
+Movie Certificate: M
+Movie Duration: 110 min
+Movie Genre: 
+Biography, Crime, Drama            
+Movie Rating : 8.1
+Directors : George Roy Hill,
+Actors : Paul Newman,Robert Redford,Katharine Ross,Strother Martin,
+Movie Text: 
+Two Western bank/train robbers flee to Bolivia when the law gets too close.

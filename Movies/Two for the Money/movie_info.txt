@@ -1,0 +1,11 @@
+Movie Name: Two for the Money 
+Movie Year: 2005
+Movie Certificate: R
+Movie Duration: 122 min
+Movie Genre: 
+Drama, Sport, Thriller            
+Movie Rating : 6.2
+Directors : D.J. Caruso,
+Actors : Matthew McConaughey,Al Pacino,Rene Russo,Armand Assante,
+Movie Text: 
+After suffering a career-ending injury, a former college football star aligns himself with one of the most renowned touts in the sports-gambling business.

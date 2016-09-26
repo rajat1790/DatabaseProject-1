@@ -1,0 +1,11 @@
+Movie Name: Everyone Says I Love You 
+Movie Year: 1996
+Movie Certificate: R
+Movie Duration: 101 min
+Movie Genre: 
+Comedy, Musical, Romance            
+Movie Rating : 6.8
+Directors : Woody Allen,
+Actors : Woody Allen,Goldie Hawn,Julia Roberts,Edward Norton,
+Movie Text: 
+A New York girl sets her father up with a beautiful woman in a troubled marriage while her stepsister gets engaged.

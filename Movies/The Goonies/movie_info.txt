@@ -1,0 +1,11 @@
+Movie Name: The Goonies 
+Movie Year: 1985
+Movie Certificate: PG
+Movie Duration: 114 min
+Movie Genre: 
+Adventure, Comedy, Family            
+Movie Rating : 7.8
+Directors : Richard Donner,
+Actors : Sean Astin,Josh Brolin,Jeff Cohen,Corey Feldman,
+Movie Text: 
+In order to save their home from foreclosure, a group of misfits set out to find a pirate's ancient valuable treasure.

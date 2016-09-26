@@ -1,0 +1,11 @@
+Movie Name: Macbeth 
+Movie Year: 2015
+Movie Certificate: R
+Movie Duration: 113 min
+Movie Genre: 
+Drama, War            
+Movie Rating : 6.7
+Directors : Justin Kurzel,
+Actors : Michael Fassbender,Marion Cotillard,Jack Madigan,Frank Madigan,
+Movie Text: 
+Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself.

@@ -1,0 +1,11 @@
+Movie Name: Shane 
+Movie Year: 1953
+Movie Certificate: Approved
+Movie Duration: 118 min
+Movie Genre: 
+Drama, Romance, Western            
+Movie Rating : 7.7
+Directors : George Stevens,
+Actors : Alan Ladd,Jean Arthur,Van Heflin,Brandon De Wilde,
+Movie Text: 
+A weary gunfighter attempts to settle down with a homestead family, but a smoldering settler/rancher conflict forces him to act.

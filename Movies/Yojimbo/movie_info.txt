@@ -1,0 +1,11 @@
+Movie Name: Yojimbo 
+Movie Year: 1961
+Movie Certificate: Unrated
+Movie Duration: 110 min
+Movie Genre: 
+Action, Drama, Thriller            
+Movie Rating : 8.3
+Directors : Akira Kurosawa,
+Actors : Toshirô Mifune,Eijirô Tôno,Tatsuya Nakadai,Yôko Tsukasa,
+Movie Text: 
+A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.

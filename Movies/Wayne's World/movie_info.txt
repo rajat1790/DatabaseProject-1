@@ -1,0 +1,11 @@
+Movie Name: Wayne's World 
+Movie Year: 1992
+Movie Certificate: PG-13
+Movie Duration: 94 min
+Movie Genre: 
+Comedy, Music            
+Movie Rating : 7.0
+Directors : Penelope Spheeris,
+Actors : Mike Myers,Dana Carvey,Rob Lowe,Tia Carrere,
+Movie Text: 
+Two slacker friends try to promote their public-access cable show.

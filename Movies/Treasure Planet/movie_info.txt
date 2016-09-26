@@ -1,0 +1,11 @@
+Movie Name: Treasure Planet 
+Movie Year: 2002
+Movie Certificate: PG
+Movie Duration: 95 min
+Movie Genre: 
+Animation, Adventure, Family            
+Movie Rating : 7.1
+Directors : Ron Clements,John Musker,
+Actors : Joseph Gordon-Levitt,Emma Thompson,Martin Short,Roscoe Lee Browne,
+Movie Text: 
+A Disney animated version of "Treasure Island". The only difference is that the film is set in outer space with alien worlds and other galactic wonders.

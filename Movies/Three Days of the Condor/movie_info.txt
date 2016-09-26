@@ -1,0 +1,11 @@
+Movie Name: Three Days of the Condor 
+Movie Year: 1975
+Movie Certificate: R
+Movie Duration: 117 min
+Movie Genre: 
+Mystery, Thriller            
+Movie Rating : 7.5
+Directors : Sydney Pollack,
+Actors : Robert Redford,Faye Dunaway,Cliff Robertson,Max von Sydow,
+Movie Text: 
+A bookish CIA researcher finds all his co-workers dead, and must outwit those responsible until he figures out who he can really trust.

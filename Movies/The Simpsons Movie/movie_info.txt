@@ -1,0 +1,11 @@
+Movie Name: The Simpsons Movie 
+Movie Year: 2007
+Movie Certificate: PG-13
+Movie Duration: 87 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 7.4
+Directors : David Silverman,
+Actors : Dan Castellaneta,Julie Kavner,Nancy Cartwright,Yeardley Smith,
+Movie Text: 
+After Homer accidentally pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpson family are declared fugitives.

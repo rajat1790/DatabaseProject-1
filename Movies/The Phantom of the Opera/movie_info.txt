@@ -1,0 +1,11 @@
+Movie Name: The Phantom of the Opera 
+Movie Year: 2004
+Movie Certificate: PG-13
+Movie Duration: 143 min
+Movie Genre: 
+Drama, Musical, Romance            
+Movie Rating : 7.4
+Directors : Joel Schumacher,
+Actors : Gerard Butler,Emmy Rossum,Patrick Wilson,Miranda Richardson,
+Movie Text: 
+A young soprano becomes the obsession of a disfigured musical genius who lives beneath the Paris Opéra House.

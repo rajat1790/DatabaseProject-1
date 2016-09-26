@@ -1,0 +1,11 @@
+Movie Name: Warm Bodies 
+Movie Year: 2013
+Movie Certificate: PG-13
+Movie Duration: 98 min
+Movie Genre: 
+Comedy, Horror, Romance            
+Movie Rating : 6.9
+Directors : Jonathan Levine,
+Actors : Nicholas Hoult,Teresa Palmer,John Malkovich,Analeigh Tipton,
+Movie Text: 
+After a highly unusual zombie saves a still-living girl from an attack, the two form a relationship that sets in motion events that might transform the entire lifeless world.

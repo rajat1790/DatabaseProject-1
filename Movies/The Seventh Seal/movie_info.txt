@@ -1,0 +1,11 @@
+Movie Name: The Seventh Seal 
+Movie Year: 1957
+Movie Certificate: Not Rated
+Movie Duration: 96 min
+Movie Genre: 
+Drama, Fantasy            
+Movie Rating : 8.2
+Directors : Ingmar Bergman,
+Actors : Max von Sydow,Gunnar Björnstrand,Bengt Ekerot,Nils Poppe,
+Movie Text: 
+A man seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.

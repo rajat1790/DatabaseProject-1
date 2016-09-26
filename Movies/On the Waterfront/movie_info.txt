@@ -1,0 +1,11 @@
+Movie Name: On the Waterfront 
+Movie Year: 1954
+Movie Certificate: Not Rated
+Movie Duration: 108 min
+Movie Genre: 
+Crime, Drama, Romance            
+Movie Rating : 8.2
+Directors : Elia Kazan,
+Actors : Marlon Brando,Karl Malden,Lee J. Cobb,Rod Steiger,
+Movie Text: 
+An ex-prize fighter turned longshoreman struggles to stand up to his corrupt union bosses.

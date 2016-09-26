@@ -1,0 +1,11 @@
+Movie Name: Big 
+Movie Year: 1988
+Movie Certificate: PG
+Movie Duration: 104 min
+Movie Genre: 
+Comedy, Drama, Family            
+Movie Rating : 7.3
+Directors : Penny Marshall,
+Actors : Tom Hanks,Elizabeth Perkins,Robert Loggia,John Heard,
+Movie Text: 
+When a pre-teen boy wishes to be big at a magic wish machine, he wakes up the next morning and finds himself in an adult body.

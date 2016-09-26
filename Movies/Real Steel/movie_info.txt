@@ -1,0 +1,11 @@
+Movie Name: Real Steel 
+Movie Year: 2011
+Movie Certificate: PG-13
+Movie Duration: 127 min
+Movie Genre: 
+Action, Drama, Sci-Fi            
+Movie Rating : 7.1
+Directors : Shawn Levy,
+Actors : Hugh Jackman,Evangeline Lilly,Dakota Goyo,Anthony Mackie,
+Movie Text: 
+In the near future, robot boxing is a top sport. A struggling promoter feels he's found a champion in a discarded robot.

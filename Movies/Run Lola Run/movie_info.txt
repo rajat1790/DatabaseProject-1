@@ -1,0 +1,11 @@
+Movie Name: Run Lola Run 
+Movie Year: 1998
+Movie Certificate: R
+Movie Duration: 80 min
+Movie Genre: 
+Crime, Drama, Thriller            
+Movie Rating : 7.8
+Directors : Tom Tykwer,
+Actors : Franka Potente,Moritz Bleibtreu,Herbert Knaup,Nina Petri,
+Movie Text: 
+After a botched money delivery, Lola has 20 minutes to come up with 100,000 Deutschmarks.

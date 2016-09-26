@@ -1,0 +1,11 @@
+Movie Name: Harold and Maude 
+Movie Year: 1971
+Movie Certificate: PG
+Movie Duration: 91 min
+Movie Genre: 
+Comedy, Drama, Romance            
+Movie Rating : 8.0
+Directors : Hal Ashby,
+Actors : Ruth Gordon,Bud Cort,Vivian Pickles,Cyril Cusack,
+Movie Text: 
+Young, rich, and obsessed with death, Harold finds himself changed forever when he meets lively septuagenarian Maude at a funeral.

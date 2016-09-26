@@ -1,0 +1,11 @@
+Movie Name: Wild Strawberries 
+Movie Year: 1957
+Movie Certificate: Unrated
+Movie Duration: 91 min
+Movie Genre: 
+Drama, Romance            
+Movie Rating : 8.2
+Directors : Ingmar Bergman,
+Actors : Victor Sjöström,Bibi Andersson,Ingrid Thulin,Gunnar Björnstrand,
+Movie Text: 
+After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.

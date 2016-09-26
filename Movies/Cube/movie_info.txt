@@ -1,0 +1,11 @@
+Movie Name: Cube 
+Movie Year: 1997
+Movie Certificate: R
+Movie Duration: 90 min
+Movie Genre: 
+Mystery, Sci-Fi, Thriller            
+Movie Rating : 7.3
+Directors : Vincenzo Natali,
+Actors : Nicole de Boer,Maurice Dean Wint,David Hewlett,Andrew Miller,
+Movie Text: 
+Six complete strangers of widely varying personality characteristics are involuntarily placed in an endless kafkaesque maze containing deadly traps.

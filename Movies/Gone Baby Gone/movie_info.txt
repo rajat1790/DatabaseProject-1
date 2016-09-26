@@ -1,0 +1,11 @@
+Movie Name: Gone Baby Gone 
+Movie Year: 2007
+Movie Certificate: R
+Movie Duration: 114 min
+Movie Genre: 
+Crime, Drama, Mystery            
+Movie Rating : 7.7
+Directors : Ben Affleck,
+Actors : Morgan Freeman,Ed Harris,Casey Affleck,Michelle Monaghan,
+Movie Text: 
+Two Boston area detectives investigate a little girl's kidnapping, which ultimately turns into a crisis both professionally and personally.

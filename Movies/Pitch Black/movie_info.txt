@@ -1,0 +1,11 @@
+Movie Name: Pitch Black 
+Movie Year: 2000
+Movie Certificate: R
+Movie Duration: 109 min
+Movie Genre: 
+Horror, Sci-Fi            
+Movie Rating : 7.1
+Directors : David Twohy,
+Actors : Radha Mitchell,Cole Hauser,Vin Diesel,Keith David,
+Movie Text: 
+A commercial transport ship and its crew are marooned on a planet full of bloodthirsty creatures that only come out to feast at night. But then, they learn that a month-long eclipse is about to occur.

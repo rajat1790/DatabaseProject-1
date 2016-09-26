@@ -1,0 +1,11 @@
+Movie Name: King Kong 
+Movie Year: 1933
+Movie Certificate: Unrated
+Movie Duration: 100 min
+Movie Genre: 
+Adventure, Fantasy, Horror            
+Movie Rating : 8.0
+Directors : Merian C. Cooper,Ernest B. Schoedsack,
+Actors : Fay Wray,Robert Armstrong,Bruce Cabot,Frank Reicher,
+Movie Text: 
+A film crew goes to a tropical island for an exotic location shoot and discovers a colossal giant gorilla who takes a shine to their female blonde star. He is then captured and brought back to New York City for public exhibition.

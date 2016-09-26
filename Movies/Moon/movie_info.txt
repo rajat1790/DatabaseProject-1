@@ -1,0 +1,11 @@
+Movie Name: Moon 
+Movie Year: 2009
+Movie Certificate: R
+Movie Duration: 97 min
+Movie Genre: 
+Drama, Mystery, Sci-Fi            
+Movie Rating : 7.9
+Directors : Duncan Jones,
+Actors : Sam Rockwell,Kevin Spacey,Dominique McElligott,Rosie Shaw,
+Movie Text: 
+Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth parcels of a resource that has helped diminish our planet's power problems.

@@ -1,0 +1,11 @@
+Movie Name: Cinderella 
+Movie Year: 1950
+Movie Certificate: Approved
+Movie Duration: 74 min
+Movie Genre: 
+Animation, Family, Fantasy            
+Movie Rating : 7.3
+Directors : Clyde Geronimi,Wilfred Jackson,Hamilton Luske,
+Actors : Ilene Woods,James MacDonald,Eleanor Audley,Verna Felton,
+Movie Text: 
+When Cinderella's cruel stepmother prevents her from attending the Royal Ball, she gets some unexpected help from the lovable mice Gus and Jaq, and from her Fairy Godmother.

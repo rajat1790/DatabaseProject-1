@@ -1,0 +1,11 @@
+Movie Name: Army of Darkness 
+Movie Year: 1992
+Movie Certificate: R
+Movie Duration: 81 min
+Movie Genre: 
+Comedy, Fantasy, Horror            
+Movie Rating : 7.6
+Directors : Sam Raimi,
+Actors : Bruce Campbell,Embeth Davidtz,Marcus Gilbert,Ian Abercrombie,
+Movie Text: 
+A man is accidentally transported to 1300 A.D., where he must battle an army of the dead and retrieve the Necronomicon so he can return home.

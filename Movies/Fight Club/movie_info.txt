@@ -1,0 +1,11 @@
+Movie Name: Fight Club 
+Movie Year: 1999
+Movie Certificate: R
+Movie Duration: 139 min
+Movie Genre: 
+Drama            
+Movie Rating : 8.8
+Directors : David Fincher,
+Actors : Brad Pitt,Edward Norton,Meat Loaf,Zach Grenier,
+Movie Text: 
+An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soap maker, forming an underground fight club that evolves into something much, much more.

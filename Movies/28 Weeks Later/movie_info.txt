@@ -1,0 +1,11 @@
+Movie Name: 28 Weeks Later 
+Movie Year: 2007
+Movie Certificate: R
+Movie Duration: 100 min
+Movie Genre: 
+Drama, Horror, Sci-Fi            
+Movie Rating : 7.0
+Directors : Juan Carlos Fresnadillo,
+Actors : Jeremy Renner,Rose Byrne,Robert Carlyle,Harold Perrineau,
+Movie Text: 
+Six months after the rage virus was inflicted on the population of Great Britain, the US Army helps to secure a small area of London for the survivors to repopulate and start again. But not everything goes to plan.

@@ -1,0 +1,11 @@
+Movie Name: Brothers I
+Movie Year: 2009
+Movie Certificate: R
+Movie Duration: 105 min
+Movie Genre: 
+Drama, Thriller, War            
+Movie Rating : 7.1
+Directors : Jim Sheridan,
+Actors : Jake Gyllenhaal,Natalie Portman,Tobey Maguire,Sam Shepard,
+Movie Text: 
+A young man comforts his older brother's wife and children after he goes missing in Afghanistan.

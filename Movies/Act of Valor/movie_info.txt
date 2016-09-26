@@ -1,0 +1,11 @@
+Movie Name: Act of Valor 
+Movie Year: 2012
+Movie Certificate: R
+Movie Duration: 110 min
+Movie Genre: 
+Action, Adventure, Drama            
+Movie Rating : 6.5
+Directors : Mike McCoy,Scott Waugh,
+Actors : Alex Veadov,Roselyn Sanchez,Nestor Serrano,Rorke Denver,
+Movie Text: 
+An elite team of Navy SEALs embark on a covert mission to recover a kidnapped CIA agent.

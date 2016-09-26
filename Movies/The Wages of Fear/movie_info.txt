@@ -1,0 +1,11 @@
+Movie Name: The Wages of Fear 
+Movie Year: 1953
+Movie Certificate: Not Rated
+Movie Duration: 131 min
+Movie Genre: 
+Adventure, Drama, Thriller            
+Movie Rating : 8.2
+Directors : Henri-Georges Clouzot,
+Actors : Yves Montand,Charles Vanel,Peter van Eyck,Folco Lulli,
+Movie Text: 
+In a decrepit South American village, men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.

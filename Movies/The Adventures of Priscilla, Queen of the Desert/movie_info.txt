@@ -1,0 +1,11 @@
+Movie Name: The Adventures of Priscilla, Queen of the Desert 
+Movie Year: 1994
+Movie Certificate: R
+Movie Duration: 104 min
+Movie Genre: 
+Comedy, Music            
+Movie Rating : 7.5
+Directors : Stephan Elliott,
+Actors : Hugo Weaving,Guy Pearce,Terence Stamp,Rebel Penfold-Russell,
+Movie Text: 
+Two drag performers and a transgender woman travel across the desert to perform their unique style of cabaret.

@@ -1,0 +1,11 @@
+Movie Name: The Horse Whisperer 
+Movie Year: 1998
+Movie Certificate: PG-13
+Movie Duration: 170 min
+Movie Genre: 
+Drama, Romance, Western            
+Movie Rating : 6.5
+Directors : Robert Redford,
+Actors : Robert Redford,Kristin Scott Thomas,Sam Neill,Dianne Wiest,
+Movie Text: 
+The mother of a severely traumatized daughter enlists the aid of a unique horse trainer to help the girl's equally injured horse.

@@ -1,0 +1,11 @@
+Movie Name: Brokeback Mountain 
+Movie Year: 2005
+Movie Certificate: R
+Movie Duration: 134 min
+Movie Genre: 
+Drama, Romance            
+Movie Rating : 7.7
+Directors : Ang Lee,
+Actors : Jake Gyllenhaal,Heath Ledger,Michelle Williams,Randy Quaid,
+Movie Text: 
+The story of a forbidden and secretive relationship between two cowboys, and their lives over the years.

@@ -1,0 +1,11 @@
+Movie Name: MASH 
+Movie Year: 1970
+Movie Certificate: R
+Movie Duration: 116 min
+Movie Genre: 
+Comedy, Drama, War            
+Movie Rating : 7.6
+Directors : Robert Altman,
+Actors : Donald Sutherland,Elliott Gould,Tom Skerritt,Sally Kellerman,
+Movie Text: 
+The staff of a Korean War field hospital use humor and hijinks to keep their sanity in the face of the horror of war.

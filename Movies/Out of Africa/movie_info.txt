@@ -1,0 +1,11 @@
+Movie Name: Out of Africa 
+Movie Year: 1985
+Movie Certificate: PG
+Movie Duration: 161 min
+Movie Genre: 
+Biography, Drama, Romance            
+Movie Rating : 7.2
+Directors : Sydney Pollack,
+Actors : Meryl Streep,Robert Redford,Klaus Maria Brandauer,Michael Kitchen,
+Movie Text: 
+In 20th-century colonial Kenya, a Danish baroness/plantation owner has a passionate love affair with a free-spirited big-game hunter.

@@ -1,0 +1,11 @@
+Movie Name: Contact 
+Movie Year: 1997
+Movie Certificate: PG
+Movie Duration: 150 min
+Movie Genre: 
+Drama, Mystery, Sci-Fi            
+Movie Rating : 7.4
+Directors : Robert Zemeckis,
+Actors : Jodie Foster,Matthew McConaughey,Tom Skerritt,John Hurt,
+Movie Text: 
+Dr. Ellie Arroway, after years of searching, finds conclusive radio proof of intelligent aliens, who send plans for a mysterious machine.

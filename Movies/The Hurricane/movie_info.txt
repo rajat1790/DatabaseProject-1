@@ -1,0 +1,11 @@
+Movie Name: The Hurricane 
+Movie Year: 1999
+Movie Certificate: R
+Movie Duration: 146 min
+Movie Genre: 
+Biography, Drama, Sport            
+Movie Rating : 7.6
+Directors : Norman Jewison,
+Actors : Denzel Washington,Vicellous Shannon,Deborah Kara Unger,Liev Schreiber,
+Movie Text: 
+The story of Rubin "Hurricane" Carter, a boxer wrongly imprisoned for murder, and the people who aided in his fight to prove his innocence.

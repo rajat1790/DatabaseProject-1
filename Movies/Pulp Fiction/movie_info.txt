@@ -1,0 +1,11 @@
+Movie Name: Pulp Fiction 
+Movie Year: 1994
+Movie Certificate: R
+Movie Duration: 154 min
+Movie Genre: 
+Crime, Drama            
+Movie Rating : 8.9
+Directors : Quentin Tarantino,
+Actors : John Travolta,Uma Thurman,Samuel L. Jackson,Bruce Willis,
+Movie Text: 
+The lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.

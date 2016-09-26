@@ -1,0 +1,11 @@
+Movie Name: From Hell 
+Movie Year: 2001
+Movie Certificate: R
+Movie Duration: 122 min
+Movie Genre: 
+Horror, Mystery, Thriller            
+Movie Rating : 6.8
+Directors : Albert Hughes,Allen Hughes,
+Actors : Johnny Depp,Heather Graham,Ian Holm,Robbie Coltrane,
+Movie Text: 
+In Victorian Era London, a troubled clairvoyant police detective investigates the murders by Jack The Ripper.

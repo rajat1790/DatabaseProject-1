@@ -1,0 +1,11 @@
+Movie Name: 28 Days Later... 
+Movie Year: 2002
+Movie Certificate: R
+Movie Duration: 113 min
+Movie Genre: 
+Drama, Horror, Sci-Fi            
+Movie Rating : 7.6
+Directors : Danny Boyle,
+Actors : Cillian Murphy,Naomie Harris,Christopher Eccleston,Alex Palmer,
+Movie Text: 
+Four weeks after a mysterious, incurable virus spreads throughout the UK, a handful of survivors try to find sanctuary.

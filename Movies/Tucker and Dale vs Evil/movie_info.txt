@@ -1,0 +1,11 @@
+Movie Name: Tucker and Dale vs Evil 
+Movie Year: 2010
+Movie Certificate: R
+Movie Duration: 89 min
+Movie Genre: 
+Comedy, Horror            
+Movie Rating : 7.6
+Directors : Eli Craig,
+Actors : Tyler Labine,Alan Tudyk,Katrina Bowden,Jesse Moss,
+Movie Text: 
+Tucker and Dale are on vacation at their dilapidated mountain cabin when they are attacked by a group of preppy college kids.

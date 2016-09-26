@@ -1,0 +1,11 @@
+Movie Name: 42 
+Movie Year: 2013
+Movie Certificate: PG-13
+Movie Duration: 128 min
+Movie Genre: 
+Biography, Drama, Sport            
+Movie Rating : 7.5
+Directors : Brian Helgeland,
+Actors : Chadwick Boseman,T.R. Knight,Harrison Ford,Nicole Beharie,
+Movie Text: 
+The story of Jackie Robinson from his signing with the Brooklyn Dodgers organization in 1945 to his historic 1947 rookie season when he broke the color barrier in Major League Baseball.

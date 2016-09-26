@@ -1,0 +1,11 @@
+Movie Name: The Duchess 
+Movie Year: 2008
+Movie Certificate: PG-13
+Movie Duration: 110 min
+Movie Genre: 
+Biography, Drama, History            
+Movie Rating : 6.9
+Directors : Saul Dibb,
+Actors : Keira Knightley,Ralph Fiennes,Dominic Cooper,Charlotte Rampling,
+Movie Text: 
+A chronicle of the life of 18th century aristocrat Georgiana, Duchess of Devonshire, who was reviled for her extravagant political and personal life.

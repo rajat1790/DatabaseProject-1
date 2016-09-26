@@ -1,0 +1,11 @@
+Movie Name: Harry Potter and the Chamber of Secrets 
+Movie Year: 2002
+Movie Certificate: PG
+Movie Duration: 161 min
+Movie Genre: 
+Adventure, Family, Fantasy            
+Movie Rating : 7.4
+Directors : Chris Columbus,
+Actors : Daniel Radcliffe,Rupert Grint,Emma Watson,Richard Harris,
+Movie Text: 
+Harry ignores warnings not to return to Hogwarts, only to find the school plagued by a series of mysterious attacks and a strange voice haunting him.

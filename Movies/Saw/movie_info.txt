@@ -1,0 +1,11 @@
+Movie Name: Saw 
+Movie Year: 2004
+Movie Certificate: R
+Movie Duration: 103 min
+Movie Genre: 
+Horror, Mystery, Thriller            
+Movie Rating : 7.7
+Directors : James Wan,
+Actors : Cary Elwes,Leigh Whannell,Danny Glover,Ken Leung,
+Movie Text: 
+Two strangers awaken in a room with no recollection of how they got there or why, and soon discover they are pawns in a deadly game perpetrated by a notorious serial killer.

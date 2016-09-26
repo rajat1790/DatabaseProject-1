@@ -1,0 +1,11 @@
+Movie Name: Star Trek IV: The Voyage Home 
+Movie Year: 1986
+Movie Certificate: PG
+Movie Duration: 119 min
+Movie Genre: 
+Adventure, Comedy, Sci-Fi            
+Movie Rating : 7.3
+Directors : Leonard Nimoy,
+Actors : William Shatner,Leonard Nimoy,DeForest Kelley,James Doohan,
+Movie Text: 
+To save Earth from an alien probe, Admiral James T. Kirk and his fugitive crew go back in time to San Francisco in 1986 to retrieve the only beings who can communicate with it: humpback whales.

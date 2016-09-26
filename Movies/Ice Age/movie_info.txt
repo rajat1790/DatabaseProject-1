@@ -1,0 +1,11 @@
+Movie Name: Ice Age 
+Movie Year: 2002
+Movie Certificate: PG
+Movie Duration: 81 min
+Movie Genre: 
+Animation, Adventure, Comedy            
+Movie Rating : 7.6
+Directors : Chris Wedge,Carlos Saldanha,
+Actors : Denis Leary,John Leguizamo,Ray Romano,Goran Visnjic,
+Movie Text: 
+Set during the Ice Age, a sabertooth tiger, a sloth, and a wooly mammoth find a lost human infant, and they try to return him to his tribe.

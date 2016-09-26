@@ -1,0 +1,11 @@
+Movie Name: I Am Legend 
+Movie Year: 2007
+Movie Certificate: PG-13
+Movie Duration: 101 min
+Movie Genre: 
+Drama, Horror, Sci-Fi            
+Movie Rating : 7.2
+Directors : Francis Lawrence,
+Actors : Will Smith,Alice Braga,Charlie Tahan,Salli Richardson-Whitfield,
+Movie Text: 
+Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure.

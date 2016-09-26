@@ -1,0 +1,11 @@
+Movie Name: Pink Floyd: The Wall 
+Movie Year: 1982
+Movie Certificate: R
+Movie Duration: 95 min
+Movie Genre: 
+Animation, Drama, Fantasy            
+Movie Rating : 8.0
+Directors : Alan Parker,
+Actors : Bob Geldof,Christine Hargreaves,James Laurenson,Eleanor David,
+Movie Text: 
+A confined but troubled rock star descends into madness in the midst of his physical and social isolation from everyone.

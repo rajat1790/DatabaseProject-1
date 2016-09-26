@@ -1,0 +1,11 @@
+Movie Name: Groundhog Day 
+Movie Year: 1993
+Movie Certificate: PG
+Movie Duration: 101 min
+Movie Genre: 
+Comedy, Fantasy, Romance            
+Movie Rating : 8.1
+Directors : Harold Ramis,
+Actors : Bill Murray,Andie MacDowell,Chris Elliott,Stephen Tobolowsky,
+Movie Text: 
+A weatherman finds himself living the same day over and over again.

@@ -1,0 +1,11 @@
+Movie Name: Anastasia 
+Movie Year: 1997
+Movie Certificate: G
+Movie Duration: 94 min
+Movie Genre: 
+Animation, Adventure, Drama            
+Movie Rating : 7.1
+Directors : Don Bluth,Gary Goldman,
+Actors : Meg Ryan,John Cusack,Christopher Lloyd,Kelsey Grammer,
+Movie Text: 
+The last surviving child of the Russian Royal Family joins two con men to reunite with her grandmother, the Dowager Empress, while the undead Rasputin seeks her death.

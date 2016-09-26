@@ -1,0 +1,11 @@
+Movie Name: Bicycle Thieves 
+Movie Year: 1948
+Movie Certificate: Not Rated
+Movie Duration: 89 min
+Movie Genre: 
+Drama            
+Movie Rating : 8.3
+Directors : Vittorio De Sica,
+Actors : Lamberto Maggiorani,Enzo Staiola,Lianella Carell,Gino Saltamerenda,
+Movie Text: 
+Set in Post-WWII Italy, a working class man's bicycle is stolen. He and his son set out to find it.

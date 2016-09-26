@@ -1,0 +1,11 @@
+Movie Name: '71 
+Movie Year: 2014
+Movie Certificate: R
+Movie Duration: 99 min
+Movie Genre: 
+Action, Drama, Thriller            
+Movie Rating : 7.2
+Directors : Yann Demange,
+Actors : Jack O'Connell,Sam Reid,Sean Harris,Paul Popplewell,
+Movie Text: 
+In 1971, a young and disorientated British soldier is accidentally abandoned by his unit following a riot on the deadly streets of Belfast.

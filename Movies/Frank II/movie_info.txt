@@ -1,0 +1,11 @@
+Movie Name: Frank II
+Movie Year: 2014
+Movie Certificate: R
+Movie Duration: 95 min
+Movie Genre: 
+Comedy, Drama, Music            
+Movie Rating : 7.0
+Directors : Lenny Abrahamson,
+Actors : Michael Fassbender,Domhnall Gleeson,Maggie Gyllenhaal,Moira Brooker,
+Movie Text: 
+Jon, a young wanna-be musician, discovers he's bitten off more than he can chew when he joins an eccentric pop band led by the mysterious and enigmatic Frank.

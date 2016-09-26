@@ -1,0 +1,11 @@
+Movie Name: Seven Samurai 
+Movie Year: 1954
+Movie Certificate: Unrated
+Movie Duration: 207 min
+Movie Genre: 
+Action, Adventure, Drama            
+Movie Rating : 8.7
+Directors : Akira Kurosawa,
+Actors : Toshirô Mifune,Takashi Shimura,Keiko Tsushima,Yukiko Shimazaki,
+Movie Text: 
+A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.

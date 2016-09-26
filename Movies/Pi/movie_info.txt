@@ -1,0 +1,11 @@
+Movie Name: Pi 
+Movie Year: 1998
+Movie Certificate: R
+Movie Duration: 84 min
+Movie Genre: 
+Drama, Mystery, Thriller            
+Movie Rating : 7.5
+Directors : Darren Aronofsky,
+Actors : Sean Gullette,Mark Margolis,Ben Shenkman,Pamela Hart,
+Movie Text: 
+A paranoid mathematician searches for a key number that will unlock the universal patterns found in nature.

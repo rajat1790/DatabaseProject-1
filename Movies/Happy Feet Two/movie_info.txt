@@ -1,0 +1,11 @@
+Movie Name: Happy Feet Two 
+Movie Year: 2011
+Movie Certificate: PG
+Movie Duration: 100 min
+Movie Genre: 
+Animation, Comedy, Family            
+Movie Rating : 5.9
+Directors : George Miller,Gary Eck,David Peers,
+Actors : Elijah Wood,Robin Williams,Pink,Carlos Alazraqui,
+Movie Text: 
+Mumble's son, Erik, is struggling to realize his talents in the Emperor Penguin world. Meanwhile, Mumble and his family and friends discover a new threat their home -- one that will take everyone working together to save them.

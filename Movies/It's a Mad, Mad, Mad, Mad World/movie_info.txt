@@ -1,0 +1,11 @@
+Movie Name: It's a Mad, Mad, Mad, Mad World 
+Movie Year: 1963
+Movie Certificate: Approved
+Movie Duration: 205 min
+Movie Genre: 
+Action, Adventure, Comedy            
+Movie Rating : 7.6
+Directors : Stanley Kramer,
+Actors : Spencer Tracy,Milton Berle,Ethel Merman,Mickey Rooney,
+Movie Text: 
+The dying words of a thief spark a madcap cross-country rush to find some treasure.

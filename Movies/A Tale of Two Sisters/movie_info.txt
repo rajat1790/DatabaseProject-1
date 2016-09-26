@@ -1,0 +1,11 @@
+Movie Name: A Tale of Two Sisters 
+Movie Year: 2003
+Movie Certificate: R
+Movie Duration: 115 min
+Movie Genre: 
+Drama, Horror, Mystery            
+Movie Rating : 7.3
+Directors : Jee-woon Kim,
+Actors : Kap-su Kim,Jung-ah Yum,Su-jeong Lim,Geun-young Moon,
+Movie Text: 
+A family is haunted by the tragedies of deaths within the family.

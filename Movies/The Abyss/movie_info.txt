@@ -1,0 +1,11 @@
+Movie Name: The Abyss 
+Movie Year: 1989
+Movie Certificate: PG-13
+Movie Duration: 145 min
+Movie Genre: 
+Adventure, Drama, Sci-Fi            
+Movie Rating : 7.6
+Directors : James Cameron,
+Actors : Ed Harris,Mary Elizabeth Mastrantonio,Michael Biehn,Leo Burmester,
+Movie Text: 
+A civilian diving team is enlisted to search for a lost nuclear submarine and face danger while encountering an alien aquatic species.

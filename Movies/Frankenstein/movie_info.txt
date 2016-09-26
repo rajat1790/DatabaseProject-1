@@ -1,0 +1,11 @@
+Movie Name: Frankenstein 
+Movie Year: 1931
+Movie Certificate: Not Rated
+Movie Duration: 70 min
+Movie Genre: 
+Drama, Horror, Sci-Fi            
+Movie Rating : 8.0
+Directors : James Whale,
+Actors : Colin Clive,Mae Clarke,Boris Karloff,John Boles,
+Movie Text: 
+An obsessed scientist assembles a living being from parts of exhumed corpses.

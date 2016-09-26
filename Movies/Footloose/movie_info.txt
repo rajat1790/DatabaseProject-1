@@ -1,0 +1,11 @@
+Movie Name: Footloose 
+Movie Year: 1984
+Movie Certificate: PG
+Movie Duration: 107 min
+Movie Genre: 
+Drama, Music, Romance            
+Movie Rating : 6.5
+Directors : Herbert Ross,
+Actors : Kevin Bacon,Lori Singer,John Lithgow,Dianne Wiest,
+Movie Text: 
+A city teenager moves to a small town where rock music and dancing have been banned, and his rebellious spirit shakes up the populace.

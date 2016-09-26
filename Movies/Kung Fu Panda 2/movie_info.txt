@@ -1,0 +1,11 @@
+Movie Name: Kung Fu Panda 2 
+Movie Year: 2011
+Movie Certificate: PG
+Movie Duration: 90 min
+Movie Genre: 
+Animation, Action, Adventure            
+Movie Rating : 7.3
+Directors : Jennifer Yuh Nelson,
+Actors : Jack Black,Angelina Jolie,Jackie Chan,Dustin Hoffman,
+Movie Text: 
+Po and his friends fight to stop a peacock villain from conquering China with a deadly new weapon, but first the Dragon Warrior must come to terms with his past.

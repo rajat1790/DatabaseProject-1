@@ -1,0 +1,11 @@
+Movie Name: Snow White and the Seven Dwarfs 
+Movie Year: 1937
+Movie Certificate: Approved
+Movie Duration: 83 min
+Movie Genre: 
+Animation, Family, Fantasy            
+Movie Rating : 7.7
+Directors : William Cottrell,David Hand,Wilfred Jackson,Larry Morey,Perce Pearce,Ben Sharpsteen,
+Actors : Adriana Caselotti,Harry Stockwell,Lucille La Verne,Roy Atwell,
+Movie Text: 
+Snow White, pursued by a jealous queen, hides with the Dwarfs; the queen soon learns of this and prepares to feed her a poison apple.

@@ -1,0 +1,11 @@
+Movie Name: The Iron Giant 
+Movie Year: 1999
+Movie Certificate: PG
+Movie Duration: 86 min
+Movie Genre: 
+Animation, Action, Adventure            
+Movie Rating : 8.0
+Directors : Brad Bird,
+Actors : Eli Marienthal,Harry Connick Jr.,Jennifer Aniston,Vin Diesel,
+Movie Text: 
+A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.

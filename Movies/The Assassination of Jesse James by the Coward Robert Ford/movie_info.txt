@@ -1,0 +1,11 @@
+Movie Name: The Assassination of Jesse James by the Coward Robert Ford 
+Movie Year: 2007
+Movie Certificate: R
+Movie Duration: 160 min
+Movie Genre: 
+Biography, Crime, Drama            
+Movie Rating : 7.5
+Directors : Andrew Dominik,
+Actors : Brad Pitt,Casey Affleck,Sam Shepard,Mary-Louise Parker,
+Movie Text: 
+Robert Ford, who's idolized Jesse James since childhood, tries hard to join the reforming gang of the Missouri outlaw, but gradually becomes resentful of the bandit leader.

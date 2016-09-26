@@ -1,0 +1,11 @@
+Movie Name: Iron Man 
+Movie Year: 2008
+Movie Certificate: PG-13
+Movie Duration: 126 min
+Movie Genre: 
+Action, Adventure, Sci-Fi            
+Movie Rating : 7.9
+Directors : Jon Favreau,
+Actors : Robert Downey Jr.,Gwyneth Paltrow,Terrence Howard,Jeff Bridges,
+Movie Text: 
+After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.

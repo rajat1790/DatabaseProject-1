@@ -1,0 +1,11 @@
+Movie Name: A Little Princess 
+Movie Year: 1995
+Movie Certificate: G
+Movie Duration: 97 min
+Movie Genre: 
+Drama, Family, Fantasy            
+Movie Rating : 7.7
+Directors : Alfonso Cuarón,
+Actors : Liesel Matthews,Eleanor Bron,Liam Cunningham,Rusty Schwimmer,
+Movie Text: 
+A young girl is relegated to servitude at a boarding school when her father goes missing and is presumed dead.

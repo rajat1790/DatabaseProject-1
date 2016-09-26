@@ -1,0 +1,11 @@
+Movie Name: Memento 
+Movie Year: 2000
+Movie Certificate: R
+Movie Duration: 113 min
+Movie Genre: 
+Mystery, Thriller            
+Movie Rating : 8.5
+Directors : Christopher Nolan,
+Actors : Guy Pearce,Carrie-Anne Moss,Joe Pantoliano,Mark Boone Junior,
+Movie Text: 
+A man juggles searching for his wife's murderer and keeping his short-term memory loss from being an obstacle.

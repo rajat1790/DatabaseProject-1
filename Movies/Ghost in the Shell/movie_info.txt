@@ -1,0 +1,11 @@
+Movie Name: Ghost in the Shell 
+Movie Year: 1995
+Movie Certificate: Not Rated
+Movie Duration: 83 min
+Movie Genre: 
+Animation, Action, Mystery            
+Movie Rating : 8.0
+Directors : Mamoru Oshii,
+Actors : Atsuko Tanaka,Iemasa Kayumi,Akio Ôtsuka,Kôichi Yamadera,
+Movie Text: 
+A cyborg policewoman and her partner hunt a mysterious and powerful hacker called the Puppet Master.

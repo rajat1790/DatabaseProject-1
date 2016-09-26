@@ -1,0 +1,11 @@
+Movie Name: Looper 
+Movie Year: 2012
+Movie Certificate: R
+Movie Duration: 119 min
+Movie Genre: 
+Action, Crime, Drama            
+Movie Rating : 7.4
+Directors : Rian Johnson,
+Actors : Joseph Gordon-Levitt,Bruce Willis,Emily Blunt,Paul Dano,
+Movie Text: 
+In 2074, when the mob wants to get rid of someone, the target is sent into the past, where a hired gun awaits - someone like Joe - who one day learns the mob wants to 'close the loop' by sending back Joe's future self for assassination.

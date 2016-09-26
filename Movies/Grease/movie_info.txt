@@ -1,0 +1,11 @@
+Movie Name: Grease 
+Movie Year: 1978
+Movie Certificate: PG-13
+Movie Duration: 110 min
+Movie Genre: 
+Musical, Romance            
+Movie Rating : 7.2
+Directors : Randal Kleiser,
+Actors : John Travolta,Olivia Newton-John,Stockard Channing,Jeff Conaway,
+Movie Text: 
+Good girl Sandy and greaser Danny fell in love over the summer. When they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance?

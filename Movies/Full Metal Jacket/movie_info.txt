@@ -1,0 +1,11 @@
+Movie Name: Full Metal Jacket 
+Movie Year: 1987
+Movie Certificate: R
+Movie Duration: 116 min
+Movie Genre: 
+Drama, War            
+Movie Rating : 8.3
+Directors : Stanley Kubrick,
+Actors : Matthew Modine,R. Lee Ermey,Vincent D'Onofrio,Adam Baldwin,
+Movie Text: 
+A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.

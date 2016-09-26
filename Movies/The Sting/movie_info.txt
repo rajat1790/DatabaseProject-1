@@ -1,0 +1,11 @@
+Movie Name: The Sting 
+Movie Year: 1973
+Movie Certificate: PG
+Movie Duration: 129 min
+Movie Genre: 
+Comedy, Crime, Drama            
+Movie Rating : 8.3
+Directors : George Roy Hill,
+Actors : Paul Newman,Robert Redford,Robert Shaw,Charles Durning,
+Movie Text: 
+In Chicago in September 1936, a young con man seeking revenge for his murdered partner teams up with a master of the big con to win a fortune from a criminal banker.

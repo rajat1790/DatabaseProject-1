@@ -1,0 +1,11 @@
+Movie Name: Tin Cup 
+Movie Year: 1996
+Movie Certificate: R
+Movie Duration: 135 min
+Movie Genre: 
+Comedy, Drama, Romance            
+Movie Rating : 6.3
+Directors : Ron Shelton,
+Actors : Kevin Costner,Rene Russo,Don Johnson,Cheech Marin,
+Movie Text: 
+A washed up golf pro working at a driving range tries to qualify for the US Open in order to win the heart of his succesful rival's girlfriend.

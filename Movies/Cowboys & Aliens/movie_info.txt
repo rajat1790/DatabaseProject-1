@@ -1,0 +1,11 @@
+Movie Name: Cowboys & Aliens 
+Movie Year: 2011
+Movie Certificate: PG-13
+Movie Duration: 119 min
+Movie Genre: 
+Action, Sci-Fi, Thriller            
+Movie Rating : 6.0
+Directors : Jon Favreau,
+Actors : Daniel Craig,Harrison Ford,Olivia Wilde,Abigail Spencer,
+Movie Text: 
+A spaceship arrives in Arizona, 1873, to take over the Earth, starting with the Wild West region. A posse of cowboys and natives are all that stand in their way.

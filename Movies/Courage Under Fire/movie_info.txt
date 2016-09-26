@@ -1,0 +1,11 @@
+Movie Name: Courage Under Fire 
+Movie Year: 1996
+Movie Certificate: R
+Movie Duration: 116 min
+Movie Genre: 
+Action, Drama, Mystery            
+Movie Rating : 6.6
+Directors : Edward Zwick,
+Actors : Denzel Washington,Meg Ryan,Lou Diamond Phillips,Michael Moriarty,
+Movie Text: 
+A US Army officer, despondent about a deadly mistake he made, investigates a female chopper commander's worthiness for the Medal of Honor.

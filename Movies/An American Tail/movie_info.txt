@@ -1,0 +1,11 @@
+Movie Name: An American Tail 
+Movie Year: 1986
+Movie Certificate: G
+Movie Duration: 80 min
+Movie Genre: 
+Animation, Comedy, Drama            
+Movie Rating : 6.9
+Directors : Don Bluth,
+Actors : Dom DeLuise,Christopher Plummer,Erica Yohn,Nehemiah Persoff,
+Movie Text: 
+While emigrating to the United States, a young Russian mouse gets separated from his family and must relocate them while trying to survive in a new country.

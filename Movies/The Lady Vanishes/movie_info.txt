@@ -1,0 +1,11 @@
+Movie Name: The Lady Vanishes 
+Movie Year: 1938
+Movie Certificate: Passed
+Movie Duration: 96 min
+Movie Genre: 
+Mystery, Thriller            
+Movie Rating : 8.0
+Directors : Alfred Hitchcock,
+Actors : Margaret Lockwood,Michael Redgrave,Paul Lukas,Dame May Whitty,
+Movie Text: 
+While traveling in continental Europe, a rich young playgirl realizes that an elderly lady seems to have disappeared from the train.

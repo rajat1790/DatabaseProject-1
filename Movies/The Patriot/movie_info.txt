@@ -1,0 +1,11 @@
+Movie Name: The Patriot 
+Movie Year: 2000
+Movie Certificate: R
+Movie Duration: 165 min
+Movie Genre: 
+Action, Drama, History            
+Movie Rating : 7.1
+Directors : Roland Emmerich,
+Actors : Mel Gibson,Heath Ledger,Joely Richardson,Jason Isaacs,
+Movie Text: 
+Peaceful farmer Benjamin Martin is driven to lead the Colonial Militia during the American Revolution when a sadistic British officer murders his son.

@@ -1,0 +1,11 @@
+Movie Name: E.T. the Extra-Terrestrial 
+Movie Year: 1982
+Movie Certificate: PG
+Movie Duration: 115 min
+Movie Genre: 
+Family, Sci-Fi            
+Movie Rating : 7.9
+Directors : Steven Spielberg,
+Actors : Henry Thomas,Drew Barrymore,Peter Coyote,Dee Wallace,
+Movie Text: 
+A troubled child summons the courage to help a friendly alien escape Earth and return to his home-world.

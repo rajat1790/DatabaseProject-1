@@ -1,0 +1,11 @@
+Movie Name: The Best Years of Our Lives 
+Movie Year: 1946
+Movie Certificate: Not Rated
+Movie Duration: 172 min
+Movie Genre: 
+Drama, Romance, War            
+Movie Rating : 8.1
+Directors : William Wyler,
+Actors : Fredric March,Dana Andrews,Myrna Loy,Teresa Wright,
+Movie Text: 
+Three World War II veterans return home to small-town America to discover that they and their families have been irreparably changed.

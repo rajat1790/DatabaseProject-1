@@ -1,0 +1,11 @@
+Movie Name: It Follows 
+Movie Year: 2014
+Movie Certificate: R
+Movie Duration: 100 min
+Movie Genre: 
+Horror, Mystery            
+Movie Rating : 6.9
+Directors : David Robert Mitchell,
+Actors : Maika Monroe,Keir Gilchrist,Olivia Luccardi,Lili Sepe,
+Movie Text: 
+A young woman is followed by an unknown supernatural force after a sexual encounter.

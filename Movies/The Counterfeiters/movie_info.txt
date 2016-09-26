@@ -1,0 +1,11 @@
+Movie Name: The Counterfeiters 
+Movie Year: 2007
+Movie Certificate: R
+Movie Duration: 98 min
+Movie Genre: 
+Crime, Drama, War            
+Movie Rating : 7.6
+Directors : Stefan Ruzowitzky,
+Actors : Karl Markovics,August Diehl,Devid Striesow,Martin Brambach,
+Movie Text: 
+The story of the Operation Bernhard, the largest counterfeiting operation in history, carried out by Germany during WWII.
