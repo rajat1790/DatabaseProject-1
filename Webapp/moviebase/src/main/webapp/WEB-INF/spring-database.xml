@@ -11,5 +11,13 @@
 		<property name="username" value="rhljain08" />
 		<property name="password" value="Q@werty123" />
 	</bean>
+	
+	<bean id="userDao" class="com.moviebase.web.model.user.UserDaoImpl">
+		<property name="dataSource" ref="dataSource" />
+	</bean>
+	
+	<bean id="genreDao" class="com.moviebase.web.model.genre.GenreDaoImpl">
+		<property name="dataSource" ref="dataSource" />
+	</bean>
 
 </beans>
