@@ -13,11 +13,9 @@ import javax.sql.DataSource;
 
 import org.springframework.stereotype.Repository;
 
-import com.moviebase.web.model.user.User;
-
 @Repository
-public class UserDaoImpl implements UserDao{
-	
+public class UserDaoImpl implements UserDao {
+
 	private DataSource dataSource;
 
 	public void setDataSource(DataSource dataSource) {
@@ -27,8 +25,7 @@ public class UserDaoImpl implements UserDao{
 	@Override
 	public void insert(User user) {
 		// TODO Auto-generated method stub
-		String sql = "INSERT INTO user " +
-				"(name, username, email, password,dob, pic) VALUES (?, ?, ?, ?, ?, ?)";
+		String sql = "INSERT INTO user " + "(name, username, email, password,dob, pic) VALUES (?, ?, ?, ?, ?, ?)";
 		Connection conn = null;
 
 		try {
@@ -51,7 +48,7 @@ public class UserDaoImpl implements UserDao{
 			} else {
 				throw new SQLException("No ID obtained in User.");
 			}
-			
+
 			int[] genreIds = user.getGenreId();
 			for (int i = 0; i < genreIds.length; i++) {
 				sql = "INSERT INTO user_genre_choices (user_id, genre_id) VALUES (?, ?)";
@@ -65,13 +62,14 @@ public class UserDaoImpl implements UserDao{
 		} catch (SQLException e) {
 			throw new RuntimeException(e);
 
-		} catch(Exception e) {
+		} catch (Exception e) {
 			throw new RuntimeException(e);
-		}finally {
+		} finally {
 			if (conn != null) {
 				try {
 					conn.close();
-				} catch (SQLException e) {}
+				} catch (SQLException e) {
+				}
 			}
 		}
 	}
@@ -96,7 +94,10 @@ public class UserDaoImpl implements UserDao{
 				user.setDob(rs.getDate("dob"));
 				user.setName(rs.getString("name"));
 				user.setUsername(rs.getString("username"));
-				user.setPic(rs.getBlob("pic").getBytes(1, (int)rs.getBlob("pic").length()));
+				Blob pic = rs.getBlob("pic");
+				if (pic != null) {
+					user.setPic(rs.getBlob("pic").getBytes(1, (int) pic.length()));
+				}
 			}
 			rs.close();
 			ps.close();
@@ -106,8 +107,9 @@ public class UserDaoImpl implements UserDao{
 		} finally {
 			if (conn != null) {
 				try {
-				conn.close();
-				} catch (SQLException e) {}
+					conn.close();
+				} catch (SQLException e) {
+				}
 			}
 		}
 	}
@@ -134,9 +136,9 @@ public class UserDaoImpl implements UserDao{
 				user.setUsername(rs.getString("username"));
 				Blob pic = rs.getBlob("pic");
 				if (pic != null) {
-					user.setPic(pic.getBytes(1, (int)pic.length()));
+					user.setPic(pic.getBytes(1, (int) pic.length()));
 				}
-				
+
 			}
 			rs.close();
 			ps.close();
@@ -146,8 +148,9 @@ public class UserDaoImpl implements UserDao{
 		} finally {
 			if (conn != null) {
 				try {
-				conn.close();
-				} catch (SQLException e) {}
+					conn.close();
+				} catch (SQLException e) {
+				}
 			}
 		}
 	}

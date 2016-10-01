@@ -1,0 +1,16 @@
+package com.moviebase.web.model.movie;
+
+import java.util.List;
+
+public interface MovieDao {
+	public void insert(Movie movie);
+
+	public Movie findById(int id);
+
+	public List<Movie> findByNmae(String movieName);
+
+	public List<Movie> findByYear(int year);
+
+	public List<Movie> findByDirector(String director);
+
+}
