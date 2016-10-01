@@ -1,13 +1,12 @@
 package com.moviebase.web.model.user;
 
-import java.io.File;
-import java.io.FileInputStream;
 import java.sql.Blob;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
+import java.util.List;
 
 import javax.sql.DataSource;
 
@@ -25,12 +24,13 @@ public class UserDaoImpl implements UserDao {
 	@Override
 	public void insert(User user) {
 		// TODO Auto-generated method stub
+		System.out.println("New User:" + user.toString());
 		String sql = "INSERT INTO user " + "(name, username, email, password,dob, pic) VALUES (?, ?, ?, ?, ?, ?)";
 		Connection conn = null;
 
 		try {
-			File pic = user.getImage();
-			FileInputStream fis = new FileInputStream(pic);
+			// File pic = user.getImage();
+			// FileInputStream fis = new FileInputStream(pic);
 
 			conn = dataSource.getConnection();
 			PreparedStatement ps = conn.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS);
@@ -39,7 +39,8 @@ public class UserDaoImpl implements UserDao {
 			ps.setString(3, user.getEmail());
 			ps.setString(4, user.getPassword());
 			ps.setDate(5, user.getDob());
-			ps.setBinaryStream(6, fis, (int) pic.length());
+			ps.setBytes(6, user.getPic());
+			// ps.setBinaryStream(6, fis, (int) pic.length());
 			ps.executeUpdate();
 			int user_id = 0;
 			ResultSet generatedKeys = ps.getGeneratedKeys();
@@ -49,12 +50,12 @@ public class UserDaoImpl implements UserDao {
 				throw new SQLException("No ID obtained in User.");
 			}
 
-			int[] genreIds = user.getGenreId();
-			for (int i = 0; i < genreIds.length; i++) {
+			List<Integer> genreIds = user.getGenreId();
+			for (int i = 0; i < genreIds.size(); i++) {
 				sql = "INSERT INTO user_genre_choices (user_id, genre_id) VALUES (?, ?)";
 				ps = conn.prepareStatement(sql);
 				ps.setInt(1, user_id);
-				ps.setInt(2, genreIds[i]);
+				ps.setInt(2, (int) genreIds.get(i));
 				ps.executeUpdate();
 			}
 			ps.close();

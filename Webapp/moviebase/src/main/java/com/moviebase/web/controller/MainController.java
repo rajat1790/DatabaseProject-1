@@ -1,5 +1,6 @@
 package com.moviebase.web.controller;
 
+import java.io.IOException;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -8,9 +9,12 @@ import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.stereotype.Controller;
+import org.springframework.validation.BindingResult;
+import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.ModelAndView;
 
 import com.moviebase.web.model.user.UserDao;
@@ -70,9 +74,33 @@ public class MainController {
 		List<Genre> genreList = genreDao.getAllGenres();
 		model.addObject("genres", genreList);
 		
+		User user = new User();
+		model.addObject("userForm", user);
+		
 		model.setViewName("login");
 
 		return model;
+
+	}
+	
+	@RequestMapping(value = "/adduser", method = RequestMethod.POST)
+	//public @ResponseBody
+	public ModelAndView createUser(@ModelAttribute("userForm") User user,
+			BindingResult result, @RequestParam("image") MultipartFile image) {
+		
+//		ModelAndView model = new ModelAndView();
+//		model.setViewName("redirect:/");
+		System.out.println("Came here");
+		if (!image.isEmpty()) {
+			try {
+				user.setPic(image.getBytes());
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+		userDao.insert(user);
+		return new ModelAndView("redirect:/admin");
 
 	}
 	
