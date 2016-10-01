@@ -20,6 +20,8 @@ import org.springframework.web.servlet.ModelAndView;
 import com.moviebase.web.model.user.UserDao;
 import com.moviebase.web.model.genre.Genre;
 import com.moviebase.web.model.genre.GenreDao;
+import com.moviebase.web.model.movie.Movie;
+import com.moviebase.web.model.movie.MovieDao;
 import com.moviebase.web.model.user.User;
 
 @Controller
@@ -29,6 +31,8 @@ public class MainController {
 	public UserDao userDao; 
 	@Autowired
 	public GenreDao genreDao;
+	@Autowired
+	public MovieDao movieDao;
 
 	@RequestMapping(value = { "/", "/welcome**" }, method = RequestMethod.GET)
 	public ModelAndView defaultPage() {
@@ -101,6 +105,41 @@ public class MainController {
 		}
 		userDao.insert(user);
 		return new ModelAndView("redirect:/admin");
+
+	}
+	
+	@RequestMapping(value = "/search", method = RequestMethod.POST)
+	//public @ResponseBody
+	public ModelAndView searchMovies(@RequestParam("search_param") String searchBy,
+			@RequestParam("search_term") String searchTerm) {
+		
+//		ModelAndView model = new ModelAndView();
+//		model.setViewName("redirect:/");
+		if(searchTerm.trim().length() == 0)
+			return new ModelAndView("redirect:/");
+		
+		ModelAndView model = new ModelAndView();
+		List<Movie> movieResults = null;
+		switch(searchBy) {
+		case "moviename":
+			movieResults = movieDao.findByName(searchTerm);
+			break;
+		case "actorname":
+			break;
+		case "genre":
+			break;
+		case "director":
+			movieResults = movieDao.findByDirector(searchTerm);
+			break;
+		}
+		for(Movie movie: movieResults) {
+			System.out.println("movie:" + movie);
+		}
+		model.addObject("numResults", movieResults.size());
+		model.addObject("movieResults", movieResults);
+		model.addObject("searchTerm", searchTerm);
+		model.setViewName("search");
+		return model;
 
 	}
 	

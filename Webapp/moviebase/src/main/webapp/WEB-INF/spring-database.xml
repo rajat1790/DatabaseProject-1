@@ -19,5 +19,9 @@
 	<bean id="genreDao" class="com.moviebase.web.model.genre.GenreDaoImpl">
 		<property name="dataSource" ref="dataSource" />
 	</bean>
+	
+	<bean id="movieDao" class="com.moviebase.web.model.movie.MovieDaoImpl">
+		<property name="dataSource" ref="dataSource" />
+	</bean>
 
 </beans>

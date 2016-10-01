@@ -7,7 +7,7 @@ public interface MovieDao {
 
 	public Movie findById(int id);
 
-	public List<Movie> findByNmae(String movieName);
+	public List<Movie> findByName(String movieName);
 
 	public List<Movie> findByYear(int year);
 

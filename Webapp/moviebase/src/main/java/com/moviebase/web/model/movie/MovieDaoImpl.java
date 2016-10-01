@@ -154,15 +154,15 @@ public class MovieDaoImpl implements MovieDao {
 	}
 
 	@Override
-	public List<Movie> findByNmae(String movieName) {
-		String sql = "SELECT * FROM movies WHERE name = ?";
+	public List<Movie> findByName(String movieName) {
+		String sql = "SELECT * FROM movies WHERE name LIKE ?";
 
 		Connection conn = null;
 
 		try {
 			conn = dataSource.getConnection();
 			PreparedStatement ps = conn.prepareStatement(sql);
-			ps.setString(1, movieName);
+			ps.setString(1, "%" + movieName + "%");
 			// Movie movie = null;
 			List<Movie> movies = new ArrayList<Movie>();
 			ResultSet rs = ps.executeQuery();
