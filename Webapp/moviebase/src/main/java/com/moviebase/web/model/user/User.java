@@ -3,6 +3,7 @@ package com.moviebase.web.model.user;
 import java.io.File;
 import java.sql.Date;
 import java.util.Arrays;
+import java.util.List;
 
 public class User {
 	int id;
@@ -12,17 +13,15 @@ public class User {
 	String name;
 	Date dob;
 	byte[] pic;
-	int[] genreId;
-	String[] genreName;
+	List<Integer> genreId;
+	List<String> genreName;
 	
+	public void setGenreName(List<String> genreName) {
+		this.genreName = genreName;
+	}
 	File image;
 	
-	@Override
-	public String toString() {
-		return "User [id=" + id + ", username=" + username + ", email=" + email + ", password=" + password + ", name="
-				+ name + ", dob=" + dob + ", pic=" + Arrays.toString(pic) + ", genreId=" + Arrays.toString(genreId)
-				+ ", genreName=" + Arrays.toString(genreName) + ", image=" + image + "]";
-	}
+	
 	public File getImage() {
 		return image;
 	}
@@ -72,16 +71,20 @@ public class User {
 	public void setPic(byte[] pic) {
 		this.pic = pic;
 	}
-	public int[] getGenreId() {
+	public List<Integer> getGenreId() {
 		return genreId;
 	}
-	public void setGenreId(int[] genreId) {
+	public void setGenreId(List<Integer> genreId) {
 		this.genreId = genreId;
 	}
-	public String[] getGenreName() {
+	public List<String> getGenreName() {
 		return genreName;
 	}
-	public void setGenreName(String[] genreName) {
-		this.genreName = genreName;
-	}	
+	@Override
+	public String toString() {
+		return "User [id=" + id + ", username=" + username + ", email=" + email + ", password=" + password + ", name="
+				+ name + ", dob=" + dob + ", pic=" + Arrays.toString(pic) + ", genreId=" + genreId + ", genreName="
+				+ genreName + ", image=" + image + "]";
+	}
+		
 }
