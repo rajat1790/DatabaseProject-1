@@ -6,12 +6,7 @@
 <body>
 
 	<jsp:include page="./navbar.jsp" />
-
-
-
-	<h1>Title : ${title}</h1>
-	<h1>Message : ${message}</h1>
-
+	
 	<sec:authorize access="hasRole('ROLE_USER')">
 		<!-- For login user -->
 		<c:url value="/j_spring_security_logout" var="logoutUrl" />
@@ -44,50 +39,35 @@
 			</div>
 		</c:if>
 
-		<h1>All Users</h1>
+
 
 		<table class="table table-striped">
-			<thead>
-				<tr>
-					<th>#</th>
-					<th>Movie</th>
-					<th>Year</th>
-					<th>Rating</th>
-					<th>Director</th>
-					<th>Actors</th>
-					<th>Genre</th>
-					<th>Duration</th>
-					<th>Action</th>
-				</tr>
-			</thead>
 
-			<c:forEach var="user" items="${users}">
-				<tr>
-					<td>${user.id}</td>
-					<td>${user.name}</td>
-					<td>${user.email}</td>
-					<td><c:forEach var="framework" items="${user.framework}"
-							varStatus="loop">
-					${framework}
-    				        <c:if test="${not loop.last}">,</c:if>
-						</c:forEach></td>
-					<td><spring:url value="/users/${user.id}" var="userUrl" /> <spring:url
-							value="/users/${user.id}/delete" var="deleteUrl" /> <spring:url
-							value="/users/${user.id}/update" var="updateUrl" />
+			<c:forEach items="${movies}" var="movie" varStatus="count">
+				<c:if test="${(count.index) % 3 == 0}">
+					<tr>
+				</c:if>
 
+				<td>
+					<div>
+						<img src="${movie.src}" style="width: 182px; height: 268px;" align="middle" /><br />
+						<c:out value="${movie.name}" />
+						<br />
 						<button class="btn btn-info" onclick="location.href='${userUrl}'">Query</button>
 						<button class="btn btn-primary"
 							onclick="location.href='${updateUrl}'">Update</button>
 						<button class="btn btn-danger"
 							onclick="this.disabled=true;post('${deleteUrl}')">Delete</button>
-					</td>
-				</tr>
+
+					</div>
+				</td>
+
+				<c:if test="${(count.index) % 3 == 2}">
+					</tr>
+				</c:if>
 			</c:forEach>
 		</table>
-
 	</div>
-
-
 
 </body>
 </html>

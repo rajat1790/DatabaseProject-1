@@ -11,6 +11,8 @@ import java.util.List;
 
 import javax.sql.DataSource;
 
+import com.sun.org.apache.xerces.internal.impl.dv.util.Base64;
+
 public class MovieDaoImpl implements MovieDao {
 
 	private DataSource dataSource;
@@ -271,6 +273,51 @@ public class MovieDaoImpl implements MovieDao {
 					movie.setPoster(rs.getBlob("poster").getBytes(1, (int) poster.length()));
 				}
 				movies.add(movie);
+			}
+
+			rs.close();
+			ps.close();
+			return movies;
+		} catch (SQLException e) {
+			throw new RuntimeException(e);
+		} finally {
+			if (conn != null) {
+				try {
+					conn.close();
+				} catch (SQLException e) {
+				}
+			}
+		}
+	}
+
+	@Override
+	public List<Movie> getFiftyMovies() {
+		String sql = "SELECT * FROM movies LIMIT 10";
+
+		Connection conn = null;
+
+		try {
+			conn = dataSource.getConnection();
+			PreparedStatement ps = conn.prepareStatement(sql);
+			// Movie movie = null;
+			List<Movie> movies = new ArrayList<Movie>();
+			ResultSet rs = ps.executeQuery();
+			while (rs.next()) {
+				Movie movie = new Movie();
+				movie.setId(rs.getInt("id"));
+				movie.setName(rs.getString("name"));
+				movie.setYear(rs.getInt("year"));
+				movie.setDuration(rs.getString("duration"));
+				movie.setCertificate(rs.getString("certificate"));
+				movie.setSummary(rs.getString("summary"));
+				movie.setDirector(rs.getString("director"));
+				movie.setRating(rs.getDouble("imdb_rating"));
+				Blob poster = rs.getBlob("poster");
+				if (poster != null) {
+					movie.setPoster(rs.getBlob("poster").getBytes(1, (int) poster.length()));
+				}
+				movies.add(movie);
+				movie.setSrc("data:image/png;base64," + Base64.encode(movie.getPoster()));
 			}
 
 			rs.close();

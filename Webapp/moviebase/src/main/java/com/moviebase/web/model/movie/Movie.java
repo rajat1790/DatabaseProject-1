@@ -14,6 +14,15 @@ public class Movie {
 	byte[] poster;
 	String[] genres;
 	String[] actors;
+	String src;
+
+	public String getSrc() {
+		return src;
+	}
+
+	public void setSrc(String src) {
+		this.src = src;
+	}
 
 	public String[] getGenres() {
 		return genres;
