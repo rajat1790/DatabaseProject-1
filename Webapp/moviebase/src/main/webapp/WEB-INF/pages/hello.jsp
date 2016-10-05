@@ -54,10 +54,16 @@
 						<c:out value="${movie.name}" />
 						<br />
 						<button class="btn btn-info" onclick="location.href='${userUrl}'">Query</button>
+						<c:url value="/addtolist" var="updateUrl">
+  							<c:param name="id" value="${movie.id}"></c:param>
+  						</c:url>
 						<button class="btn btn-primary"
 							onclick="location.href='${updateUrl}'">Update</button>
+						<c:url value="/deletemovie" var="deleteUrl">
+  							<c:param name="id" value="${movie.id}"></c:param>
+  						</c:url>
 						<button class="btn btn-danger"
-							onclick="this.disabled=true;post('${deleteUrl}')">Delete</button>
+							onclick="location.href='${deleteUrl}'">Delete</button>
 
 					</div>
 				</td>

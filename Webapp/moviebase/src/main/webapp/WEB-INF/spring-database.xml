@@ -23,5 +23,9 @@
 	<bean id="movieDao" class="com.moviebase.web.model.movie.MovieDaoImpl">
 		<property name="dataSource" ref="dataSource" />
 	</bean>
+	
+	<bean id="userMovieListDao" class="com.moviebase.web.model.userMovieList.UserMovieListDaoImpl">
+		<property name="dataSource" ref="dataSource" />
+	</bean>
 
 </beans>

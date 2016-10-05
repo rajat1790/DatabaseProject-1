@@ -23,29 +23,39 @@ import com.moviebase.web.model.movie.Movie;
 import com.moviebase.web.model.movie.MovieDao;
 import com.moviebase.web.model.user.User;
 import com.moviebase.web.model.user.UserDao;
+import com.moviebase.web.model.userMovieList.UserMovieList;
+import com.moviebase.web.model.userMovieList.UserMovieListDao;
 
 @Controller
 public class MainController {
-
+	int userId;
 	@Autowired
 	public UserDao userDao;
 	@Autowired
 	public GenreDao genreDao;
 	@Autowired
 	public MovieDao movieDao;
+	@Autowired
+	public UserMovieListDao userMovieListDao;
 
 	@RequestMapping(value = { "/", "/welcome**" }, method = RequestMethod.GET)
 	public ModelAndView defaultPage() {
 
-		List<Movie> movies = movieDao.getFiftyMovies();
+		
+		Authentication auth = SecurityContextHolder.getContext().getAuthentication();
+		String username = auth.getName(); // get logged in username
+		User user = userDao.findByUsername(username);
+		userId = user.getId();
+		List<Movie> movies = userMovieListDao.getMovieListOfUser(userId);
 		ModelAndView model = new ModelAndView();
+	
 		model.addObject("title", "Moviebase");
 		model.addObject("message", "This is default page!");
 		model.addObject("movies", movies);
 		model.setViewName("hello");
-		Authentication auth = SecurityContextHolder.getContext().getAuthentication();
-		String username = auth.getName(); // get logged in username
-		User user = userDao.findByUsername(username);
+		
+		System.out.println("get User Id:"+ user.getId());
+		System.out.println("User Id:" + userId);
 		System.out.println(user.toString());
 		return model;
 
@@ -144,8 +154,57 @@ public class MainController {
 		return model;
 
 	}
+	
+	@RequestMapping(value = "/addtolist", method = RequestMethod.GET)
+	//public @ResponseBody
+	public ModelAndView addToList(@RequestParam("id") int movieId) {
+		
+		ModelAndView model = new ModelAndView();
+		model.setViewName("addtolist");
+		Movie movie  =  movieDao.findById(movieId);
+		model.addObject("movie", movie);
+		boolean update = false;
+		UserMovieList userMovie = userMovieListDao.findByIds(userId, movieId);
+		if (userMovie == null) {
+			userMovie =  new UserMovieList();
+			userMovie.setMovieID(movieId);
+		} else {
+			update = true;
+		}
+		
+		model.addObject("addMovieForm", userMovie);
+		model.addObject("isUpdate", update);
+		return model;
 
-	// for 403 access denied page
+	}
+	
+	@RequestMapping(value = "/addtolist", method = RequestMethod.POST)
+	//public @ResponseBody
+	public ModelAndView addToList(@ModelAttribute("addMovieForm") UserMovieList userMovie, 
+			BindingResult result, @RequestParam("isUpdate") boolean isUpdate) {
+		
+		
+		//System.out.println("User Id:" + userId);
+		userMovie.setUserID(userId);
+		System.out.println("Came movie list insert/update:"+ userMovie.toString());
+		if(isUpdate) {
+			userMovieListDao.updateMovie(userMovie);
+		} else {
+			userMovieListDao.insertMovie(userMovie);
+		}
+		return new ModelAndView("redirect:/welcome");
+
+	}
+	
+	@RequestMapping(value = "/deletemovie", method = RequestMethod.GET)
+	public ModelAndView deleteMovie(@RequestParam("id") int movieId) {
+		
+		userMovieListDao.deleteMovie(userId, movieId);
+		return new ModelAndView("redirect:/welcome");
+
+	}
+	//for 403 access denied page
+
 	@RequestMapping(value = "/403", method = RequestMethod.GET)
 	public ModelAndView accesssDenied() {
 

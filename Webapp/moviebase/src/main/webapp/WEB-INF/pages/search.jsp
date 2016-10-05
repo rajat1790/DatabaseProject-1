@@ -20,11 +20,11 @@ hgroup h2.lead { font: normal normal 1.125em "Roboto",Arial,Verdana,sans-serif; 
 .search-result .thumbnail { border-radius: 0 !important; }
 .search-result:first-child { margin-top: 0 !important; }
 .search-result { margin-top: 20px; }
-.search-result .col-md-2 { border-right: 1px dotted #ccc; min-height: 140px; }
+.search-result .col-md-1 { border-right: 1px dotted #ccc; min-height: 140px; }
 .search-result ul { padding-left: 0 !important; list-style: none;  }
 .search-result ul li { font: 400 normal .85em "Roboto",Arial,Verdana,sans-serif;  line-height: 30px; }
 .search-result ul li i { padding-right: 5px; }
-.search-result .col-md-7 { position: relative; }
+.search-result .col-md-9 { position: relative; }
 .search-result h3 { font: 500 normal 1.375em "Roboto",Arial,Verdana,sans-serif; margin-top: 0 !important; margin-bottom: 10px !important; }
 .search-result h3 > a, .search-result i { color: #248dc1 !important; }
 .search-result p { font: normal normal 1.125em "Roboto",Arial,Verdana,sans-serif; } 
@@ -47,20 +47,24 @@ hgroup h2.lead { font: normal normal 1.125em "Roboto",Arial,Verdana,sans-serif; 
     <section class="col-xs-12 col-sm-6 col-md-12">
     <c:forEach items="${movieResults}" var="movie" varStatus="ctr">
 		<article class="search-result row">
-			<div class="col-xs-12 col-sm-12 col-md-3">
-				<a href="#" title="Lorem ipsum" class="thumbnail"><img src="http://lorempixel.com/250/140/people" alt="Lorem ipsum" /></a>
-			</div>
 			<div class="col-xs-12 col-sm-12 col-md-2">
+				<!-- <a href="#" title="Lorem ipsum" class="thumbnail"><img src="http://lorempixel.com/250/140/people" alt="Lorem ipsum" /></a> -->
+				<img src="${movie.src}" style="width: 152px; height: 182px;" align="middle" class="thumbnail" /><br />
+			</div>
+			<div class="col-xs-12 col-sm-12 col-md-1">
 				<ul class="meta-search">
 					<li><i class="glyphicon glyphicon-calendar"></i> <span>${movie.year}</span></li>
 					<li><i class="glyphicon glyphicon-time"></i> <span>${movie.duration}</span></li>
 					<li><i class="glyphicon glyphicon-star-empty"></i> <span>${movie.rating}</span></li>
 				</ul>
 			</div>
-			<div class="col-xs-12 col-sm-12 col-md-7 excerpet">
+			<div class="col-xs-12 col-sm-12 col-md-9 excerpet">
 				<h3>${movie.name}</h3>
-				<p>${movie.summary}</p>						
-                <span class="plus"><a href="#" title="Lorem ipsum"><i class="glyphicon glyphicon-plus"></i></a></span>
+				<p>${movie.summary}</p>
+				<c:url value="/addtolist" var="url">
+  					<c:param name="id" value="${movie.id}"></c:param>
+  				</c:url>						
+                <span class="plus"><a href="${url}" title="Add to List">Add to my list<i class="glyphicon glyphicon-plus"></i></a></span>
 			</div>
 			<span class="clearfix borda"></span>
 		</article>
