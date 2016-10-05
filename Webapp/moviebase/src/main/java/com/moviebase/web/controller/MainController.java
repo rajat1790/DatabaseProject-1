@@ -178,6 +178,24 @@ public class MainController {
 
 	}
 	
+	@RequestMapping(value = "/viewmovie", method = RequestMethod.GET)
+	//public @ResponseBody
+	public ModelAndView viewMovie(@RequestParam("id") int movieId) {
+		
+		ModelAndView model = new ModelAndView();
+		model.setViewName("addtolist");
+		Movie movie  =  movieDao.findById(movieId);
+		model.addObject("movie", movie);
+		boolean update = true;
+		UserMovieList userMovie = userMovieListDao.findByIds(userId, movieId);
+		
+		model.addObject("addMovieForm", userMovie);
+		model.addObject("isUpdate", update);
+		model.addObject("viewQuery", true);
+		return model;
+
+	}
+	
 	@RequestMapping(value = "/addtolist", method = RequestMethod.POST)
 	//public @ResponseBody
 	public ModelAndView addToList(@ModelAttribute("addMovieForm") UserMovieList userMovie, 

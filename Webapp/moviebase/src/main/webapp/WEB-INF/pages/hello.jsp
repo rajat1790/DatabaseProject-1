@@ -53,7 +53,10 @@
 						<img src="${movie.src}" style="width: 182px; height: 268px;" align="middle" /><br />
 						<c:out value="${movie.name}" />
 						<br />
-						<button class="btn btn-info" onclick="location.href='${userUrl}'">Query</button>
+						<c:url value="/viewmovie" var="viewURL">
+  							<c:param name="id" value="${movie.id}"></c:param>
+  						</c:url>
+						<button class="btn btn-info" onclick="location.href='${viewURL}'">View</button>
 						<c:url value="/addtolist" var="updateUrl">
   							<c:param name="id" value="${movie.id}"></c:param>
   						</c:url>

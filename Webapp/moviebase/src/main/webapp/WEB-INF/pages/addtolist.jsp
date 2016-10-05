@@ -53,7 +53,6 @@
 					</ul> -->
 				<div id="myTabContent" class="tab-content">
 						<div class="tab-pane fade in active" id="service-one">
-						 
 							<section class="container product-info">
 								 <form:form id="addToListForm" class="form-horizontal" role="form"  modelAttribute="addMovieForm"
 								action="./addtolist?${_csrf.parameterName}=${_csrf.token}"  method="POST">
@@ -68,7 +67,7 @@
 								<div class="col-md-9">
 									<%-- <form:input path="name" type="text" class="form-control"
 										name="name" placeholder="Name" /> --%>
-										<form:textarea path="comment" class="form-control" name="comment" placeholder="Your View..." />
+										<form:textarea path="comment" class="form-control" name="comment" placeholder="Your View..."/>
 										<!-- </textarea> -->
 								</div>
 							</div>
@@ -115,14 +114,33 @@
 						<input id="isUpdate" name="isUpdate" type="hidden" value="${isUpdate}"/>
 						<div class="form-group">
 							<!-- Button -->
-							<c:set var="button_name"  value="Add To List"/>
-							<c:if test="${isUpdate == true}">
-    							<c:set var="button_name"  value="Update"/>   
-							</c:if>
-							<div class="col-md-offset-3 col-md-9">
-								<input class="btn btn-info" id="tn-submit" name="submit"
-									type="submit" value="${button_name }" />
-							</div>
+							<c:choose>
+	    						<c:when test="${viewQuery == true}">
+	        						<div class="btn-group col-md-offset-6 cart button-update" >
+										<input class="btn btn-success" type="submit" name ="submit" value="Update"/>
+									</div>
+									<c:url value="/deletemovie" var="deleteUrl">
+  										<c:param name="id" value="${movie.id}"></c:param>
+  									</c:url>
+									<div class="btn-group wishlist">
+										<button type="button" onclick="location.href='${deleteUrl}'" class="btn btn-danger">
+											Delete 
+										</button>
+									</div>
+	    						</c:when>    
+    							<c:otherwise>
+        							<c:set var="button_name"  value="Add To List"/>
+									<c:if test="${isUpdate == true}">
+		    							<c:set var="button_name"  value="Update"/>   
+									</c:if>
+									<div class="col-md-offset-3 col-md-9">
+										<input class="btn btn-info" id="tn-submit" name="submit"
+											type="submit" value="${button_name }" />
+									</div>
+    							</c:otherwise>
+							</c:choose>
+							
+							
 						</div>
 					</form:form>
 					<%-- </form> --%>
