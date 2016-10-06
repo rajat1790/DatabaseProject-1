@@ -110,10 +110,18 @@
 											<div class="col-md-9">
 												<%-- <form:select multiple="true" path="genreId" name="genreNames"
 										class="form-control"> --%>
-												<form:select path="wishOrWatch" name="wishOrWatch"
+												<form:select path="wishOrWatch" name="wishOrWatch" value="wishOrWatch"
 													class="form-control">
-													<option id="0" value=0>Wishlist</option>
-													<option id="1" value=1>Watched</option>
+													<option id="0" value=0 >Wishlist</option>
+													<c:choose>
+														<c:when test="${not empty isWatched}">
+															<option id="1" value=1 selected>Watched</option>
+														</c:when>
+														<c:otherwise>
+															<option id="1" value=1 >Watched</option>
+														</c:otherwise>
+													</c:choose>
+													
 												</form:select>
 												<%-- </form:select> --%>
 											</div>

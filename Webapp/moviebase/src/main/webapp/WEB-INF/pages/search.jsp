@@ -64,11 +64,20 @@ hgroup h2.lead { font: normal normal 1.125em "Roboto",Arial,Verdana,sans-serif; 
 					<li><i class="glyphicon glyphicon-calendar"></i> <span>${movie.year}</span></li>
 					<li><i class="glyphicon glyphicon-time"></i> <span>${movie.duration}</span></li>
 					<li><i class="glyphicon glyphicon-star-empty"></i> <span>${movie.rating}</span></li>
+					<li><i class="glyphicon glyphicon-certificate"></i> <span>${movie.certificate}</span></li>
 				</ul>
 			</div>
 			<div class="col-xs-12 col-sm-12 col-md-9 excerpet">
 				<h3>${movie.name}</h3>
 				<p>${movie.summary}</p>
+				<ul class="meta-search">
+					<li><i class="glyphicon glyphicon-facetime-video"></i> <span>${movie.director}</span></li>
+					<li><i class="glyphicon glyphicon-user"></i>
+						<c:forEach items="${movie.actors}" var="actor" varStatus="count">
+							<span >${actor}&nbsp; &nbsp;</span>
+						</c:forEach>
+					</li>
+				</ul>
 				<c:url value="/addtolist" var="url">
   					<c:param name="id" value="${movie.id}"></c:param>
   				</c:url>						

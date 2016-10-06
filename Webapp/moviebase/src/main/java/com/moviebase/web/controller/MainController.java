@@ -255,6 +255,10 @@ public class MainController {
 			userMovie.setMovieID(movieId);
 		} else {
 			update = true;
+			if (userMovie.isWishOrWatch()) {
+				// This is in watched list. Set the appropriate one in update form.
+				model.addObject("isWatched", true);
+			}
 		}
 
 		model.addObject("addMovieForm", userMovie);
@@ -276,6 +280,10 @@ public class MainController {
 
 		model.addObject("addMovieForm", userMovie);
 		model.addObject("isUpdate", update);
+		if (userMovie.isWishOrWatch()) {
+			// This is in watched list. Set the appropriate one in update form.
+			model.addObject("isWatched", true);
+		}
 		model.addObject("viewQuery", true);
 		return returnModel(model);
 
@@ -313,7 +321,6 @@ public class MainController {
 		ModelAndView model = new ModelAndView();
 		model.setViewName("profile");
 		model.addObject("user", loggedInUser);
-		System.out.println("SRC:" + loggedInUser.getSrc());
 		return returnModel(model);
 
 	}
