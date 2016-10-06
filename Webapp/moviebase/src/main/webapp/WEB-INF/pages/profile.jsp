@@ -11,22 +11,29 @@
 </head>
 <body>
 	<jsp:include page="./navbar.jsp" />
-	
-<div class="container">
-	<div class="row">
-		<div class="col-md-offset-2 col-md-8 col-lg-offset-3 col-lg-6">
-    	 <div class="well profile">
-            <div class="col-sm-12">
-                <div class="col-xs-12 col-sm-8">
-                    <h2>${user.name}</h2>
-                    <p><strong>Email: </strong> ${user.email} </p>
-                    <p><strong>Username: </strong> ${user.username} </p>
-                    <p><strong>Date of Birth: </strong> ${user.dob} </p>
-                    <p><strong>Favorite Genres: </strong>
-                    	<c:forEach items="${user.genreName}" var="genre" varStatus="ctr">
-							<span class="tags">${genre}</span>
-						</c:forEach>
-                        <!-- <span class="tags">html5</span> 
+
+	<div class="container">
+		<div class="row">
+			<div class="col-md-offset-2 col-md-8 col-lg-offset-3 col-lg-6">
+				<div class="well profile">
+					<div class="col-sm-12">
+						<div class="col-xs-12 col-sm-8">
+							<h2>${user.name}</h2>
+							<p>
+								<strong>Email: </strong> ${user.email}
+							</p>
+							<p>
+								<strong>Username: </strong> ${user.username}
+							</p>
+							<p>
+								<strong>Date of Birth: </strong> ${user.dob}
+							</p>
+							<p>
+								<strong>Favorite Genres: </strong>
+								<c:forEach items="${user.genreName}" var="genre" varStatus="ctr">
+									<span class="tags">${genre}</span>
+								</c:forEach>
+								<!-- <span class="tags">html5</span> 
                         <span class="tags">css3</span>
                         <span class="tags">jquery</span>
                         <span class="tags">bootstrap3</span> -->
@@ -41,6 +48,14 @@
                         <img src="${user.src}" alt="" class=" img-circle img-profile" width="150" height="150">
                         
                         <!-- <figcaption class="ratings">
+							</p>
+						</div>
+						<div class="col-xs-12 col-sm-4 text-center">
+							<figure>
+								<img src="${user.src}" alt="" class=" img-circle img-profile"
+									width="150" height="150">
+
+								<!-- <figcaption class="ratings">
                             <p>Ratings
                             <a href="#">
                                 <span class="fa fa-star"></span>
@@ -59,10 +74,10 @@
                             </a> 
                             </p>
                         </figcaption> -->
-                    </figure>
-                </div>
-            </div>            
-            <!-- <div class="col-xs-12 divider text-center">
+							</figure>
+						</div>
+					</div>
+					<!-- <div class="col-xs-12 divider text-center">
                 <div class="col-xs-12 col-sm-4 emphasis">
                     <h2><strong> 20,7K </strong></h2>                    
                     <p><small>Followers</small></p>
@@ -93,9 +108,9 @@
                     </div>
                 </div>
             </div> -->
-    	 </div>                 
+				</div>
+			</div>
 		</div>
 	</div>
-</div>
 </body>
 </html>

@@ -1,6 +1,7 @@
 package com.moviebase.web.model.movie;
 
 import java.util.Arrays;
+import java.util.List;
 
 public class Movie {
 	int id;
@@ -12,8 +13,8 @@ public class Movie {
 	String director;
 	Double rating;
 	byte[] poster;
-	String[] genres;
-	String[] actors;
+	List<String> genres;
+	List<String> actors;
 	String src;
 
 	public String getSrc() {
@@ -24,19 +25,19 @@ public class Movie {
 		this.src = src;
 	}
 
-	public String[] getGenres() {
+	public List<String> getGenres() {
 		return genres;
 	}
 
-	public void setGenres(String[] genres) {
+	public void setGenres(List<String> genres) {
 		this.genres = genres;
 	}
 
-	public String[] getActors() {
+	public List<String> getActors() {
 		return actors;
 	}
 
-	public void setActors(String[] actors) {
+	public void setActors(List<String> actors) {
 		this.actors = actors;
 	}
 
@@ -116,7 +117,7 @@ public class Movie {
 	public String toString() {
 		return "Movie [id=" + id + ", name=" + name + ", year=" + year + ", duration=" + duration + ", certificate="
 				+ certificate + ", summary=" + summary + ", director=" + director + ", rating=" + rating + ", poster="
-				+ Arrays.toString(poster) + ", genres=" + Arrays.toString(genres) + ", actors="
-				+ Arrays.toString(actors) + "]";
+				+ Arrays.toString(poster) + ", genres=" + genres + ", actors=" + actors + ", src=" + src + "]";
 	}
+
 }

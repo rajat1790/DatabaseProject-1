@@ -50,11 +50,11 @@ public class MovieDaoImpl implements MovieDao {
 				throw new SQLException("No ID obtained in Movie.");
 			}
 
-			String[] actors = movie.getActors();
-			for (int i = 0; i < actors.length; i++) {
+			List<String> actors = movie.getActors();
+			for (int i = 0; i < actors.size(); i++) {
 				sql = "INSERT INTO actors (name) VALUES (?)";
 				ps = conn.prepareStatement(sql);
-				ps.setString(1, actors[i]);
+				ps.setString(1, actors.get(i));
 				ps.executeUpdate();
 			}
 
@@ -74,12 +74,12 @@ public class MovieDaoImpl implements MovieDao {
 				ps.executeUpdate();
 			}
 
-			String[] genres = movie.getGenres();
+			List<String> genres = movie.getGenres();
 			List<Integer> genreIds = new ArrayList<Integer>();
-			for (int i = 0; i < genres.length; i++) {
+			for (int i = 0; i < genres.size(); i++) {
 				sql = "SELECT genre_id FROM genre WHERE name = ?";
 				ps = conn.prepareStatement(sql);
-				ps.setString(1, genres[i]);
+				ps.setString(1, genres.get(i));
 				ResultSet resultSet = ps.executeQuery();
 				while (resultSet.next()) {
 					int genreId = resultSet.getInt("genre_id");
@@ -140,10 +140,42 @@ public class MovieDaoImpl implements MovieDao {
 					movie.setPoster(rs.getBlob("poster").getBytes(1, (int) poster.length()));
 				}
 				movie.setSrc("data:image/jpg;base64," + Base64.encode(movie.getPoster()));
+				movie.setActors(getMovieActors(id));
 			}
 			rs.close();
 			ps.close();
 			return movie;
+		} catch (SQLException e) {
+			throw new RuntimeException(e);
+		} finally {
+			if (conn != null) {
+				try {
+					conn.close();
+				} catch (SQLException e) {
+				}
+			}
+		}
+	}
+	
+	public List<String> getMovieActors(int id) {
+
+		String sql = "SELECT name FROM actors AS a INNER JOIN movie_actors ma "
+				+ "ON ma.movie_id = ? AND ma.actor_id = a.actor_id";
+
+		Connection conn = null;
+
+		try {
+			conn = dataSource.getConnection();
+			PreparedStatement ps = conn.prepareStatement(sql);
+			ps.setInt(1, id);
+			ResultSet rs = ps.executeQuery();
+			List<String> actors = new ArrayList<String>();
+			while (rs.next()) {
+				actors.add(rs.getString("name"));
+			}
+			rs.close();
+			ps.close();
+			return actors;
 		} catch (SQLException e) {
 			throw new RuntimeException(e);
 		} finally {
@@ -184,6 +216,7 @@ public class MovieDaoImpl implements MovieDao {
 					movie.setPoster(rs.getBlob("poster").getBytes(1, (int) poster.length()));
 				}
 				movie.setSrc("data:image/jpg;base64," + Base64.encode(movie.getPoster()));
+				movie.setActors(getMovieActors(movie.getId()));
 				movies.add(movie);
 			}
 
@@ -230,6 +263,7 @@ public class MovieDaoImpl implements MovieDao {
 					movie.setPoster(rs.getBlob("poster").getBytes(1, (int) poster.length()));
 				}
 				movie.setSrc("data:image/jpg;base64," + Base64.encode(movie.getPoster()));
+				movie.setActors(getMovieActors(movie.getId()));
 				movies.add(movie);
 			}
 
@@ -323,6 +357,7 @@ public class MovieDaoImpl implements MovieDao {
 					movie.setPoster(rs.getBlob("poster").getBytes(1, (int) poster.length()));
 				}
 				movie.setSrc("data:image/jpg;base64," + Base64.encode(movie.getPoster()));
+				movie.setActors(getMovieActors(movie.getId()));
 				movies.add(movie);
 			}
 
@@ -392,6 +427,7 @@ public class MovieDaoImpl implements MovieDao {
 			}
 		}
 	}
+	
 	@Override
 	public List<Movie> getFiftyMovies() {
 		String sql = "SELECT * FROM movies LIMIT 10";
@@ -420,6 +456,7 @@ public class MovieDaoImpl implements MovieDao {
 				}
 				movies.add(movie);
 				movie.setSrc("data:image/jpg;base64," + Base64.encode(movie.getPoster()));
+				movie.setActors(getMovieActors(movie.getId()));
 			}
 
 			rs.close();
