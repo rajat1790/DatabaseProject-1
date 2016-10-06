@@ -62,7 +62,7 @@ $(document).ready(function(e){
           </ul>
         </li> -->
       </ul>
-      <form class="navbar-form navbar-left" action="./search?${_csrf.parameterName}=${_csrf.token}" method="POST">
+      <form class="navbar-form navbar-left" action="./search?${_csrf.parameterName}=${_csrf.token}&page=1" method="POST">
 				<div class="input-group">
 				<div class="input-group-btn search-panel">
                     <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">

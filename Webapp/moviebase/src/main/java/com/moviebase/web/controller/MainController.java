@@ -72,14 +72,14 @@ public class MainController {
 		String emptymsg = null;
 		if (movies.size() == 0) {
 			if (listType == null) {
-				emptymsg = "You have not added any movie in your lists. Please add a few movies. You can add movies" +
-						" by searching a movie and then pressing the add button.";
-			} else if ((int)listType == 0) {
-				emptymsg = "You have not added any movie in your wishlist. Please add a few movies. You can add movies" +
-						" by searching a movie and then pressing the add button.";
+				emptymsg = "You have not added any movie in your lists. Please add a few movies. You can add movies"
+						+ " by searching a movie and then pressing the add button.";
+			} else if ((int) listType == 0) {
+				emptymsg = "You have not added any movie in your wishlist. Please add a few movies. You can add movies"
+						+ " by searching a movie and then pressing the add button.";
 			} else {
-				emptymsg = "You have not added any movie in your watched list. Please add a few movies. You can add movies" +
-						" by searching a movie and then pressing the add button.";
+				emptymsg = "You have not added any movie in your watched list. Please add a few movies. You can add movies"
+						+ " by searching a movie and then pressing the add button.";
 			}
 		}
 		ModelAndView model = new ModelAndView();
@@ -181,23 +181,26 @@ public class MainController {
 
 	}
 
-	@RequestMapping(value = "/search", method = RequestMethod.POST)
+	@RequestMapping(value = "/search", method = { RequestMethod.GET, RequestMethod.POST })
 	// public @ResponseBody
 	public ModelAndView searchMovies(@RequestParam("search_param") String searchBy,
-			@RequestParam(value = "search_term", required = false) String searchTerm) {
+			@RequestParam(value = "search_term", required = false) String searchTerm, @RequestParam("page") int page) {
 
 		// ModelAndView model = new ModelAndView();
 		// model.setViewName("redirect:/");
+		int recordsPerPage = 10;
+		System.out.println("Page Number : " + page);
 		if (searchTerm.trim().length() == 0)
 			return returnModel(new ModelAndView("redirect:/"));
 		System.out.println("Search Term:" + searchTerm);
 		if (searchBy.equals("genre")) {
-			searchTerm = searchTerm.substring(1);
+			if (searchTerm.charAt(0) == ',')
+				searchTerm = searchTerm.substring(1);
 			System.out.println("Search Term Genre:" + searchTerm);
 		} else {
 			int index = searchTerm.lastIndexOf(',');
-			searchTerm = searchTerm.substring(0, index);
-			System.out.println("Search Term Inside:" + searchTerm);
+			if (index != -1)
+				searchTerm = searchTerm.substring(0, index);
 		}
 		System.out.println("Search By:" + searchBy);
 		System.out.println("Search Term:" + searchTerm);
@@ -205,29 +208,37 @@ public class MainController {
 		List<Movie> movieResults = null;
 		switch (searchBy) {
 		case "moviename":
-			movieResults = movieDao.findByName(searchTerm);
+			movieResults = movieDao.findByName(searchTerm, (page - 1) * recordsPerPage, recordsPerPage);
 			break;
 		case "actorname":
-			movieResults = movieDao.findByActor(searchTerm);
+			movieResults = movieDao.findByActor(searchTerm, (page - 1) * recordsPerPage, recordsPerPage);
 			break;
 		case "genre":
-			movieResults = movieDao.findByGenre(genreKeyValue.get(searchTerm));
+			movieResults = movieDao.findByGenre(genreKeyValue.get(searchTerm), (page - 1) * recordsPerPage,
+					recordsPerPage);
 			break;
 		case "director":
-			movieResults = movieDao.findByDirector(searchTerm);
+			movieResults = movieDao.findByDirector(searchTerm, (page - 1) * recordsPerPage, recordsPerPage);
 			break;
 		}
-//		for (Movie movie : movieResults) {
-//			System.out.println("movie:" + movie);
-//		}
-		model.addObject("numResults", movieResults.size());
+		// for (Movie movie : movieResults) {
+		// System.out.println("movie:" + movie);
+		// }
+		int noOfRecords = movieDao.getNoOfRecords();
+		int noOfPages = noOfRecords / recordsPerPage;
+		if (noOfPages % recordsPerPage > 0)
+			noOfPages = noOfPages + 1;
+		model.addObject("numResults", noOfRecords);
+		System.out.println("Number of pages :" + noOfPages);
 		model.addObject("movieResults", movieResults);
 		model.addObject("searchTerm", searchTerm);
+		model.addObject("searchBy", searchBy);
+		model.addObject("noOfPages", noOfPages);
+		model.addObject("currentPage", page);
 		model.setViewName("search");
 		return returnModel(model);
 
 	}
-
 
 	@RequestMapping(value = "/addtolist", method = RequestMethod.GET)
 	// public @ResponseBody
@@ -302,6 +313,7 @@ public class MainController {
 		ModelAndView model = new ModelAndView();
 		model.setViewName("profile");
 		model.addObject("user", loggedInUser);
+		System.out.println("SRC:" + loggedInUser.getSrc());
 		return returnModel(model);
 
 	}
@@ -357,11 +369,11 @@ public class MainController {
 		return returnModel(model);
 
 	}
-	
+
 	public ModelAndView returnModel(ModelAndView model) {
 		if (genreList == null) {
 			genreList = genreDao.getAllGenres();
-			for(Genre genre: genreList) {
+			for (Genre genre : genreList) {
 				genreKeyValue.put(genre.getName(), genre.getId());
 			}
 		}

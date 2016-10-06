@@ -9,15 +9,16 @@ public interface MovieDao {
 
 	public Movie findById(int id);
 
-	public List<Movie> findByName(String movieName);
+	public List<Movie> findByName(String movieName, int offset, int recordsPerPage);
 
 	public List<Movie> findByYear(int year);
 
-	public List<Movie> findByDirector(String director);
-	
-	public List<Movie> findByGenre(int genre);
+	List<Movie> findByActor(String actorName, int offset, int recordsPerPage);
 
-	List<Movie> findByActor(String actorName);
-	
+	public List<Movie> findByDirector(String director, int offset, int recordsPerPage);
+
+	public List<Movie> findByGenre(int genre, int offset, int recordsPerPage);
+
+	public int getNoOfRecords();
 
 }

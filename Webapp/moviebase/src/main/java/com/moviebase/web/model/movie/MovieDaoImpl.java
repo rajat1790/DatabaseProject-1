@@ -16,6 +16,7 @@ import com.sun.org.apache.xerces.internal.impl.dv.util.Base64;
 public class MovieDaoImpl implements MovieDao {
 
 	private DataSource dataSource;
+	private int noOfRecords;
 
 	public void setDataSource(DataSource dataSource) {
 		this.dataSource = dataSource;
@@ -156,7 +157,7 @@ public class MovieDaoImpl implements MovieDao {
 			}
 		}
 	}
-	
+
 	public List<String> getMovieActors(int id) {
 
 		String sql = "SELECT name FROM actors AS a INNER JOIN movie_actors ma "
@@ -189,8 +190,9 @@ public class MovieDaoImpl implements MovieDao {
 	}
 
 	@Override
-	public List<Movie> findByName(String movieName) {
-		String sql = "SELECT * FROM movies WHERE name LIKE ?";
+	public List<Movie> findByName(String movieName, int offset, int recordsPerPage) {
+		String sql = "SELECT SQL_CALC_FOUND_ROWS * FROM movies WHERE name LIKE ? limit " + offset + ", "
+				+ recordsPerPage;
 
 		Connection conn = null;
 
@@ -221,6 +223,9 @@ public class MovieDaoImpl implements MovieDao {
 			}
 
 			rs.close();
+			rs = ps.executeQuery("SELECT FOUND_ROWS()");
+			if (rs.next())
+				this.noOfRecords = rs.getInt(1);
 			ps.close();
 			return movies;
 		} catch (SQLException e) {
@@ -233,6 +238,10 @@ public class MovieDaoImpl implements MovieDao {
 				}
 			}
 		}
+	}
+
+	public int getNoOfRecords() {
+		return this.noOfRecords;
 	}
 
 	@Override
@@ -283,8 +292,9 @@ public class MovieDaoImpl implements MovieDao {
 	}
 
 	@Override
-	public List<Movie> findByDirector(String director) {
-		String sql = "SELECT * FROM movies WHERE director LIKE ?";
+	public List<Movie> findByDirector(String director, int offset, int recordsPerPage) {
+		String sql = "SELECT SQL_CALC_FOUND_ROWS * FROM movies WHERE director LIKE ? limit " + offset + ", "
+				+ recordsPerPage;
 
 		Connection conn = null;
 
@@ -314,6 +324,9 @@ public class MovieDaoImpl implements MovieDao {
 			}
 
 			rs.close();
+			rs = ps.executeQuery("SELECT FOUND_ROWS()");
+			if (rs.next())
+				this.noOfRecords = rs.getInt(1);
 			ps.close();
 			return movies;
 		} catch (SQLException e) {
@@ -327,11 +340,11 @@ public class MovieDaoImpl implements MovieDao {
 			}
 		}
 	}
-	
+
 	@Override
-	public List<Movie> findByGenre(int genre) {
-		String sql =   "SELECT * FROM movies AS m INNER JOIN movie_genres g "
-				+ "ON g.genre_id = ? AND g.movie_id = m.id";
+	public List<Movie> findByGenre(int genre, int offset, int recordsPerPage) {
+		String sql = "SELECT SQL_CALC_FOUND_ROWS * FROM movies AS m INNER JOIN movie_genres g "
+				+ "ON g.genre_id = ? AND g.movie_id = m.id limit " + offset + ", " + recordsPerPage;
 
 		Connection conn = null;
 
@@ -362,6 +375,9 @@ public class MovieDaoImpl implements MovieDao {
 			}
 
 			rs.close();
+			rs = ps.executeQuery("SELECT FOUND_ROWS()");
+			if (rs.next())
+				this.noOfRecords = rs.getInt(1);
 			ps.close();
 			return movies;
 		} catch (SQLException e) {
@@ -375,10 +391,11 @@ public class MovieDaoImpl implements MovieDao {
 			}
 		}
 	}
-	
+
 	@Override
-	public List<Movie> findByActor(String actorName) {
-		String sql = "SELECT actor_id FROM actors WHERE name LIKE ?";
+	public List<Movie> findByActor(String actorName, int offset, int recordsPerPage) {
+		String sql = "SELECT SQL_CALC_FOUND_ROWS actor_id FROM actors WHERE name LIKE ? limit " + offset + ", "
+				+ recordsPerPage;
 		Connection conn = null;
 
 		try {
@@ -390,7 +407,7 @@ public class MovieDaoImpl implements MovieDao {
 			ResultSet rs = ps.executeQuery();
 			if (rs.next()) {
 				int actorId = rs.getInt("actor_id");
-				sql =   "SELECT * FROM movies AS m INNER JOIN movie_actors a "
+				sql = "SELECT * FROM movies AS m INNER JOIN movie_actors a "
 						+ "ON a.actor_id = ? AND a.movie_id = m.id";
 				ps = conn.prepareStatement(sql);
 				ps.setInt(1, actorId);
@@ -414,6 +431,9 @@ public class MovieDaoImpl implements MovieDao {
 				}
 			}
 			rs.close();
+			rs = ps.executeQuery("SELECT FOUND_ROWS()");
+			if (rs.next())
+				this.noOfRecords = rs.getInt(1);
 			ps.close();
 			return movies;
 		} catch (SQLException e) {
@@ -427,7 +447,7 @@ public class MovieDaoImpl implements MovieDao {
 			}
 		}
 	}
-	
+
 	@Override
 	public List<Movie> getFiftyMovies() {
 		String sql = "SELECT * FROM movies LIMIT 10";

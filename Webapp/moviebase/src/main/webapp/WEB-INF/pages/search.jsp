@@ -43,6 +43,14 @@ hgroup h2.lead { font: normal normal 1.125em "Roboto",Arial,Verdana,sans-serif; 
 		<h1>Search Results</h1>
 		<h2 class="lead"><strong class="text-danger">${numResults}</strong> results were found for the search for <strong class="text-danger">${searchTerm}</strong></h2>								
 	</hgroup>
+	
+	<input type ="hidden" name="search_param" value="${searchBy} }"/>
+	<input type ="hidden" name="search_term" value="${searchTerm} }"/>
+	
+	<%--For displaying Previous link except for the 1st page --%>
+    <c:if test="${currentPage != 1}">
+        <td><a href="./search?page=${currentPage - 1}&search_param=${searchBy}&search_term=${searchTerm}">Previous</a></td>
+    </c:if>
 
     <section class="col-xs-12 col-sm-6 col-md-12">
     <c:forEach items="${movieResults}" var="movie" varStatus="ctr">
@@ -70,6 +78,12 @@ hgroup h2.lead { font: normal normal 1.125em "Roboto",Arial,Verdana,sans-serif; 
 		</article>
 	</c:forEach>
 	</section>
+	
+	<%--For displaying Next link --%>
+    <c:if test="${currentPage lt noOfPages}">
+        <td><a href="./search?page=${currentPage + 1}&search_param=${searchBy}&search_term=${searchTerm}">Next</a></td>
+    </c:if>
+	
 </div>
 </body>
 </html>
