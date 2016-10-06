@@ -449,8 +449,8 @@ public class MovieDaoImpl implements MovieDao {
 	}
 
 	@Override
-	public List<Movie> getFiftyMovies() {
-		String sql = "SELECT * FROM movies LIMIT 10";
+	public List<Movie> getAllMovies(int offset, int recordsPerPage) {
+		String sql = "SELECT SQL_CALC_FOUND_ROWS * FROM movies limit " + offset + ", " + recordsPerPage;
 
 		Connection conn = null;
 
@@ -480,6 +480,9 @@ public class MovieDaoImpl implements MovieDao {
 			}
 
 			rs.close();
+			rs = ps.executeQuery("SELECT FOUND_ROWS()");
+			if (rs.next())
+				this.noOfRecords = rs.getInt(1);
 			ps.close();
 			return movies;
 		} catch (SQLException e) {

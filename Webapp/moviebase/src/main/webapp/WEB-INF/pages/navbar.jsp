@@ -38,7 +38,7 @@ $(document).ready(function(e){
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="./welcome">MovieBase</a>
+      <a class="navbar-brand" href="./home?page=1">MovieBase</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->

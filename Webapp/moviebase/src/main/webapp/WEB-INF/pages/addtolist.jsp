@@ -59,6 +59,8 @@
 
 				</div>
 			</div>
+			<c:choose>
+			<c:when test="${viewDetails == false}">
 			<div class="container-fluid">
 				<div class="col-md-12 product-info">
 					<!-- <ul id="myTab" class="nav nav-tabs nav_tabs">
@@ -189,6 +191,8 @@
 					<hr>
 				</div>
 			</div>
+			</c:when>
+			</c:choose>
 		</div>
 	</div>
 </body>

@@ -56,9 +56,53 @@ public class MainController {
 		binder.setValidator(userFormValidator);
 	}
 
-	@RequestMapping(value = { "/", "/welcome**" }, method = RequestMethod.GET)
+	@RequestMapping(value = { "/", "/home" }, method = { RequestMethod.GET, RequestMethod.POST })
 
-	public ModelAndView defaultPage(@RequestParam(value = "param", required = false) Integer listType) {
+	public ModelAndView homePage(@RequestParam(value = "page", required = false) Integer page) {
+
+		if (loggedInUser == null) {
+			Authentication auth = SecurityContextHolder.getContext().getAuthentication();
+			String username = auth.getName(); // get logged in username
+			User user = userDao.findByUsername(username);
+			userId = user.getId();
+			loggedInUser = user;
+		}
+		int pageNo = 0;
+		if (page == null)
+			pageNo = 1;
+
+		int recordsPerPage = 15;
+		ModelAndView model = new ModelAndView();
+		List<Movie> movies = movieDao.getAllMovies((pageNo - 1) * recordsPerPage, recordsPerPage);
+		String emptymsg = null;
+		if (movies.size() == 0) {
+			emptymsg = "There are no movies to show in our database";
+		}
+		model.addObject("genres", genreList);
+		model.addObject("movies", movies);
+		model.addObject("emptymsg", emptymsg);
+
+		int noOfRecords = movieDao.getNoOfRecords();
+		int noOfPages = noOfRecords / recordsPerPage;
+		if (noOfPages % recordsPerPage > 0)
+			noOfPages = noOfPages + 1;
+		model.addObject("numResults", noOfRecords);
+		System.out.println("Number of pages :" + noOfPages);
+		model.addObject("noOfPages", noOfPages);
+		model.addObject("currentPage", pageNo);
+
+		model.setViewName("home");
+
+		// System.out.println("get User Id:"+ user.getId());
+		System.out.println("User Id:" + userId);
+		// System.out.println(user.toString());
+		return returnModel(model);
+
+	}
+
+	@RequestMapping(value = { "/welcome**" }, method = RequestMethod.GET)
+
+	public ModelAndView welcomePage(@RequestParam(value = "param", required = false) Integer listType) {
 
 		if (loggedInUser == null) {
 			Authentication auth = SecurityContextHolder.getContext().getAuthentication();
@@ -249,6 +293,8 @@ public class MainController {
 		Movie movie = movieDao.findById(movieId);
 		model.addObject("movie", movie);
 		boolean update = false;
+		boolean viewdetails = false;
+		model.addObject("viewDetails", viewdetails);
 		UserMovieList userMovie = userMovieListDao.findByIds(userId, movieId);
 		if (userMovie == null) {
 			userMovie = new UserMovieList();
@@ -256,7 +302,8 @@ public class MainController {
 		} else {
 			update = true;
 			if (userMovie.isWishOrWatch()) {
-				// This is in watched list. Set the appropriate one in update form.
+				// This is in watched list. Set the appropriate one in update
+				// form.
 				model.addObject("isWatched", true);
 			}
 		}
@@ -278,6 +325,9 @@ public class MainController {
 		boolean update = true;
 		UserMovieList userMovie = userMovieListDao.findByIds(userId, movieId);
 
+		boolean viewdetails = false;
+		model.addObject("viewDetails", viewdetails);
+
 		model.addObject("addMovieForm", userMovie);
 		model.addObject("isUpdate", update);
 		if (userMovie.isWishOrWatch()) {
@@ -285,6 +335,21 @@ public class MainController {
 			model.addObject("isWatched", true);
 		}
 		model.addObject("viewQuery", true);
+		return returnModel(model);
+
+	}
+
+	@RequestMapping(value = "/viewmoviedetails", method = RequestMethod.GET)
+	// public @ResponseBody
+	public ModelAndView viewMovieDetails(@RequestParam("id") int movieId) {
+
+		ModelAndView model = new ModelAndView();
+		model.setViewName("addtolist");
+		Movie movie = movieDao.findById(movieId);
+		model.addObject("movie", movie);
+
+		boolean viewdetails = true;
+		model.addObject("viewDetails", viewdetails);
 		return returnModel(model);
 
 	}
@@ -332,25 +397,6 @@ public class MainController {
 		ModelAndView model = new ModelAndView();
 		model.setViewName("calendar");
 		// model.addObject("user", loggedInUser);
-		return returnModel(model);
-
-	}
-
-	// for 403 access denied page
-
-	@RequestMapping(value = "/detail", method = RequestMethod.GET)
-	public ModelAndView detailPage() {
-
-		List<Movie> movies = movieDao.getFiftyMovies();
-		ModelAndView model = new ModelAndView();
-		model.addObject("title", "Moviebase");
-		model.addObject("message", "This is default page!");
-		model.addObject("movies", movies);
-		model.setViewName("detail");
-		Authentication auth = SecurityContextHolder.getContext().getAuthentication();
-		String username = auth.getName(); // get logged in username
-		User user = userDao.findByUsername(username);
-		System.out.println(user.toString());
 		return returnModel(model);
 
 	}

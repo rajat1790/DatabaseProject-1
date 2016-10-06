@@ -124,63 +124,7 @@ hgroup h2.lead {
 	<jsp:include page="./navbar.jsp" />
 	<div class="container">
 
-<<<<<<< Updated upstream
-    <hgroup class="mb20">
-		<h1>Search Results</h1>
-		<h2 class="lead"><strong class="text-danger">${numResults}</strong> results were found for the search for <strong class="text-danger">${searchTerm}</strong></h2>								
-	</hgroup>
-	
-	<input type ="hidden" name="search_param" value="${searchBy} }"/>
-	<input type ="hidden" name="search_term" value="${searchTerm} }"/>
-	
-	<%--For displaying Previous link except for the 1st page --%>
-    <c:if test="${currentPage != 1}">
-        <td><a href="./search?page=${currentPage - 1}&search_param=${searchBy}&search_term=${searchTerm}">Previous</a></td>
-    </c:if>
 
-    <section class="col-xs-12 col-sm-6 col-md-12">
-    <c:forEach items="${movieResults}" var="movie" varStatus="ctr">
-		<article class="search-result row">
-			<div class="col-xs-12 col-sm-12 col-md-2">
-				<!-- <a href="#" title="Lorem ipsum" class="thumbnail"><img src="http://lorempixel.com/250/140/people" alt="Lorem ipsum" /></a> -->
-				<img src="${movie.src}" style="width: 152px; height: 182px;" align="middle" class="thumbnail" /><br />
-			</div>
-			<div class="col-xs-12 col-sm-12 col-md-1">
-				<ul class="meta-search">
-					<li><i class="glyphicon glyphicon-calendar"></i> <span>${movie.year}</span></li>
-					<li><i class="glyphicon glyphicon-time"></i> <span>${movie.duration}</span></li>
-					<li><i class="glyphicon glyphicon-star-empty"></i> <span>${movie.rating}</span></li>
-					<li><i class="glyphicon glyphicon-certificate"></i> <span>${movie.certificate}</span></li>
-				</ul>
-			</div>
-			<div class="col-xs-12 col-sm-12 col-md-9 excerpet">
-				<h3>${movie.name}</h3>
-				<p>${movie.summary}</p>
-				<ul class="meta-search">
-					<li><i class="glyphicon glyphicon-facetime-video"></i> <span>${movie.director}</span></li>
-					<li><i class="glyphicon glyphicon-user"></i>
-						<c:forEach items="${movie.actors}" var="actor" varStatus="count">
-							<span >${actor}&nbsp; &nbsp;</span>
-						</c:forEach>
-					</li>
-				</ul>
-				<c:url value="/addtolist" var="url">
-  					<c:param name="id" value="${movie.id}"></c:param>
-  				</c:url>						
-                <span class="plus"><a href="${url}" title="Add to List">Add to my list<i class="glyphicon glyphicon-plus"></i></a></span>
-			</div>
-			<span class="clearfix borda"></span>
-		</article>
-	</c:forEach>
-	</section>
-	
-	<%--For displaying Next link --%>
-    <c:if test="${currentPage lt noOfPages}">
-        <td><a href="./search?page=${currentPage + 1}&search_param=${searchBy}&search_term=${searchTerm}">Next</a></td>
-    </c:if>
-	
-</div>
-=======
 		<hgroup class="mb20">
 			<h1>Search Results</h1>
 			<h2 class="lead">
@@ -256,11 +200,19 @@ hgroup h2.lead {
 							<li><i class="glyphicon glyphicon-calendar"></i> <span>${movie.year}</span></li>
 							<li><i class="glyphicon glyphicon-time"></i> <span>${movie.duration}</span></li>
 							<li><i class="glyphicon glyphicon-star-empty"></i> <span>${movie.rating}</span></li>
+							<li><i class="glyphicon glyphicon-certificate"></i> <span>${movie.certificate}</span></li>
 						</ul>
 					</div>
 					<div class="col-xs-12 col-sm-12 col-md-9 excerpet">
 						<h3>${movie.name}</h3>
 						<p>${movie.summary}</p>
+						<ul class="meta-search">
+							<li><i class="glyphicon glyphicon-facetime-video"></i> <span>${movie.director}</span></li>
+							<li><i class="glyphicon glyphicon-user"></i> <c:forEach
+									items="${movie.actors}" var="actor" varStatus="count">
+									<span>${actor}&nbsp; &nbsp;</span>
+								</c:forEach></li>
+						</ul>
 						<c:url value="/addtolist" var="url">
 							<c:param name="id" value="${movie.id}"></c:param>
 						</c:url>
@@ -325,10 +277,6 @@ hgroup h2.lead {
 			</tr>
 		</table>
 
-
-
-
 	</div>
->>>>>>> Stashed changes
 </body>
 </html>

@@ -5,7 +5,7 @@ import java.util.List;
 public interface MovieDao {
 	public void insert(Movie movie);
 
-	public List<Movie> getFiftyMovies();
+	public List<Movie> getAllMovies(int offset, int recordsPerPage);
 
 	public Movie findById(int id);
 
