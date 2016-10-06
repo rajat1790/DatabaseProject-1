@@ -8,6 +8,7 @@ import org.springframework.validation.ValidationUtils;
 import org.springframework.validation.Validator;
 
 import com.moviebase.web.model.user.User;
+import com.moviebase.web.model.user.UserDao;
 
 @Component
 public class UserFormValidator implements Validator {
@@ -15,6 +16,9 @@ public class UserFormValidator implements Validator {
 	@Autowired
 	@Qualifier("emailValidator")
 	EmailValidator emailValidator;
+
+	@Autowired
+	public UserDao userDao;
 
 	@Override
 	public boolean supports(Class<?> clazz) {
@@ -39,11 +43,9 @@ public class UserFormValidator implements Validator {
 			errors.rejectValue("genreName", "Please select at least one genre!");
 		}
 
-		/*
-		 * if (user.getPic() != null && user.getPic().length > 10000000) {
-		 * errors.rejectValue("pic",
-		 * "Please select an image of less that 10MB in size"); }
-		 */
+		if (user.getUsername() != null && userDao.findIdByUsername(user.getUsername()) != -1) {
+			errors.rejectValue("username", "Username already exists!");
+		}
 
 	}
 
