@@ -15,7 +15,14 @@ public class User {
 	byte[] pic;
 	List<Integer> genreId;
 	List<String> genreName;
+	String src;
 	
+	public String getSrc() {
+		return src;
+	}
+	public void setSrc(String src) {
+		this.src = src;
+	}
 	public void setGenreName(List<String> genreName) {
 		this.genreName = genreName;
 	}

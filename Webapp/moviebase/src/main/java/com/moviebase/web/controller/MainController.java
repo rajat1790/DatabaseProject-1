@@ -29,6 +29,7 @@ import com.moviebase.web.model.userMovieList.UserMovieListDao;
 @Controller
 public class MainController {
 	int userId;
+	User loggedInUser = null;
 	@Autowired
 	public UserDao userDao;
 	@Autowired
@@ -41,11 +42,14 @@ public class MainController {
 	@RequestMapping(value = { "/", "/welcome**" }, method = RequestMethod.GET)
 	public ModelAndView defaultPage() {
 
+		if (loggedInUser == null) {
+			Authentication auth = SecurityContextHolder.getContext().getAuthentication();
+			String username = auth.getName(); // get logged in username
+			User user = userDao.findByUsername(username);
+			userId = user.getId();
+			loggedInUser = user;
+		}
 		
-		Authentication auth = SecurityContextHolder.getContext().getAuthentication();
-		String username = auth.getName(); // get logged in username
-		User user = userDao.findByUsername(username);
-		userId = user.getId();
 		List<Movie> movies = userMovieListDao.getMovieListOfUser(userId);
 		ModelAndView model = new ModelAndView();
 	
@@ -54,9 +58,9 @@ public class MainController {
 		model.addObject("movies", movies);
 		model.setViewName("hello");
 		
-		System.out.println("get User Id:"+ user.getId());
+		//System.out.println("get User Id:"+ user.getId());
 		System.out.println("User Id:" + userId);
-		System.out.println(user.toString());
+		//System.out.println(user.toString());
 		return model;
 
 	}
@@ -221,6 +225,30 @@ public class MainController {
 		return new ModelAndView("redirect:/welcome");
 
 	}
+	
+	@RequestMapping(value = "/profile", method = RequestMethod.GET)
+	//public @ResponseBody
+	public ModelAndView userProfile() {
+		
+		ModelAndView model = new ModelAndView();
+		model.setViewName("profile");
+		model.addObject("user", loggedInUser);
+		return model;
+
+	}
+	
+	
+	@RequestMapping(value = "/calendar", method = RequestMethod.GET)
+	//public @ResponseBody
+	public ModelAndView calendar() {
+		
+		ModelAndView model = new ModelAndView();
+		model.setViewName("calendar");
+		//model.addObject("user", loggedInUser);
+		return model;
+
+	}
+	
 	//for 403 access denied page
 
 	@RequestMapping(value = "/403", method = RequestMethod.GET)

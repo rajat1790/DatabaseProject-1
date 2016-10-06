@@ -6,11 +6,14 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
+import java.util.ArrayList;
 import java.util.List;
 
 import javax.sql.DataSource;
 
 import org.springframework.stereotype.Repository;
+
+import com.sun.org.apache.xerces.internal.impl.dv.util.Base64;
 
 @Repository
 public class UserDaoImpl implements UserDao {
@@ -139,6 +142,8 @@ public class UserDaoImpl implements UserDao {
 				if (pic != null) {
 					user.setPic(pic.getBytes(1, (int) pic.length()));
 				}
+				user.setSrc("data:image/jpg;base64," + Base64.encode(user.getPic()));
+				user.setGenreName(getFavoriteGenres(user.getId()));
 
 			}
 			rs.close();
@@ -154,6 +159,38 @@ public class UserDaoImpl implements UserDao {
 				}
 			}
 		}
+	}
+	
+	public List<String> getFavoriteGenres(int id) {
+		
+		String sql = "SELECT name FROM genre AS g INNER JOIN user_genre_choices u "
+				+ "ON u.user_id = ? AND u.genre_id = g.genre_id";
+		
+		Connection conn = null;
+
+		try {
+			conn = dataSource.getConnection();
+			PreparedStatement ps = conn.prepareStatement(sql);
+			ps.setInt(1, id);
+			ResultSet rs = ps.executeQuery();
+			List<String> genreNames = new ArrayList<String>();
+			while (rs.next()) {
+				genreNames.add(rs.getString("name"));
+			}
+			rs.close();
+			ps.close();
+			return genreNames;
+		} catch (SQLException e) {
+			throw new RuntimeException(e);
+		} finally {
+			if (conn != null) {
+				try {
+					conn.close();
+				} catch (SQLException e) {
+				}
+			}
+		}
+		
 	}
 
 	@Override
