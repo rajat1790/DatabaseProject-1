@@ -23,7 +23,6 @@ public class UserFormValidator implements Validator {
 
 	@Override
 	public void validate(Object target, Errors errors) {
-		System.out.println("Check bhosda");
 		User user = (User) target;
 
 		ValidationUtils.rejectIfEmptyOrWhitespace(errors, "name", "Name is required!");
@@ -40,9 +39,11 @@ public class UserFormValidator implements Validator {
 			errors.rejectValue("genreName", "Please select at least one genre!");
 		}
 
-		if (user.getPic() != null && user.getPic().length > 10000000) {
-			errors.rejectValue("pic", "Please select an image of less that 10MB in size");
-		}
+		/*
+		 * if (user.getPic() != null && user.getPic().length > 10000000) {
+		 * errors.rejectValue("pic",
+		 * "Please select an image of less that 10MB in size"); }
+		 */
 
 	}
 

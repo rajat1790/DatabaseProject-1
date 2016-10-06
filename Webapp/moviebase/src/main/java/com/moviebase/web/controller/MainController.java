@@ -48,7 +48,7 @@ public class MainController {
 
 	String errors = "";
 
-	@InitBinder
+	@InitBinder("userForm")
 	protected void initBinder(WebDataBinder binder) {
 		binder.setValidator(userFormValidator);
 	}
