@@ -68,9 +68,16 @@ public class UserMovieListDaoImpl implements UserMovieListDao {
 	}
 
 	@Override
-	public List<Movie> getMovieListOfUser(int userId) {
-		String sql = "SELECT * FROM movies AS m INNER JOIN user_movie_list u "
-				+ "ON u.user_id = ? AND u.movie_id = m.id";
+	public List<Movie> getMovieListOfUser(int userId, Integer listType) {
+		String sql;
+		if (listType != null) {
+			sql = "SELECT * FROM movies AS m INNER JOIN user_movie_list u "
+					+ "ON u.user_id = ? AND u.wish_or_watch = ? AND u.movie_id = m.id";
+		} else {
+			sql = "SELECT * FROM movies AS m INNER JOIN user_movie_list u "
+					+ "ON u.user_id = ? AND u.movie_id = m.id";
+		}
+		
 
 		Connection conn = null;
 
@@ -78,6 +85,9 @@ public class UserMovieListDaoImpl implements UserMovieListDao {
 			conn = dataSource.getConnection();
 			PreparedStatement ps = conn.prepareStatement(sql);
 			ps.setInt(1, userId);
+			if (listType != null) {
+				ps.setBoolean(2, (int)listType > 0);
+			}
 			// Movie movie = null;
 			List<Movie> movies = new ArrayList<Movie>();
 			ResultSet rs = ps.executeQuery();

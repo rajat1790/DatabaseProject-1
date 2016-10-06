@@ -7,7 +7,7 @@
 
 	<jsp:include page="./navbar.jsp" />
 	
-	<sec:authorize access="hasRole('ROLE_USER')">
+	<%-- <sec:authorize access="hasRole('ROLE_USER')">
 		<!-- For login user -->
 		<c:url value="/j_spring_security_logout" var="logoutUrl" />
 		<form action="${logoutUrl}" method="post" id="logoutForm">
@@ -26,7 +26,7 @@
 					href="javascript:formSubmit()"> Logout</a>
 			</h2>
 		</c:if>
-	</sec:authorize>
+	</sec:authorize> --%>
 	<div class="container">
 
 		<c:if test="${not empty msg}">
@@ -37,6 +37,15 @@
 				</button>
 				<strong>${msg}</strong>
 			</div>
+		</c:if>
+		<c:if test="${not empty emptymsg }">
+			<div class="row text-center">
+		        <div class="col-sm-6 col-sm-offset-3">
+		        <br><br> <h3 style="color:#0fad00">OOPS!!</h3>
+		        <p style="font-size:20px;color:#5C5C5C;">${emptymsg}</p>
+		    	<br><br>
+		        </div>
+		   </div>
 		</c:if>
 
 

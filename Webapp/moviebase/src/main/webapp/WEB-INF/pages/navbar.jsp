@@ -45,6 +45,8 @@ $(document).ready(function(e){
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li class="active"><a href="./welcome">Home</a></li>
+        <li><a href="./welcome?param=0">My Wishlist</a></li>
+        <li><a href="./welcome?param=1">My Watched List</a></li>
          <li ><a href="./calendar">My Calendar</a></li>
         <!-- <li><a href="#">Link</a></li>
         <li class="dropdown">

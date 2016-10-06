@@ -58,7 +58,7 @@ public class MainController {
 
 	@RequestMapping(value = { "/", "/welcome**" }, method = RequestMethod.GET)
 
-	public ModelAndView defaultPage() {
+	public ModelAndView defaultPage(@RequestParam(value = "param", required = false) Integer listType) {
 
 		if (loggedInUser == null) {
 			Authentication auth = SecurityContextHolder.getContext().getAuthentication();
@@ -68,12 +68,26 @@ public class MainController {
 			loggedInUser = user;
 		}
 
-		List<Movie> movies = userMovieListDao.getMovieListOfUser(userId);
+		List<Movie> movies = userMovieListDao.getMovieListOfUser(userId, listType);
+		String emptymsg = null;
+		if (movies.size() == 0) {
+			if (listType == null) {
+				emptymsg = "You have not added any movie in your lists. Please add a few movies. You can add movies" +
+						" by searching a movie and then pressing the add button.";
+			} else if ((int)listType == 0) {
+				emptymsg = "You have not added any movie in your wishlist. Please add a few movies. You can add movies" +
+						" by searching a movie and then pressing the add button.";
+			} else {
+				emptymsg = "You have not added any movie in your watched list. Please add a few movies. You can add movies" +
+						" by searching a movie and then pressing the add button.";
+			}
+		}
 		ModelAndView model = new ModelAndView();
 		model.addObject("genres", genreList);
 		model.addObject("title", "Moviebase");
 		model.addObject("message", "This is default page!");
 		model.addObject("movies", movies);
+		model.addObject("emptymsg", emptymsg);
 		model.setViewName("hello");
 
 		// System.out.println("get User Id:"+ user.getId());
@@ -194,6 +208,7 @@ public class MainController {
 			movieResults = movieDao.findByName(searchTerm);
 			break;
 		case "actorname":
+			movieResults = movieDao.findByActor(searchTerm);
 			break;
 		case "genre":
 			movieResults = movieDao.findByGenre(genreKeyValue.get(searchTerm));
@@ -287,7 +302,6 @@ public class MainController {
 		ModelAndView model = new ModelAndView();
 		model.setViewName("profile");
 		model.addObject("user", loggedInUser);
-		System.out.println("SRC:"+ loggedInUser.getSrc());
 		return returnModel(model);
 
 	}
