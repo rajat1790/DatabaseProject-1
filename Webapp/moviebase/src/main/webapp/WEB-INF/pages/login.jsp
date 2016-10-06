@@ -22,10 +22,13 @@
 	
 </script>
 
-<link href="$../../resources/css/mylogin.css" rel="stylesheet" type="text/css"/>
+<link href="$../../resources/css/mylogin.css" rel="stylesheet"
+	type="text/css" />
 
 </head>
+
 <body>
+
 	<div class="container">
 		<div id="loginbox" style="margin-top: 50px;"
 			class="mainbox col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
@@ -76,8 +79,7 @@
 							<div class="col-md-12 control">
 								<div
 									style="border-top: 1px solid #888; padding-top: 15px; font-size: 85%">
-									Don't have an account! <a href="#"
-										onClick="$('#loginbox').hide(); $('#signupbox').show()">
+									Don't have an account! <a href="./signup">
 										Sign Up Here </a>
 								</div>
 							</div>
@@ -86,121 +88,7 @@
 				</div>
 			</div>
 		</div>
-		<div id="signupbox" style="display: none; margin-top: 50px"
-			class="mainbox col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
-			<div class="panel panel-info">
-				<div class="panel-heading">
-					<div class="panel-title">Sign Up</div>
-				</div>
-				<div class="panel-body">
-					<form:form id="signupform" class="form-horizontal" role="form"  modelAttribute="userForm"
-						action="./adduser?${_csrf.parameterName}=${_csrf.token}" enctype="multipart/form-data" method="POST">
-						<div id="signupalert" style="display: none"
-							class="alert alert-danger">
-							<p>Error:</p>
-							<span></span>
-						</div>
-
-						<form:hidden path="id" />
-
-						<spring:bind path="name">
-							<div class="form-group">
-								<label for="name" class="col-md-3 control-label">Name</label>
-								<div class="col-md-9">
-									<form:input path="name" type="text" class="form-control"
-										name="name" placeholder="Name" />
-								</div>
-							</div>
-						</spring:bind>
-
-						<spring:bind path="email">
-							<div class="form-group">
-								<label for="email" class="col-md-3 control-label">Email</label>
-								<div class="col-md-9">
-									<form:input path="email" type="text" class="form-control"
-										name="email" placeholder="Email Address" />
-								</div>
-							</div>
-						</spring:bind>
-
-						<spring:bind path="username">
-							<div class="form-group">
-								<label for="username" class="col-md-3 control-label">Username</label>
-								<div class="col-md-9">
-									<form:input path="username" type="text" class="form-control"
-										name="username" placeholder="Username" />
-								</div>
-							</div>
-						</spring:bind>
-
-						<spring:bind path="password">
-							<div class="form-group">
-								<label for="password" class="col-md-3 control-label">Password</label>
-								<div class="col-md-9">
-									<form:input path="password" type="password"
-										class="form-control" name="passwd" placeholder="Password" />
-								</div>
-							</div>
-						</spring:bind>
-
-						<spring:bind path="dob">
-							<div class="form-group">
-								<label for="date" class="col-md-3 control-label">Date of
-									Birth</label>
-								<div class="col-md-9">
-									<form:input path="dob" type="date" name="bday"
-										class="form-control" />
-								</div>
-							</div>
-						</spring:bind>
-						<%-- <spring:bind path="image"> --%>
-							<div class="form-group">
-								<label for="pic" class="col-md-3 control-label">Profile
-									Picture</label>
-								<div class="col-md-9">
-									<input type="file" name="image" class="form-control" />
-								</div>
-							</div>
-						<%-- </spring:bind> --%>
-
-						<spring:bind path="genreName">
-							<div class="form-group">
-								<label for="genre" class="col-md-3 control-label">Favorite
-									Genres</label>
-								<div class="col-md-9">
-									<!-- <input type="file" name="pic" class="form-control"> -->
-									<form:select multiple="true" path="genreId" name="genreNames"
-										class="form-control">
-										<c:forEach items="${genres}" var="genre" varStatus="ctr">
-											<option id="${genre.id}" value="${genre.id}">${genre.name}</option>
-										</c:forEach>
-									</form:select>
-								</div>
-							</div>
-						</spring:bind>
-
-						<div class="form-group">
-							<!-- Button -->
-							<div class="col-md-offset-3 col-md-9">
-								<input class="btn btn-info" id="tn-signup" name="submit"
-									type="submit" value="Sign Up" />
-							</div>
-						</div>
-
-						<div class="form-group">
-							<div class="col-md-12 control">
-								<div
-									style="border-top: 1px solid #888; padding-top: 15px; font-size: 85%">
-									Already have an account? <a id="signinlink" href="#"
-										onClick="$('#signupbox').hide(); $('#loginbox').show()">
-										Sign In </a>
-								</div>
-							</div>
-						</div>
-					</form:form>
-				</div>
-			</div>
-		</div>
+		
 	</div>
 </body>
 </html>
