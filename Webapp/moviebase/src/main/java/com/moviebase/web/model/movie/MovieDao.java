@@ -14,5 +14,8 @@ public interface MovieDao {
 	public List<Movie> findByYear(int year);
 
 	public List<Movie> findByDirector(String director);
+	
+	public List<Movie> findByGenre(int genre);
+	
 
 }

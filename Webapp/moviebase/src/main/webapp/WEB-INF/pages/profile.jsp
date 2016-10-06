@@ -34,6 +34,10 @@
                 </div>             
                 <div class="col-xs-12 col-sm-4 text-center">
                     <figure>
+                    	<%-- <c:set var="imgsrc"  value="resources/images/default.jpg"/>
+						<c:if test="${not empty user.src}">
+   							<c:set var="imgsrc"  value="${user.src}"/>   
+						</c:if> --%>
                         <img src="${user.src}" alt="" class=" img-circle img-profile" width="150" height="150">
                         
                         <!-- <figcaption class="ratings">

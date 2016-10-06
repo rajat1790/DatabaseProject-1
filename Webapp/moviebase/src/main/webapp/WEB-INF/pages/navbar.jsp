@@ -8,6 +8,11 @@ $(document).ready(function(e){
 		e.preventDefault();
 		var param = $(this).attr("href").replace("#","");
 		var concept = $(this).text();
+		if (param === 'genre') {
+			$('#searchTerm').hide(); $('#genreNames').show();
+		} else {
+			$('#searchTerm').show(); $('#genreNames').hide();
+		}
 		$('.search-panel span#search_concept').text(concept);
 		$('.input-group #search_param').val(param);
 	});
@@ -69,7 +74,12 @@ $(document).ready(function(e){
                     </ul>
                 </div>
                 <input type="hidden" name="search_param" value="moviename" id="search_param">         
-                <input type="text" class="form-control" name="search_term" placeholder="Search by ...">
+                <input id="searchTerm" type="text" class="form-control" name="search_term" placeholder="Search by ...">
+                <select id="genreNames" style="display: none;" name="search_term" class="form-control">
+						<c:forEach items="${genres}" var="genre" varStatus="ctr">
+							<option id="${genre.id}" value="${genre.name}">${genre.name}</option>
+						</c:forEach>
+				</select>
                 <span class="input-group-btn">
                     <button class="btn btn-default " type="submit">Search</button>
                 </span>

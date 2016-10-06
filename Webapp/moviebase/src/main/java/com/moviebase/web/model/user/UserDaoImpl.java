@@ -142,7 +142,12 @@ public class UserDaoImpl implements UserDao {
 				if (pic != null) {
 					user.setPic(pic.getBytes(1, (int) pic.length()));
 				}
-				user.setSrc("data:image/jpg;base64," + Base64.encode(user.getPic()));
+				if (user.getPic() == null) {
+					user.setSrc("resources/images/default.jpg");
+				} else {
+					user.setSrc("data:image/jpg;base64," + Base64.encode(user.getPic()));
+				}
+				
 				user.setGenreName(getFavoriteGenres(user.getId()));
 
 			}

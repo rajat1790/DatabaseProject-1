@@ -1,6 +1,7 @@
 package com.moviebase.web.controller;
 
 import java.io.IOException;
+import java.util.HashMap;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -35,6 +36,8 @@ import com.moviebase.web.validator.UserFormValidator;
 public class MainController {
 	int userId;
 	User loggedInUser = null;
+	List<Genre> genreList = null;
+	HashMap<String, Integer> genreKeyValue = new HashMap<String, Integer>();
 	@Autowired
 	public UserDao userDao;
 	@Autowired
@@ -67,7 +70,7 @@ public class MainController {
 
 		List<Movie> movies = userMovieListDao.getMovieListOfUser(userId);
 		ModelAndView model = new ModelAndView();
-
+		model.addObject("genres", genreList);
 		model.addObject("title", "Moviebase");
 		model.addObject("message", "This is default page!");
 		model.addObject("movies", movies);
@@ -76,7 +79,7 @@ public class MainController {
 		// System.out.println("get User Id:"+ user.getId());
 		System.out.println("User Id:" + userId);
 		// System.out.println(user.toString());
-		return model;
+		return returnModel(model);
 
 	}
 
@@ -88,7 +91,7 @@ public class MainController {
 		model.addObject("message", "This page is for ROLE_ADMIN only!");
 		model.setViewName("admin");
 
-		return model;
+		return returnModel(model);
 
 	}
 
@@ -105,16 +108,13 @@ public class MainController {
 		if (logout != null) {
 			model.addObject("msg", "You've been logged out successfully.");
 		}
-
-		List<Genre> genreList = genreDao.getAllGenres();
-		model.addObject("genres", genreList);
-
+		loggedInUser = null;
 		// User user = new User();
 		// model.addObject("userForm", user);
 
 		model.setViewName("login");
 
-		return model;
+		return returnModel(model);
 
 	}
 
@@ -130,7 +130,7 @@ public class MainController {
 
 		model.setViewName("signup");
 
-		return model;
+		return returnModel(model);
 
 	}
 
@@ -150,7 +150,7 @@ public class MainController {
 				errors = errors + e.get(i).getCode() + "<br/>";
 			}
 			model.setViewName("redirect:/signup");
-			return model;
+			return returnModel(model);
 		} else {
 			System.out.println("Came here");
 			if (!image.isEmpty()) {
@@ -162,7 +162,7 @@ public class MainController {
 			}
 			userDao.insert(user);
 			model.setViewName("redirect:/login");
-			return model;
+			return returnModel(model);
 		}
 
 	}
@@ -170,13 +170,23 @@ public class MainController {
 	@RequestMapping(value = "/search", method = RequestMethod.POST)
 	// public @ResponseBody
 	public ModelAndView searchMovies(@RequestParam("search_param") String searchBy,
-			@RequestParam("search_term") String searchTerm) {
+			@RequestParam(value = "search_term", required = false) String searchTerm) {
 
 		// ModelAndView model = new ModelAndView();
 		// model.setViewName("redirect:/");
 		if (searchTerm.trim().length() == 0)
-			return new ModelAndView("redirect:/");
-
+			return returnModel(new ModelAndView("redirect:/"));
+		System.out.println("Search Term:" + searchTerm);
+		if (searchBy.equals("genre")) {
+			searchTerm = searchTerm.substring(1);
+			System.out.println("Search Term Genre:" + searchTerm);
+		} else {
+			int index = searchTerm.lastIndexOf(',');
+			searchTerm = searchTerm.substring(0, index);
+			System.out.println("Search Term Inside:" + searchTerm);
+		}
+		System.out.println("Search By:" + searchBy);
+		System.out.println("Search Term:" + searchTerm);
 		ModelAndView model = new ModelAndView();
 		List<Movie> movieResults = null;
 		switch (searchBy) {
@@ -186,21 +196,23 @@ public class MainController {
 		case "actorname":
 			break;
 		case "genre":
+			movieResults = movieDao.findByGenre(genreKeyValue.get(searchTerm));
 			break;
 		case "director":
 			movieResults = movieDao.findByDirector(searchTerm);
 			break;
 		}
-		for (Movie movie : movieResults) {
-			System.out.println("movie:" + movie);
-		}
+//		for (Movie movie : movieResults) {
+//			System.out.println("movie:" + movie);
+//		}
 		model.addObject("numResults", movieResults.size());
 		model.addObject("movieResults", movieResults);
 		model.addObject("searchTerm", searchTerm);
 		model.setViewName("search");
-		return model;
+		return returnModel(model);
 
 	}
+
 
 	@RequestMapping(value = "/addtolist", method = RequestMethod.GET)
 	// public @ResponseBody
@@ -221,7 +233,7 @@ public class MainController {
 
 		model.addObject("addMovieForm", userMovie);
 		model.addObject("isUpdate", update);
-		return model;
+		return returnModel(model);
 
 	}
 
@@ -239,7 +251,7 @@ public class MainController {
 		model.addObject("addMovieForm", userMovie);
 		model.addObject("isUpdate", update);
 		model.addObject("viewQuery", true);
-		return model;
+		return returnModel(model);
 
 	}
 
@@ -256,7 +268,7 @@ public class MainController {
 		} else {
 			userMovieListDao.insertMovie(userMovie);
 		}
-		return new ModelAndView("redirect:/welcome");
+		return returnModel(new ModelAndView("redirect:/welcome"));
 
 	}
 
@@ -264,7 +276,7 @@ public class MainController {
 	public ModelAndView deleteMovie(@RequestParam("id") int movieId) {
 
 		userMovieListDao.deleteMovie(userId, movieId);
-		return new ModelAndView("redirect:/welcome");
+		return returnModel(new ModelAndView("redirect:/welcome"));
 
 	}
 
@@ -275,7 +287,8 @@ public class MainController {
 		ModelAndView model = new ModelAndView();
 		model.setViewName("profile");
 		model.addObject("user", loggedInUser);
-		return model;
+		System.out.println("SRC:"+ loggedInUser.getSrc());
+		return returnModel(model);
 
 	}
 
@@ -286,7 +299,7 @@ public class MainController {
 		ModelAndView model = new ModelAndView();
 		model.setViewName("calendar");
 		// model.addObject("user", loggedInUser);
-		return model;
+		return returnModel(model);
 
 	}
 
@@ -305,7 +318,7 @@ public class MainController {
 		String username = auth.getName(); // get logged in username
 		User user = userDao.findByUsername(username);
 		System.out.println(user.toString());
-		return model;
+		return returnModel(model);
 
 	}
 
@@ -327,8 +340,19 @@ public class MainController {
 		}
 
 		model.setViewName("403");
-		return model;
+		return returnModel(model);
 
+	}
+	
+	public ModelAndView returnModel(ModelAndView model) {
+		if (genreList == null) {
+			genreList = genreDao.getAllGenres();
+			for(Genre genre: genreList) {
+				genreKeyValue.put(genre.getName(), genre.getId());
+			}
+		}
+		model.addObject("genres", genreList);
+		return model;
 	}
 
 }

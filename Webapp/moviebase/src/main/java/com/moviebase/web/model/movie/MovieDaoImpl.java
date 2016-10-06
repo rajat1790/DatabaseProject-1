@@ -250,14 +250,61 @@ public class MovieDaoImpl implements MovieDao {
 
 	@Override
 	public List<Movie> findByDirector(String director) {
-		String sql = "SELECT * FROM movies WHERE director = ?";
+		String sql = "SELECT * FROM movies WHERE director LIKE ?";
 
 		Connection conn = null;
 
 		try {
 			conn = dataSource.getConnection();
 			PreparedStatement ps = conn.prepareStatement(sql);
-			ps.setString(1, director);
+			ps.setString(1, "%" + director + "%");
+			// Movie movie = null;
+			List<Movie> movies = new ArrayList<Movie>();
+			ResultSet rs = ps.executeQuery();
+			while (rs.next()) {
+				Movie movie = new Movie();
+				movie.setId(rs.getInt("id"));
+				movie.setName(rs.getString("name"));
+				movie.setYear(rs.getInt("year"));
+				movie.setDuration(rs.getString("duration"));
+				movie.setCertificate(rs.getString("certificate"));
+				movie.setSummary(rs.getString("summary"));
+				movie.setDirector(rs.getString("director"));
+				movie.setRating(rs.getDouble("imdb_rating"));
+				Blob poster = rs.getBlob("poster");
+				if (poster != null) {
+					movie.setPoster(rs.getBlob("poster").getBytes(1, (int) poster.length()));
+				}
+				movie.setSrc("data:image/jpg;base64," + Base64.encode(movie.getPoster()));
+				movies.add(movie);
+			}
+
+			rs.close();
+			ps.close();
+			return movies;
+		} catch (SQLException e) {
+			throw new RuntimeException(e);
+		} finally {
+			if (conn != null) {
+				try {
+					conn.close();
+				} catch (SQLException e) {
+				}
+			}
+		}
+	}
+	
+	@Override
+	public List<Movie> findByGenre(int genre) {
+		String sql =   "SELECT * FROM movies AS m INNER JOIN movie_genres g "
+				+ "ON g.genre_id = ? AND g.movie_id = m.id";
+
+		Connection conn = null;
+
+		try {
+			conn = dataSource.getConnection();
+			PreparedStatement ps = conn.prepareStatement(sql);
+			ps.setInt(1, genre);
 			// Movie movie = null;
 			List<Movie> movies = new ArrayList<Movie>();
 			ResultSet rs = ps.executeQuery();
