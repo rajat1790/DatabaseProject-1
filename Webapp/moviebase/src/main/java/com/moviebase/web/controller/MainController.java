@@ -49,6 +49,8 @@ public class MainController {
 	@Autowired
 	UserFormValidator userFormValidator;
 
+	int pageNo;
+
 	String errors = "";
 
 	@InitBinder("userForm")
@@ -67,7 +69,7 @@ public class MainController {
 			userId = user.getId();
 			loggedInUser = user;
 		}
-		int pageNo = 0;
+		Integer pageNo = page;
 		if (page == null)
 			pageNo = 1;
 

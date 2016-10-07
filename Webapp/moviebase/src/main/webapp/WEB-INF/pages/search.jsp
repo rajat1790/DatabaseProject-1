@@ -51,7 +51,7 @@ hgroup h2.lead {
 	margin-top: 20px;
 }
 
-.search-result .col-md-1 {
+.search-result .col-md-2 {
 	border-right: 1px dotted #ccc;
 	min-height: 140px;
 }
@@ -70,7 +70,7 @@ hgroup h2.lead {
 	padding-right: 5px;
 }
 
-.search-result .col-md-9 {
+.search-result .col-md-8 {
 	position: relative;
 }
 
@@ -195,7 +195,7 @@ hgroup h2.lead {
 						<img src="${movie.src}" style="width: 152px; height: 182px;"
 							align="middle" class="thumbnail" /><br />
 					</div>
-					<div class="col-xs-12 col-sm-12 col-md-1">
+					<div class="col-xs-12 col-sm-12 col-md-2">
 						<ul class="meta-search">
 							<li><i class="glyphicon glyphicon-calendar"></i> <span>${movie.year}</span></li>
 							<li><i class="glyphicon glyphicon-time"></i> <span>${movie.duration}</span></li>
@@ -203,7 +203,7 @@ hgroup h2.lead {
 							<li><i class="glyphicon glyphicon-certificate"></i> <span>${movie.certificate}</span></li>
 						</ul>
 					</div>
-					<div class="col-xs-12 col-sm-12 col-md-9 excerpet">
+					<div class="col-xs-12 col-sm-12 col-md-8 excerpet">
 						<h3>${movie.name}</h3>
 						<p>${movie.summary}</p>
 						<ul class="meta-search">

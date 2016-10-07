@@ -320,6 +320,7 @@ public class MovieDaoImpl implements MovieDao {
 					movie.setPoster(rs.getBlob("poster").getBytes(1, (int) poster.length()));
 				}
 				movie.setSrc("data:image/jpg;base64," + Base64.encode(movie.getPoster()));
+				movie.setActors(getMovieActors(movie.getId()));
 				movies.add(movie);
 			}
 
@@ -427,6 +428,7 @@ public class MovieDaoImpl implements MovieDao {
 						movie.setPoster(rs.getBlob("poster").getBytes(1, (int) poster.length()));
 					}
 					movie.setSrc("data:image/jpg;base64," + Base64.encode(movie.getPoster()));
+					movie.setActors(getMovieActors(movie.getId()));
 					movies.add(movie);
 				}
 			}
