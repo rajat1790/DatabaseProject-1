@@ -20,8 +20,6 @@
 							<div class="product service-image-right">
 								<img src="${movie.src}" style="width: 182px; height: 268px;"
 									align="middle" /><br />
-								<!-- <img id="item-display" src="http://www.corsair.com/Media/catalog/product/g/s/gs600_psu_sideview_blue_2.png" alt=""></img>
-					 -->
 							</div>
 						</div>
 
@@ -44,16 +42,6 @@
 										</c:forEach>
 									</p>
 							</ul>
-							<!-- <div class="btn-group cart">
-						<button type="button" class="btn btn-success">
-							Add to cart 
-						</button>
-					</div>
-					<div class="btn-group wishlist">
-						<button type="button" class="btn btn-danger">
-							Add to wishlist 
-						</button>
-					</div> -->
 						</div>
 					</div>
 
@@ -63,9 +51,6 @@
 			<c:when test="${viewDetails == false}">
 			<div class="container-fluid">
 				<div class="col-md-12 product-info">
-					<!-- <ul id="myTab" class="nav nav-tabs nav_tabs">
-						<li class="active"><a href="#service-one" data-toggle="tab">Your View</a></li>	
-					</ul> -->
 					<div id="myTabContent" class="tab-content">
 						<div class="tab-pane fade in active" id="service-one">
 							<section class="container product-info">
@@ -73,9 +58,6 @@
 									role="form" modelAttribute="addMovieForm"
 									action="./addtolist?${_csrf.parameterName}=${_csrf.token}"
 									method="POST">
-									<%-- <form id="addToListForm" class="form-horizontal" role="form"  
-								action="./addToList?${_csrf.parameterName}=${_csrf.token}" enctype="multipart/form-data" method="POST">
-								 --%>
 									<form:hidden path="movieID" val="${movie.id}" />
 
 									<spring:bind path="comment">
@@ -83,11 +65,8 @@
 											<label for="comment" class="col-md-3 control-label">Your
 												View:</label>
 											<div class="col-md-9">
-												<%-- <form:input path="name" type="text" class="form-control"
-										name="name" placeholder="Name" /> --%>
 												<form:textarea path="comment" class="form-control"
 													name="comment" placeholder="Your View..." />
-												<!-- </textarea> -->
 											</div>
 										</div>
 									</spring:bind>
@@ -99,7 +78,6 @@
 											<div class="col-md-9">
 												<form:input path="watchDate" type="date" name="watchDate"
 													class="form-control" />
-												<!-- <input  type="date" name="watch" class="form-control" > -->
 											</div>
 										</div>
 									</spring:bind>
@@ -110,8 +88,6 @@
 											<label for="wishOrWatch" class="col-md-3 control-label">Add
 												To:</label>
 											<div class="col-md-9">
-												<%-- <form:select multiple="true" path="genreId" name="genreNames"
-										class="form-control"> --%>
 												<form:select path="wishOrWatch" name="wishOrWatch" value="wishOrWatch"
 													class="form-control">
 													<option id="0" value=0 >Wishlist</option>
@@ -125,7 +101,6 @@
 													</c:choose>
 													
 												</form:select>
-												<%-- </form:select> --%>
 											</div>
 										</div>
 									</spring:bind>
@@ -135,8 +110,6 @@
 											<label for="rating" class="col-md-3 control-label">Your
 												Rating:</label>
 											<div class="col-md-9">
-												<%-- <form:input path="name" type="text" class="form-control"
-										name="name" placeholder="Name" /> --%>
 												<form:input path="rating" type="number" min="0" max="5"
 													class="form-control" name="rating" placeholder="Rating.." />
 											</div>
@@ -177,7 +150,6 @@
 
 									</div>
 								</form:form>
-								<%-- </form> --%>
 							</section>
 
 						</div>

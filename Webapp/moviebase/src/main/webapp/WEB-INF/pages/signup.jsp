@@ -107,7 +107,6 @@
 								</div>
 							</div>
 						</spring:bind>
-						<%-- <spring:bind path="image"> --%>
 						<div class="form-group ${status.error ? 'has-error' : ''}">
 							<label for="pic" class="col-md-3 control-label">Profile
 								Picture</label>
@@ -115,14 +114,11 @@
 								<input type="file" name="image" class="form-control" />
 							</div>
 						</div>
-						<%-- </spring:bind> --%>
-
 						<spring:bind path="genreName">
 							<div class="form-group ${status.error ? 'has-error' : ''}">
 								<label for="genre" class="col-md-3 control-label">Favorite
 									Genres</label>
 								<div class="col-md-9">
-									<!-- <input type="file" name="pic" class="form-control"> -->
 									<form:select multiple="true" path="genreId" name="genreNames"
 										class="form-control">
 										<c:forEach items="${genres}" var="genre" varStatus="ctr">

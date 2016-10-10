@@ -13,7 +13,6 @@
     	 <intercept-url pattern="/resources/**" access="permitAll" />
     	 <intercept-url pattern="/adduser" access="permitAll" />
     	  <intercept-url pattern="/**" access="isAuthenticated()" />
-		 <!-- <intercept-url pattern="/admin**" access="hasRole('ROLE_ADMIN')" />-->
 		 
 		<!-- access denied page -->
 		<access-denied-handler error-page="/403" />

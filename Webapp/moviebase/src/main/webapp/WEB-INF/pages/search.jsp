@@ -160,7 +160,6 @@ hgroup h2.lead {
 					</c:otherwise>
 				</c:choose>
 
-				<%--For displaying Previous link except for the 1st page --%>
 				<c:if test="${currentPage != 1}">
 					<td class="pagination"><a
 						href="./search?page=${currentPage - 1}&search_param=${searchBy}&search_term=${searchTerm}">Previous</a></td>
@@ -177,7 +176,6 @@ hgroup h2.lead {
 						</c:otherwise>
 					</c:choose>
 				</c:forEach>
-				<%--For displaying Next link --%>
 				<c:if test="${currentPage lt noOfPages}">
 					<td class="pagination"><a
 						href="./search?page=${currentPage + 1}&search_param=${searchBy}&search_term=${searchTerm}">Next</a></td>
@@ -191,7 +189,6 @@ hgroup h2.lead {
 			<c:forEach items="${movieResults}" var="movie" varStatus="ctr">
 				<article class="search-result row">
 					<div class="col-xs-12 col-sm-12 col-md-2">
-						<!-- <a href="#" title="Lorem ipsum" class="thumbnail"><img src="http://lorempixel.com/250/140/people" alt="Lorem ipsum" /></a> -->
 						<img src="${movie.src}" style="width: 152px; height: 182px;"
 							align="middle" class="thumbnail" /><br />
 					</div>
@@ -226,10 +223,6 @@ hgroup h2.lead {
 			</c:forEach>
 		</section>
 
-
-
-		<%--For displaying Page numbers. 
-        The when condition does not display a link for the current page--%>
 		<table cellpadding="5" cellspacing="5" align="center">
 			<col align="center">
 			<tr align='center'>
@@ -250,7 +243,6 @@ hgroup h2.lead {
 						<c:set var="e" value="${noOfPages}" />
 					</c:otherwise>
 				</c:choose>
-				<%--For displaying Previous link except for the 1st page --%>
 				<c:if test="${currentPage != 1}">
 					<td class="pagination"><a
 						href="./search?page=${currentPage - 1}&search_param=${searchBy}&search_term=${searchTerm}">Previous</a></td>
@@ -269,7 +261,6 @@ hgroup h2.lead {
 
 
 
-				<%--For displaying Next link --%>
 				<c:if test="${currentPage lt noOfPages}">
 					<td class="pagination"><a
 						href="./search?page=${currentPage + 1}&search_param=${searchBy}&search_term=${searchTerm}">Next</a></td>

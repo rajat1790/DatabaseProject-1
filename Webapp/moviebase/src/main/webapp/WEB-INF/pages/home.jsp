@@ -94,10 +94,6 @@
 			</c:forEach>
 		</table>
 		
-		
-		
-		<%--For displaying Page numbers. 
-        The when condition does not display a link for the current page--%>
 		<table cellpadding="5" cellspacing="5" align="center">
 			<col align="center">
 			<tr align='center'>
@@ -118,7 +114,6 @@
 						<c:set var="e" value="${noOfPages}" />
 					</c:otherwise>
 				</c:choose>
-				<%--For displaying Previous link except for the 1st page --%>
 				<c:if test="${currentPage != 1}">
 					<td class="pagination"><a
 						href="./home?page=${currentPage - 1}">Previous</a></td>
@@ -136,8 +131,6 @@
 				</c:forEach>
 
 
-
-				<%--For displaying Next link --%>
 				<c:if test="${currentPage lt noOfPages}">
 					<td class="pagination"><a
 						href="./home?page=${currentPage + 1}">Next</a></td>

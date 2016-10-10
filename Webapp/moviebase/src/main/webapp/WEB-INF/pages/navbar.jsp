@@ -47,20 +47,6 @@ $(document).ready(function(e){
         <li><a href="./welcome">Home</a></li>
         <li><a href="./welcome?param=0">My Wishlist</a></li>
         <li><a href="./welcome?param=1">My Watched List</a></li>
-         <!-- <li ><a href="./calendar">My Calendar</a></li> -->
-        <!-- <li><a href="#">Link</a></li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <span class="caret"></span></a>
-          <ul class="dropdown-menu" role="menu">
-            <li><a href="#">Action</a></li>
-            <li><a href="#">Another action</a></li>
-            <li><a href="#">Something else here</a></li>
-            <li class="divider"></li>
-            <li><a href="#">Separated link</a></li>
-            <li class="divider"></li>
-            <li><a href="#">One more separated link</a></li>
-          </ul>
-        </li> -->
       </ul>
       <form class="navbar-form navbar-left" action="./search?${_csrf.parameterName}=${_csrf.token}&page=1" method="POST">
 				<div class="input-group">
@@ -88,10 +74,6 @@ $(document).ready(function(e){
 				</div>
 			</form>
       <ul class="nav navbar-nav navbar-right">
-        <%-- <li><p class="navbar-text">Hi <a href="#"> ${pageContext.request.userPrincipal.name}</a> | </p></li>
-        <li>
-          <a href="javascript:formSubmit()"><b>Logout</b> </a>
-        </li> --%>
         <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Welcome, ${pageContext.request.userPrincipal.name} <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li><a href="./profile"><i class="glyphicon glyphicon-user"></i> Profile</a></li>
@@ -100,6 +82,6 @@ $(document).ready(function(e){
                         </ul>
                     </li>
       </ul>
-    </div><!-- /.navbar-collapse -->
-  </div><!-- /.container-fluid -->
+    </div>
+  </div>
 </nav>
