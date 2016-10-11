@@ -27,7 +27,7 @@ public class UserMovieListDaoImpl implements UserMovieListDao {
 		// TODO Auto-generated method stub
 		
 		// TODO Auto-generated method stub
-				System.out.println("New Movie:" + userMovie.toString());
+				//System.out.println("New Movie:" + userMovie.toString());
 				String sql = "INSERT INTO user_movie_list (user_id, movie_id, wish_or_watch,"
 						+ " rating, comment, watch_date) VALUES (?, ?, ?, ?, ?, ?)";
 				Connection conn = null;

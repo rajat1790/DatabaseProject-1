@@ -89,14 +89,14 @@ public class MainController {
 		if (noOfPages % recordsPerPage > 0)
 			noOfPages = noOfPages + 1;
 		model.addObject("numResults", noOfRecords);
-		System.out.println("Number of pages :" + noOfPages);
+		//System.out.println("Number of pages :" + noOfPages);
 		model.addObject("noOfPages", noOfPages);
 		model.addObject("currentPage", pageNo);
 
 		model.setViewName("home");
 
 		// System.out.println("get User Id:"+ user.getId());
-		System.out.println("User Id:" + userId);
+		//System.out.println("User Id:" + userId);
 		// System.out.println(user.toString());
 		return returnModel(model);
 
@@ -137,7 +137,7 @@ public class MainController {
 		model.setViewName("hello");
 
 		// System.out.println("get User Id:"+ user.getId());
-		System.out.println("User Id:" + userId);
+		//System.out.println("User Id:" + userId);
 		// System.out.println(user.toString());
 		return returnModel(model);
 
@@ -149,7 +149,7 @@ public class MainController {
 
 		ModelAndView model = new ModelAndView();
 		if (error != null) {
-			System.out.println(" error:" + error);
+			//System.out.println(" error:" + error);
 			model.addObject("error", "Invalid username and password!");
 		}
 
@@ -188,19 +188,19 @@ public class MainController {
 			@RequestParam("image") MultipartFile image) {
 
 		ModelAndView model = new ModelAndView();
-		System.out.println("error count : " + result.getAllErrors().size());
+		//System.out.println("error count : " + result.getAllErrors().size());
 		if (result.getAllErrors().size() > 2) {
 			List<ObjectError> e = result.getAllErrors();
-			System.out.println(e.size());
+			//System.out.println(e.size());
 			errors = "";
 			for (int i = 2; i < e.size(); i++) {
-				System.out.println(e.get(i).getCode());
+				//System.out.println(e.get(i).getCode());
 				errors = errors + e.get(i).getCode() + "<br/>";
 			}
 			model.setViewName("redirect:/signup");
 			return returnModel(model);
 		} else {
-			System.out.println("Came here");
+			//System.out.println("Came here");
 			if (!image.isEmpty()) {
 				try {
 					user.setPic(image.getBytes());
@@ -223,21 +223,21 @@ public class MainController {
 		// ModelAndView model = new ModelAndView();
 		// model.setViewName("redirect:/");
 		int recordsPerPage = 10;
-		System.out.println("Page Number : " + page);
+		//System.out.println("Page Number : " + page);
 		if (searchTerm.trim().length() == 0)
 			return returnModel(new ModelAndView("redirect:/"));
-		System.out.println("Search Term:" + searchTerm);
+		//System.out.println("Search Term:" + searchTerm);
 		if (searchBy.equals("genre")) {
 			if (searchTerm.charAt(0) == ',')
 				searchTerm = searchTerm.substring(1);
-			System.out.println("Search Term Genre:" + searchTerm);
+			//System.out.println("Search Term Genre:" + searchTerm);
 		} else {
 			int index = searchTerm.lastIndexOf(',');
 			if (index != -1)
 				searchTerm = searchTerm.substring(0, index);
 		}
-		System.out.println("Search By:" + searchBy);
-		System.out.println("Search Term:" + searchTerm);
+		//System.out.println("Search By:" + searchBy);
+		//System.out.println("Search Term:" + searchTerm);
 		ModelAndView model = new ModelAndView();
 		List<Movie> movieResults = null;
 		switch (searchBy) {
@@ -263,7 +263,7 @@ public class MainController {
 		if (noOfPages % recordsPerPage > 0)
 			noOfPages = noOfPages + 1;
 		model.addObject("numResults", noOfRecords);
-		System.out.println("Number of pages :" + noOfPages);
+		//System.out.println("Number of pages :" + noOfPages);
 		model.addObject("movieResults", movieResults);
 		model.addObject("searchTerm", searchTerm);
 		model.addObject("searchBy", searchBy);
@@ -351,7 +351,7 @@ public class MainController {
 
 		// System.out.println("User Id:" + userId);
 		userMovie.setUserID(userId);
-		System.out.println("Came movie list insert/update:" + userMovie.toString());
+		//System.out.println("Came movie list insert/update:" + userMovie.toString());
 		if (isUpdate) {
 			userMovieListDao.updateMovie(userMovie);
 		} else {

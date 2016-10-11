@@ -35,7 +35,7 @@ public class UserFormValidator implements Validator {
 		ValidationUtils.rejectIfEmptyOrWhitespace(errors, "password", "Password is required!");
 
 		if (!emailValidator.valid(user.getEmail())) {
-			System.out.println("Invalid email type");
+			//System.out.println("Invalid email type");
 			errors.rejectValue("email", "Invalid Email format!");
 		}
 

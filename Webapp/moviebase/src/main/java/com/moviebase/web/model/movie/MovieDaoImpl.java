@@ -395,47 +395,63 @@ public class MovieDaoImpl implements MovieDao {
 
 	@Override
 	public List<Movie> findByActor(String actorName, int offset, int recordsPerPage) {
-		String sql = "SELECT SQL_CALC_FOUND_ROWS actor_id FROM actors WHERE name LIKE ? limit " + offset + ", "
-				+ recordsPerPage;
+		
+		String sql = "SELECT  actor_id FROM actors WHERE name LIKE ?";
 		Connection conn = null;
 
 		try {
 			conn = dataSource.getConnection();
 			PreparedStatement ps = conn.prepareStatement(sql);
 			ps.setString(1, "%" + actorName + "%");
-			// Movie movie = null;
 			List<Movie> movies = new ArrayList<Movie>();
 			ResultSet rs = ps.executeQuery();
-			if (rs.next()) {
-				int actorId = rs.getInt("actor_id");
-				sql = "SELECT * FROM movies AS m INNER JOIN movie_actors a "
-						+ "ON a.actor_id = ? AND a.movie_id = m.id";
-				ps = conn.prepareStatement(sql);
-				ps.setInt(1, actorId);
-				rs = ps.executeQuery();
-				while (rs.next()) {
-					Movie movie = new Movie();
-					movie.setId(rs.getInt("id"));
-					movie.setName(rs.getString("name"));
-					movie.setYear(rs.getInt("year"));
-					movie.setDuration(rs.getString("duration"));
-					movie.setCertificate(rs.getString("certificate"));
-					movie.setSummary(rs.getString("summary"));
-					movie.setDirector(rs.getString("director"));
-					movie.setRating(rs.getDouble("imdb_rating"));
-					Blob poster = rs.getBlob("poster");
-					if (poster != null) {
-						movie.setPoster(rs.getBlob("poster").getBytes(1, (int) poster.length()));
-					}
-					movie.setSrc("data:image/jpg;base64," + Base64.encode(movie.getPoster()));
-					movie.setActors(getMovieActors(movie.getId()));
-					movies.add(movie);
-				}
+			List<Integer> actorIds =  new ArrayList<Integer>();
+			
+			while (rs.next()) {
+				actorIds.add(rs.getInt("actor_id"));
 			}
-			rs.close();
+			if(actorIds.size() == 0) {
+				this.noOfRecords = 0;
+				return null;
+			}
+			sql = "SELECT SQL_CALC_FOUND_ROWS m.id, m.name, m.year, m.duration, m.certificate, m.summary, m.director, m.imdb_rating, m.poster FROM movies m, movie_actors a "
+			+ "WHERE a.actor_id IN ";
+			StringBuilder builder = new StringBuilder();
+			for (int i = 0; i < actorIds.size(); i++) {
+				builder.append("?,");
+			}
+			
+			ps = conn.prepareStatement(sql + "(" + builder.deleteCharAt(builder.length() - 1).toString() + ")" + "AND a.movie_id = m.id limit " + offset + ", " + recordsPerPage);
+			int index = 1;
+			for (Integer id : actorIds) {
+			//System.out.println("Index:"+ index + "actor:" + id);
+			ps.setObject(index++, (int)id);
+			}
+			rs = ps.executeQuery();
+			while (rs.next()) {
+				Movie movie = new Movie();
+				movie.setId(rs.getInt("m.id"));
+				movie.setName(rs.getString("m.name"));
+				movie.setYear(rs.getInt("m.year"));
+				movie.setDuration(rs.getString("m.duration"));
+				movie.setCertificate(rs.getString("m.certificate"));
+				movie.setSummary(rs.getString("m.summary"));
+				movie.setDirector(rs.getString("m.director"));
+				movie.setRating(rs.getDouble("m.imdb_rating"));
+				Blob poster = rs.getBlob("m.poster");
+				if (poster != null) {
+					movie.setPoster(rs.getBlob("m.poster").getBytes(1, (int) poster.length()));
+				}
+				movie.setSrc("data:image/jpg;base64," + Base64.encode(movie.getPoster()));
+				movie.setActors(getMovieActors(movie.getId()));
+				movies.add(movie);
+			}
 			rs = ps.executeQuery("SELECT FOUND_ROWS()");
 			if (rs.next())
 				this.noOfRecords = rs.getInt(1);
+			rs.close();
+			
+			//System.out.println("Check Records:" + this.noOfRecords);
 			ps.close();
 			return movies;
 		} catch (SQLException e) {

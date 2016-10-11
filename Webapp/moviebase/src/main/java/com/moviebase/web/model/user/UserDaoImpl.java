@@ -27,7 +27,7 @@ public class UserDaoImpl implements UserDao {
 	@Override
 	public void insert(User user) {
 		// TODO Auto-generated method stub
-		System.out.println("New User:" + user.toString());
+		//System.out.println("New User:" + user.toString());
 		String sql = "INSERT INTO user " + "(name, username, email, password,dob, pic) VALUES (?, ?, ?, ?, ?, ?)";
 		Connection conn = null;
 
@@ -219,7 +219,7 @@ public class UserDaoImpl implements UserDao {
 				int id =  rs.getInt("id");
 				rs.close();
 				ps.close();
-				System.out.println("ID:" + id);
+				//System.out.println("ID:" + id);
 				return id;
 			}
 			
